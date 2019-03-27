@@ -1,0 +1,3910 @@
+-4095	C0009676	methadone	confusion
+-4095	C0085631	methadone	agitation
+-4095	C0022107	methadone	irritability
+-4095	C0012833	methadone	dizziness
+-4095	C0003467	methadone	anxiety
+-4095	C0018524	methadone	hallucinations
+-4095	C0233477	methadone	dysphoria
+-4095	C0015170	methadone	euphoria
+-4095	C0220870	methadone	lightheadedness
+-4091	C0012833	metformin	dizziness
+-4091	C0220870	metformin	lightheadedness
+-4086	C0012833	metaproterenol	dizziness
+-4086	C0013144	metaproterenol	somnolence
+-4078	C0013144	mesoridazine	somnolence
+-4078	C0012833	mesoridazine	dizziness
+-4078	C0009676	mesoridazine	confusion
+-4078	C0085631	mesoridazine	agitation
+-4078	C0233571	mesoridazine	excitement
+-4075	C0009676	5-aminosalicylic acid	confusion
+-4075	C0011206	5-aminosalicylic acid	delirium
+-4075	C0085633	5-aminosalicylic acid	emotional lability
+-4075	C0012833	5-aminosalicylic acid	dizziness
+-4075	C0003467	5-aminosalicylic acid	anxiety
+-4075	C0013144	5-aminosalicylic acid	somnolence
+-16362	C0013144	pimozide	somnolence
+-16362	C0012833	pimozide	dizziness
+-4775	C0013144	CLT	somnolence
+-4775	C0220870	CLT	lightheadedness
+-4775	C0233794	CLT	memory impairment
+-2022	C0740399	acyclovir	auditory and visual hallucinations
+-2022	C0085628	acyclovir	stupor
+-2022	C0009676	acyclovir	confusion
+-2022	C0011206	acyclovir	delirium
+-2022	C0085631	acyclovir	agitation
+-2022	C0012833	acyclovir	dizziness
+-2022	C0018524	acyclovir	hallucinations
+-2022	C0013144	acyclovir	somnolence
+-2022	C0220870	acyclovir	lightheadedness
+-2021	C0012833	spectinomycin	dizziness
+-4064	C0013144	meprobamate	somnolence
+-4064	C0012833	meprobamate	dizziness
+-4064	C0233571	meprobamate	excitement
+-4064	C0015170	meprobamate	euphoria
+-4062	C0233571	mepivacaine	excitement
+-4062	C0085631	mepivacaine	agitation
+-4062	C0041654	mepivacaine	unconsciousness
+-4062	C0012833	mepivacaine	dizziness
+-4062	C0003467	mepivacaine	anxiety
+-4062	C0013144	mepivacaine	somnolence
+-4060	C0013144	mephenytoin	somnolence
+-4060	C0012833	mephenytoin	dizziness
+-4060	C0009676	mephenytoin	confusion
+-4060	C0022107	mephenytoin	irritability
+-3066	C0085628	dihydroergotamine	stupor
+-3066	C0009676	dihydroergotamine	confusion
+-3066	C0015170	dihydroergotamine	euphoria
+-3066	C0012833	dihydroergotamine	dizziness
+-3066	C0003467	dihydroergotamine	anxiety
+-3066	C0013144	dihydroergotamine	somnolence
+-4058	C0085631	meperidine	agitation
+-4058	C0015170	meperidine	euphoria
+-4058	C0012833	meperidine	dizziness
+-4058	C0018524	meperidine	hallucinations
+-4058	C0233477	meperidine	dysphoria
+-4058	C1562937	meperidine	transient hallucinations
+-4058	C0220870	meperidine	lightheadedness
+-4057	C0012833	Cantril	dizziness
+-4057	C0013144	Cantril	somnolence
+-4057	C0009676	Cantril	confusion
+-4054	C0085628	memantine	stupor
+-4054	C0009676	memantine	confusion
+-4054	C0031212	memantine	personality disorder
+-4054	C0011206	memantine	delirium
+-4054	C0233632	memantine	thinking abnormal
+-4054	C0011551	memantine	depersonalization
+-4054	C0085631	memantine	agitation
+-4054	C0002622	memantine	amnesia
+-4054	C0085633	memantine	emotional lability
+-4054	C0085632	memantine	apathy
+-4054	C0012833	memantine	dizziness
+-4054	C0003467	memantine	anxiety
+-4054	C0018524	memantine	hallucinations
+-4054	C0013144	memantine	somnolence
+-4054	C0011253	memantine	delusions
+-4052	C0012833	meloxicam	dizziness
+-4052	C0003467	meloxicam	anxiety
+-4052	C0220870	meloxicam	lightheadedness
+-4052	C0009676	meloxicam	confusion
+-4052	C0013144	meloxicam	somnolence
+-3406	C0085631	4-methylpyrazole	agitation
+-3406	C0012833	4-methylpyrazole	dizziness
+-3406	C0003467	4-methylpyrazole	anxiety
+-3406	C0522172	4-methylpyrazole	feeling drunk
+-3406	C0013144	4-methylpyrazole	somnolence
+-3406	C0220870	4-methylpyrazole	lightheadedness
+-4046	C0009676	mefloquine	confusion
+-4046	C0085631	mefloquine	agitation
+-4046	C0012833	mefloquine	dizziness
+-4046	C0003467	mefloquine	anxiety
+-4046	C0018524	mefloquine	hallucinations
+-4046	C0677660	mefloquine	emotional problems
+-4046	C0013144	mefloquine	somnolence
+-4046	C0013985	mefloquine	emotional disturbances
+-5453	C0012833	thiotepa	dizziness
+-5453	C0013144	thiotepa	somnolence
+-5453	C0009676	thiotepa	confusion
+-4044	C0012833	mefenamic acid	dizziness
+-4044	C0003467	mefenamic acid	anxiety
+-4044	C0009676	mefenamic acid	confusion
+-4044	C0013144	mefenamic acid	somnolence
+-4044	C0018524	mefenamic acid	hallucinations
+-5452	C0013144	thioridazine	somnolence
+-5452	C0233571	thioridazine	excitement
+-5452	C0009676	thioridazine	confusion
+-5452	C0085631	thioridazine	agitation
+-11947681	C0233485	nitroprusside	apprehension
+-11947681	C0012833	nitroprusside	dizziness
+-11947681	C0085631	nitroprusside	agitation
+-4036	C0012833	meclofenamate	dizziness
+-1986	C0013144	acetazolamide	somnolence
+-1986	C0233571	acetazolamide	excitement
+-1986	C0009676	acetazolamide	confusion
+-1986	C0012833	acetazolamide	dizziness
+-71616	C0009676	voriconazole	confusion
+-71616	C0011206	voriconazole	delirium
+-71616	C0011551	voriconazole	depersonalization
+-71616	C0085631	voriconazole	agitation
+-71616	C0002622	voriconazole	amnesia
+-71616	C0015170	voriconazole	euphoria
+-71616	C0012833	voriconazole	dizziness
+-71616	C0003467	voriconazole	anxiety
+-71616	C0018524	voriconazole	hallucinations
+-71616	C0013144	voriconazole	somnolence
+-4768	C0013144	phenoxybenzamine	somnolence
+-1978	C0751295	acebutolol	memory loss
+-1978	C0009676	acebutolol	confusion
+-1978	C0085633	acebutolol	emotional lability
+-1978	C0012833	acebutolol	dizziness
+-1978	C0003467	acebutolol	anxiety
+-1978	C0018524	acebutolol	hallucinations
+-1978	C0011570	acebutolol	mental depression
+-1978	C0013144	acebutolol	somnolence
+-1978	C0220870	acebutolol	lightheadedness
+-1972	C0085628	amphotericin B	stupor
+-1972	C0009676	amphotericin B	confusion
+-1972	C0233632	amphotericin B	thinking abnormal
+-1972	C0085631	amphotericin B	agitation
+-1972	C0012833	amphotericin B	dizziness
+-1972	C0003467	amphotericin B	anxiety
+-1972	C0018524	amphotericin B	hallucinations
+-1972	C0013144	amphotericin B	somnolence
+-1971	C0012833	abacavir	dizziness
+-1971	C0003467	abacavir	anxiety
+-3086258	C0003467	porfimer sodium	anxiety
+-3086258	C0009676	porfimer sodium	confusion
+-6476	C0013144	methsuximide	somnolence
+-6476	C0012833	methsuximide	dizziness
+-6476	C0009676	methsuximide	confusion
+-6476	C0233762	methsuximide	auditory hallucinations
+-6476	C0022107	methsuximide	irritability
+-4011	C0009676	maprotiline	confusion
+-4011	C0085631	maprotiline	agitation
+-4011	C0012833	maprotiline	dizziness
+-4011	C0018524	maprotiline	hallucinations
+-4011	C0013144	maprotiline	somnolence
+-4011	C0011253	maprotiline	delusions
+-6058	C0009676	cysteamine	confusion
+-6058	C0233632	cysteamine	thinking abnormal
+-6058	C0085633	cysteamine	emotional lability
+-6058	C0012833	cysteamine	dizziness
+-6058	C0018524	cysteamine	hallucinations
+-6058	C0013144	cysteamine	somnolence
+-3739	C0012833	iodipamide	dizziness
+-3739	C0085631	iodipamide	agitation
+-30623	C0012833	dexrazoxane	dizziness
+-163742	C0012833	fondaparinux sodium	dizziness
+-163742	C0003467	fondaparinux sodium	anxiety
+-163742	C0009676	fondaparinux sodium	confusion
+-657298	C0013144	propylthiouracil	somnolence
+-1935	C0009676	THA	confusion
+-1935	C0011206	THA	delirium
+-1935	C0233632	THA	thinking abnormal
+-1935	C0085631	THA	agitation
+-1935	C0002622	THA	amnesia
+-1935	C0085632	THA	apathy
+-1935	C0012833	THA	dizziness
+-1935	C0003467	THA	anxiety
+-1935	C0018524	THA	hallucinations
+-1935	C0013144	THA	somnolence
+-5462337	C0012833	ads	dizziness
+-5462337	C0013144	ads	somnolence
+-5462337	C0220870	ads	lightheadedness
+-5462337	C0085633	ads	emotional lability
+-5462337	C0022107	ads	irritability
+-3964	C0013144	loxapine	somnolence
+-3964	C0012833	loxapine	dizziness
+-3964	C0220870	loxapine	lightheadedness
+-3964	C0009676	loxapine	confusion
+-3964	C0085631	loxapine	agitation
+-3962	C0012833	lovastatin	dizziness
+-3962	C0003467	lovastatin	anxiety
+-3962	C0751295	lovastatin	memory loss
+-3961	C0009676	losartan	confusion
+-3961	C0085631	losartan	agitation
+-3961	C0012833	losartan	dizziness
+-3961	C0003467	losartan	anxiety
+-3961	C0013144	losartan	somnolence
+-3961	C0233794	losartan	memory impairment
+-166548	C0012833	Ly	dizziness
+-3958	C0085628	lorazepam	stupor
+-3958	C0009676	lorazepam	confusion
+-3958	C0011206	lorazepam	delirium
+-3958	C0233632	lorazepam	thinking abnormal
+-3958	C0085631	lorazepam	agitation
+-3958	C0002622	lorazepam	amnesia
+-3958	C0022107	lorazepam	irritability
+-3958	C0012833	lorazepam	dizziness
+-3958	C0018524	lorazepam	hallucinations
+-3958	C0015170	lorazepam	euphoria
+-3958	C0233795	lorazepam	anterograde amnesia
+-3958	C0233794	lorazepam	memory impairment
+-3958	C0233796	lorazepam	transient amnesia
+-3957	C0012833	loratadine	dizziness
+-3957	C0013144	loratadine	somnolence
+-10100	C0015170	propoxyphene	euphoria
+-10100	C0012833	propoxyphene	dizziness
+-10100	C0233492	propoxyphene	elation
+-10100	C0018524	propoxyphene	hallucinations
+-10100	C0233477	propoxyphene	dysphoria
+-10100	C0013144	propoxyphene	somnolence
+-10100	C0220870	propoxyphene	lightheadedness
+-3954	C0012833	loperamide	dizziness
+-3954	C0013144	loperamide	somnolence
+-3948	C0009676	lomefloxacin	confusion
+-3948	C0564408	lomefloxacin	manic
+-3948	C0233632	lomefloxacin	thinking abnormal
+-3948	C0085631	lomefloxacin	agitation
+-3948	C0011551	lomefloxacin	depersonalization
+-3948	C0012833	lomefloxacin	dizziness
+-3948	C0003467	lomefloxacin	anxiety
+-3948	C0018524	lomefloxacin	hallucinations
+-3948	C0013144	lomefloxacin	somnolence
+-3405	C0233571	folate	excitement
+-3405	C0009676	folate	confusion
+-3405	C0011570	folate	mental depression
+-3405	C0022107	folate	irritability
+-16231	C0012833	amiloride	dizziness
+-16231	C0013144	amiloride	somnolence
+-16231	C0085628	amiloride	stupor
+-16231	C0009676	amiloride	confusion
+-16231	C0085631	amiloride	agitation
+-3937	C0012833	lisinopril	dizziness
+-3937	C0013144	lisinopril	somnolence
+-3937	C0009676	lisinopril	confusion
+-3937	C0233794	lisinopril	memory impairment
+-3937	C0022107	lisinopril	irritability
+-5978	C0012833	vincristine	dizziness
+-5978	C0018524	vincristine	hallucinations
+-5978	C0085631	vincristine	agitation
+-5978	C0011570	vincristine	mental depression
+-3929	C0012833	linezolid	dizziness
+-3929	C0013144	linezolid	somnolence
+-3002190	C0012833	telithromycin	dizziness
+-3002190	C0013144	telithromycin	somnolence
+-3002190	C0233414	telithromycin	disturbance in attention
+-3002190	C0003467	telithromycin	anxiety
+-3042	C0012833	dicyclomine	dizziness
+-3042	C0013144	dicyclomine	somnolence
+-3042	C0009676	dicyclomine	confusion
+-3042	C0220870	dicyclomine	lightheadedness
+-3042	C0233571	dicyclomine	excitement
+-83786	C0013144	allopurinol	somnolence
+-83786	C0012833	allopurinol	dizziness
+-83786	C0009676	allopurinol	confusion
+-83786	C0002622	allopurinol	amnesia
+-34633	C0751295	moricizine	memory loss
+-34633	C0009676	moricizine	confusion
+-34633	C0085631	moricizine	agitation
+-34633	C0015170	moricizine	euphoria
+-34633	C0012833	moricizine	dizziness
+-34633	C0003467	moricizine	anxiety
+-34633	C0018524	moricizine	hallucinations
+-34633	C0013144	moricizine	somnolence
+-3911	C0009676	leuprolide acetate	confusion
+-3911	C0031212	leuprolide acetate	personality disorder
+-3911	C0233632	leuprolide acetate	thinking abnormal
+-3911	C0085631	leuprolide acetate	agitation
+-3911	C0002622	leuprolide acetate	amnesia
+-3911	C0085633	leuprolide acetate	emotional lability
+-3911	C0012833	leuprolide acetate	dizziness
+-3911	C0003467	leuprolide acetate	anxiety
+-3911	C0025261	leuprolide acetate	Memory disorder
+-3911	C0013144	leuprolide acetate	somnolence
+-3911	C0011253	leuprolide acetate	delusions
+-3911	C0220870	leuprolide acetate	lightheadedness
+-130881	C0012833	olmesartan medoxomil	dizziness
+-130881	C0085631	olmesartan medoxomil	agitation
+-3902	C0013144	letrozole	somnolence
+-3902	C0012833	letrozole	dizziness
+-3902	C0022107	letrozole	irritability
+-3902	C0233794	letrozole	memory impairment
+-3902	C0003467	letrozole	anxiety
+-3899	C0012833	leflunomide	dizziness
+-3899	C0003467	leflunomide	anxiety
+-3883	C0009676	lansoprazole	confusion
+-3883	C0011551	lansoprazole	depersonalization
+-3883	C0085631	lansoprazole	agitation
+-3883	C0002622	lansoprazole	amnesia
+-3883	C0085633	lansoprazole	emotional lability
+-3883	C0085632	lansoprazole	apathy
+-3883	C0012833	lansoprazole	dizziness
+-3883	C0003467	lansoprazole	anxiety
+-3883	C0018524	lansoprazole	hallucinations
+-3883	C0013144	lansoprazole	somnolence
+-3878	C0085628	lamotrigine	stupor
+-3878	C0009676	lamotrigine	confusion
+-3878	C0564408	lamotrigine	manic
+-3878	C0031212	lamotrigine	personality disorder
+-3878	C0011206	lamotrigine	delirium
+-3878	C0011551	lamotrigine	depersonalization
+-3878	C0015170	lamotrigine	euphoria
+-3878	C0085631	lamotrigine	agitation
+-3878	C0002622	lamotrigine	amnesia
+-3878	C0085633	lamotrigine	emotional lability
+-3878	C0022107	lamotrigine	irritability
+-3878	C0003467	lamotrigine	anxiety
+-3878	C0018524	lamotrigine	hallucinations
+-3878	C0525045	lamotrigine	mood disorders
+-3878	C0233477	lamotrigine	dysphoria
+-3878	C0011253	lamotrigine	delusions
+-3878	C0085632	lamotrigine	apathy
+-3878	C0152128	lamotrigine	drug withdrawal
+-3877	C0012833	lamivudine	dizziness
+-3877	C0003467	lamivudine	anxiety
+-3877	C0009676	lamivudine	confusion
+-3877	C0525045	lamivudine	mood disorders
+-3869	C0012833	labetalol	dizziness
+-3869	C0013144	labetalol	somnolence
+-3869	C0751295	labetalol	memory loss
+-3869	C0085633	labetalol	emotional lability
+-3869	C0011570	labetalol	mental depression
+-2781	C0009676	clemastine	confusion
+-2781	C0085631	clemastine	agitation
+-2781	C0015170	clemastine	euphoria
+-2781	C0012833	clemastine	dizziness
+-2781	C0013144	clemastine	somnolence
+-2781	C0022107	clemastine	irritability
+-4834	C0012833	piperacillin	dizziness
+-5584	C0009676	trimipramine	confusion
+-5584	C0085631	trimipramine	agitation
+-5584	C0012833	trimipramine	dizziness
+-5584	C0003467	trimipramine	anxiety
+-5584	C0018524	trimipramine	hallucinations
+-5584	C0013144	trimipramine	somnolence
+-5584	C0011253	trimipramine	delusions
+-401	C0013144	cycloserine	somnolence
+-401	C0751295	cycloserine	memory loss
+-401	C0009676	cycloserine	confusion
+-60754	C0012833	gadodiamide	dizziness
+-60754	C0003467	gadodiamide	anxiety
+-60754	C0013144	gadodiamide	somnolence
+-60754	C0031212	gadodiamide	personality disorder
+-40704	C0013144	pinaverium bromide	somnolence
+-4183806	C0013144	misoprostol	somnolence
+-4183806	C0003467	misoprostol	anxiety
+-4183806	C0012833	misoprostol	dizziness
+-4183806	C0009676	misoprostol	confusion
+-3827	C0012833	ketotifen	dizziness
+-3827	C0022107	ketotifen	irritability
+-3826	C0085628	ketorolac	stupor
+-3826	C0009676	ketorolac	confusion
+-3826	C0233632	ketorolac	thinking abnormal
+-3826	C0015170	ketorolac	euphoria
+-3826	C0012833	ketorolac	dizziness
+-3826	C0003467	ketorolac	anxiety
+-3826	C0018524	ketorolac	hallucinations
+-3826	C0013144	ketorolac	somnolence
+-3825	C0009676	ketoprofen	confusion
+-3825	C0031212	ketoprofen	personality disorder
+-3825	C0002622	ketoprofen	amnesia
+-3825	C0012833	ketoprofen	dizziness
+-3825	C0018524	ketoprofen	hallucinations
+-3825	C0233477	ketoprofen	dysphoria
+-3825	C0013144	ketoprofen	somnolence
+-1775	C0085628	phenytoin	stupor
+-1775	C0009676	phenytoin	confusion
+-1775	C0011206	phenytoin	delirium
+-1775	C0233632	phenytoin	thinking abnormal
+-1775	C0011551	phenytoin	depersonalization
+-1775	C0085631	phenytoin	agitation
+-1775	C0002622	phenytoin	amnesia
+-1775	C0085633	phenytoin	emotional lability
+-1775	C0012833	phenytoin	dizziness
+-1775	C0013144	phenytoin	somnolence
+-3821	C0233477	ketamine	dysphoria
+-3821	C0003467	ketamine	anxiety
+-3821	C0018524	ketamine	hallucinations
+-3821	C0236720	ketamine	flashbacks
+-62867	C0013144	pipotiazine	somnolence
+-62867	C0003467	pipotiazine	anxiety
+-62867	C0012833	pipotiazine	dizziness
+-62867	C0085631	pipotiazine	agitation
+-62867	C0233571	pipotiazine	excitement
+-18140	C0003467	estramustine	anxiety
+-18140	C0009676	estramustine	confusion
+-18140	C0085633	estramustine	emotional lability
+-3793	C0012833	itraconazole	dizziness
+-3793	C0013144	itraconazole	somnolence
+-3793	C0003467	itraconazole	anxiety
+-3784	C0012833	isradipine	dizziness
+-3784	C0013144	isradipine	somnolence
+-3783	C0012833	isoxsuprine	dizziness
+-3780	C0220870	isosorbide dinitrate	lightheadedness
+-3779	C0012833	isoproterenol	dizziness
+-3767	C0233794	isoniazid	memory impairment
+-3763	C0233571	isoflurane	excitement
+-3763	C0018524	isoflurane	hallucinations
+-3763	C0011206	isoflurane	delirium
+-2675	C0012833	cefixime	dizziness
+-9904	C0013170	19-nortestosterone	Habituation
+-9904	C0022107	19-nortestosterone	irritability
+-3759	C0012833	isocarboxazid	dizziness
+-3759	C0013144	isocarboxazid	somnolence
+-3759	C0015170	isocarboxazid	euphoria
+-3759	C0018524	isocarboxazid	hallucinations
+-3750	C0012833	irinotecan	dizziness
+-3750	C0013144	irinotecan	somnolence
+-3750	C0009676	irinotecan	confusion
+-3749	C0012833	irbesartan	dizziness
+-3749	C0003467	irbesartan	anxiety
+-3749	C0013144	irbesartan	somnolence
+-3749	C0013985	irbesartan	emotional disturbances
+-93860	C0012833	bortezomib	dizziness
+-93860	C0003467	bortezomib	anxiety
+-93860	C0220870	bortezomib	lightheadedness
+-93860	C0009676	bortezomib	confusion
+-93860	C0085631	bortezomib	agitation
+-3746	C0012833	ipratropium bromide	dizziness
+-3746	C0013144	ipratropium bromide	somnolence
+-71329	C0012833	dofetilide	dizziness
+-71329	C0003467	dofetilide	anxiety
+-3742	C0220870	Hexabrix 320	lightheadedness
+-3741	C0009676	ioversol	confusion
+-3741	C0085631	ioversol	agitation
+-3741	C0003467	ioversol	anxiety
+-3741	C0233763	ioversol	visual hallucinations
+-3741	C0013144	ioversol	somnolence
+-3741	C0220870	ioversol	lightheadedness
+-3081884	C0085628	glatiramer acetate	stupor
+-3081884	C0009676	glatiramer acetate	confusion
+-3081884	C0564408	glatiramer acetate	manic
+-3081884	C0233632	glatiramer acetate	thinking abnormal
+-3081884	C0011551	glatiramer acetate	depersonalization
+-3081884	C0085631	glatiramer acetate	agitation
+-3081884	C0002622	glatiramer acetate	amnesia
+-3081884	C0085633	glatiramer acetate	emotional lability
+-3081884	C0015170	glatiramer acetate	euphoria
+-3081884	C0012833	glatiramer acetate	dizziness
+-3081884	C0003467	glatiramer acetate	anxiety
+-3081884	C0018524	glatiramer acetate	hallucinations
+-3081884	C0013144	glatiramer acetate	somnolence
+-3081884	C0233794	glatiramer acetate	memory impairment
+-3354	C0013144	flavoxate	somnolence
+-3354	C0009676	flavoxate	confusion
+-1690	C0009676	doxorubicin	confusion
+-1690	C0011206	doxorubicin	delirium
+-1690	C0233632	doxorubicin	thinking abnormal
+-1690	C0085631	doxorubicin	agitation
+-1690	C0085633	doxorubicin	emotional lability
+-1690	C0012833	doxorubicin	dizziness
+-1690	C0003467	doxorubicin	anxiety
+-1690	C0013144	doxorubicin	somnolence
+-3737	C0220870	sodium iothalamate	lightheadedness
+-3736	C0009676	iopromide	confusion
+-3736	C0085631	iopromide	agitation
+-3736	C0002622	iopromide	amnesia
+-3736	C0085633	iopromide	emotional lability
+-3736	C0041654	iopromide	unconsciousness
+-3736	C0012833	iopromide	dizziness
+-3736	C0003467	iopromide	anxiety
+-3736	C0013144	iopromide	somnolence
+-3734	C0012833	iopamidol	dizziness
+-3734	C0009676	iopamidol	confusion
+-3734	C0233796	iopamidol	transient amnesia
+-3730	C0013144	iohexol	somnolence
+-3730	C0220870	iohexol	lightheadedness
+-5775	C0012833	phentolamine	dizziness
+-3724	C0085628	iodixanol	stupor
+-3724	C0009676	iodixanol	confusion
+-3724	C0085631	iodixanol	agitation
+-3724	C0002622	iodixanol	amnesia
+-3724	C0012833	iodixanol	dizziness
+-3724	C0003467	iodixanol	anxiety
+-3724	C0013144	iodixanol	somnolence
+-4034	C0013144	monamine	somnolence
+-125889	C0085628	pregabalin	stupor
+-125889	C0009676	pregabalin	confusion
+-125889	C0564408	pregabalin	manic
+-125889	C0031212	pregabalin	personality disorder
+-125889	C0233414	pregabalin	disturbance in attention
+-125889	C0018524	pregabalin	hallucinations
+-125889	C0233632	pregabalin	thinking abnormal
+-125889	C0011551	pregabalin	depersonalization
+-125889	C0011206	pregabalin	delirium
+-125889	C0235146	pregabalin	feeling high
+-125889	C0002622	pregabalin	amnesia
+-125889	C0015170	pregabalin	euphoria
+-125889	C0012833	pregabalin	dizziness
+-125889	C0003467	pregabalin	anxiety
+-125889	C0085631	pregabalin	agitation
+-125889	C0522172	pregabalin	feeling drunk
+-125889	C0013144	pregabalin	somnolence
+-125889	C0011253	pregabalin	delusions
+-125889	C0085632	pregabalin	apathy
+-125889	C0233794	pregabalin	memory impairment
+-125889	C1443060	pregabalin	feeling abnormal
+-3715	C0009676	indomethacin	confusion
+-3715	C0595963	indomethacin	muzziness
+-3715	C0011551	indomethacin	depersonalization
+-3715	C0085632	indomethacin	apathy
+-3715	C0012833	indomethacin	dizziness
+-3715	C0003467	indomethacin	anxiety
+-3715	C0013144	indomethacin	somnolence
+-3715	C0220870	indomethacin	lightheadedness
+-444033	C0012833	ciclesonide	dizziness
+-56959	C0012833	ranolazine	dizziness
+-151165	C0012833	aprepitant	dizziness
+-151165	C0003467	aprepitant	anxiety
+-151165	C0009676	aprepitant	confusion
+-151165	C0013144	aprepitant	somnolence
+-151165	C0018524	aprepitant	hallucinations
+-942	C0009676	nicotine	confusion
+-942	C0085631	nicotine	agitation
+-942	C0002622	nicotine	amnesia
+-942	C0085633	nicotine	emotional lability
+-942	C0022107	nicotine	irritability
+-942	C0012833	nicotine	dizziness
+-942	C0003467	nicotine	anxiety
+-942	C0013144	nicotine	somnolence
+-942	C0085632	nicotine	apathy
+-3706	C0012833	indinavir	dizziness
+-3706	C0013144	indinavir	somnolence
+-42615	C0233632	buserelin	thinking abnormal
+-42615	C0002622	buserelin	amnesia
+-42615	C0085633	buserelin	emotional lability
+-42615	C0012833	buserelin	dizziness
+-42615	C0003467	buserelin	anxiety
+-42615	C0013144	buserelin	somnolence
+-3702	C0085631	indapamide	agitation
+-3702	C0002622	indapamide	amnesia
+-3702	C0022107	indapamide	irritability
+-3702	C0012833	indapamide	dizziness
+-3702	C0003467	indapamide	anxiety
+-3702	C0013144	indapamide	somnolence
+-3702	C0220870	indapamide	lightheadedness
+-5746	C0013144	mitomycin C	somnolence
+-5746	C0009676	mitomycin C	confusion
+-3696	C0009676	imipramine	confusion
+-3696	C0085631	imipramine	agitation
+-3696	C0085633	imipramine	emotional lability
+-3696	C0012833	imipramine	dizziness
+-3696	C0003467	imipramine	anxiety
+-3696	C0018524	imipramine	hallucinations
+-3696	C0013144	imipramine	somnolence
+-3696	C0011253	imipramine	delusions
+-444013	C0009676	gadoversetamide	confusion
+-444013	C0085631	gadoversetamide	agitation
+-444013	C0011551	gadoversetamide	depersonalization
+-444013	C0002622	gadoversetamide	amnesia
+-444013	C0012833	gadoversetamide	dizziness
+-444013	C0003467	gadoversetamide	anxiety
+-444013	C0018524	gadoversetamide	hallucinations
+-444013	C0013144	gadoversetamide	somnolence
+-3690	C0085628	ifosfamide	stupor
+-3690	C0009676	ifosfamide	confusion
+-3690	C0085631	ifosfamide	agitation
+-3690	C0012833	ifosfamide	dizziness
+-3690	C0018524	ifosfamide	hallucinations
+-3690	C0233762	ifosfamide	auditory hallucinations
+-3690	C0013144	ifosfamide	somnolence
+-71273	C0085628	ropivacaine	stupor
+-71273	C0009676	ropivacaine	confusion
+-71273	C0233571	ropivacaine	excitement
+-71273	C0085631	ropivacaine	agitation
+-71273	C0002622	ropivacaine	amnesia
+-71273	C0085633	ropivacaine	emotional lability
+-71273	C0041654	ropivacaine	unconsciousness
+-71273	C0012833	ropivacaine	dizziness
+-71273	C0003467	ropivacaine	anxiety
+-71273	C0018524	ropivacaine	hallucinations
+-71273	C0013144	ropivacaine	somnolence
+-5735	C0001969	zopiclone	drunkenness
+-5735	C0085628	zopiclone	stupor
+-5735	C0009676	zopiclone	confusion
+-5735	C0011206	zopiclone	delirium
+-5735	C0233632	zopiclone	thinking abnormal
+-5735	C0220870	zopiclone	lightheadedness
+-5735	C0085631	zopiclone	agitation
+-5735	C0085633	zopiclone	emotional lability
+-5735	C0085632	zopiclone	apathy
+-5735	C0012833	zopiclone	dizziness
+-5735	C0003467	zopiclone	anxiety
+-5735	C0018524	zopiclone	hallucinations
+-5735	C0022107	zopiclone	irritability
+-5735	C0013144	zopiclone	somnolence
+-5735	C0015170	zopiclone	euphoria
+-5735	C0233795	zopiclone	anterograde amnesia
+-5735	C0233794	zopiclone	memory impairment
+-5734	C0009676	zonisamide	confusion
+-5734	C0338656	zonisamide	cognitive dysfunction
+-5734	C0085631	zonisamide	agitation
+-5734	C0022107	zonisamide	irritability
+-5734	C0012833	zonisamide	dizziness
+-5734	C0003467	zonisamide	anxiety
+-5734	C0013144	zonisamide	somnolence
+-5734	C0015170	zonisamide	euphoria
+-5732	C0344315	zolpidem	depressed mood
+-5732	C0020903	zolpidem	illusion
+-5732	C0085631	zolpidem	agitation
+-5732	C0002622	zolpidem	amnesia
+-5732	C0085633	zolpidem	emotional lability
+-5732	C0085632	zolpidem	apathy
+-5732	C0011253	zolpidem	delusions
+-5732	C0220870	zolpidem	lightheadedness
+-5732	C0009676	zolpidem	confusion
+-5732	C0564408	zolpidem	manic
+-5732	C0233414	zolpidem	disturbance in attention
+-5732	C0235146	zolpidem	feeling high
+-5732	C0012833	zolpidem	dizziness
+-5732	C0235129	zolpidem	feeling strange
+-5732	C0085628	zolpidem	stupor
+-5732	C0031212	zolpidem	personality disorder
+-5732	C0011551	zolpidem	depersonalization
+-5732	C0003467	zolpidem	anxiety
+-5732	C0233795	zolpidem	anterograde amnesia
+-5732	C0233794	zolpidem	memory impairment
+-5732	C0233632	zolpidem	thinking abnormal
+-5732	C0015170	zolpidem	euphoria
+-5732	C0018524	zolpidem	hallucinations
+-5732	C0025261	zolpidem	Memory disorder
+-5732	C0013144	zolpidem	somnolence
+-5731	C0022107	zolmitriptan	irritability
+-5731	C0009676	zolmitriptan	confusion
+-5731	C0564408	zolmitriptan	manic
+-5731	C0233632	zolmitriptan	thinking abnormal
+-5731	C0011551	zolmitriptan	depersonalization
+-5731	C0085631	zolmitriptan	agitation
+-5731	C0002622	zolmitriptan	amnesia
+-5731	C0085633	zolmitriptan	emotional lability
+-5731	C0085632	zolmitriptan	apathy
+-5731	C0012833	zolmitriptan	dizziness
+-5731	C0003467	zolmitriptan	anxiety
+-5731	C0018524	zolmitriptan	hallucinations
+-5731	C0013144	zolmitriptan	somnolence
+-5731	C0015170	zolmitriptan	euphoria
+-2646	C0012833	cefprozil	dizziness
+-2646	C0013144	cefprozil	somnolence
+-2646	C0009676	cefprozil	confusion
+-5726	C0012833	zidovudine	dizziness
+-5726	C0003467	zidovudine	anxiety
+-5726	C0009676	zidovudine	confusion
+-5726	C0013144	zidovudine	somnolence
+-5726	C0022107	zidovudine	irritability
+-3676	C0009676	lidocaine	confusion
+-3676	C0003467	lidocaine	anxiety
+-3676	C0233571	lidocaine	excitement
+-3676	C0085631	lidocaine	agitation
+-3676	C0015170	lidocaine	euphoria
+-3676	C0012833	lidocaine	dizziness
+-3676	C0233485	lidocaine	apprehension
+-3676	C0013144	lidocaine	somnolence
+-3676	C0041654	lidocaine	unconsciousness
+-3676	C0220870	lidocaine	lightheadedness
+-3675	C0564408	phenelzine	manic
+-3675	C0011206	phenelzine	delirium
+-3675	C0085631	phenelzine	agitation
+-3675	C0015170	phenelzine	euphoria
+-3675	C0012833	phenelzine	dizziness
+-3675	C0013144	phenelzine	somnolence
+-5721	C0009676	zanamivir	confusion
+-5721	C0011206	zanamivir	delirium
+-5721	C0233514	zanamivir	abnormal behavior
+-5721	C0085631	zanamivir	agitation
+-5721	C0012833	zanamivir	dizziness
+-5721	C0003467	zanamivir	anxiety
+-5721	C0018524	zanamivir	hallucinations
+-5721	C0011253	zanamivir	delusions
+-3672	C0009676	ibuprofen	confusion
+-3672	C0338656	ibuprofen	cognitive dysfunction
+-3672	C0085633	ibuprofen	emotional lability
+-3672	C0012833	ibuprofen	dizziness
+-3672	C0003467	ibuprofen	anxiety
+-3672	C0018524	ibuprofen	hallucinations
+-3672	C0013144	ibuprofen	somnolence
+-5719	C0085628	zaleplon	stupor
+-5719	C0009676	zaleplon	confusion
+-5719	C0233632	zaleplon	thinking abnormal
+-5719	C0085631	zaleplon	agitation
+-5719	C0011551	zaleplon	depersonalization
+-5719	C0002622	zaleplon	amnesia
+-5719	C0085633	zaleplon	emotional lability
+-5719	C0085632	zaleplon	apathy
+-5719	C0012833	zaleplon	dizziness
+-5719	C0003467	zaleplon	anxiety
+-5719	C0018524	zaleplon	hallucinations
+-5719	C0013144	zaleplon	somnolence
+-5719	C0011253	zaleplon	delusions
+-5719	C0015170	zaleplon	euphoria
+-5718	C0751295	zalcitabine	memory loss
+-5718	C0009676	zalcitabine	confusion
+-5718	C0564408	zalcitabine	manic
+-5718	C0011551	zalcitabine	depersonalization
+-5718	C0085631	zalcitabine	agitation
+-5718	C0085628	zalcitabine	stupor
+-5718	C0085633	zalcitabine	emotional lability
+-5718	C0002622	zalcitabine	amnesia
+-5718	C0012833	zalcitabine	dizziness
+-5718	C0003467	zalcitabine	anxiety
+-5718	C0018524	zalcitabine	hallucinations
+-5718	C0013144	zalcitabine	somnolence
+-5718	C0015170	zalcitabine	euphoria
+-5717	C0012833	zafirlukast	dizziness
+-3661	C0085628	atropine	stupor
+-3661	C0009676	atropine	confusion
+-3661	C0564408	atropine	manic
+-3661	C0011206	atropine	delirium
+-3661	C0233571	atropine	excitement
+-3661	C0085631	atropine	agitation
+-3661	C0002622	atropine	amnesia
+-3661	C0022107	atropine	irritability
+-3661	C0012833	atropine	dizziness
+-3661	C0003467	atropine	anxiety
+-3661	C0018524	atropine	hallucinations
+-3661	C0013144	atropine	somnolence
+-3658	C0013144	hydroxyzine	somnolence
+-3658	C0018524	hydroxyzine	hallucinations
+-3657	C0013144	hydroxyurea	somnolence
+-3657	C0012833	hydroxyurea	dizziness
+-3657	C0018524	hydroxyurea	hallucinations
+-3652	C0012833	hydroxychloroquine	dizziness
+-3652	C0022107	hydroxychloroquine	irritability
+-12555	C0013144	benzydamine	somnolence
+-3648	C0013144	hydromorphone	somnolence
+-3648	C0085628	hydromorphone	stupor
+-3648	C0009676	hydromorphone	confusion
+-3648	C0003467	hydromorphone	anxiety
+-3648	C0233632	hydromorphone	thinking abnormal
+-3648	C0011551	hydromorphone	depersonalization
+-3648	C0013220	hydromorphone	drug tolerance
+-3648	C0011206	hydromorphone	delirium
+-3648	C0085631	hydromorphone	agitation
+-3648	C0002622	hydromorphone	amnesia
+-3648	C0085633	hydromorphone	emotional lability
+-3648	C0015170	hydromorphone	euphoria
+-3648	C0012833	hydromorphone	dizziness
+-3648	C1562937	hydromorphone	transient hallucinations
+-3648	C0018524	hydromorphone	hallucinations
+-3648	C0233477	hydromorphone	dysphoria
+-3648	C0233485	hydromorphone	apprehension
+-3648	C0085632	hydromorphone	apathy
+-3648	C0220870	hydromorphone	lightheadedness
+-3648	C0152128	hydromorphone	drug withdrawal
+-3647	C0012833	hydroflumethiazide	dizziness
+-3647	C0085631	hydroflumethiazide	agitation
+-54841	C0344315	atomoxetine	depressed mood
+-54841	C0086132	atomoxetine	depressive symptoms
+-54841	C0424109	atomoxetine	tearfulness
+-54841	C0085633	atomoxetine	emotional lability
+-54841	C0022107	atomoxetine	irritability
+-54841	C0012833	atomoxetine	dizziness
+-54841	C0003467	atomoxetine	anxiety
+-54841	C0233477	atomoxetine	dysphoria
+-54841	C0013144	atomoxetine	somnolence
+-54841	C1443060	atomoxetine	feeling abnormal
+-3640	C0085633	cortisol	emotional lability
+-3640	C0015170	cortisol	euphoria
+-3639	C0012833	hydrochlorothiazide	dizziness
+-3639	C0085631	hydrochlorothiazide	agitation
+-3637	C0012833	hydralazine	dizziness
+-3637	C0003467	hydralazine	anxiety
+-3636	C0012833	Buscopan	dizziness
+-450096	C0012833	Gd-EOB-DTPA	dizziness
+-450096	C0085631	Gd-EOB-DTPA	agitation
+-2311	C0012833	benazepril	dizziness
+-2311	C0013144	benazepril	somnolence
+-2311	C0220870	benazepril	lightheadedness
+-2311	C0003467	benazepril	anxiety
+-5672	C0012833	vinorelbine	dizziness
+-5665	C0085628	vigabatrin	stupor
+-5665	C0009676	vigabatrin	confusion
+-5665	C0031212	vigabatrin	personality disorder
+-5665	C0233632	vigabatrin	thinking abnormal
+-5665	C0085631	vigabatrin	agitation
+-5665	C0002622	vigabatrin	amnesia
+-5665	C0085633	vigabatrin	emotional lability
+-5665	C0012833	vigabatrin	dizziness
+-5665	C0003467	vigabatrin	anxiety
+-5665	C0018524	vigabatrin	hallucinations
+-5665	C0013144	vigabatrin	somnolence
+-5665	C0233794	vigabatrin	memory impairment
+-60953	C0009676	capecitabine	confusion
+-60953	C1291710	capecitabine	mood alteration
+-60953	C1306341	capecitabine	Mental impairment
+-60953	C0002622	capecitabine	amnesia
+-60953	C0022107	capecitabine	irritability
+-60953	C0012833	capecitabine	dizziness
+-60953	C0240735	capecitabine	personality change
+-5656	C0085628	venlafaxine	stupor
+-5656	C0009676	venlafaxine	confusion
+-5656	C0564408	venlafaxine	manic
+-5656	C0011206	venlafaxine	delirium
+-5656	C0233632	venlafaxine	thinking abnormal
+-5656	C0002622	venlafaxine	amnesia
+-5656	C0085633	venlafaxine	emotional lability
+-5656	C0085632	venlafaxine	apathy
+-5656	C0018524	venlafaxine	hallucinations
+-5656	C0522172	venlafaxine	feeling drunk
+-5656	C0013144	venlafaxine	somnolence
+-5656	C0011253	venlafaxine	delusions
+-5656	C0015170	venlafaxine	euphoria
+-44564	C0012833	lodoxamide	dizziness
+-44564	C0013144	lodoxamide	somnolence
+-5651	C0012833	vancomycin	dizziness
+-5650	C0012833	valsartan	dizziness
+-5650	C0003467	valsartan	anxiety
+-5650	C0013144	valsartan	somnolence
+-5647	C0012833	valacyclovir	dizziness
+-5647	C0740399	valacyclovir	auditory and visual hallucinations
+-5647	C0009676	valacyclovir	confusion
+-5647	C0085631	valacyclovir	agitation
+-5647	C0018524	valacyclovir	hallucinations
+-5645	C0012833	ursodeoxycholic acid	dizziness
+-5645	C0013144	ursodeoxycholic acid	somnolence
+-5645	C0009676	ursodeoxycholic acid	confusion
+-5645	C0002622	ursodeoxycholic acid	amnesia
+-1546	C0012833	2-chlorodeoxyadenosine	dizziness
+-60937	C0012833	tiludronate	dizziness
+-60937	C0013144	tiludronate	somnolence
+-60937	C0003467	tiludronate	anxiety
+-34312	C0085628	oxcarbazepine	stupor
+-34312	C0009676	oxcarbazepine	confusion
+-34312	C0564408	oxcarbazepine	manic
+-34312	C0031212	oxcarbazepine	personality disorder
+-34312	C0011206	oxcarbazepine	delirium
+-34312	C0233632	oxcarbazepine	thinking abnormal
+-34312	C0085631	oxcarbazepine	agitation
+-34312	C0002622	oxcarbazepine	amnesia
+-34312	C0085633	oxcarbazepine	emotional lability
+-34312	C0085632	oxcarbazepine	apathy
+-34312	C0012833	oxcarbazepine	dizziness
+-34312	C0003467	oxcarbazepine	anxiety
+-34312	C0522172	oxcarbazepine	feeling drunk
+-34312	C0013144	oxcarbazepine	somnolence
+-34312	C0011253	oxcarbazepine	delusions
+-34312	C0015170	oxcarbazepine	euphoria
+-34312	C1443060	oxcarbazepine	feeling abnormal
+-5636	C0012833	unoprostone	dizziness
+-65027	C0012833	tipranavir	dizziness
+-65027	C0013144	tipranavir	somnolence
+-54786	C0012833	treprostinil	dizziness
+-54786	C0003467	treprostinil	anxiety
+-5625	C0009676	delavirdine	confusion
+-5625	C0564408	delavirdine	manic
+-5625	C0338656	delavirdine	cognitive dysfunction
+-5625	C0086132	delavirdine	depressive symptoms
+-5625	C0085631	delavirdine	agitation
+-5625	C0002622	delavirdine	amnesia
+-5625	C0085633	delavirdine	emotional lability
+-5625	C0015170	delavirdine	euphoria
+-5625	C0012833	delavirdine	dizziness
+-5625	C0003467	delavirdine	anxiety
+-5625	C0018524	delavirdine	hallucinations
+-5625	C0013144	delavirdine	somnolence
+-71158	C0009676	acamprosate	confusion
+-71158	C0564408	acamprosate	manic
+-71158	C0233632	acamprosate	thinking abnormal
+-71158	C0011551	acamprosate	depersonalization
+-71158	C0085631	acamprosate	agitation
+-71158	C0002622	acamprosate	amnesia
+-71158	C0085632	acamprosate	apathy
+-71158	C0012833	acamprosate	dizziness
+-71158	C0003467	acamprosate	anxiety
+-71158	C0018524	acamprosate	hallucinations
+-71158	C0013144	acamprosate	somnolence
+-48041	C0012833	encainide	dizziness
+-48041	C0013144	encainide	somnolence
+-48041	C0009676	encainide	confusion
+-62959	C0009676	trovafloxacin	confusion
+-62959	C0233632	trovafloxacin	thinking abnormal
+-62959	C0011551	trovafloxacin	depersonalization
+-62959	C0085631	trovafloxacin	agitation
+-62959	C0002622	trovafloxacin	amnesia
+-62959	C0085633	trovafloxacin	emotional lability
+-62959	C0015170	trovafloxacin	euphoria
+-62959	C0012833	trovafloxacin	dizziness
+-62959	C0003467	trovafloxacin	anxiety
+-62959	C0018524	trovafloxacin	hallucinations
+-62959	C0013144	trovafloxacin	somnolence
+-62959	C0220870	trovafloxacin	lightheadedness
+-5372	C0009676	tacrolimus	confusion
+-5372	C0011206	tacrolimus	delirium
+-5372	C0233632	tacrolimus	thinking abnormal
+-5372	C0085631	tacrolimus	agitation
+-5372	C0002622	tacrolimus	amnesia
+-5372	C0085633	tacrolimus	emotional lability
+-5372	C0012833	tacrolimus	dizziness
+-5372	C0003467	tacrolimus	anxiety
+-5372	C0018524	tacrolimus	hallucinations
+-5372	C0013144	tacrolimus	somnolence
+-5372	C0233479	tacrolimus	elevated mood
+-5372	C1443060	tacrolimus	feeling abnormal
+-443871	C0012833	nateglinide	dizziness
+-5596	C0018524	trospium chloride	hallucinations
+-5596	C0011206	trospium chloride	delirium
+-3255	C0012833	erythromycin	dizziness
+-3255	C0009676	erythromycin	confusion
+-3255	C0018524	erythromycin	hallucinations
+-28112	C0085628	lithium	stupor
+-28112	C0009676	lithium	confusion
+-28112	C0085631	lithium	agitation
+-28112	C0012833	lithium	dizziness
+-28112	C0018524	lithium	hallucinations
+-28112	C0476207	lithium	giddiness
+-28112	C0013144	lithium	somnolence
+-28112	C0233794	lithium	memory impairment
+-60879	C0012833	eprosartan	dizziness
+-60879	C0003467	eprosartan	anxiety
+-60879	C0013144	eprosartan	somnolence
+-5582	C0009676	trimetrexate	confusion
+-60877	C0012833	FTC	dizziness
+-60877	C0013144	FTC	somnolence
+-62924	C0085631	fluticasone	agitation
+-62924	C0525045	fluticasone	mood disorders
+-62924	C0022107	fluticasone	irritability
+-62924	C0012833	fluticasone	dizziness
+-62924	C0003467	fluticasone	anxiety
+-62924	C0476207	fluticasone	giddiness
+-62924	C0220870	fluticasone	lightheadedness
+-5572	C0009676	trihexyphenidyl	confusion
+-5572	C0085631	trihexyphenidyl	agitation
+-5572	C0015170	trihexyphenidyl	euphoria
+-5572	C0012833	trihexyphenidyl	dizziness
+-5572	C0018524	trihexyphenidyl	hallucinations
+-5572	C0013144	trihexyphenidyl	somnolence
+-5572	C0011253	trihexyphenidyl	delusions
+-5572	C0233794	trihexyphenidyl	memory impairment
+-60865	C0013144	olopatadine	somnolence
+-60865	C0012833	olopatadine	dizziness
+-3519	C0009676	guanfacine	confusion
+-3519	C0085631	guanfacine	agitation
+-3519	C0002622	guanfacine	amnesia
+-3519	C0012833	guanfacine	dizziness
+-3519	C0003467	guanfacine	anxiety
+-3519	C0013144	guanfacine	somnolence
+-5566	C0013144	trifluoperazine	somnolence
+-5566	C0012833	trifluoperazine	dizziness
+-3512	C0012833	griseofulvin	dizziness
+-3512	C0009676	griseofulvin	confusion
+-3510	C0012833	granisetron	dizziness
+-3510	C0003467	granisetron	anxiety
+-3510	C0011551	granisetron	depersonalization
+-3510	C0013144	granisetron	somnolence
+-3510	C0085631	granisetron	agitation
+-5556	C0009676	triazolam	confusion
+-5556	C0233632	triazolam	thinking abnormal
+-5556	C0085631	triazolam	agitation
+-5556	C0011551	triazolam	depersonalization
+-5556	C0015170	triazolam	euphoria
+-5556	C0012833	triazolam	dizziness
+-5556	C0003467	triazolam	anxiety
+-5556	C0018524	triazolam	hallucinations
+-5556	C0013144	triazolam	somnolence
+-5556	C0011253	triazolam	delusions
+-5556	C0022107	triazolam	irritability
+-5556	C0233795	triazolam	anterograde amnesia
+-5556	C0233794	triazolam	memory impairment
+-60843	C1291710	pemetrexed	mood alteration
+-32170	C0013144	articaine	somnolence
+-32170	C0012833	articaine	dizziness
+-5544	C0012833	triamcinolone	dizziness
+-5544	C0085633	triamcinolone	emotional lability
+-5544	C0015170	triamcinolone	euphoria
+-3494	C0013144	glycopyrrolate	somnolence
+-3494	C0012833	glycopyrrolate	dizziness
+-3494	C0009676	glycopyrrolate	confusion
+-3494	C0233571	glycopyrrolate	excitement
+-60835	C0009676	duloxetine	confusion
+-60835	C0233414	duloxetine	disturbance in attention
+-60835	C0085633	duloxetine	emotional lability
+-60835	C0012833	duloxetine	dizziness
+-60835	C0018524	duloxetine	hallucinations
+-60835	C0013144	duloxetine	somnolence
+-60835	C0085632	duloxetine	apathy
+-60835	C0002957	duloxetine	anger
+-60835	C1443060	duloxetine	feeling abnormal
+-5538	C0009676	retinoic acid	confusion
+-5538	C0085631	retinoic acid	agitation
+-5538	C0085633	retinoic acid	emotional lability
+-5538	C0041654	retinoic acid	unconsciousness
+-5538	C0012833	retinoic acid	dizziness
+-5538	C0003467	retinoic acid	anxiety
+-5538	C0018524	retinoic acid	hallucinations
+-5538	C0013144	retinoic acid	somnolence
+-5538	C0220870	retinoic acid	lightheadedness
+-54688	C0009676	clarithromycin	confusion
+-54688	C0564408	clarithromycin	manic
+-54688	C0011551	clarithromycin	depersonalization
+-54688	C0012833	clarithromycin	dizziness
+-54688	C0003467	clarithromycin	anxiety
+-54688	C0018524	clarithromycin	hallucinations
+-54688	C0013144	clarithromycin	somnolence
+-60831	C0012833	tiotropium	dizziness
+-51263	C0013144	alfentanil	somnolence
+-51263	C0012833	alfentanil	dizziness
+-51263	C0009676	alfentanil	confusion
+-51263	C0085631	alfentanil	agitation
+-51263	C0015170	alfentanil	euphoria
+-5533	C0085628	trazodone	stupor
+-5533	C0009676	trazodone	confusion
+-5533	C0233571	trazodone	excitement
+-5533	C0012833	trazodone	dizziness
+-5533	C0018524	trazodone	hallucinations
+-5533	C0013144	trazodone	somnolence
+-5533	C0011253	trazodone	delusions
+-5533	C0220870	trazodone	lightheadedness
+-5533	C0233794	trazodone	memory impairment
+-5533	C0002957	trazodone	anger
+-5530	C0751295	tPA	memory loss
+-5530	C0009676	tPA	confusion
+-5530	C0564408	tPA	manic
+-5530	C0012833	tPA	dizziness
+-5530	C0003467	tPA	anxiety
+-5530	C0013144	tPA	somnolence
+-3478	C0012833	glipizide	dizziness
+-3478	C0003467	glipizide	anxiety
+-3478	C0009676	glipizide	confusion
+-3478	C0013144	glipizide	somnolence
+-5525	C0085631	trandolapril	agitation
+-5525	C0085632	trandolapril	apathy
+-5525	C0012833	trandolapril	dizziness
+-5525	C0003467	trandolapril	anxiety
+-5525	C0018524	trandolapril	hallucinations
+-5525	C0013144	trandolapril	somnolence
+-5525	C1443060	trandolapril	feeling abnormal
+-3476	C0012833	glimepiride	dizziness
+-5523	C0085631	tramadol	agitation
+-5523	C0002622	tramadol	amnesia
+-5523	C0085633	tramadol	emotional lability
+-5523	C0085632	tramadol	apathy
+-5523	C0009676	tramadol	confusion
+-5523	C0233414	tramadol	disturbance in attention
+-5523	C0549239	tramadol	dizziness aggravated
+-5523	C0233514	tramadol	abnormal behavior
+-5523	C0235146	tramadol	feeling high
+-5523	C0012833	tramadol	dizziness
+-5523	C1306341	tramadol	Mental impairment
+-5523	C0011551	tramadol	depersonalization
+-5523	C0003467	tramadol	anxiety
+-5523	C0013985	tramadol	emotional disturbances
+-5523	C0022107	tramadol	irritability
+-5523	C0233632	tramadol	thinking abnormal
+-5523	C0015170	tramadol	euphoria
+-5523	C0338656	tramadol	cognitive dysfunction
+-5523	C0018524	tramadol	hallucinations
+-5523	C0013144	tramadol	somnolence
+-5523	C0152128	tramadol	drug withdrawal
+-5523	C1443060	tramadol	feeling abnormal
+-60815	C0009676	remifentanil	confusion
+-60815	C0085631	remifentanil	agitation
+-60815	C0002622	remifentanil	amnesia
+-60815	C0012833	remifentanil	dizziness
+-60815	C0003467	remifentanil	anxiety
+-60815	C0018524	remifentanil	hallucinations
+-60815	C0233477	remifentanil	dysphoria
+-60815	C0013144	remifentanil	somnolence
+-5516	C0012833	toremifene	dizziness
+-3467	C0012833	gentamicin	dizziness
+-3467	C0009676	gentamicin	confusion
+-3467	C0018524	gentamicin	hallucinations
+-5514	C0085631	topiramate	agitation
+-5514	C0002622	topiramate	amnesia
+-5514	C0085633	topiramate	emotional lability
+-5514	C0085632	topiramate	apathy
+-5514	C0011253	topiramate	delusions
+-5514	C0009676	topiramate	confusion
+-5514	C0564408	topiramate	manic
+-5514	C0012833	topiramate	dizziness
+-5514	C0085628	topiramate	stupor
+-5514	C0031212	topiramate	personality disorder
+-5514	C0011551	topiramate	depersonalization
+-5514	C0003467	topiramate	anxiety
+-5514	C0011570	topiramate	mental depression
+-5514	C0233794	topiramate	memory impairment
+-5514	C0011206	topiramate	delirium
+-5514	C0233632	topiramate	thinking abnormal
+-5514	C0015170	topiramate	euphoria
+-5514	C0338656	topiramate	cognitive dysfunction
+-5514	C0018524	topiramate	hallucinations
+-5514	C0013144	topiramate	somnolence
+-5514	C0152128	topiramate	drug withdrawal
+-5514	C1443060	topiramate	feeling abnormal
+-5512	C0009676	tolterodine	confusion
+-5512	C0012833	tolterodine	dizziness
+-5512	C0003467	tolterodine	anxiety
+-5512	C0018524	tolterodine	hallucinations
+-5512	C0013144	tolterodine	somnolence
+-5512	C0011253	tolterodine	delusions
+-5512	C0233794	tolterodine	memory impairment
+-3463	C0012833	gemfibrozil	dizziness
+-3463	C0013144	gemfibrozil	somnolence
+-3463	C0009676	gemfibrozil	confusion
+-3461	C0013144	gemcitabine	somnolence
+-5508	C0012833	tolmetin	dizziness
+-5508	C0013144	tolmetin	somnolence
+-5503	C0012833	tolazamide	dizziness
+-3454	C0751295	ganciclovir	memory loss
+-3454	C0009676	ganciclovir	confusion
+-3454	C0233632	ganciclovir	thinking abnormal
+-3454	C0085631	ganciclovir	agitation
+-3454	C0235146	ganciclovir	feeling high
+-3454	C0002622	ganciclovir	amnesia
+-3454	C0022107	ganciclovir	irritability
+-3454	C0012833	ganciclovir	dizziness
+-3454	C0003467	ganciclovir	anxiety
+-3454	C0018524	ganciclovir	hallucinations
+-3454	C0013985	ganciclovir	emotional disturbances
+-3454	C0013144	ganciclovir	somnolence
+-60795	C0002622	aripiprazole	amnesia
+-60795	C0085633	aripiprazole	emotional lability
+-60795	C0085632	aripiprazole	apathy
+-60795	C0011253	aripiprazole	delusions
+-60795	C0220870	aripiprazole	lightheadedness
+-60795	C0009676	aripiprazole	confusion
+-60795	C0233414	aripiprazole	disturbance in attention
+-60795	C0012833	aripiprazole	dizziness
+-60795	C0233762	aripiprazole	auditory hallucinations
+-60795	C0233477	aripiprazole	dysphoria
+-60795	C1443059	aripiprazole	abnormal feeling
+-60795	C0085628	aripiprazole	stupor
+-60795	C0233763	aripiprazole	visual hallucinations
+-60795	C0011551	aripiprazole	depersonalization
+-60795	C0003467	aripiprazole	anxiety
+-60795	C0022107	aripiprazole	irritability
+-60795	C0233794	aripiprazole	memory impairment
+-60795	C0011206	aripiprazole	delirium
+-60795	C0015170	aripiprazole	euphoria
+-60795	C0018524	aripiprazole	hallucinations
+-60795	C0013144	aripiprazole	somnolence
+-60795	C0233469	aripiprazole	emotional indifference
+-60795	C0002957	aripiprazole	anger
+-3449	C0009676	galantamine	confusion
+-3449	C0011206	galantamine	delirium
+-3449	C0085631	galantamine	agitation
+-3449	C0085632	galantamine	apathy
+-3449	C0012833	galantamine	dizziness
+-3449	C0003467	galantamine	anxiety
+-3449	C0018524	galantamine	hallucinations
+-3449	C0013144	galantamine	somnolence
+-5496	C0012833	tobramycin	dizziness
+-5496	C0009676	tobramycin	confusion
+-3446	C0085628	gabapentin	stupor
+-3446	C0009676	gabapentin	confusion
+-3446	C0031212	gabapentin	personality disorder
+-3446	C0233632	gabapentin	thinking abnormal
+-3446	C0011551	gabapentin	depersonalization
+-3446	C0015170	gabapentin	euphoria
+-3446	C0085631	gabapentin	agitation
+-3446	C0002622	gabapentin	amnesia
+-3446	C0085633	gabapentin	emotional lability
+-3446	C0022107	gabapentin	irritability
+-3446	C0012833	gabapentin	dizziness
+-3446	C0003467	gabapentin	anxiety
+-3446	C0018524	gabapentin	hallucinations
+-3446	C0013144	gabapentin	somnolence
+-3446	C0235146	gabapentin	feeling high
+-3446	C0085632	gabapentin	apathy
+-3305	C0009676	EHDP	confusion
+-3305	C0002622	EHDP	amnesia
+-3305	C0018524	EHDP	hallucinations
+-60787	C0022107	saquinavir	irritability
+-60787	C0009676	saquinavir	confusion
+-60787	C0085631	saquinavir	agitation
+-60787	C0002622	saquinavir	amnesia
+-60787	C0041654	saquinavir	unconsciousness
+-60787	C0012833	saquinavir	dizziness
+-60787	C0003467	saquinavir	anxiety
+-60787	C0018524	saquinavir	hallucinations
+-60787	C0013144	saquinavir	somnolence
+-60787	C0015170	saquinavir	euphoria
+-152945	C0012833	dutasteride	dizziness
+-3440	C0012833	furosemide	dizziness
+-3440	C0013144	furosemide	somnolence
+-3440	C0220870	furosemide	lightheadedness
+-3440	C0009676	furosemide	confusion
+-3440	C0085631	furosemide	agitation
+-5487	C0085628	tizanidine	stupor
+-5487	C0009676	tizanidine	confusion
+-5487	C0233632	tizanidine	thinking abnormal
+-5487	C0011551	tizanidine	depersonalization
+-5487	C0085631	tizanidine	agitation
+-5487	C0085633	tizanidine	emotional lability
+-5487	C0015170	tizanidine	euphoria
+-5487	C0012833	tizanidine	dizziness
+-5487	C0003467	tizanidine	anxiety
+-5487	C0013144	tizanidine	somnolence
+-5486	C0012833	tirofiban	dizziness
+-5479	C0012833	tinidazole	dizziness
+-5479	C0013144	tinidazole	somnolence
+-5479	C0009676	tinidazole	confusion
+-5479	C0476207	tinidazole	giddiness
+-5478	C0751295	timolol	memory loss
+-5478	C0009676	timolol	confusion
+-5478	C0085633	timolol	emotional lability
+-5478	C0012833	timolol	dizziness
+-5478	C0003467	timolol	anxiety
+-5478	C0018524	timolol	hallucinations
+-5478	C0011570	timolol	mental depression
+-5478	C0013144	timolol	somnolence
+-62819	C0012833	urofollitropin	dizziness
+-62819	C0003467	urofollitropin	anxiety
+-62819	C0085633	urofollitropin	emotional lability
+-5472	C0012833	ticlopidine	dizziness
+-3419	C0012833	fosinopril	dizziness
+-3419	C0013144	fosinopril	somnolence
+-3419	C0009676	fosinopril	confusion
+-3419	C0233794	fosinopril	memory impairment
+-3419	C0085633	fosinopril	emotional lability
+-5466	C0085632	tiagabine	apathy
+-5466	C0085628	tiagabine	stupor
+-5466	C0009676	tiagabine	confusion
+-5466	C0031212	tiagabine	personality disorder
+-5466	C0233632	tiagabine	thinking abnormal
+-5466	C0011551	tiagabine	depersonalization
+-5466	C0085631	tiagabine	agitation
+-5466	C0085633	tiagabine	emotional lability
+-5466	C0022107	tiagabine	irritability
+-5466	C0012833	tiagabine	dizziness
+-5466	C0003467	tiagabine	anxiety
+-5466	C0018524	tiagabine	hallucinations
+-5466	C0013144	tiagabine	somnolence
+-5466	C0011253	tiagabine	delusions
+-5466	C0015170	tiagabine	euphoria
+-3417	C0012833	fosfomycin	dizziness
+-3417	C0013144	fosfomycin	somnolence
+-27991	C0012833	DDAVP	dizziness
+-27991	C0013144	DDAVP	somnolence
+-27991	C0085631	DDAVP	agitation
+-27991	C0233632	DDAVP	thinking abnormal
+-27991	C0013985	DDAVP	emotional disturbances
+-3414	C0085628	foscarnet	stupor
+-3414	C0009676	foscarnet	confusion
+-3414	C0085631	foscarnet	agitation
+-3414	C0002622	foscarnet	amnesia
+-3414	C0012833	foscarnet	dizziness
+-3414	C0003467	foscarnet	anxiety
+-3414	C0018524	foscarnet	hallucinations
+-3414	C0013144	foscarnet	somnolence
+-3410	C0012833	formoterol	dizziness
+-3410	C0013144	formoterol	somnolence
+-3410	C0085631	formoterol	agitation
+-3410	C0003467	formoterol	anxiety
+-60753	C0012833	ibutilide	dizziness
+-60753	C0009676	ibutilide	confusion
+-5281104	C0085628	paricalcitol	stupor
+-5281104	C0009676	paricalcitol	confusion
+-5281104	C0011206	paricalcitol	delirium
+-5281104	C0085631	paricalcitol	agitation
+-5281104	C0011551	paricalcitol	depersonalization
+-5281104	C0012833	paricalcitol	dizziness
+-5281104	C0013144	paricalcitol	somnolence
+-5454	C0013144	thiothixene	somnolence
+-5454	C0085631	thiothixene	agitation
+-5454	C0220870	thiothixene	lightheadedness
+-6436173	C0012833	rifaximin	dizziness
+-3404	C0085628	fluvoxamine	stupor
+-3404	C0009676	fluvoxamine	confusion
+-3404	C0011206	fluvoxamine	delirium
+-3404	C0233632	fluvoxamine	thinking abnormal
+-3404	C0011551	fluvoxamine	depersonalization
+-3404	C0085631	fluvoxamine	agitation
+-3404	C0002622	fluvoxamine	amnesia
+-3404	C0085633	fluvoxamine	emotional lability
+-3404	C0085632	fluvoxamine	apathy
+-3404	C0012833	fluvoxamine	dizziness
+-3404	C0018524	fluvoxamine	hallucinations
+-3404	C0013144	fluvoxamine	somnolence
+-3404	C0011253	fluvoxamine	delusions
+-3404	C0015170	fluvoxamine	euphoria
+-3403	C0012833	fluvastatin	dizziness
+-3403	C0003467	fluvastatin	anxiety
+-3403	C0751295	fluvastatin	memory loss
+-3397	C0013144	flutamide	somnolence
+-3397	C0003467	flutamide	anxiety
+-3397	C0009676	flutamide	confusion
+-3394	C0009676	flurbiprofen	confusion
+-3394	C0002622	flurbiprofen	amnesia
+-3394	C0085633	flurbiprofen	emotional lability
+-3394	C0015170	flurbiprofen	euphoria
+-3394	C0012833	flurbiprofen	dizziness
+-3394	C0003467	flurbiprofen	anxiety
+-3394	C0018524	flurbiprofen	hallucinations
+-3394	C0013144	flurbiprofen	somnolence
+-3393	C0009676	flurazepam	confusion
+-3393	C0233571	flurazepam	excitement
+-3393	C0085631	flurazepam	agitation
+-3393	C0015170	flurazepam	euphoria
+-3393	C0012833	flurazepam	dizziness
+-3393	C0233485	flurazepam	apprehension
+-3393	C0018524	flurazepam	hallucinations
+-3393	C0013144	flurazepam	somnolence
+-3393	C0022107	flurazepam	irritability
+-3393	C0220870	flurazepam	lightheadedness
+-3387	C0003467	fluoxymesterone	anxiety
+-3386	C0085628	fluoxetine	stupor
+-3386	C0009676	fluoxetine	confusion
+-3386	C0564408	fluoxetine	manic
+-3386	C0031212	fluoxetine	personality disorder
+-3386	C0011206	fluoxetine	delirium
+-3386	C0233632	fluoxetine	thinking abnormal
+-3386	C0011551	fluoxetine	depersonalization
+-3386	C0002622	fluoxetine	amnesia
+-3386	C0085633	fluoxetine	emotional lability
+-3386	C0085632	fluoxetine	apathy
+-3386	C0018524	fluoxetine	hallucinations
+-3386	C0013144	fluoxetine	somnolence
+-3386	C0011253	fluoxetine	delusions
+-3386	C0015170	fluoxetine	euphoria
+-3386	C0152128	fluoxetine	drug withdrawal
+-3385	C0022107	5-fluorouracil	irritability
+-3385	C0013144	5-fluorouracil	somnolence
+-3385	C0009676	5-fluorouracil	confusion
+-3385	C0677661	5-fluorouracil	Emotional upset
+-3385	C0015170	5-fluorouracil	euphoria
+-5430	C0012833	thiabendazole	dizziness
+-5430	C0013144	thiabendazole	somnolence
+-5430	C0009676	thiabendazole	confusion
+-5430	C0476207	thiabendazole	giddiness
+-3381	C0012833	fluocinolone acetonide	dizziness
+-3379	C0012833	flunisolide	dizziness
+-3379	C0003467	flunisolide	anxiety
+-3379	C0022107	flunisolide	irritability
+-5426	C0085628	thalidomide	stupor
+-5426	C0009676	thalidomide	confusion
+-5426	C0233632	thalidomide	thinking abnormal
+-5426	C0085631	thalidomide	agitation
+-5426	C0002622	thalidomide	amnesia
+-5426	C0085633	thalidomide	emotional lability
+-5426	C0015170	thalidomide	euphoria
+-5426	C0003467	thalidomide	anxiety
+-5426	C0011570	thalidomide	mental depression
+-5426	C0022107	thalidomide	irritability
+-5426	C0220870	thalidomide	lightheadedness
+-3373	C0085628	flumazenil	stupor
+-3373	C0009676	flumazenil	confusion
+-3373	C0011206	flumazenil	delirium
+-3373	C0085631	flumazenil	agitation
+-3373	C0011551	flumazenil	depersonalization
+-3373	C0085633	flumazenil	emotional lability
+-3373	C0015170	flumazenil	euphoria
+-3373	C0012833	flumazenil	dizziness
+-3373	C0003467	flumazenil	anxiety
+-3373	C0018524	flumazenil	hallucinations
+-3373	C0233477	flumazenil	dysphoria
+-3373	C0013144	flumazenil	somnolence
+-3373	C0002957	flumazenil	anger
+-3372	C0013144	fluphenazine	somnolence
+-3372	C0233571	fluphenazine	excitement
+-3372	C0085628	fluphenazine	stupor
+-3372	C0085631	fluphenazine	agitation
+-5419	C0013144	soothe	somnolence
+-60714	C0012833	gadoteridol	dizziness
+-60714	C0003467	gadoteridol	anxiety
+-60714	C0085628	gadoteridol	stupor
+-6323497	C0012833	rifapentine	dizziness
+-3367	C0009676	fludarabine	confusion
+-3367	C0085631	fludarabine	agitation
+-3366	C0009676	5-fluorocytosine	confusion
+-3366	C0018524	5-fluorocytosine	hallucinations
+-3365	C0012833	fluconazole	dizziness
+-3365	C0013144	fluconazole	somnolence
+-5412	C0012833	tetracycline	dizziness
+-60707	C0009676	meropenem	confusion
+-60707	C0011206	meropenem	delirium
+-60707	C0085631	meropenem	agitation
+-60707	C0012833	meropenem	dizziness
+-60707	C0003467	meropenem	anxiety
+-60707	C0018524	meropenem	hallucinations
+-60707	C0013144	meropenem	somnolence
+-5408	C0751295	testosterone	memory loss
+-5408	C0009676	testosterone	confusion
+-5408	C0344315	testosterone	depressed mood
+-5408	C0031212	testosterone	personality disorder
+-5408	C0338656	testosterone	cognitive dysfunction
+-5408	C0002622	testosterone	amnesia
+-5408	C0085633	testosterone	emotional lability
+-5408	C0022107	testosterone	irritability
+-5408	C0012833	testosterone	dizziness
+-5408	C0003467	testosterone	anxiety
+-5408	C0013170	testosterone	Habituation
+-5408	C0002957	testosterone	anger
+-3355	C0085628	flecainide	stupor
+-3355	C0009676	flecainide	confusion
+-3355	C0011551	flecainide	depersonalization
+-3355	C0002622	flecainide	amnesia
+-3355	C0015170	flecainide	euphoria
+-3355	C0012833	flecainide	dizziness
+-3355	C0003467	flecainide	anxiety
+-3355	C0018524	flecainide	hallucinations
+-3355	C0013144	flecainide	somnolence
+-3355	C0085632	flecainide	apathy
+-3355	C0220870	flecainide	lightheadedness
+-5402	C0012833	terbinafine	dizziness
+-5402	C0009676	terbinafine	confusion
+-5401	C0012833	terazosin	dizziness
+-5401	C0013144	terazosin	somnolence
+-5401	C0009676	terazosin	confusion
+-5401	C0003467	terazosin	anxiety
+-1302	C0009676	naproxen	confusion
+-1302	C0338656	naproxen	cognitive dysfunction
+-1302	C0002622	naproxen	amnesia
+-1302	C0085633	naproxen	emotional lability
+-1302	C0012833	naproxen	dizziness
+-1302	C0003467	naproxen	anxiety
+-1302	C0018524	naproxen	hallucinations
+-1302	C0013144	naproxen	somnolence
+-1302	C0220870	naproxen	lightheadedness
+-3348	C0013144	fexofenadine	somnolence
+-3348	C0012833	fexofenadine	dizziness
+-3348	C0085631	fexofenadine	agitation
+-54547	C0013144	cefpodoxime	somnolence
+-54547	C0012833	cefpodoxime	dizziness
+-54547	C0018524	cefpodoxime	hallucinations
+-54547	C0009676	cefpodoxime	confusion
+-54547	C0003467	cefpodoxime	anxiety
+-5394	C0004930	temozolomide	Behavior disorder
+-5394	C0009676	temozolomide	confusion
+-5394	C0085631	temozolomide	agitation
+-5394	C0002622	temozolomide	amnesia
+-5394	C0085633	temozolomide	emotional lability
+-5394	C0085632	temozolomide	apathy
+-5394	C0012833	temozolomide	dizziness
+-5394	C0003467	temozolomide	anxiety
+-5394	C0018524	temozolomide	hallucinations
+-5394	C0013144	temozolomide	somnolence
+-5394	C0233794	temozolomide	memory impairment
+-3345	C0085628	fentanyl	stupor
+-3345	C0009676	fentanyl	confusion
+-3345	C0011206	fentanyl	delirium
+-3345	C0233632	fentanyl	thinking abnormal
+-3345	C0011551	fentanyl	depersonalization
+-3345	C0235146	fentanyl	feeling high
+-3345	C0085631	fentanyl	agitation
+-3345	C0002622	fentanyl	amnesia
+-3345	C0085633	fentanyl	emotional lability
+-3345	C0015170	fentanyl	euphoria
+-3345	C0012833	fentanyl	dizziness
+-3345	C0003467	fentanyl	anxiety
+-3345	C0018524	fentanyl	hallucinations
+-3345	C0011570	fentanyl	mental depression
+-3345	C0013144	fentanyl	somnolence
+-5391	C0009676	temazepam	confusion
+-5391	C0085631	temazepam	agitation
+-5391	C0002622	temazepam	amnesia
+-5391	C0015170	temazepam	euphoria
+-5391	C0012833	temazepam	dizziness
+-5391	C0003467	temazepam	anxiety
+-5391	C0018524	temazepam	hallucinations
+-5391	C0013144	temazepam	somnolence
+-5391	C0220870	temazepam	lightheadedness
+-3342	C0013144	fenoprofen	somnolence
+-3342	C0012833	fenoprofen	dizziness
+-3342	C0009676	fenoprofen	confusion
+-3342	C0240735	fenoprofen	personality change
+-3340	C0012833	fenoldopam	dizziness
+-3340	C0003467	fenoldopam	anxiety
+-3339	C0012833	fenofibrate	dizziness
+-3339	C0003467	fenofibrate	anxiety
+-3339	C0013144	fenofibrate	somnolence
+-216326	C0009676	lenalidomide	confusion
+-216326	C1291710	lenalidomide	mood alteration
+-216326	C0085631	lenalidomide	agitation
+-216326	C0022107	lenalidomide	irritability
+-216326	C0012833	lenalidomide	dizziness
+-216326	C0003467	lenalidomide	anxiety
+-216326	C0011570	lenalidomide	mental depression
+-216326	C0013144	lenalidomide	somnolence
+-3333	C0012833	felodipine	dizziness
+-3333	C0003467	felodipine	anxiety
+-3333	C0009676	felodipine	confusion
+-3333	C0013144	felodipine	somnolence
+-3333	C0022107	felodipine	irritability
+-5379	C0009676	gatifloxacin	confusion
+-5379	C0233632	gatifloxacin	thinking abnormal
+-5379	C0011551	gatifloxacin	depersonalization
+-5379	C0085631	gatifloxacin	agitation
+-5379	C0015170	gatifloxacin	euphoria
+-5379	C0012833	gatifloxacin	dizziness
+-5379	C0003467	gatifloxacin	anxiety
+-5379	C0018524	gatifloxacin	hallucinations
+-5379	C0013144	gatifloxacin	somnolence
+-5376	C0012833	tamoxifen	dizziness
+-5376	C0003467	tamoxifen	anxiety
+-5376	C0220870	tamoxifen	lightheadedness
+-3325	C0009676	famotidine	confusion
+-3325	C0085631	famotidine	agitation
+-3325	C0022107	famotidine	irritability
+-3325	C0012833	famotidine	dizziness
+-3325	C0003467	famotidine	anxiety
+-3325	C0018524	famotidine	hallucinations
+-3325	C0013144	famotidine	somnolence
+-3324	C0012833	famciclovir	dizziness
+-3324	C0009676	famciclovir	confusion
+-3324	C0018524	famciclovir	hallucinations
+-3324	C0013144	famciclovir	somnolence
+-3324	C0011206	famciclovir	delirium
+-72057	C0012833	gadobutrol	dizziness
+-72057	C0085632	gadobutrol	apathy
+-5281007	C0009676	dacarbazine	confusion
+-5358	C0009676	sumatriptan	confusion
+-5358	C0003467	sumatriptan	anxiety
+-5358	C0085631	sumatriptan	agitation
+-5358	C0085632	sumatriptan	apathy
+-5358	C0012833	sumatriptan	dizziness
+-5358	C0235129	sumatriptan	feeling strange
+-5358	C0018524	sumatriptan	hallucinations
+-5358	C0240735	sumatriptan	personality change
+-5358	C0013144	sumatriptan	somnolence
+-5358	C0015170	sumatriptan	euphoria
+-5358	C0233794	sumatriptan	memory impairment
+-74989	C0012833	atovaquone	dizziness
+-74989	C0003467	atovaquone	anxiety
+-3308	C0012833	etodolac	dizziness
+-3308	C0013144	etodolac	somnolence
+-3308	C0009676	etodolac	confusion
+-3308	C0018524	etodolac	hallucinations
+-3308	C0003467	etodolac	anxiety
+-72938	C0012833	gemifloxacin	dizziness
+-72938	C0013144	gemifloxacin	somnolence
+-5546	C0012833	triamterene	dizziness
+-5352	C0012833	sulindac	dizziness
+-5352	C0013144	sulindac	somnolence
+-5352	C0085628	sulindac	stupor
+-5344	C0012833	sulfisoxazole	dizziness
+-5344	C0003467	sulfisoxazole	anxiety
+-5344	C0018524	sulfisoxazole	hallucinations
+-5344	C0013144	sulfisoxazole	somnolence
+-5344	C0085632	sulfisoxazole	apathy
+-40159	C0012833	permethrin	dizziness
+-3292	C0012833	ethotoin	dizziness
+-3291	C0013144	ethosuximide	somnolence
+-3291	C0012833	ethosuximide	dizziness
+-3291	C0022107	ethosuximide	irritability
+-3291	C0015170	ethosuximide	euphoria
+-9433	C0085631	aminophylline	agitation
+-9433	C0022107	aminophylline	irritability
+-3285	C0009676	estrogen	confusion
+-3285	C0085631	estrogen	agitation
+-3285	C0085633	estrogen	emotional lability
+-3285	C0022107	estrogen	irritability
+-3285	C0012833	estrogen	dizziness
+-3285	C0003467	estrogen	anxiety
+-3285	C0011570	estrogen	mental depression
+-3285	C0013144	estrogen	somnolence
+-206	C0013144	galactose	somnolence
+-206	C0009676	galactose	confusion
+-206	C0002622	galactose	amnesia
+-206	C0018524	galactose	hallucinations
+-3279	C0012833	ethambutol	dizziness
+-3279	C0009676	ethambutol	confusion
+-3279	C0018524	ethambutol	hallucinations
+-3278	C0233485	ethacrynic acid	apprehension
+-3278	C0009676	ethacrynic acid	confusion
+-4201	C0012833	minoxidil	dizziness
+-4201	C0220870	minoxidil	lightheadedness
+-60613	C0009676	cidofovir	confusion
+-60613	C0031212	cidofovir	personality disorder
+-60613	C0011206	cidofovir	delirium
+-60613	C0085631	cidofovir	agitation
+-60613	C0002622	cidofovir	amnesia
+-60613	C0012833	cidofovir	dizziness
+-60613	C0003467	cidofovir	anxiety
+-60613	C0018524	cidofovir	hallucinations
+-60613	C0013144	cidofovir	somnolence
+-60612	C0009676	dexmedetomidine	confusion
+-60612	C0011206	dexmedetomidine	delirium
+-60612	C0020903	dexmedetomidine	illusion
+-60612	C0085631	dexmedetomidine	agitation
+-60612	C0012833	dexmedetomidine	dizziness
+-60612	C0018524	dexmedetomidine	hallucinations
+-60612	C0013144	dexmedetomidine	somnolence
+-3261	C0085628	estazolam	stupor
+-3261	C0009676	estazolam	confusion
+-3261	C0233632	estazolam	thinking abnormal
+-3261	C0085631	estazolam	agitation
+-3261	C0002622	estazolam	amnesia
+-3261	C0085633	estazolam	emotional lability
+-3261	C0085632	estazolam	apathy
+-3261	C0012833	estazolam	dizziness
+-3261	C0003467	estazolam	anxiety
+-3261	C0018524	estazolam	hallucinations
+-3261	C0013144	estazolam	somnolence
+-3261	C0015170	estazolam	euphoria
+-124087	C0013144	desloratadine	somnolence
+-124087	C0012833	desloratadine	dizziness
+-124087	C0085631	desloratadine	agitation
+-124087	C0085633	desloratadine	emotional lability
+-124087	C0022107	desloratadine	irritability
+-54454	C0012833	simvastatin	dizziness
+-54454	C0003467	simvastatin	anxiety
+-54454	C0751295	simvastatin	memory loss
+-54454	C0233794	simvastatin	memory impairment
+-5300	C0009676	streptozotocin	confusion
+-216239	C0012833	Bax	dizziness
+-216239	C1291710	Bax	mood alteration
+-3518	C0012833	guanethidine	dizziness
+-3518	C0011570	guanethidine	mental depression
+-5291	C0012833	imatinib	dizziness
+-5291	C0003467	imatinib	anxiety
+-5291	C0009676	imatinib	confusion
+-5291	C0013144	imatinib	somnolence
+-5291	C0233794	imatinib	memory impairment
+-104865	C0233414	bosentan	disturbance in attention
+-104865	C0085631	bosentan	agitation
+-104865	C0085633	bosentan	emotional lability
+-104865	C0022107	bosentan	irritability
+-104865	C0012833	bosentan	dizziness
+-104865	C0003467	bosentan	anxiety
+-104865	C0013144	bosentan	somnolence
+-3222	C0012833	enalapril	dizziness
+-3222	C0013144	enalapril	somnolence
+-3222	C0009676	enalapril	confusion
+-365716	C0012833	lanreotide	dizziness
+-365716	C0003467	lanreotide	anxiety
+-5267	C0013144	spironolactone	somnolence
+-5267	C0009676	spironolactone	confusion
+-5229711	C0013144	15-methyl-PGF2alpha	somnolence
+-5229711	C0012833	15-methyl-PGF2alpha	dizziness
+-5229711	C0003467	15-methyl-PGF2alpha	anxiety
+-91270	C0012833	moexipril	dizziness
+-91270	C0013144	moexipril	somnolence
+-91270	C0003467	moexipril	anxiety
+-5253	C0751295	sotalol	memory loss
+-5253	C0085633	sotalol	emotional lability
+-5253	C0012833	sotalol	dizziness
+-5253	C0003467	sotalol	anxiety
+-5253	C0011570	sotalol	mental depression
+-5253	C0220870	sotalol	lightheadedness
+-68740	C0009676	zoledronic acid	confusion
+-68740	C0085631	zoledronic acid	agitation
+-68740	C0012833	zoledronic acid	dizziness
+-68740	C0003467	zoledronic acid	anxiety
+-68740	C0018524	zoledronic acid	hallucinations
+-68740	C0013144	zoledronic acid	somnolence
+-3203	C0085628	efavirenz	stupor
+-3203	C0009676	efavirenz	confusion
+-3203	C0564408	efavirenz	manic
+-3203	C0011206	efavirenz	delirium
+-3203	C0233632	efavirenz	thinking abnormal
+-3203	C0011551	efavirenz	depersonalization
+-3203	C0085631	efavirenz	agitation
+-3203	C0002622	efavirenz	amnesia
+-3203	C0085633	efavirenz	emotional lability
+-3203	C0015170	efavirenz	euphoria
+-3203	C0012833	efavirenz	dizziness
+-3203	C0003467	efavirenz	anxiety
+-3203	C0018524	efavirenz	hallucinations
+-3203	C0013144	efavirenz	somnolence
+-3203	C0011253	efavirenz	delusions
+-3203	C0085632	efavirenz	apathy
+-3203	C0220870	efavirenz	lightheadedness
+-42113	C0012833	desflurane	dizziness
+-42113	C0085631	desflurane	agitation
+-5245	C0012833	risedronate	dizziness
+-5245	C0003467	risedronate	anxiety
+-1148	C0013144	L-tryptophan	somnolence
+-1148	C0012833	L-tryptophan	dizziness
+-50294	C0012833	nedocromil sodium	dizziness
+-1134	C0012833	thymidine	dizziness
+-5381226	C0013144	rifampicin	somnolence
+-5381226	C0012833	rifampicin	dizziness
+-5381226	C0009676	rifampicin	confusion
+-54374	C0012833	octreotide	dizziness
+-54374	C0003467	octreotide	anxiety
+-54374	C0013144	octreotide	somnolence
+-54374	C0002622	octreotide	amnesia
+-54374	C0022107	octreotide	irritability
+-1125	C0012833	tetrahydrobiopterin	dizziness
+-1125	C0085631	tetrahydrobiopterin	agitation
+-1125	C0022107	tetrahydrobiopterin	irritability
+-3168	C0233477	droperidol	dysphoria
+-3168	C0085631	droperidol	agitation
+-3168	C0012833	droperidol	dizziness
+-3168	C0003467	droperidol	anxiety
+-3168	C0011570	droperidol	mental depression
+-3168	C0013144	droperidol	somnolence
+-5215	C0018524	sulfadiazine	hallucinations
+-5215	C0011570	sulfadiazine	mental depression
+-5212	C0012833	sildenafil	dizziness
+-5212	C0013144	sildenafil	somnolence
+-5212	C0085631	sildenafil	agitation
+-5212	C0338591	sildenafil	transient global amnesia
+-5212	C0003467	sildenafil	anxiety
+-5210	C0009676	sibutramine	confusion
+-5210	C0564408	sibutramine	manic
+-5210	C0233632	sibutramine	thinking abnormal
+-5210	C0085631	sibutramine	agitation
+-5210	C0002622	sibutramine	amnesia
+-5210	C0085633	sibutramine	emotional lability
+-5210	C0701811	sibutramine	short term memory loss
+-5210	C0012833	sibutramine	dizziness
+-5210	C0003467	sibutramine	anxiety
+-5210	C0013144	sibutramine	somnolence
+-5210	C0002957	sibutramine	anger
+-3161	C0003467	doxycycline	anxiety
+-5206	C0013144	sevoflurane	somnolence
+-5206	C0012833	sevoflurane	dizziness
+-5206	C0009676	sevoflurane	confusion
+-5206	C0085631	sevoflurane	agitation
+-3157	C0009676	doxazosin	confusion
+-3157	C0233632	doxazosin	thinking abnormal
+-3157	C0011551	doxazosin	depersonalization
+-3157	C0085631	doxazosin	agitation
+-3157	C0002622	doxazosin	amnesia
+-3157	C0085633	doxazosin	emotional lability
+-3157	C0085632	doxazosin	apathy
+-3157	C0012833	doxazosin	dizziness
+-3157	C0003467	doxazosin	anxiety
+-3157	C0013144	doxazosin	somnolence
+-3156	C0233485	doxapram	apprehension
+-3156	C0012833	doxapram	dizziness
+-3156	C0018524	doxapram	hallucinations
+-5203	C0085628	sertraline	stupor
+-5203	C0009676	sertraline	confusion
+-5203	C0564408	sertraline	manic
+-5203	C0011206	sertraline	delirium
+-5203	C0233632	sertraline	thinking abnormal
+-5203	C0020903	sertraline	illusion
+-5203	C0002622	sertraline	amnesia
+-5203	C0085633	sertraline	emotional lability
+-5203	C0085632	sertraline	apathy
+-5203	C0018524	sertraline	hallucinations
+-5203	C0013144	sertraline	somnolence
+-5203	C0011253	sertraline	delusions
+-5203	C0015170	sertraline	euphoria
+-3154	C0751295	Ets	memory loss
+-3154	C0009676	Ets	confusion
+-3154	C0085633	Ets	emotional lability
+-3154	C0012833	Ets	dizziness
+-3154	C0003467	Ets	anxiety
+-3154	C0018524	Ets	hallucinations
+-3154	C0011570	Ets	mental depression
+-3154	C0013144	Ets	somnolence
+-3152	C0009676	donepezil	confusion
+-3152	C0031212	donepezil	personality disorder
+-3152	C0015170	donepezil	euphoria
+-3152	C0085631	donepezil	agitation
+-3152	C0085633	donepezil	emotional lability
+-3152	C0022107	donepezil	irritability
+-3152	C0012833	donepezil	dizziness
+-3152	C0003467	donepezil	anxiety
+-3152	C0018524	donepezil	hallucinations
+-3152	C0235117	donepezil	emotional withdrawal
+-3152	C0233477	donepezil	dysphoria
+-3152	C0013144	donepezil	somnolence
+-3152	C0011253	donepezil	delusions
+-3152	C0085632	donepezil	apathy
+-3151	C0012833	domperidone	dizziness
+-3151	C0022107	domperidone	irritability
+-3148	C0009676	dolasetron	confusion
+-3148	C0085631	dolasetron	agitation
+-3148	C0011551	dolasetron	depersonalization
+-3148	C0012833	dolasetron	dizziness
+-3148	C0003467	dolasetron	anxiety
+-3148	C0013144	dolasetron	somnolence
+-5195	C0497293	selegiline	dizziness and vertigo
+-5195	C0002622	selegiline	amnesia
+-5195	C0085633	selegiline	emotional lability
+-5195	C0022107	selegiline	irritability
+-5195	C0011253	selegiline	delusions
+-5195	C0220870	selegiline	lightheadedness
+-5195	C0009676	selegiline	confusion
+-5195	C0564408	selegiline	manic
+-5195	C0012833	selegiline	dizziness
+-5195	C0240735	selegiline	personality change
+-5195	C0233763	selegiline	visual hallucinations
+-5195	C0031212	selegiline	personality disorder
+-5195	C0011551	selegiline	depersonalization
+-5195	C0003467	selegiline	anxiety
+-5195	C0085632	selegiline	apathy
+-5195	C0233794	selegiline	memory impairment
+-5195	C0011206	selegiline	delirium
+-5195	C0233632	selegiline	thinking abnormal
+-5195	C0015170	selegiline	euphoria
+-5195	C0018524	selegiline	hallucinations
+-5195	C0013144	selegiline	somnolence
+-5193	C0009676	secobarbital	confusion
+-5193	C0085631	secobarbital	agitation
+-5193	C0012833	secobarbital	dizziness
+-5193	C0003467	secobarbital	anxiety
+-5193	C0018524	secobarbital	hallucinations
+-5193	C0013144	secobarbital	somnolence
+-3143	C0012833	docetaxel	dizziness
+-3143	C0009676	docetaxel	confusion
+-3310	C0013144	etoposide	somnolence
+-3310	C0012833	etoposide	dizziness
+-3310	C0009676	etoposide	confusion
+-41317	C0012833	acitretin	dizziness
+-41317	C0013144	acitretin	somnolence
+-41317	C0003467	acitretin	anxiety
+-1206	C0233477	methamphetamine	dysphoria
+-1206	C0085631	methamphetamine	agitation
+-1206	C0015170	methamphetamine	euphoria
+-1206	C0012833	methamphetamine	dizziness
+-1206	C0011570	methamphetamine	mental depression
+-1206	C0022107	methamphetamine	irritability
+-3125	C0003467	alpha-methyl-p-tyrosine	anxiety
+-3125	C0018524	alpha-methyl-p-tyrosine	hallucinations
+-3125	C0009676	alpha-methyl-p-tyrosine	confusion
+-3121	C1298942	valproic acid	excessive somnolence
+-3121	C0009676	valproic acid	confusion
+-3121	C0031212	valproic acid	personality disorder
+-3121	C0233632	valproic acid	thinking abnormal
+-3121	C0085631	valproic acid	agitation
+-3121	C0002622	valproic acid	amnesia
+-3121	C0085633	valproic acid	emotional lability
+-3121	C0015170	valproic acid	euphoria
+-3121	C0012833	valproic acid	dizziness
+-3121	C0003467	valproic acid	anxiety
+-3121	C0018524	valproic acid	hallucinations
+-3121	C0677661	valproic acid	Emotional upset
+-3121	C0013144	valproic acid	somnolence
+-3121	C0152128	valproic acid	drug withdrawal
+-4264	C0012833	mupirocin	dizziness
+-3117	C0013144	disulfiram	somnolence
+-3114	C0012833	disopyramide	dizziness
+-3114	C0013144	disopyramide	somnolence
+-3114	C0009676	disopyramide	confusion
+-1065	C0009676	quinidine	confusion
+-1065	C0011206	quinidine	delirium
+-1065	C0085631	quinidine	agitation
+-1065	C0012833	quinidine	dizziness
+-1065	C0233485	quinidine	apprehension
+-1065	C0220870	quinidine	lightheadedness
+-27686	C0022107	cromolyn	irritability
+-27686	C0012833	cromolyn	dizziness
+-27686	C0003467	cromolyn	anxiety
+-27686	C0018524	cromolyn	hallucinations
+-27686	C0013144	cromolyn	somnolence
+-27686	C0220870	cromolyn	lightheadedness
+-3108	C0012833	dipyridamole	dizziness
+-3108	C0003467	dipyridamole	anxiety
+-3108	C0011551	dipyridamole	depersonalization
+-3108	C0013144	dipyridamole	somnolence
+-5155	C0012833	stavudine	dizziness
+-5155	C0013144	stavudine	somnolence
+-5155	C0233632	stavudine	thinking abnormal
+-5152	C0012833	salmeterol	dizziness
+-5152	C0003467	salmeterol	anxiety
+-13342	C0012833	vinblastine	dizziness
+-13342	C0011570	vinblastine	mental depression
+-3100	C0009676	diphenhydramine	confusion
+-3100	C0085631	diphenhydramine	agitation
+-3100	C0015170	diphenhydramine	euphoria
+-3100	C0012833	diphenhydramine	dizziness
+-3100	C0013144	diphenhydramine	somnolence
+-3100	C0022107	diphenhydramine	irritability
+-71301	C0012833	nebivolol	dizziness
+-71301	C0013144	nebivolol	somnolence
+-56339	C0085628	fosphenytoin	stupor
+-56339	C0009676	fosphenytoin	confusion
+-56339	C0031212	fosphenytoin	personality disorder
+-56339	C0011206	fosphenytoin	delirium
+-56339	C0233632	fosphenytoin	thinking abnormal
+-56339	C0011551	fosphenytoin	depersonalization
+-56339	C0085631	fosphenytoin	agitation
+-56339	C0002622	fosphenytoin	amnesia
+-56339	C0085633	fosphenytoin	emotional lability
+-56339	C0012833	fosphenytoin	dizziness
+-56339	C0013144	fosphenytoin	somnolence
+-27661	C0009676	isosorbide-5-mononitrate	confusion
+-27661	C0085631	isosorbide-5-mononitrate	agitation
+-27661	C0002622	isosorbide-5-mononitrate	amnesia
+-27661	C0085633	isosorbide-5-mononitrate	emotional lability
+-27661	C0012833	isosorbide-5-mononitrate	dizziness
+-27661	C0003467	isosorbide-5-mononitrate	anxiety
+-27661	C0013144	isosorbide-5-mononitrate	somnolence
+-68844	C0012833	brinzolamide	dizziness
+-3080	C0003467	DMP	anxiety
+-3075	C0009676	diltiazem	confusion
+-3075	C0233632	diltiazem	thinking abnormal
+-3075	C0085631	diltiazem	agitation
+-3075	C0002622	diltiazem	amnesia
+-3075	C0012833	diltiazem	dizziness
+-3075	C0018524	diltiazem	hallucinations
+-3075	C0240735	diltiazem	personality change
+-3075	C0013144	diltiazem	somnolence
+-6398970	C0012833	cefdinir	dizziness
+-6398970	C0013144	cefdinir	somnolence
+-3062	C0009676	digoxin	confusion
+-3062	C0011206	digoxin	delirium
+-3062	C0085632	digoxin	apathy
+-3062	C0012833	digoxin	dizziness
+-3062	C0003467	digoxin	anxiety
+-3062	C0018524	digoxin	hallucinations
+-3059	C0013144	diflunisal	somnolence
+-3059	C0012833	diflunisal	dizziness
+-3059	C0018524	diflunisal	hallucinations
+-3059	C0009676	diflunisal	confusion
+-77992	C0009676	frovatriptan	confusion
+-77992	C0031212	frovatriptan	personality disorder
+-77992	C0233632	frovatriptan	thinking abnormal
+-77992	C0085631	frovatriptan	agitation
+-77992	C0522165	frovatriptan	feeling of relaxation
+-77992	C0002622	frovatriptan	amnesia
+-77992	C0085633	frovatriptan	emotional lability
+-77992	C0015170	frovatriptan	euphoria
+-77992	C0012833	frovatriptan	dizziness
+-77992	C0003467	frovatriptan	anxiety
+-77992	C0011551	frovatriptan	depersonalization
+-77992	C0013144	frovatriptan	somnolence
+-1003	C0012833	phosphate	dizziness
+-1003	C0220870	phosphate	lightheadedness
+-5095	C0344315	ropinirole	depressed mood
+-5095	C0020903	ropinirole	illusion
+-5095	C0002622	ropinirole	amnesia
+-5095	C0085633	ropinirole	emotional lability
+-5095	C0022107	ropinirole	irritability
+-5095	C0011253	ropinirole	delusions
+-5095	C0009676	ropinirole	confusion
+-5095	C0564408	ropinirole	manic
+-5095	C0233414	ropinirole	disturbance in attention
+-5095	C0012833	ropinirole	dizziness
+-5095	C0085628	ropinirole	stupor
+-5095	C0031212	ropinirole	personality disorder
+-5095	C0011551	ropinirole	depersonalization
+-5095	C0003467	ropinirole	anxiety
+-5095	C0085632	ropinirole	apathy
+-5095	C0233794	ropinirole	memory impairment
+-5095	C0011206	ropinirole	delirium
+-5095	C0233632	ropinirole	thinking abnormal
+-5095	C0015170	ropinirole	euphoria
+-5095	C0018524	ropinirole	hallucinations
+-5095	C0013144	ropinirole	somnolence
+-5090	C0012833	rofecoxib	dizziness
+-5090	C0013144	rofecoxib	somnolence
+-5090	C0009676	rofecoxib	confusion
+-5090	C0018524	rofecoxib	hallucinations
+-5090	C0003467	rofecoxib	anxiety
+-3040	C0009676	dicloxacillin	confusion
+-4943	C0009676	propofol	confusion
+-4943	C0011206	propofol	delirium
+-4943	C0233632	propofol	thinking abnormal
+-4943	C0085631	propofol	agitation
+-4943	C0085633	propofol	emotional lability
+-4943	C0015170	propofol	euphoria
+-4943	C0012833	propofol	dizziness
+-4943	C0003467	propofol	anxiety
+-4943	C0018524	propofol	hallucinations
+-4943	C0013144	propofol	somnolence
+-3032	C0009676	diclofenac	confusion
+-3032	C0233632	diclofenac	thinking abnormal
+-3032	C0022107	diclofenac	irritability
+-3032	C0012833	diclofenac	dizziness
+-3032	C0003467	diclofenac	anxiety
+-3032	C0018524	diclofenac	hallucinations
+-3032	C0013144	diclofenac	somnolence
+-3032	C0233794	diclofenac	memory impairment
+-5078	C0009676	rizatriptan	confusion
+-5078	C0011551	rizatriptan	depersonalization
+-5078	C0085631	rizatriptan	agitation
+-5078	C0233485	rizatriptan	apprehension
+-5078	C0022107	rizatriptan	irritability
+-5078	C0012833	rizatriptan	dizziness
+-5078	C0003467	rizatriptan	anxiety
+-5078	C0013144	rizatriptan	somnolence
+-5078	C0015170	rizatriptan	euphoria
+-5078	C0233794	rizatriptan	memory impairment
+-5077	C0009676	rivastigmine	confusion
+-5077	C0031212	rivastigmine	personality disorder
+-5077	C0011206	rivastigmine	delirium
+-5077	C0011551	rivastigmine	depersonalization
+-5077	C0085631	rivastigmine	agitation
+-5077	C0002622	rivastigmine	amnesia
+-5077	C0085633	rivastigmine	emotional lability
+-5077	C0085632	rivastigmine	apathy
+-5077	C0012833	rivastigmine	dizziness
+-5077	C0003467	rivastigmine	anxiety
+-5077	C0018524	rivastigmine	hallucinations
+-5077	C0013144	rivastigmine	somnolence
+-5077	C0011253	rivastigmine	delusions
+-5076	C0085628	ritonavir	stupor
+-5076	C0009676	ritonavir	confusion
+-5076	C0564408	ritonavir	manic
+-5076	C0031212	ritonavir	personality disorder
+-5076	C0233632	ritonavir	thinking abnormal
+-5076	C0011551	ritonavir	depersonalization
+-5076	C0085631	ritonavir	agitation
+-5076	C0002622	ritonavir	amnesia
+-5076	C0085633	ritonavir	emotional lability
+-5076	C0015170	ritonavir	euphoria
+-5076	C0012833	ritonavir	dizziness
+-5076	C0003467	ritonavir	anxiety
+-5076	C0018524	ritonavir	hallucinations
+-5076	C0013144	ritonavir	somnolence
+-5073	C0085628	risperidone	stupor
+-5073	C0009676	risperidone	confusion
+-5073	C0011206	risperidone	delirium
+-5073	C0233632	risperidone	thinking abnormal
+-5073	C0011551	risperidone	depersonalization
+-5073	C0233492	risperidone	elation
+-5073	C0085631	risperidone	agitation
+-5073	C0002622	risperidone	amnesia
+-5073	C0085633	risperidone	emotional lability
+-5073	C0085632	risperidone	apathy
+-5073	C0012833	risperidone	dizziness
+-5073	C0003467	risperidone	anxiety
+-5073	C0018524	risperidone	hallucinations
+-5073	C0013144	risperidone	somnolence
+-5073	C0011253	risperidone	delusions
+-5073	C0015170	risperidone	euphoria
+-5071	C0009676	rimantadine	confusion
+-5071	C0085631	rimantadine	agitation
+-5071	C0015170	rimantadine	euphoria
+-5071	C0012833	rimantadine	dizziness
+-5071	C0003467	rimantadine	anxiety
+-5071	C0018524	rimantadine	hallucinations
+-5071	C0013144	rimantadine	somnolence
+-5070	C0085628	riluzole	stupor
+-5070	C0009676	riluzole	confusion
+-5070	C0564408	riluzole	manic
+-5070	C0233414	riluzole	disturbance in attention
+-5070	C0031212	riluzole	personality disorder
+-5070	C0011206	riluzole	delirium
+-5070	C0233632	riluzole	thinking abnormal
+-5070	C0011551	riluzole	depersonalization
+-5070	C0085631	riluzole	agitation
+-5070	C0002622	riluzole	amnesia
+-5070	C0085633	riluzole	emotional lability
+-5070	C0085632	riluzole	apathy
+-5070	C0012833	riluzole	dizziness
+-5070	C0003467	riluzole	anxiety
+-5070	C0018524	riluzole	hallucinations
+-5070	C0013144	riluzole	somnolence
+-5070	C0011253	riluzole	delusions
+-5070	C0015170	riluzole	euphoria
+-3019	C0009676	diazoxide	confusion
+-3019	C0003467	diazoxide	anxiety
+-3019	C0015170	diazoxide	euphoria
+-3019	C0012833	diazoxide	dizziness
+-3019	C0233485	diazoxide	apprehension
+-3019	C0013144	diazoxide	somnolence
+-3019	C0041654	diazoxide	unconsciousness
+-3019	C0220870	diazoxide	lightheadedness
+-5064	C1291710	ribavirin	mood alteration
+-5064	C0085631	ribavirin	agitation
+-5064	C0085633	ribavirin	emotional lability
+-5064	C0022107	ribavirin	irritability
+-5064	C0012833	ribavirin	dizziness
+-5064	C0003467	ribavirin	anxiety
+-5064	C0018524	ribavirin	hallucinations
+-5064	C0233794	ribavirin	memory impairment
+-3015	C0012833	cyproterone	dizziness
+-3015	C0031212	cyproterone	personality disorder
+-3009	C0012833	DFMO	dizziness
+-3007	C0009676	amphetamine	confusion
+-3007	C0011206	amphetamine	delirium
+-3007	C0085631	amphetamine	agitation
+-3007	C0015170	amphetamine	euphoria
+-3007	C0012833	amphetamine	dizziness
+-3007	C0003467	amphetamine	anxiety
+-3007	C0018524	amphetamine	hallucinations
+-3007	C0233477	amphetamine	dysphoria
+-3007	C0013144	amphetamine	somnolence
+-3007	C0022107	amphetamine	irritability
+-5052	C0012833	reserpine	dizziness
+-5052	C0003467	reserpine	anxiety
+-5052	C0013144	reserpine	somnolence
+-3003	C0085633	dexamethasone	emotional lability
+-3003	C0015170	dexamethasone	euphoria
+-951	C0003467	norepinephrine	anxiety
+-39860	C0085632	nabilone	apathy
+-39860	C0085628	nabilone	stupor
+-39860	C0009676	nabilone	confusion
+-39860	C0233632	nabilone	thinking abnormal
+-39860	C0041654	nabilone	unconsciousness
+-39860	C0011551	nabilone	depersonalization
+-39860	C0085633	nabilone	emotional lability
+-39860	C0015170	nabilone	euphoria
+-39860	C0012833	nabilone	dizziness
+-39860	C0003467	nabilone	anxiety
+-39860	C0018524	nabilone	hallucinations
+-39860	C0022107	nabilone	irritability
+-39860	C0233477	nabilone	dysphoria
+-39860	C0013144	nabilone	somnolence
+-39860	C0683416	nabilone	depersonalization syndrome
+-39860	C0220870	nabilone	lightheadedness
+-39860	C0233794	nabilone	memory impairment
+-39860	C0233459	nabilone	Emotional disorder
+-2995	C0009676	desipramine	confusion
+-2995	C0085631	desipramine	agitation
+-2995	C0012833	desipramine	dizziness
+-2995	C0003467	desipramine	anxiety
+-2995	C0018524	desipramine	hallucinations
+-2995	C0011570	desipramine	mental depression
+-2995	C0013144	desipramine	somnolence
+-2995	C0011253	desipramine	delusions
+-2995	C0220870	desipramine	lightheadedness
+-5040	C0009676	rapamycin	confusion
+-5040	C0085631	rapamycin	agitation
+-5040	C0085633	rapamycin	emotional lability
+-5040	C0012833	rapamycin	dizziness
+-5040	C0003467	rapamycin	anxiety
+-5040	C0018524	rapamycin	hallucinations
+-5040	C0013144	rapamycin	somnolence
+-5039	C0009676	ranitidine	confusion
+-5039	C0011206	ranitidine	delirium
+-5039	C0085631	ranitidine	agitation
+-5039	C0012833	ranitidine	dizziness
+-5039	C0018524	ranitidine	hallucinations
+-5039	C0013144	ranitidine	somnolence
+-5039	C0011253	ranitidine	delusions
+-5038	C0009676	ramipril	confusion
+-5038	C0344315	ramipril	depressed mood
+-5038	C0085631	ramipril	agitation
+-5038	C0002622	ramipril	amnesia
+-5038	C0012833	ramipril	dizziness
+-5038	C0003467	ramipril	anxiety
+-5038	C0013144	ramipril	somnolence
+-5038	C0220870	ramipril	lightheadedness
+-4737	C0009676	pentobarbital	confusion
+-4737	C0085631	pentobarbital	agitation
+-4737	C0012833	pentobarbital	dizziness
+-4737	C0003467	pentobarbital	anxiety
+-4737	C0018524	pentobarbital	hallucinations
+-4737	C0013144	pentobarbital	somnolence
+-937	C0012833	nicotinic acid	dizziness
+-937	C0013144	nicotinic acid	somnolence
+-2983	C0012833	demeclocycline	dizziness
+-5029	C0009676	rabeprazole	confusion
+-5029	C0011206	rabeprazole	delirium
+-5029	C0085631	rabeprazole	agitation
+-5029	C0002622	rabeprazole	amnesia
+-5029	C0012833	rabeprazole	dizziness
+-5029	C0003467	rabeprazole	anxiety
+-5029	C0013144	rabeprazole	somnolence
+-4934	C0013144	propantheline	somnolence
+-4934	C0012833	propantheline	dizziness
+-4934	C0009676	propantheline	confusion
+-2978	C0013144	delta 9-tetrahydrocannabinol	somnolence
+-2978	C0009676	delta 9-tetrahydrocannabinol	confusion
+-2978	C0003467	delta 9-tetrahydrocannabinol	anxiety
+-2978	C0233632	delta 9-tetrahydrocannabinol	thinking abnormal
+-2978	C0011551	delta 9-tetrahydrocannabinol	depersonalization
+-2978	C0002622	delta 9-tetrahydrocannabinol	amnesia
+-2978	C0015170	delta 9-tetrahydrocannabinol	euphoria
+-2978	C0012833	delta 9-tetrahydrocannabinol	dizziness
+-2978	C0018524	delta 9-tetrahydrocannabinol	hallucinations
+-2978	C0233492	delta 9-tetrahydrocannabinol	elation
+-2973	C0012833	desferrioxamine	dizziness
+-5361912	C0009676	rifabutin	confusion
+-2958	C0009676	daunorubicin	confusion
+-2958	C0233632	daunorubicin	thinking abnormal
+-2958	C0002622	daunorubicin	amnesia
+-2958	C0085633	daunorubicin	emotional lability
+-2958	C0012833	daunorubicin	dizziness
+-2958	C0003467	daunorubicin	anxiety
+-2958	C0018524	daunorubicin	hallucinations
+-2958	C0013144	daunorubicin	somnolence
+-5005	C0012833	quinapril	dizziness
+-5005	C0013144	quinapril	somnolence
+-5005	C0009676	quinapril	confusion
+-5005	C0002622	quinapril	amnesia
+-5005	C0003467	quinapril	anxiety
+-5002	C0022107	quetiapine	irritability
+-5002	C0085628	quetiapine	stupor
+-5002	C0009676	quetiapine	confusion
+-5002	C0233414	quetiapine	disturbance in attention
+-5002	C0011206	quetiapine	delirium
+-5002	C0233632	quetiapine	thinking abnormal
+-5002	C0011551	quetiapine	depersonalization
+-5002	C0085631	quetiapine	agitation
+-5002	C0002622	quetiapine	amnesia
+-5002	C0085633	quetiapine	emotional lability
+-5002	C0085632	quetiapine	apathy
+-5002	C0012833	quetiapine	dizziness
+-5002	C0003467	quetiapine	anxiety
+-5002	C0018524	quetiapine	hallucinations
+-5002	C1306341	quetiapine	Mental impairment
+-5002	C0013144	quetiapine	somnolence
+-5002	C0011253	quetiapine	delusions
+-5002	C0015170	quetiapine	euphoria
+-2951	C0013144	dantrolene	somnolence
+-2951	C0012833	dantrolene	dizziness
+-2951	C0009676	dantrolene	confusion
+-2951	C0220870	dantrolene	lightheadedness
+-2951	C0011570	dantrolene	mental depression
+-5481350	C0012833	TDF	dizziness
+-5481350	C0003467	TDF	anxiety
+-5481350	C0013144	TDF	somnolence
+-2949	C0012833	danazol	dizziness
+-2949	C0003467	danazol	anxiety
+-2949	C0085633	danazol	emotional lability
+-4991	C0009676	pyridostigmine	confusion
+-4991	C0344315	pyridostigmine	depressed mood
+-4991	C0085631	pyridostigmine	agitation
+-4991	C0233763	pyridostigmine	visual hallucinations
+-4991	C0013144	pyridostigmine	somnolence
+-4991	C0011253	pyridostigmine	delusions
+-7029	C0085631	diethylpropion	agitation
+-7029	C0015170	diethylpropion	euphoria
+-7029	C0012833	diethylpropion	dizziness
+-7029	C0003467	diethylpropion	anxiety
+-7029	C0233477	diethylpropion	dysphoria
+-7029	C0013144	diethylpropion	somnolence
+-4976	C0009676	protriptyline	confusion
+-4976	C0085631	protriptyline	agitation
+-4976	C0012833	protriptyline	dizziness
+-4976	C0003467	protriptyline	anxiety
+-4976	C0018524	protriptyline	hallucinations
+-4976	C0013144	protriptyline	somnolence
+-4976	C0011253	protriptyline	delusions
+-3559	C0009676	haloperidol	confusion
+-3559	C0085631	haloperidol	agitation
+-3559	C0015170	haloperidol	euphoria
+-3559	C0003467	haloperidol	anxiety
+-3559	C0018524	haloperidol	hallucinations
+-3559	C0013144	haloperidol	somnolence
+-3559	C0152128	haloperidol	drug withdrawal
+-2913	C0009676	cyproheptadine	confusion
+-2913	C0085631	cyproheptadine	agitation
+-2913	C0015170	cyproheptadine	euphoria
+-2913	C0012833	cyproheptadine	dizziness
+-2913	C0018524	cyproheptadine	hallucinations
+-2913	C0013144	cyproheptadine	somnolence
+-2913	C0022107	cyproheptadine	irritability
+-2909	C0009676	cyclosporine	confusion
+-2909	C0085631	cyclosporine	agitation
+-2909	C0085633	cyclosporine	emotional lability
+-2909	C0012833	cyclosporine	dizziness
+-2909	C0003467	cyclosporine	anxiety
+-2909	C0013144	cyclosporine	somnolence
+-2907	C0012833	cyclophosphamide	dizziness
+-2907	C0009676	cyclophosphamide	confusion
+-2907	C0085631	cyclophosphamide	agitation
+-2905	C0013144	cyclopentolate	somnolence
+-2905	C0018524	cyclopentolate	hallucinations
+-2905	C0085631	cyclopentolate	agitation
+-853	C0003467	thyroxine	anxiety
+-853	C0085633	thyroxine	emotional lability
+-853	C0022107	thyroxine	irritability
+-4946	C0751295	propranolol	memory loss
+-4946	C0002622	propranolol	amnesia
+-4946	C0085633	propranolol	emotional lability
+-4946	C0012833	propranolol	dizziness
+-4946	C0003467	propranolol	anxiety
+-4946	C0018524	propranolol	hallucinations
+-4946	C0011570	propranolol	mental depression
+-4946	C0013144	propranolol	somnolence
+-4946	C0220870	propranolol	lightheadedness
+-2895	C0009676	cyclobenzaprine	confusion
+-2895	C0344315	cyclobenzaprine	depressed mood
+-2895	C0233414	cyclobenzaprine	disturbance in attention
+-2895	C0233632	cyclobenzaprine	thinking abnormal
+-2895	C0085631	cyclobenzaprine	agitation
+-2895	C0022107	cyclobenzaprine	irritability
+-2895	C0012833	cyclobenzaprine	dizziness
+-2895	C0003467	cyclobenzaprine	anxiety
+-2895	C0018524	cyclobenzaprine	hallucinations
+-2895	C0013144	cyclobenzaprine	somnolence
+-2895	C0011253	cyclobenzaprine	delusions
+-2895	C0015170	cyclobenzaprine	euphoria
+-2895	C0233571	cyclobenzaprine	excitement
+-2891	C0012833	vitamin B12	dizziness
+-2891	C0003467	vitamin B12	anxiety
+-9034	C0003467	methohexital	anxiety
+-9034	C0085631	methohexital	agitation
+-9034	C0011206	methohexital	delirium
+-4919	C0220870	procyclidine	lightheadedness
+-4919	C0476207	procyclidine	giddiness
+-838	C0003467	epinephrine	anxiety
+-838	C0012833	epinephrine	dizziness
+-838	C0085631	epinephrine	agitation
+-4932	C0751295	propafenone	memory loss
+-4932	C0009676	propafenone	confusion
+-4932	C0002622	propafenone	amnesia
+-4932	C0012833	propafenone	dizziness
+-4932	C0003467	propafenone	anxiety
+-4932	C0013985	propafenone	emotional disturbances
+-4932	C0013144	propafenone	somnolence
+-5311297	C0085631	montelukast	agitation
+-5311297	C0022107	montelukast	irritability
+-5311297	C0003467	montelukast	anxiety
+-5311297	C0018524	montelukast	hallucinations
+-5311297	C0013144	montelukast	somnolence
+-4927	C0009676	promethazine	confusion
+-4927	C0011206	promethazine	delirium
+-4927	C0085631	promethazine	agitation
+-4927	C0015170	promethazine	euphoria
+-4927	C0012833	promethazine	dizziness
+-4927	C0018524	promethazine	hallucinations
+-4927	C0013144	promethazine	somnolence
+-4927	C0041654	promethazine	unconsciousness
+-41781	C0012833	torasemide	dizziness
+-4920	C0085628	progesterone	stupor
+-4920	C0009676	progesterone	confusion
+-4920	C0031212	progesterone	personality disorder
+-4920	C0011551	progesterone	depersonalization
+-4920	C0085633	progesterone	emotional lability
+-4920	C0022107	progesterone	irritability
+-4920	C0012833	progesterone	dizziness
+-4920	C0003467	progesterone	anxiety
+-4920	C0522172	progesterone	feeling drunk
+-4920	C0011570	progesterone	mental depression
+-4920	C0013144	progesterone	somnolence
+-4920	C0233481	progesterone	worry
+-4920	C1443060	progesterone	feeling abnormal
+-119607	C0012833	valdecoxib	dizziness
+-119607	C0003467	valdecoxib	anxiety
+-119607	C0009676	valdecoxib	confusion
+-119607	C0013144	valdecoxib	somnolence
+-119607	C0564408	valdecoxib	manic
+-4917	C0013144	prochlorperazine	somnolence
+-4917	C0012833	prochlorperazine	dizziness
+-4915	C0012833	procarbazine	dizziness
+-4915	C0013144	procarbazine	somnolence
+-4915	C0009676	procarbazine	confusion
+-4915	C0018524	procarbazine	hallucinations
+-4915	C0233485	procarbazine	apprehension
+-4914	C0233571	procaine	excitement
+-4914	C0085631	procaine	agitation
+-4914	C0041654	procaine	unconsciousness
+-4914	C0012833	procaine	dizziness
+-4914	C0003467	procaine	anxiety
+-4914	C0013144	procaine	somnolence
+-4913	C0012833	procainamide	dizziness
+-4913	C0018524	procainamide	hallucinations
+-4913	C0476207	procainamide	giddiness
+-4913	C0011570	procainamide	mental depression
+-4911	C0012833	probenecid	dizziness
+-4909	C0013144	primidone	somnolence
+-4909	C0013985	primidone	emotional disturbances
+-150311	C0012833	ezetimibe	dizziness
+-150310	C0012833	eplerenone	dizziness
+-3914	C0012833	levobunolol	dizziness
+-3914	C0009676	levobunolol	confusion
+-4894	C0085633	prednisolone	emotional lability
+-4894	C0015170	prednisolone	euphoria
+-4893	C0012833	prazosin	dizziness
+-4893	C0013144	prazosin	somnolence
+-4893	C0018524	prazosin	hallucinations
+-4893	C0003467	prazosin	anxiety
+-4891	C0012833	praziquantel	dizziness
+-4891	C0013144	praziquantel	somnolence
+-4889	C0012833	pravastatin	dizziness
+-4889	C0003467	pravastatin	anxiety
+-4889	C0751295	pravastatin	memory loss
+-4889	C0233794	pravastatin	memory impairment
+-4889	C0085633	pravastatin	emotional lability
+-60184	C0009676	perindopril	confusion
+-60184	C0338656	perindopril	cognitive dysfunction
+-60184	C0020903	perindopril	illusion
+-60184	C0085631	perindopril	agitation
+-60184	C0002622	perindopril	amnesia
+-60184	C0085633	perindopril	emotional lability
+-60184	C0012833	perindopril	dizziness
+-60184	C0003467	perindopril	anxiety
+-60184	C0013144	perindopril	somnolence
+-60184	C0233794	perindopril	memory impairment
+-4885	C0002622	pramipexole	amnesia
+-4885	C0085633	pramipexole	emotional lability
+-4885	C0085632	pramipexole	apathy
+-4885	C0011253	pramipexole	delusions
+-4885	C0011251	pramipexole	delusional disorder
+-4885	C0009676	pramipexole	confusion
+-4885	C0233414	pramipexole	disturbance in attention
+-4885	C0233514	pramipexole	abnormal behavior
+-4885	C0235146	pramipexole	feeling high
+-4885	C0012833	pramipexole	dizziness
+-4885	C0233762	pramipexole	auditory hallucinations
+-4885	C0233763	pramipexole	visual hallucinations
+-4885	C0009241	pramipexole	Cognitive Disorder
+-4885	C0085628	pramipexole	stupor
+-4885	C0031212	pramipexole	personality disorder
+-4885	C0003467	pramipexole	anxiety
+-4885	C0022107	pramipexole	irritability
+-4885	C0233794	pramipexole	memory impairment
+-4885	C0011206	pramipexole	delirium
+-4885	C0013144	pramipexole	somnolence
+-4885	C0152128	pramipexole	drug withdrawal
+-72467	C0009676	bleomycin	confusion
+-41744	C0022107	N-trifluoroacetyladriamycin-14-valerate	irritability
+-4873	C0009676	KCl	confusion
+-27400	C0013144	pizotifen	somnolence
+-27400	C0012833	pizotifen	dizziness
+-27400	C0009676	pizotifen	confusion
+-4870	C0012833	polythiazide	dizziness
+-4870	C0085631	polythiazide	agitation
+-772	C0009676	heparin	confusion
+-156419	C0012833	cinacalcet	dizziness
+-9571074	C0012833	cefditoren	dizziness
+-9571074	C0013144	cefditoren	somnolence
+-4865	C0012833	POD	dizziness
+-767	C0085628	bicarbonate	stupor
+-767	C0009676	bicarbonate	confusion
+-767	C0085631	bicarbonate	agitation
+-767	C0012833	bicarbonate	dizziness
+-767	C0018524	bicarbonate	hallucinations
+-767	C0476207	bicarbonate	giddiness
+-767	C0013144	bicarbonate	somnolence
+-767	C0233794	bicarbonate	memory impairment
+-8953	C0022107	sodium bicarbonate	irritability
+-4856	C0012833	piroxicam	dizziness
+-4856	C0003467	piroxicam	anxiety
+-4856	C0009676	piroxicam	confusion
+-4856	C0013144	piroxicam	somnolence
+-4856	C0018524	piroxicam	hallucinations
+-2806	C0012833	clopidogrel	dizziness
+-2806	C0003467	clopidogrel	anxiety
+-2806	C0009676	clopidogrel	confusion
+-2806	C0018524	clopidogrel	hallucinations
+-31477	C0012833	metipranolol	dizziness
+-31477	C0003467	metipranolol	anxiety
+-31477	C0013144	metipranolol	somnolence
+-5362420	C0012833	verteporfin	dizziness
+-60147	C0013144	tamsulosin	somnolence
+-60147	C0549239	tamsulosin	dizziness aggravated
+-2802	C0001969	clonazepam	drunkenness
+-2802	C0009676	clonazepam	confusion
+-2802	C0233571	clonazepam	excitement
+-2802	C0086132	clonazepam	depressive symptoms
+-2802	C0015170	clonazepam	euphoria
+-2802	C0085631	clonazepam	agitation
+-2802	C0002622	clonazepam	amnesia
+-2802	C0085633	clonazepam	emotional lability
+-2802	C0022107	clonazepam	irritability
+-2802	C0003467	clonazepam	anxiety
+-2802	C0018524	clonazepam	hallucinations
+-2802	C0522172	clonazepam	feeling drunk
+-2802	C0020903	clonazepam	illusion
+-2802	C0013144	clonazepam	somnolence
+-2802	C0011253	clonazepam	delusions
+-2802	C0085632	clonazepam	apathy
+-2802	C0233795	clonazepam	anterograde amnesia
+-2802	C0233794	clonazepam	memory impairment
+-2801	C0085628	clomipramine	stupor
+-2801	C0009676	clomipramine	confusion
+-2801	C0564408	clomipramine	manic
+-2801	C0011206	clomipramine	delirium
+-2801	C0233632	clomipramine	thinking abnormal
+-2801	C0011551	clomipramine	depersonalization
+-2801	C0015170	clomipramine	euphoria
+-2801	C0085631	clomipramine	agitation
+-2801	C0085633	clomipramine	emotional lability
+-2801	C0022107	clomipramine	irritability
+-2801	C0012833	clomipramine	dizziness
+-2801	C0003467	clomipramine	anxiety
+-2801	C0018524	clomipramine	hallucinations
+-2801	C0233773	clomipramine	hypnagogic hallucinations
+-2801	C0020903	clomipramine	illusion
+-2801	C0013144	clomipramine	somnolence
+-2801	C0011253	clomipramine	delusions
+-2801	C0085632	clomipramine	apathy
+-2801	C0233794	clomipramine	memory impairment
+-2800	C0012833	clomiphene citrate	dizziness
+-2800	C0003467	clomiphene citrate	anxiety
+-2800	C0022107	clomiphene citrate	irritability
+-750	C0220870	GLY	lightheadedness
+-4845	C0012833	pirbuterol	dizziness
+-4845	C0003467	pirbuterol	anxiety
+-4845	C0009676	pirbuterol	confusion
+-4845	C0013144	pirbuterol	somnolence
+-2794	C0012833	clofazimine	dizziness
+-2794	C0013144	clofazimine	somnolence
+-2794	C0476207	clofazimine	giddiness
+-807	C0085628	iodine	stupor
+-807	C0009676	iodine	confusion
+-807	C0002624	iodine	Retrograde amnesia
+-807	C0085631	iodine	agitation
+-807	C0002622	iodine	amnesia
+-807	C0012833	iodine	dizziness
+-807	C0003467	iodine	anxiety
+-807	C0018524	iodine	hallucinations
+-807	C0476207	iodine	giddiness
+-807	C0013144	iodine	somnolence
+-158440	C0009676	gadofosveset trisodium	confusion
+-158440	C0031315	gadofosveset trisodium	phantom limb
+-158440	C0085631	gadofosveset trisodium	agitation
+-158440	C0012833	gadofosveset trisodium	dizziness
+-158440	C0003467	gadofosveset trisodium	anxiety
+-158440	C0018524	gadofosveset trisodium	hallucinations
+-158440	C0013144	gadofosveset trisodium	somnolence
+-158440	C1443059	gadofosveset trisodium	abnormal feeling
+-176870	C0012833	erlotinib	dizziness
+-176870	C0003467	erlotinib	anxiety
+-60198	C0012833	exemestane	dizziness
+-60198	C0003467	exemestane	anxiety
+-60198	C0009676	exemestane	confusion
+-2786	C0012833	clindamycin	dizziness
+-2786	C0003467	clindamycin	anxiety
+-2786	C0497293	clindamycin	dizziness and vertigo
+-148192	C0009676	DR7	confusion
+-148192	C0085631	DR7	agitation
+-148192	C0002622	DR7	amnesia
+-148192	C0085633	DR7	emotional lability
+-148192	C0012833	DR7	dizziness
+-148192	C0003467	DR7	anxiety
+-148192	C0018524	DR7	hallucinations
+-148192	C0013144	DR7	somnolence
+-131536	C0525045	fosamprenavir	mood disorders
+-41693	C0013144	sufentanil	somnolence
+-41693	C0012833	sufentanil	dizziness
+-41693	C0009676	sufentanil	confusion
+-41693	C0015170	sufentanil	euphoria
+-4828	C0751295	pindolol	memory loss
+-4828	C0009676	pindolol	confusion
+-4828	C0085633	pindolol	emotional lability
+-4828	C0012833	pindolol	dizziness
+-4828	C0003467	pindolol	anxiety
+-4828	C0018524	pindolol	hallucinations
+-4828	C0011570	pindolol	mental depression
+-4828	C0013144	pindolol	somnolence
+-4828	C0220870	pindolol	lightheadedness
+-727	C0012833	lindane	dizziness
+-123606	C0086132	almotriptan	depressive symptoms
+-123606	C0085631	almotriptan	agitation
+-123606	C0015170	almotriptan	euphoria
+-123606	C0012833	almotriptan	dizziness
+-123606	C0003467	almotriptan	anxiety
+-123606	C0013144	almotriptan	somnolence
+-2771	C0002622	citalopram	amnesia
+-2771	C0085633	citalopram	emotional lability
+-2771	C0011253	citalopram	delusions
+-2771	C0009676	citalopram	confusion
+-2771	C0564408	citalopram	manic
+-2771	C0012833	citalopram	dizziness
+-2771	C0233762	citalopram	auditory hallucinations
+-2771	C0233763	citalopram	visual hallucinations
+-2771	C0085628	citalopram	stupor
+-2771	C0031212	citalopram	personality disorder
+-2771	C0011551	citalopram	depersonalization
+-2771	C0085632	citalopram	apathy
+-2771	C0011206	citalopram	delirium
+-2771	C0233632	citalopram	thinking abnormal
+-2771	C0015170	citalopram	euphoria
+-2771	C0018524	citalopram	hallucinations
+-2771	C0013144	citalopram	somnolence
+-2771	C0233469	citalopram	emotional indifference
+-2771	C0002957	citalopram	anger
+-2769	C0009676	cisapride	confusion
+-2769	C0002622	cisapride	amnesia
+-2769	C0085632	cisapride	apathy
+-2769	C0012833	cisapride	dizziness
+-2769	C0003467	cisapride	anxiety
+-2769	C0018524	cisapride	hallucinations
+-2769	C0013144	cisapride	somnolence
+-5311181	C0012833	iloprost	dizziness
+-2764	C0009676	ciprofloxacin	confusion
+-2764	C0564408	ciprofloxacin	manic
+-2764	C0233414	ciprofloxacin	disturbance in attention
+-2764	C0011206	ciprofloxacin	delirium
+-2764	C0085631	ciprofloxacin	agitation
+-2764	C0011551	ciprofloxacin	depersonalization
+-2764	C0022107	ciprofloxacin	irritability
+-2764	C0012833	ciprofloxacin	dizziness
+-2764	C0003467	ciprofloxacin	anxiety
+-2764	C0018524	ciprofloxacin	hallucinations
+-2764	C0013144	ciprofloxacin	somnolence
+-2764	C0085632	ciprofloxacin	apathy
+-2764	C0220870	ciprofloxacin	lightheadedness
+-2762	C0012833	cinoxacin	dizziness
+-2762	C0013144	cinoxacin	somnolence
+-2762	C0085631	cinoxacin	agitation
+-2762	C0003467	cinoxacin	anxiety
+-122316	C0085628	Ras	stupor
+-122316	C0009676	Ras	confusion
+-122316	C0564408	Ras	manic
+-122316	C0031212	Ras	personality disorder
+-122316	C0011206	Ras	delirium
+-122316	C0085631	Ras	agitation
+-122316	C0002622	Ras	amnesia
+-122316	C0085633	Ras	emotional lability
+-122316	C0085632	Ras	apathy
+-122316	C0012833	Ras	dizziness
+-122316	C0003467	Ras	anxiety
+-122316	C0018524	Ras	hallucinations
+-122316	C0013144	Ras	somnolence
+-122316	C0011253	Ras	delusions
+-5487301	C0012833	tegaserod	dizziness
+-5487301	C0085631	tegaserod	agitation
+-5487301	C0085633	tegaserod	emotional lability
+-5493444	C0012833	aliskiren	dizziness
+-2751	C0013144	cilazapril	somnolence
+-2751	C0003467	cilazapril	anxiety
+-2751	C0009676	cilazapril	confusion
+-2751	C0012833	cilazapril	dizziness
+-2274	C0012833	aztreonam	dizziness
+-2274	C0009676	aztreonam	confusion
+-2733	C0013144	chlorzoxazone	somnolence
+-2733	C0012833	chlorzoxazone	dizziness
+-2733	C0220870	chlorzoxazone	lightheadedness
+-2732	C0012833	chlorthalidone	dizziness
+-2732	C0085631	chlorthalidone	agitation
+-681	C0003467	dopamine	anxiety
+-2727	C0012833	chlorpropamide	dizziness
+-2726	C0013144	chlorpromazine	somnolence
+-2726	C0012833	chlorpromazine	dizziness
+-2725	C0009676	chlorpheniramine	confusion
+-2725	C0085631	chlorpheniramine	agitation
+-2725	C0015170	chlorpheniramine	euphoria
+-2725	C0012833	chlorpheniramine	dizziness
+-2725	C0013144	chlorpheniramine	somnolence
+-2725	C0022107	chlorpheniramine	irritability
+-4771	C0012833	phentermine	dizziness
+-4771	C0233477	phentermine	dysphoria
+-4771	C0085631	phentermine	agitation
+-4771	C0015170	phentermine	euphoria
+-2720	C0012833	chlorothiazide	dizziness
+-2720	C0085631	chlorothiazide	agitation
+-2719	C0011206	chloroquine	delirium
+-2712	C0013144	chlordiazepoxide	somnolence
+-2712	C0009676	chlordiazepoxide	confusion
+-2708	C0009676	chlorambucil	confusion
+-2708	C0085631	chlorambucil	agitation
+-2708	C0018524	chlorambucil	hallucinations
+-64147	C0009676	valganciclovir	confusion
+-64147	C0233632	valganciclovir	thinking abnormal
+-64147	C0085631	valganciclovir	agitation
+-64147	C0002622	valganciclovir	amnesia
+-64147	C0012833	valganciclovir	dizziness
+-64147	C0003467	valganciclovir	anxiety
+-64147	C0018524	valganciclovir	hallucinations
+-64147	C0013985	valganciclovir	emotional disturbances
+-64147	C0013144	valganciclovir	somnolence
+-19090	C0233632	megestrol	thinking abnormal
+-19090	C0009676	megestrol	confusion
+-4748	C0013144	perphenazine	somnolence
+-4748	C0233571	perphenazine	excitement
+-4748	C0009676	perphenazine	confusion
+-4748	C0085631	perphenazine	agitation
+-4748	C0012833	perphenazine	dizziness
+-4745	C0085628	pergolide	stupor
+-4745	C0009676	pergolide	confusion
+-4745	C0564408	pergolide	manic
+-4745	C0031212	pergolide	personality disorder
+-4745	C0011206	pergolide	delirium
+-4745	C0233632	pergolide	thinking abnormal
+-4745	C0085631	pergolide	agitation
+-4745	C0002622	pergolide	amnesia
+-4745	C0085633	pergolide	emotional lability
+-4745	C0015170	pergolide	euphoria
+-4745	C0012833	pergolide	dizziness
+-4745	C0003467	pergolide	anxiety
+-4745	C0018524	pergolide	hallucinations
+-4745	C0013144	pergolide	somnolence
+-4745	C0011253	pergolide	delusions
+-4745	C0085632	pergolide	apathy
+-5493381	C0012833	ICL670	dizziness
+-5493381	C0003467	ICL670	anxiety
+-4740	C0009676	pentoxifylline	confusion
+-4740	C0085631	pentoxifylline	agitation
+-4740	C0012833	pentoxifylline	dizziness
+-4740	C0003467	pentoxifylline	anxiety
+-4740	C0013144	pentoxifylline	somnolence
+-4740	C0220870	pentoxifylline	lightheadedness
+-4739	C0009676	DCF	confusion
+-4739	C0233632	DCF	thinking abnormal
+-4739	C0002622	DCF	amnesia
+-4739	C0085633	DCF	emotional lability
+-4739	C0012833	DCF	dizziness
+-4739	C0003467	DCF	anxiety
+-4739	C0018524	DCF	hallucinations
+-4739	C0013144	DCF	somnolence
+-4178	C0751295	mexiletine	memory loss
+-4178	C0009676	mexiletine	confusion
+-4178	C0012833	mexiletine	dizziness
+-4178	C0018524	mexiletine	hallucinations
+-4178	C0013144	mexiletine	somnolence
+-4178	C0220870	mexiletine	lightheadedness
+-4736	C0009676	pentazocine	confusion
+-4736	C0233571	pentazocine	excitement
+-4736	C0022107	pentazocine	irritability
+-4736	C0012833	pentazocine	dizziness
+-4736	C0018524	pentazocine	hallucinations
+-4736	C0015170	pentazocine	euphoria
+-4736	C0220870	pentazocine	lightheadedness
+-4727	C0003467	D-penicillamine	anxiety
+-4727	C0085631	D-penicillamine	agitation
+-2678	C0009676	cetirizine	confusion
+-2678	C0233632	cetirizine	thinking abnormal
+-2678	C0011551	cetirizine	depersonalization
+-2678	C0085631	cetirizine	agitation
+-2678	C0002622	cetirizine	amnesia
+-2678	C0085633	cetirizine	emotional lability
+-2678	C0022107	cetirizine	irritability
+-2678	C0012833	cetirizine	dizziness
+-2678	C0003467	cetirizine	anxiety
+-2678	C0018524	cetirizine	hallucinations
+-2678	C0013144	cetirizine	somnolence
+-2678	C0015170	cetirizine	euphoria
+-20585	C0012833	choline theophyllinate	dizziness
+-20585	C0233571	choline theophyllinate	excitement
+-20585	C0220870	choline theophyllinate	lightheadedness
+-20585	C0085631	choline theophyllinate	agitation
+-20585	C0022107	choline theophyllinate	irritability
+-2676	C0012833	cerivastatin	dizziness
+-2676	C0003467	cerivastatin	anxiety
+-2676	C0751295	cerivastatin	memory loss
+-2676	C0013144	cerivastatin	somnolence
+-4723	C0012833	pemoline	dizziness
+-4723	C0013144	pemoline	somnolence
+-4723	C0018524	pemoline	hallucinations
+-4723	C0022107	pemoline	irritability
+-2673	C0012833	cephradine	dizziness
+-47725	C0012833	goserelin	dizziness
+-47725	C0003467	goserelin	anxiety
+-47725	C0751295	goserelin	memory loss
+-47725	C0085633	goserelin	emotional lability
+-2666	C0012833	cephalexin	dizziness
+-2666	C0009676	cephalexin	confusion
+-2666	C0085631	cephalexin	agitation
+-2666	C0018524	cephalexin	hallucinations
+-2662	C0012833	celecoxib	dizziness
+-2662	C0003467	celecoxib	anxiety
+-2662	C0009676	celecoxib	confusion
+-2662	C0013144	celecoxib	somnolence
+-2662	C0018524	celecoxib	hallucinations
+-2658	C0013144	cefuroxime	somnolence
+-2658	C0012833	cefuroxime	dizziness
+-2658	C0022107	cefuroxime	irritability
+-2656	C0012833	ceftriaxone	dizziness
+-2654	C0012833	cephem	dizziness
+-2654	C0013144	cephem	somnolence
+-2654	C0085631	cephem	agitation
+-2654	C0022107	cephem	irritability
+-4475485	C0012833	rosuvastatin	dizziness
+-4475485	C0003467	rosuvastatin	anxiety
+-4475485	C0751295	rosuvastatin	memory loss
+-2650	C0012833	ceftazidime	dizziness
+-598	C0012833	mesna	dizziness
+-598	C0013144	mesna	somnolence
+-598	C0009676	mesna	confusion
+-598	C0003467	mesna	anxiety
+-596	C0751295	cytosine arabinoside	memory loss
+-596	C0009676	cytosine arabinoside	confusion
+-596	C0338656	cytosine arabinoside	cognitive dysfunction
+-596	C0085631	cytosine arabinoside	agitation
+-596	C0012833	cytosine arabinoside	dizziness
+-596	C0003467	cytosine arabinoside	anxiety
+-596	C0013144	cytosine arabinoside	somnolence
+-596	C0233794	cytosine arabinoside	memory impairment
+-4691	C0085628	paroxetine	stupor
+-4691	C0009676	paroxetine	confusion
+-4691	C0011206	paroxetine	delirium
+-4691	C0233632	paroxetine	thinking abnormal
+-4691	C0424109	paroxetine	tearfulness
+-4691	C0002622	paroxetine	amnesia
+-4691	C0085633	paroxetine	emotional lability
+-4691	C0015170	paroxetine	euphoria
+-4691	C0018524	paroxetine	hallucinations
+-4691	C0013144	paroxetine	somnolence
+-4691	C0011253	paroxetine	delusions
+-5311048	C0233485	cisplatin	apprehension
+-5311048	C0022107	cisplatin	irritability
+-4679	C0009676	pantoprazole	confusion
+-4679	C0233632	pantoprazole	thinking abnormal
+-4679	C0085633	pantoprazole	emotional lability
+-4679	C0012833	pantoprazole	dizziness
+-4679	C0003467	pantoprazole	anxiety
+-4679	C0018524	pantoprazole	hallucinations
+-4679	C0011570	pantoprazole	mental depression
+-4679	C0013144	pantoprazole	somnolence
+-4679	C0233492	pantoprazole	elation
+-581	C0233632	N-acetylcysteine	thinking abnormal
+-581	C0233477	N-acetylcysteine	dysphoria
+-60854	C0009676	ziprasidone	confusion
+-60854	C0031212	ziprasidone	personality disorder
+-60854	C0011206	ziprasidone	delirium
+-60854	C0002622	ziprasidone	amnesia
+-60854	C0012833	ziprasidone	dizziness
+-60854	C0003467	ziprasidone	anxiety
+-60854	C0013144	ziprasidone	somnolence
+-60854	C0220870	ziprasidone	lightheadedness
+-4674	C0009676	pamidronate	confusion
+-4674	C0085631	pamidronate	agitation
+-4674	C0012833	pamidronate	dizziness
+-4674	C0003467	pamidronate	anxiety
+-4674	C0233763	pamidronate	visual hallucinations
+-4674	C0013144	pamidronate	somnolence
+-5311039	C0012833	caspofungin	dizziness
+-5311039	C0013144	caspofungin	somnolence
+-5311039	C0009676	caspofungin	confusion
+-5311039	C0003467	caspofungin	anxiety
+-2622	C0012833	cefepime	dizziness
+-2622	C0085628	cefepime	stupor
+-2622	C0009676	cefepime	confusion
+-2622	C0018524	cefepime	hallucinations
+-6398525	C0012833	sucralfate	dizziness
+-6398525	C0013144	sucralfate	somnolence
+-4666	C0012833	paclitaxel	dizziness
+-4666	C1291710	paclitaxel	mood alteration
+-4666	C0009676	paclitaxel	confusion
+-60852	C0012833	ibandronate	dizziness
+-564	C0012833	ACA	dizziness
+-564	C0009676	ACA	confusion
+-564	C0018524	ACA	hallucinations
+-564	C0011206	ACA	delirium
+-5311027	C0012833	bimatoprost	dizziness
+-5311027	C0003467	bimatoprost	anxiety
+-5311027	C0013144	bimatoprost	somnolence
+-2610	C0012833	cefadroxil	dizziness
+-2610	C0013144	cefadroxil	somnolence
+-2609	C0009676	cefaclor	confusion
+-2609	C0085631	cefaclor	agitation
+-2609	C0012833	cefaclor	dizziness
+-2609	C0003467	cefaclor	anxiety
+-2609	C0018524	cefaclor	hallucinations
+-2609	C0013144	cefaclor	somnolence
+-3062316	C0012833	dasatinib	dizziness
+-3062316	C0013144	dasatinib	somnolence
+-3062316	C0009676	dasatinib	confusion
+-3062316	C0002622	dasatinib	amnesia
+-3062316	C0003467	dasatinib	anxiety
+-51634	C0012833	N-butyldeoxynojirimycin	dizziness
+-51634	C0751295	N-butyldeoxynojirimycin	memory loss
+-51634	C0233794	N-butyldeoxynojirimycin	memory impairment
+-14888	C0012833	arsenic trioxide	dizziness
+-14888	C0013144	arsenic trioxide	somnolence
+-14888	C0009676	arsenic trioxide	confusion
+-14888	C0085631	arsenic trioxide	agitation
+-14888	C0003467	arsenic trioxide	anxiety
+-4724	C0012833	penbutolol	dizziness
+-4724	C0751295	penbutolol	memory loss
+-4724	C0085633	penbutolol	emotional lability
+-4724	C0011570	penbutolol	mental depression
+-115237	C0012833	9-hydroxyrisperidone	dizziness
+-115237	C0013144	9-hydroxyrisperidone	somnolence
+-115237	C0009676	9-hydroxyrisperidone	confusion
+-115237	C0085631	9-hydroxyrisperidone	agitation
+-115237	C0003467	9-hydroxyrisperidone	anxiety
+-6691	C0012833	warfarin	dizziness
+-4638	C0022107	oxymetholone	irritability
+-4635	C0013220	oxycodone	drug tolerance
+-4635	C0085628	oxycodone	stupor
+-4635	C0009676	oxycodone	confusion
+-4635	C0031212	oxycodone	personality disorder
+-4635	C0011206	oxycodone	delirium
+-4635	C0011551	oxycodone	depersonalization
+-4635	C0085631	oxycodone	agitation
+-4635	C0002622	oxycodone	amnesia
+-4635	C0085633	oxycodone	emotional lability
+-4635	C0015170	oxycodone	euphoria
+-4635	C0012833	oxycodone	dizziness
+-4635	C0003467	oxycodone	anxiety
+-4635	C0018524	oxycodone	hallucinations
+-4635	C0233477	oxycodone	dysphoria
+-4635	C0013144	oxycodone	somnolence
+-4635	C0220870	oxycodone	lightheadedness
+-4635	C0152128	oxycodone	drug withdrawal
+-4634	C0009676	oxybutynin	confusion
+-4634	C0233632	oxybutynin	thinking abnormal
+-4634	C0011551	oxybutynin	depersonalization
+-4634	C0002622	oxybutynin	amnesia
+-4634	C0003467	oxybutynin	anxiety
+-2585	C0009676	carvedilol	confusion
+-2585	C0233632	carvedilol	thinking abnormal
+-2585	C0002622	carvedilol	amnesia
+-2585	C0085633	carvedilol	emotional lability
+-2585	C0012833	carvedilol	dizziness
+-2585	C0013144	carvedilol	somnolence
+-2583	C0012833	carteolol	dizziness
+-2578	C0085628	BCNU	stupor
+-2578	C0009676	BCNU	confusion
+-2578	C0031212	BCNU	personality disorder
+-2578	C0233632	BCNU	thinking abnormal
+-2578	C0085631	BCNU	agitation
+-2578	C0002622	BCNU	amnesia
+-2578	C0012833	BCNU	dizziness
+-2578	C0003467	BCNU	anxiety
+-2578	C0018524	BCNU	hallucinations
+-2578	C0013144	BCNU	somnolence
+-37393	C0012833	halofantrine	dizziness
+-37393	C0009676	halofantrine	confusion
+-2576	C0013144	RelA	somnolence
+-2576	C0012833	RelA	dizziness
+-2576	C0085631	RelA	agitation
+-2576	C0022107	RelA	irritability
+-2818	C0751295	clozapine	memory loss
+-2818	C0009676	clozapine	confusion
+-2818	C0011206	clozapine	delirium
+-2818	C0085631	clozapine	agitation
+-2818	C0002622	clozapine	amnesia
+-2818	C0022107	clozapine	irritability
+-2818	C0012833	clozapine	dizziness
+-2818	C0003467	clozapine	anxiety
+-2818	C0018524	clozapine	hallucinations
+-2818	C0013144	clozapine	somnolence
+-2818	C0011253	clozapine	delusions
+-4616	C0085628	oxazepam	stupor
+-4616	C0233571	oxazepam	excitement
+-4616	C0015170	oxazepam	euphoria
+-4616	C0012833	oxazepam	dizziness
+-4616	C0018524	oxazepam	hallucinations
+-4616	C0013144	oxazepam	somnolence
+-4616	C0233794	oxazepam	memory impairment
+-4616	C0233796	oxazepam	transient amnesia
+-4614	C0012833	oxaprozin	dizziness
+-4614	C0013144	oxaprozin	somnolence
+-4614	C0009676	oxaprozin	confusion
+-4614	C0018524	oxaprozin	hallucinations
+-4614	C0003467	oxaprozin	anxiety
+-2564	C0009676	carbinoxamine	confusion
+-2564	C0085631	carbinoxamine	agitation
+-2564	C0015170	carbinoxamine	euphoria
+-2564	C0012833	carbinoxamine	dizziness
+-2564	C0013144	carbinoxamine	somnolence
+-2564	C0022107	carbinoxamine	irritability
+-3158	C0009676	doxepin	confusion
+-3158	C0012833	doxepin	dizziness
+-3158	C0018524	doxepin	hallucinations
+-3158	C0013144	doxepin	somnolence
+-3158	C0220870	doxepin	lightheadedness
+-4609	C0012833	oxaliplatin	dizziness
+-4609	C0003467	oxaliplatin	anxiety
+-4609	C0013144	oxaliplatin	somnolence
+-5353980	C0013144	sulfasalazine	somnolence
+-5353980	C0012833	sulfasalazine	dizziness
+-5353980	C0018524	sulfasalazine	hallucinations
+-5353980	C0011570	sulfasalazine	mental depression
+-4603	C0009676	oseltamivir	confusion
+-4603	C0011206	oseltamivir	delirium
+-4603	C0233514	oseltamivir	abnormal behavior
+-4603	C0085631	oseltamivir	agitation
+-4603	C0012833	oseltamivir	dizziness
+-4603	C0003467	oseltamivir	anxiety
+-4603	C0018524	oseltamivir	hallucinations
+-4603	C0011253	oseltamivir	delusions
+-2554	C0009676	carbamazepine	confusion
+-2554	C0011551	carbamazepine	depersonalization
+-2554	C0085631	carbamazepine	agitation
+-2554	C0002622	carbamazepine	amnesia
+-2554	C0012833	carbamazepine	dizziness
+-2554	C0003467	carbamazepine	anxiety
+-2554	C0018524	carbamazepine	hallucinations
+-2554	C0233763	carbamazepine	visual hallucinations
+-2554	C0013144	carbamazepine	somnolence
+-2554	C0233794	carbamazepine	memory impairment
+-4601	C0012833	orphenadrine	dizziness
+-4601	C0013144	orphenadrine	somnolence
+-4601	C0018524	orphenadrine	hallucinations
+-4601	C0085631	orphenadrine	agitation
+-4601	C0009676	orphenadrine	confusion
+-4599	C0012833	orlistat	dizziness
+-4599	C0003467	orlistat	anxiety
+-2550	C0012833	captopril	dizziness
+-2550	C0013144	captopril	somnolence
+-2550	C0009676	captopril	confusion
+-4595	C0013144	ondansetron	somnolence
+-4595	C0012833	ondansetron	dizziness
+-4595	C0085631	ondansetron	agitation
+-4595	C0003467	ondansetron	anxiety
+-4594	C0009676	omeprazole	confusion
+-4594	C0085631	omeprazole	agitation
+-4594	C0022107	omeprazole	irritability
+-4594	C0012833	omeprazole	dizziness
+-4594	C0003467	omeprazole	anxiety
+-4594	C0018524	omeprazole	hallucinations
+-4594	C0013144	omeprazole	somnolence
+-4594	C0085632	omeprazole	apathy
+-2541	C0012833	candesartan	dizziness
+-2541	C0003467	candesartan	anxiety
+-2541	C0013144	candesartan	somnolence
+-150610	C0085628	ertapenem	stupor
+-150610	C0009676	ertapenem	confusion
+-150610	C0085631	ertapenem	agitation
+-150610	C0012833	ertapenem	dizziness
+-150610	C0003467	ertapenem	anxiety
+-150610	C0018524	ertapenem	hallucinations
+-150610	C0013144	ertapenem	somnolence
+-4585	C0085628	olanzapine	stupor
+-4585	C0009676	olanzapine	confusion
+-4585	C0031212	olanzapine	personality disorder
+-4585	C0011206	olanzapine	delirium
+-4585	C0233632	olanzapine	thinking abnormal
+-4585	C0011551	olanzapine	depersonalization
+-4585	C0002622	olanzapine	amnesia
+-4585	C0085633	olanzapine	emotional lability
+-4585	C0085632	olanzapine	apathy
+-4585	C0012833	olanzapine	dizziness
+-4585	C0003467	olanzapine	anxiety
+-4585	C0018524	olanzapine	hallucinations
+-4585	C0013144	olanzapine	somnolence
+-4585	C0011253	olanzapine	delusions
+-4585	C0015170	olanzapine	euphoria
+-3475	C0012833	gliclazide	dizziness
+-3475	C0013144	gliclazide	somnolence
+-3475	C0009676	gliclazide	confusion
+-3475	C0003467	gliclazide	anxiety
+-4583	C0085628	ofloxacin	stupor
+-4583	C0009676	ofloxacin	confusion
+-4583	C0564408	ofloxacin	manic
+-4583	C0011206	ofloxacin	delirium
+-4583	C0085631	ofloxacin	agitation
+-4583	C0002622	ofloxacin	amnesia
+-4583	C0085633	ofloxacin	emotional lability
+-4583	C0015170	ofloxacin	euphoria
+-4583	C0012833	ofloxacin	dizziness
+-4583	C0003467	ofloxacin	anxiety
+-4583	C0018524	ofloxacin	hallucinations
+-4583	C0013144	ofloxacin	somnolence
+-4583	C0220870	ofloxacin	lightheadedness
+-197712	C0012833	ambrisentan	dizziness
+-2524	C0013144	calcitriol	somnolence
+-2524	C0233485	calcitriol	apprehension
+-2524	C0085631	calcitriol	agitation
+-2524	C0085632	calcitriol	apathy
+-2520	C0012833	verapamil	dizziness
+-2520	C0013144	verapamil	somnolence
+-2520	C0009676	verapamil	confusion
+-2520	C0086132	verapamil	depressive symptoms
+-2761171	C0013144	ethionamide	somnolence
+-2761171	C0012833	ethionamide	dizziness
+-2761171	C0085631	ethionamide	agitation
+-2761171	C0011570	ethionamide	mental depression
+-2512	C0009676	cabergoline	confusion
+-2512	C0012833	cabergoline	dizziness
+-2512	C0003467	cabergoline	anxiety
+-2512	C0018524	cabergoline	hallucinations
+-2512	C0013144	cabergoline	somnolence
+-2512	C0011253	cabergoline	delusions
+-2512	C0220870	cabergoline	lightheadedness
+-65999	C0012833	telmisartan	dizziness
+-65999	C0013144	telmisartan	somnolence
+-65999	C0003467	telmisartan	anxiety
+-5403	C0012833	terbutaline	dizziness
+-5403	C0013144	terbutaline	somnolence
+-5403	C0003467	terbutaline	anxiety
+-154059	C0012833	solifenacin succinate	dizziness
+-154059	C0009676	solifenacin succinate	confusion
+-154059	C0018524	solifenacin succinate	hallucinations
+-154059	C0011570	solifenacin succinate	mental depression
+-3016	C0085628	diazepam	stupor
+-3016	C0009676	diazepam	confusion
+-3016	C0233632	diazepam	thinking abnormal
+-3016	C0002622	diazepam	amnesia
+-3016	C0085633	diazepam	emotional lability
+-3016	C0022107	diazepam	irritability
+-3016	C0012833	diazepam	dizziness
+-3016	C0235113	diazepam	emotional poverty
+-3016	C0018524	diazepam	hallucinations
+-3016	C0013144	diazepam	somnolence
+-3016	C0011253	diazepam	delusions
+-3016	C0015170	diazepam	euphoria
+-3016	C0233795	diazepam	anterograde amnesia
+-3016	C0233794	diazepam	memory impairment
+-3016	C0002957	diazepam	anger
+-147912	C0085628	posaconazole	stupor
+-147912	C0009676	posaconazole	confusion
+-147912	C0011206	posaconazole	delirium
+-147912	C0085631	posaconazole	agitation
+-147912	C0002622	posaconazole	amnesia
+-147912	C0085633	posaconazole	emotional lability
+-147912	C0012833	posaconazole	dizziness
+-147912	C0003467	posaconazole	anxiety
+-147912	C0013144	posaconazole	somnolence
+-147912	C0233794	posaconazole	memory impairment
+-453	C0012833	mannitol	dizziness
+-450	C0085631	estradiol	agitation
+-450	C0002622	estradiol	amnesia
+-450	C0085633	estradiol	emotional lability
+-450	C0022107	estradiol	irritability
+-450	C0012833	estradiol	dizziness
+-450	C0003467	estradiol	anxiety
+-450	C0013985	estradiol	emotional disturbances
+-450	C0011570	estradiol	mental depression
+-450	C0013144	estradiol	somnolence
+-2123	C0012833	HTM	dizziness
+-2123	C0525045	HTM	mood disorders
+-4543	C0009676	nortriptyline	confusion
+-4543	C0085631	nortriptyline	agitation
+-4543	C0012833	nortriptyline	dizziness
+-4543	C0003467	nortriptyline	anxiety
+-4543	C0018524	nortriptyline	hallucinations
+-4543	C0013144	nortriptyline	somnolence
+-4543	C0011253	nortriptyline	delusions
+-4542	C0344315	levonorgestrel	depressed mood
+-4542	C0424109	levonorgestrel	tearfulness
+-4542	C0085633	levonorgestrel	emotional lability
+-4542	C0012833	levonorgestrel	dizziness
+-4542	C0003467	levonorgestrel	anxiety
+-4542	C0013144	levonorgestrel	somnolence
+-4542	C0220870	levonorgestrel	lightheadedness
+-444	C0002622	bupropion	amnesia
+-444	C0085633	bupropion	emotional lability
+-444	C0022107	bupropion	irritability
+-444	C0011253	bupropion	delusions
+-444	C0009676	bupropion	confusion
+-444	C0564408	bupropion	manic
+-444	C0233414	bupropion	disturbance in attention
+-444	C0086132	bupropion	depressive symptoms
+-444	C0235146	bupropion	feeling high
+-444	C0012833	bupropion	dizziness
+-444	C0233762	bupropion	auditory hallucinations
+-444	C0011551	bupropion	depersonalization
+-444	C0003467	bupropion	anxiety
+-444	C0085632	bupropion	apathy
+-444	C0233794	bupropion	memory impairment
+-444	C0011206	bupropion	delirium
+-444	C0233632	bupropion	thinking abnormal
+-444	C0015170	bupropion	euphoria
+-444	C0018524	bupropion	hallucinations
+-444	C0013144	bupropion	somnolence
+-444	C0002957	bupropion	anger
+-444	C1443060	bupropion	feeling abnormal
+-4539	C0009676	norfloxacin	confusion
+-4539	C0152183	norfloxacin	explosive personality disorder
+-4539	C0085631	norfloxacin	agitation
+-4539	C0015170	norfloxacin	euphoria
+-4539	C0012833	norfloxacin	dizziness
+-4539	C0003467	norfloxacin	anxiety
+-4539	C0018524	norfloxacin	hallucinations
+-4539	C0013144	norfloxacin	somnolence
+-4539	C0022107	norfloxacin	irritability
+-4539	C0220870	norfloxacin	lightheadedness
+-4536	C0012833	norethisterone	dizziness
+-4536	C0085633	norethisterone	emotional lability
+-2487	C0085628	butorphanol	stupor
+-2487	C0009676	butorphanol	confusion
+-2487	C0233632	butorphanol	thinking abnormal
+-2487	C0085631	butorphanol	agitation
+-2487	C0015170	butorphanol	euphoria
+-2487	C0012833	butorphanol	dizziness
+-2487	C0003467	butorphanol	anxiety
+-2487	C0018524	butorphanol	hallucinations
+-2487	C0233477	butorphanol	dysphoria
+-2487	C0013144	butorphanol	somnolence
+-2487	C0011253	butorphanol	delusions
+-2487	C0235131	butorphanol	floating feeling
+-4510	C0012833	nitroglycerin	dizziness
+-4510	C0220870	nitroglycerin	lightheadedness
+-4510	C0085631	nitroglycerin	agitation
+-5282226	C0003467	travoprost	anxiety
+-148211	C0012833	palonosetron	dizziness
+-148211	C0003467	palonosetron	anxiety
+-148211	C0013144	palonosetron	somnolence
+-148211	C0235146	palonosetron	feeling high
+-2478	C0009676	busulfan	confusion
+-2478	C0011206	busulfan	delirium
+-2478	C0085631	busulfan	agitation
+-2478	C0012833	busulfan	dizziness
+-2478	C0003467	busulfan	anxiety
+-2478	C0018524	busulfan	hallucinations
+-2478	C0013144	busulfan	somnolence
+-2477	C0085628	buspirone	stupor
+-2477	C0009676	buspirone	confusion
+-2477	C0233632	buspirone	thinking abnormal
+-2477	C0233571	buspirone	excitement
+-2477	C0235146	buspirone	feeling high
+-2477	C0011551	buspirone	depersonalization
+-2477	C0085633	buspirone	emotional lability
+-2477	C0015170	buspirone	euphoria
+-2477	C0018524	buspirone	hallucinations
+-2477	C0233477	buspirone	dysphoria
+-2477	C0013144	buspirone	somnolence
+-2477	C0002957	buspirone	anger
+-2476	C0009676	buprenorphine	confusion
+-2476	C0085631	buprenorphine	agitation
+-2476	C0011551	buprenorphine	depersonalization
+-2476	C0015170	buprenorphine	euphoria
+-2476	C0012833	buprenorphine	dizziness
+-2476	C0003467	buprenorphine	anxiety
+-2476	C0018524	buprenorphine	hallucinations
+-2476	C0233477	buprenorphine	dysphoria
+-2476	C0013144	buprenorphine	somnolence
+-2474	C0233571	bupivacaine	excitement
+-2474	C0085631	bupivacaine	agitation
+-2474	C0041654	bupivacaine	unconsciousness
+-2474	C0012833	bupivacaine	dizziness
+-2474	C0003467	bupivacaine	anxiety
+-2474	C0013144	bupivacaine	somnolence
+-2474	C0220870	bupivacaine	lightheadedness
+-2471	C0012833	bumetanide	dizziness
+-5353894	C0012833	pralidoxime	dizziness
+-5353894	C0013144	pralidoxime	somnolence
+-5353894	C0564408	pralidoxime	manic
+-5353894	C0233571	pralidoxime	excitement
+-8612	C0233571	2-chloroprocaine	excitement
+-8612	C0085631	2-chloroprocaine	agitation
+-8612	C0041654	2-chloroprocaine	unconsciousness
+-8612	C0012833	2-chloroprocaine	dizziness
+-8612	C0003467	2-chloroprocaine	anxiety
+-8612	C0013144	2-chloroprocaine	somnolence
+-4513	C0012833	nizatidine	dizziness
+-4513	C0013144	nizatidine	somnolence
+-4513	C0009676	nizatidine	confusion
+-4513	C0003467	nizatidine	anxiety
+-2462	C0009676	budesonide	confusion
+-2462	C0085631	budesonide	agitation
+-2462	C0002622	budesonide	amnesia
+-2462	C0085633	budesonide	emotional lability
+-2462	C0022107	budesonide	irritability
+-2462	C0012833	budesonide	dizziness
+-2462	C0003467	budesonide	anxiety
+-2462	C0013144	budesonide	somnolence
+-4509	C0012833	nitrofurantoin	dizziness
+-4509	C0013144	nitrofurantoin	somnolence
+-4509	C0009676	nitrofurantoin	confusion
+-4506	C0009676	nitrazepam	confusion
+-4506	C0011206	nitrazepam	delirium
+-4506	C0233571	nitrazepam	excitement
+-4506	C0085631	nitrazepam	agitation
+-4506	C0022107	nitrazepam	irritability
+-4506	C0012833	nitrazepam	dizziness
+-4506	C0233485	nitrazepam	apprehension
+-4506	C0018524	nitrazepam	hallucinations
+-4506	C0013144	nitrazepam	somnolence
+-4506	C0220870	nitrazepam	lightheadedness
+-3823	C0012833	ketoconazole	dizziness
+-3823	C0013144	ketoconazole	somnolence
+-4497	C0012833	nimodipine	dizziness
+-4497	C0220870	nimodipine	lightheadedness
+-119182	C0012833	CFB	dizziness
+-119182	C0013144	CFB	somnolence
+-119182	C0022107	CFB	irritability
+-119182	C0003467	CFB	anxiety
+-4493	C0012833	nilutamide	dizziness
+-4493	C0013144	nilutamide	somnolence
+-4493	C0003467	nilutamide	anxiety
+-2443	C0012833	bromocriptine	dizziness
+-2443	C0003467	bromocriptine	anxiety
+-2443	C0233763	bromocriptine	visual hallucinations
+-2443	C0013144	bromocriptine	somnolence
+-2443	C0011253	bromocriptine	delusions
+-2443	C0220870	bromocriptine	lightheadedness
+-2441	C0009676	compendium	confusion
+-2441	C0085631	compendium	agitation
+-2441	C0022107	compendium	irritability
+-2441	C0012833	compendium	dizziness
+-2441	C0018524	compendium	hallucinations
+-2441	C0013144	compendium	somnolence
+-2441	C0011253	compendium	delusions
+-2441	C0015170	compendium	euphoria
+-2441	C0233795	compendium	anterograde amnesia
+-2441	C0002957	compendium	anger
+-2441	C0233459	compendium	Emotional disorder
+-10631	C0751295	medroxyprogesterone	memory loss
+-10631	C0009676	medroxyprogesterone	confusion
+-10631	C0085631	medroxyprogesterone	agitation
+-10631	C0002622	medroxyprogesterone	amnesia
+-10631	C0085633	medroxyprogesterone	emotional lability
+-10631	C0022107	medroxyprogesterone	irritability
+-10631	C0012833	medroxyprogesterone	dizziness
+-10631	C0003467	medroxyprogesterone	anxiety
+-10631	C0011570	medroxyprogesterone	mental depression
+-10631	C0013144	medroxyprogesterone	somnolence
+-4485	C0009676	nifedipine	confusion
+-4485	C0002622	nifedipine	amnesia
+-4485	C0012833	nifedipine	dizziness
+-4485	C0003467	nifedipine	anxiety
+-4485	C0476207	nifedipine	giddiness
+-4485	C0013144	nifedipine	somnolence
+-4485	C0220870	nifedipine	lightheadedness
+-2435	C0012833	brimonidine	dizziness
+-2435	C0013144	brimonidine	somnolence
+-2435	C0003467	brimonidine	anxiety
+-2431	C0012833	bretylium	dizziness
+-2431	C0003467	bretylium	anxiety
+-2431	C0009676	bretylium	confusion
+-2431	C0220870	bretylium	lightheadedness
+-2431	C0085633	bretylium	emotional lability
+-170361	C0344315	varenicline	depressed mood
+-170361	C0233414	varenicline	disturbance in attention
+-170361	C0233632	varenicline	thinking abnormal
+-170361	C1306341	varenicline	Mental impairment
+-170361	C0235146	varenicline	feeling high
+-170361	C0085631	varenicline	agitation
+-170361	C0002622	varenicline	amnesia
+-170361	C0085633	varenicline	emotional lability
+-170361	C0022107	varenicline	irritability
+-170361	C0012833	varenicline	dizziness
+-170361	C0003467	varenicline	anxiety
+-170361	C0018524	varenicline	hallucinations
+-170361	C0233477	varenicline	dysphoria
+-170361	C0013144	varenicline	somnolence
+-170361	C0002957	varenicline	anger
+-170361	C0233459	varenicline	Emotional disorder
+-59768	C0009676	esmolol	confusion
+-59768	C0233632	esmolol	thinking abnormal
+-59768	C0085631	esmolol	agitation
+-59768	C0022107	esmolol	irritability
+-59768	C0012833	esmolol	dizziness
+-59768	C0003467	esmolol	anxiety
+-59768	C0013144	esmolol	somnolence
+-59768	C0220870	esmolol	lightheadedness
+-72054	C0009676	darifenacin	confusion
+-72054	C0233632	darifenacin	thinking abnormal
+-72054	C0022107	darifenacin	irritability
+-72054	C0012833	darifenacin	dizziness
+-72054	C0018524	darifenacin	hallucinations
+-72054	C0013144	darifenacin	somnolence
+-4659569	C0085632	tolcapone	apathy
+-4659569	C0009676	tolcapone	confusion
+-4659569	C0564408	tolcapone	manic
+-4659569	C0011206	tolcapone	delirium
+-4659569	C0233632	tolcapone	thinking abnormal
+-4659569	C0085631	tolcapone	agitation
+-4659569	C0002622	tolcapone	amnesia
+-4659569	C0085633	tolcapone	emotional lability
+-4659569	C0022107	tolcapone	irritability
+-4659569	C0012833	tolcapone	dizziness
+-4659569	C0003467	tolcapone	anxiety
+-4659569	C0018524	tolcapone	hallucinations
+-4659569	C0013144	tolcapone	somnolence
+-4659569	C0011253	tolcapone	delusions
+-4659569	C0015170	tolcapone	euphoria
+-4659568	C0009676	entacapone	confusion
+-4659568	C0233632	entacapone	thinking abnormal
+-4659568	C0085631	entacapone	agitation
+-4659568	C0002622	entacapone	amnesia
+-4659568	C0012833	entacapone	dizziness
+-4659568	C0003467	entacapone	anxiety
+-4659568	C0018524	entacapone	hallucinations
+-4659568	C0013144	entacapone	somnolence
+-4659568	C0011253	entacapone	delusions
+-4463	C0013144	nevirapine	somnolence
+-4463	C0152128	nevirapine	drug withdrawal
+-2405	C0009676	bisoprolol	confusion
+-2405	C0085631	bisoprolol	agitation
+-2405	C0085633	bisoprolol	emotional lability
+-2405	C0012833	bisoprolol	dizziness
+-2405	C0003467	bisoprolol	anxiety
+-2405	C0018524	bisoprolol	hallucinations
+-2405	C0011570	bisoprolol	mental depression
+-2405	C0013144	bisoprolol	somnolence
+-4451	C0012833	nelfinavir	dizziness
+-4451	C0003467	nelfinavir	anxiety
+-4451	C0013144	nelfinavir	somnolence
+-4451	C0085633	nelfinavir	emotional lability
+-4449	C0009676	nefazodone	confusion
+-4449	C0233632	nefazodone	thinking abnormal
+-4449	C0011551	nefazodone	depersonalization
+-4449	C0085633	nefazodone	emotional lability
+-4449	C0085632	nefazodone	apathy
+-4449	C0012833	nefazodone	dizziness
+-4449	C0003467	nefazodone	anxiety
+-4449	C0018524	nefazodone	hallucinations
+-4449	C0013144	nefazodone	somnolence
+-4449	C0015170	nefazodone	euphoria
+-4449	C0220870	nefazodone	lightheadedness
+-4449	C0233794	nefazodone	memory impairment
+-4440	C0009676	naratriptan	confusion
+-4440	C0235129	naratriptan	feeling strange
+-4440	C0085631	naratriptan	agitation
+-4440	C0012833	naratriptan	dizziness
+-4440	C0003467	naratriptan	anxiety
+-4440	C0018524	naratriptan	hallucinations
+-4440	C0013144	naratriptan	somnolence
+-153941	C0012833	ETV	dizziness
+-153941	C0013144	ETV	somnolence
+-4436	C0012833	naphazoline	dizziness
+-4436	C0013144	naphazoline	somnolence
+-3086672	C0012833	Mn-DPDP	dizziness
+-2381	C0013144	biperiden	somnolence
+-2381	C0085631	biperiden	agitation
+-2381	C0015170	biperiden	euphoria
+-4428	C0009676	naltrexone	confusion
+-4428	C0344315	naltrexone	depressed mood
+-4428	C0233414	naltrexone	disturbance in attention
+-4428	C0011206	naltrexone	delirium
+-4428	C0233632	naltrexone	thinking abnormal
+-4428	C0085631	naltrexone	agitation
+-4428	C0424109	naltrexone	tearfulness
+-4428	C0235146	naltrexone	feeling high
+-4428	C0022107	naltrexone	irritability
+-4428	C0012833	naltrexone	dizziness
+-4428	C0003467	naltrexone	anxiety
+-4428	C0018524	naltrexone	hallucinations
+-4428	C1306341	naltrexone	Mental impairment
+-4428	C0013144	naltrexone	somnolence
+-4428	C0015170	naltrexone	euphoria
+-738	C0012833	polyglutamine	dizziness
+-4425	C0233571	naloxone	excitement
+-4425	C0018524	naloxone	hallucinations
+-4425	C0085631	naloxone	agitation
+-4425	C0022107	naloxone	irritability
+-2375	C0012833	bicalutamide	dizziness
+-2375	C0003467	bicalutamide	anxiety
+-2375	C0009676	bicalutamide	confusion
+-2375	C0013144	bicalutamide	somnolence
+-508230	C0009676	mycophenolic acid	confusion
+-508230	C0011206	mycophenolic acid	delirium
+-508230	C0233632	mycophenolic acid	thinking abnormal
+-508230	C0085631	mycophenolic acid	agitation
+-508230	C0085633	mycophenolic acid	emotional lability
+-508230	C0012833	mycophenolic acid	dizziness
+-508230	C0003467	mycophenolic acid	anxiety
+-508230	C0018524	mycophenolic acid	hallucinations
+-508230	C0013144	mycophenolic acid	somnolence
+-4421	C0013144	Na	somnolence
+-4421	C0497293	Na	dizziness and vertigo
+-4419	C0009676	nalbuphine	confusion
+-4419	C0011551	nalbuphine	depersonalization
+-4419	C0085631	nalbuphine	agitation
+-4419	C0015170	nalbuphine	euphoria
+-4419	C0012833	nalbuphine	dizziness
+-4419	C0003467	nalbuphine	anxiety
+-4419	C0018524	nalbuphine	hallucinations
+-4419	C0233477	nalbuphine	dysphoria
+-4419	C0013144	nalbuphine	somnolence
+-4419	C0011253	nalbuphine	delusions
+-2369	C0085628	betaxolol	stupor
+-2369	C0009676	betaxolol	confusion
+-2369	C0233632	betaxolol	thinking abnormal
+-2369	C0002622	betaxolol	amnesia
+-2369	C0085633	betaxolol	emotional lability
+-2369	C0012833	betaxolol	dizziness
+-2369	C0003467	betaxolol	anxiety
+-2369	C0018524	betaxolol	hallucinations
+-2369	C0011570	betaxolol	mental depression
+-2369	C0751295	betaxolol	memory loss
+-2366	C0013144	betahistine	somnolence
+-59708	C0009676	levetiracetam	confusion
+-59708	C0344315	levetiracetam	depressed mood
+-59708	C0031212	levetiracetam	personality disorder
+-59708	C0233632	levetiracetam	thinking abnormal
+-59708	C0011551	levetiracetam	depersonalization
+-59708	C0015170	levetiracetam	euphoria
+-59708	C0233414	levetiracetam	disturbance in attention
+-59708	C0085631	levetiracetam	agitation
+-59708	C0002622	levetiracetam	amnesia
+-59708	C0085633	levetiracetam	emotional lability
+-59708	C0022107	levetiracetam	irritability
+-59708	C0012833	levetiracetam	dizziness
+-59708	C0003467	levetiracetam	anxiety
+-59708	C0018524	levetiracetam	hallucinations
+-59708	C0013144	levetiracetam	somnolence
+-59708	C0085632	levetiracetam	apathy
+-59708	C0233794	levetiracetam	memory impairment
+-4411	C0012833	nadolol	dizziness
+-4411	C0751295	nadolol	memory loss
+-4411	C0018524	nadolol	hallucinations
+-4411	C0085633	nadolol	emotional lability
+-4411	C0011570	nadolol	mental depression
+-4409	C0012833	nabumetone	dizziness
+-4409	C0013144	nabumetone	somnolence
+-4409	C0009676	nabumetone	confusion
+-4409	C0085631	nabumetone	agitation
+-4409	C0003467	nabumetone	anxiety
+-3915	C0013144	levocabastine	somnolence
+-2349	C0009676	penicillin G	confusion
+-2349	C0085631	penicillin G	agitation
+-2349	C0015170	penicillin G	euphoria
+-2349	C0012833	penicillin G	dizziness
+-2349	C0003467	penicillin G	anxiety
+-2349	C0233762	penicillin G	auditory hallucinations
+-2349	C0013144	penicillin G	somnolence
+-298	C0009676	chloramphenicol	confusion
+-298	C0011206	chloramphenicol	delirium
+-2344	C0085632	benztropine	apathy
+-2344	C0009676	benztropine	confusion
+-2344	C0233794	benztropine	memory impairment
+-2344	C0233763	benztropine	visual hallucinations
+-25419	C0009676	clodronate	confusion
+-25419	C0022107	clodronate	irritability
+-6435110	C0012833	ivermectin	dizziness
+-6435110	C0013144	ivermectin	somnolence
+-104741	C0012833	fulvestrant	dizziness
+-104741	C0003467	fulvestrant	anxiety
+-477468	C0012833	micafungin	dizziness
+-477468	C0013144	micafungin	somnolence
+-477468	C0003467	micafungin	anxiety
+-477468	C0011206	micafungin	delirium
+-1349907	C0013144	methimazole	somnolence
+-271	C0085628	calcium	stupor
+-271	C0009676	calcium	confusion
+-271	C0011206	calcium	delirium
+-2315	C0012833	bendrofluazide	dizziness
+-2315	C0085631	bendrofluazide	agitation
+-2092	C0012833	alfuzosin	dizziness
+-2308	C0220870	beclomethasone	lightheadedness
+-5282044	C0012833	tigecycline	dizziness
+-5282044	C0013144	tigecycline	somnolence
+-5282044	C0009676	tigecycline	confusion
+-4138	C0012833	methyldopa	dizziness
+-4138	C0220870	methyldopa	lightheadedness
+-12536	C0022107	apolar	irritability
+-3350	C0012833	finasteride	dizziness
+-3350	C0013144	finasteride	somnolence
+-4819	C0009676	pilocarpine	confusion
+-4819	C0233632	pilocarpine	thinking abnormal
+-4819	C0085631	pilocarpine	agitation
+-4819	C0085633	pilocarpine	emotional lability
+-4819	C0012833	pilocarpine	dizziness
+-4819	C0003467	pilocarpine	anxiety
+-4819	C0233763	pilocarpine	visual hallucinations
+-4819	C0013144	pilocarpine	somnolence
+-4819	C0011253	pilocarpine	delusions
+-2284	C0751295	baclofen	memory loss
+-2284	C0009676	baclofen	confusion
+-2284	C0233632	baclofen	thinking abnormal
+-2284	C0031212	baclofen	personality disorder
+-2284	C0233571	baclofen	excitement
+-2284	C0235146	baclofen	feeling high
+-2284	C0085631	baclofen	agitation
+-2284	C0002622	baclofen	amnesia
+-2284	C0085633	baclofen	emotional lability
+-2284	C0015170	baclofen	euphoria
+-2284	C0012833	baclofen	dizziness
+-2284	C0003467	baclofen	anxiety
+-2284	C0018524	baclofen	hallucinations
+-2284	C0233477	baclofen	dysphoria
+-2284	C0013144	baclofen	somnolence
+-2284	C0220870	baclofen	lightheadedness
+-82146	C0012833	bexarotene	dizziness
+-82146	C0009676	bexarotene	confusion
+-82146	C0085631	bexarotene	agitation
+-2269	C0012833	azithromycin	dizziness
+-2269	C0013144	azithromycin	somnolence
+-2269	C0022107	azithromycin	irritability
+-2269	C0085631	azithromycin	agitation
+-2269	C0003467	azithromycin	anxiety
+-2267	C0009676	azelastine	confusion
+-2267	C0233632	azelastine	thinking abnormal
+-2267	C0011551	azelastine	depersonalization
+-2267	C0012833	azelastine	dizziness
+-2267	C0003467	azelastine	anxiety
+-2267	C0013144	azelastine	somnolence
+-214	C0012833	prostaglandin E1	dizziness
+-4473	C0012833	nicardipine	dizziness
+-4473	C0013144	nicardipine	somnolence
+-4473	C0009676	nicardipine	confusion
+-4473	C0003467	nicardipine	anxiety
+-5329102	C0012833	SU11248	dizziness
+-5329102	C0344315	SU11248	depressed mood
+-2803	C0009676	clonidine	confusion
+-2803	C0011206	clonidine	delirium
+-2803	C0085631	clonidine	agitation
+-2803	C0022107	clonidine	irritability
+-2803	C0012833	clonidine	dizziness
+-2803	C0003467	clonidine	anxiety
+-2803	C0018524	clonidine	hallucinations
+-2803	C0233762	clonidine	auditory hallucinations
+-2803	C0011570	clonidine	mental depression
+-2803	C0013144	clonidine	somnolence
+-2250	C0012833	atorvastatin	dizziness
+-2250	C0013144	atorvastatin	somnolence
+-2250	C0002622	atorvastatin	amnesia
+-2250	C0085633	atorvastatin	emotional lability
+-2249	C0751295	atenolol	memory loss
+-2249	C0009676	atenolol	confusion
+-2249	C0701811	atenolol	short term memory loss
+-2249	C0085633	atenolol	emotional lability
+-2249	C0012833	atenolol	dizziness
+-2249	C0003467	atenolol	anxiety
+-2249	C0018524	atenolol	hallucinations
+-2249	C0011570	atenolol	mental depression
+-2249	C0013144	atenolol	somnolence
+-2249	C0220870	atenolol	lightheadedness
+-4812	C0012833	vitamin K1	dizziness
+-2244	C0013144	aspirin	somnolence
+-2244	C0009676	aspirin	confusion
+-57537	C0013144	N-0437	somnolence
+-57537	C0012833	N-0437	dizziness
+-57537	C0018524	N-0437	hallucinations
+-57537	C0009676	N-0437	confusion
+-57537	C0003467	N-0437	anxiety
+-191	C0012833	adenosine	dizziness
+-191	C0233485	adenosine	apprehension
+-191	C0013144	adenosine	somnolence
+-191	C0220870	adenosine	lightheadedness
+-191	C0085633	adenosine	emotional lability
+-77999	C0012833	rosiglitazone	dizziness
+-77993	C0085628	eletriptan	stupor
+-77993	C0009676	eletriptan	confusion
+-77993	C0564408	eletriptan	manic
+-77993	C0233632	eletriptan	thinking abnormal
+-77993	C0011551	eletriptan	depersonalization
+-77993	C0085631	eletriptan	agitation
+-77993	C0002622	eletriptan	amnesia
+-77993	C0085633	eletriptan	emotional lability
+-77993	C0085632	eletriptan	apathy
+-77993	C0012833	eletriptan	dizziness
+-77993	C0003467	eletriptan	anxiety
+-77993	C0018524	eletriptan	hallucinations
+-77993	C0013144	eletriptan	somnolence
+-77993	C0015170	eletriptan	euphoria
+-2216	C0012833	apraclonidine	dizziness
+-2216	C0013144	apraclonidine	somnolence
+-2216	C0022107	apraclonidine	irritability
+-2215	C0013144	apomorphine	somnolence
+-2215	C0012833	apomorphine	dizziness
+-2215	C0018524	apomorphine	hallucinations
+-2215	C0009676	apomorphine	confusion
+-2215	C0003467	apomorphine	anxiety
+-4259	C0009676	moxifloxacin	confusion
+-4259	C0031212	moxifloxacin	personality disorder
+-4259	C0233632	moxifloxacin	thinking abnormal
+-4259	C0085631	moxifloxacin	agitation
+-4259	C0011551	moxifloxacin	depersonalization
+-4259	C0002622	moxifloxacin	amnesia
+-4259	C0085633	moxifloxacin	emotional lability
+-4259	C0015170	moxifloxacin	euphoria
+-4259	C0012833	moxifloxacin	dizziness
+-4259	C0003467	moxifloxacin	anxiety
+-4259	C0018524	moxifloxacin	hallucinations
+-4259	C0013144	moxifloxacin	somnolence
+-159	C0012833	prostacyclin	dizziness
+-159	C0003467	prostacyclin	anxiety
+-159	C0013144	prostacyclin	somnolence
+-159	C0009676	prostacyclin	confusion
+-159	C0085631	prostacyclin	agitation
+-158	C0012833	PGE2	dizziness
+-4253	C0013220	morphine	drug tolerance
+-4253	C0085628	morphine	stupor
+-4253	C0009676	morphine	confusion
+-4253	C0011206	morphine	delirium
+-4253	C0233632	morphine	thinking abnormal
+-4253	C0233485	morphine	apprehension
+-4253	C0085631	morphine	agitation
+-4253	C0002622	morphine	amnesia
+-4253	C0085633	morphine	emotional lability
+-4253	C0015170	morphine	euphoria
+-4253	C0012833	morphine	dizziness
+-4253	C0003467	morphine	anxiety
+-4253	C0018524	morphine	hallucinations
+-4253	C1562937	morphine	transient hallucinations
+-4253	C0233477	morphine	dysphoria
+-4253	C0013144	morphine	somnolence
+-4253	C0085632	morphine	apathy
+-4253	C0220870	morphine	lightheadedness
+-4253	C0152128	morphine	drug withdrawal
+-5396	C0009676	teniposide	confusion
+-2756	C0009676	cimetidine	confusion
+-2756	C0085631	cimetidine	agitation
+-2756	C0012833	cimetidine	dizziness
+-2756	C0003467	cimetidine	anxiety
+-2756	C0018524	cimetidine	hallucinations
+-2756	C0013144	cimetidine	somnolence
+-4236	C0009676	modafinil	confusion
+-4236	C0031212	modafinil	personality disorder
+-4236	C0344315	modafinil	depressed mood
+-4236	C0233414	modafinil	disturbance in attention
+-4236	C0085631	modafinil	agitation
+-4236	C0002622	modafinil	amnesia
+-4236	C0085633	modafinil	emotional lability
+-4236	C0012833	modafinil	dizziness
+-4236	C0003467	modafinil	anxiety
+-4236	C0018524	modafinil	hallucinations
+-2187	C0012833	anastrozole	dizziness
+-2187	C0003467	anastrozole	anxiety
+-2187	C0009676	anastrozole	confusion
+-2187	C0013144	anastrozole	somnolence
+-2182	C0012833	anagrelide	dizziness
+-2182	C0013144	anagrelide	somnolence
+-2182	C0009676	anagrelide	confusion
+-2182	C0002622	anagrelide	amnesia
+-2179	C0012833	amsacrine	dizziness
+-2179	C0009676	amsacrine	confusion
+-2179	C0085633	amsacrine	emotional lability
+-39042	C0012833	bezafibrate	dizziness
+-2177	C0525045	amprenavir	mood disorders
+-57469	C0012833	imiquimod	dizziness
+-57469	C0003467	imiquimod	anxiety
+-57469	C0424109	imiquimod	tearfulness
+-57469	C0085631	imiquimod	agitation
+-2171	C0012833	amoxicillin	dizziness
+-2171	C0003467	amoxicillin	anxiety
+-2171	C0009676	amoxicillin	confusion
+-2171	C0085631	amoxicillin	agitation
+-2170	C0009676	amoxapine	confusion
+-2170	C0233571	amoxapine	excitement
+-2170	C0012833	amoxapine	dizziness
+-2170	C0018524	amoxapine	hallucinations
+-2170	C0013144	amoxapine	somnolence
+-2170	C0011253	amoxapine	delusions
+-4479097	C0012833	hydroxocobalamin	dizziness
+-4479097	C0085631	hydroxocobalamin	agitation
+-4479097	C0233794	hydroxocobalamin	memory impairment
+-4212	C0013144	mitoxantrone	somnolence
+-4212	C0003467	mitoxantrone	anxiety
+-4212	C0009676	mitoxantrone	confusion
+-4211	C0013144	mitotane	somnolence
+-4211	C0012833	mitotane	dizziness
+-2162	C0085631	amlodipine	agitation
+-2162	C0011551	amlodipine	depersonalization
+-2162	C0002622	amlodipine	amnesia
+-2162	C0085632	amlodipine	apathy
+-2162	C0012833	amlodipine	dizziness
+-2162	C0003467	amlodipine	anxiety
+-2162	C0013144	amlodipine	somnolence
+-2160	C0009676	amitriptyline	confusion
+-2160	C0233571	amitriptyline	excitement
+-2160	C0085631	amitriptyline	agitation
+-2160	C0022107	amitriptyline	irritability
+-2160	C0012833	amitriptyline	dizziness
+-2160	C0003467	amitriptyline	anxiety
+-2160	C0018524	amitriptyline	hallucinations
+-2160	C0013144	amitriptyline	somnolence
+-2160	C0011253	amitriptyline	delusions
+-4205	C0085628	mirtazapine	stupor
+-4205	C0564408	mirtazapine	manic
+-4205	C0011206	mirtazapine	delirium
+-4205	C0233632	mirtazapine	thinking abnormal
+-4205	C0011551	mirtazapine	depersonalization
+-4205	C0002622	mirtazapine	amnesia
+-4205	C0085633	mirtazapine	emotional lability
+-4205	C0085632	mirtazapine	apathy
+-4205	C0003467	mirtazapine	anxiety
+-4205	C0018524	mirtazapine	hallucinations
+-4205	C0011253	mirtazapine	delusions
+-4205	C0015170	mirtazapine	euphoria
+-2156	C0012833	amiodarone	dizziness
+-2156	C0009676	amiodarone	confusion
+-2156	C0018524	amiodarone	hallucinations
+-2156	C0009241	amiodarone	Cognitive Disorder
+-2156	C0011206	amiodarone	delirium
+-2153	C0085631	theophylline	agitation
+-2153	C0022107	theophylline	irritability
+-4200	C0012833	minocycline	dizziness
+-4200	C1291710	minocycline	mood alteration
+-4200	C0013144	minocycline	somnolence
+-4196	C0012833	mifepristone	dizziness
+-4196	C0003467	mifepristone	anxiety
+-4196	C0220870	mifepristone	lightheadedness
+-4195	C0012833	midodrine	dizziness
+-4195	C0003467	midodrine	anxiety
+-4195	C0009676	midodrine	confusion
+-4195	C0013144	midodrine	somnolence
+-2145	C0013144	aminoglutethimide	somnolence
+-2145	C0012833	aminoglutethimide	dizziness
+-4192	C0009676	midazolam	confusion
+-4192	C0011206	midazolam	delirium
+-4192	C0002624	midazolam	Retrograde amnesia
+-4192	C0085631	midazolam	agitation
+-4192	C0085633	midazolam	emotional lability
+-4192	C0015170	midazolam	euphoria
+-4192	C0012833	midazolam	dizziness
+-4192	C0003467	midazolam	anxiety
+-4192	C0018524	midazolam	hallucinations
+-4192	C0233477	midazolam	dysphoria
+-4192	C0013144	midazolam	somnolence
+-4192	C0233795	midazolam	anterograde amnesia
+-4112	C0009676	methotrexate	confusion
+-4112	C1291710	methotrexate	mood alteration
+-4112	C0022107	methotrexate	irritability
+-4112	C0012833	methotrexate	dizziness
+-4112	C0338656	methotrexate	cognitive dysfunction
+-4112	C0013144	methotrexate	somnolence
+-2141	C0012833	amifostine	dizziness
+-2141	C0013144	amifostine	somnolence
+-2140	C0012833	iothalamate	dizziness
+-2140	C0013144	iothalamate	somnolence
+-2140	C0009676	iothalamate	confusion
+-2140	C0085631	iothalamate	agitation
+-2140	C0041654	iothalamate	unconsciousness
+-125017	C0233414	O-desmethylvenlafaxine	disturbance in attention
+-125017	C0011551	O-desmethylvenlafaxine	depersonalization
+-125017	C0022107	O-desmethylvenlafaxine	irritability
+-125017	C0012833	O-desmethylvenlafaxine	dizziness
+-125017	C0003467	O-desmethylvenlafaxine	anxiety
+-125017	C0013144	O-desmethylvenlafaxine	somnolence
+-85	C0012833	carnitine	dizziness
+-85	C0003467	carnitine	anxiety
+-2131	C0003467	ambenonium	anxiety
+-2130	C0085628	amantadine	stupor
+-2130	C0009676	amantadine	confusion
+-2130	C0564408	amantadine	manic
+-2130	C0011206	amantadine	delirium
+-2130	C0085631	amantadine	agitation
+-2130	C0002622	amantadine	amnesia
+-2130	C0022107	amantadine	irritability
+-2130	C0012833	amantadine	dizziness
+-2130	C0003467	amantadine	anxiety
+-2130	C0018524	amantadine	hallucinations
+-2130	C0013144	amantadine	somnolence
+-2130	C0011253	amantadine	delusions
+-2130	C0015170	amantadine	euphoria
+-2130	C0220870	amantadine	lightheadedness
+-104803	C0012833	mivacurium	dizziness
+-4174	C0012833	metyrapone	dizziness
+-4173	C0012833	metronidazole	dizziness
+-4173	C0013144	metronidazole	somnolence
+-4173	C0009676	metronidazole	confusion
+-4173	C0018524	metronidazole	hallucinations
+-4173	C0022107	metronidazole	irritability
+-4171	C0751295	metoprolol	memory loss
+-4171	C0009676	metoprolol	confusion
+-4171	C0031212	metoprolol	personality disorder
+-4171	C0002622	metoprolol	amnesia
+-4171	C0085633	metoprolol	emotional lability
+-4171	C0012833	metoprolol	dizziness
+-4171	C0003467	metoprolol	anxiety
+-4171	C0018524	metoprolol	hallucinations
+-4171	C0011570	metoprolol	mental depression
+-4171	C0013144	metoprolol	somnolence
+-4171	C0220870	metoprolol	lightheadedness
+-4171	C0233794	metoprolol	memory impairment
+-4170	C0012833	metolazone	dizziness
+-4170	C0003467	metolazone	anxiety
+-4170	C0013144	metolazone	somnolence
+-4170	C0220870	metolazone	lightheadedness
+-4170	C0085631	metolazone	agitation
+-4168	C0009676	metoclopramide	confusion
+-4168	C0085631	metoclopramide	agitation
+-4168	C0012833	metoclopramide	dizziness
+-4168	C0003467	metoclopramide	anxiety
+-4168	C0018524	metoclopramide	hallucinations
+-4168	C0011570	metoclopramide	mental depression
+-4168	C0013144	metoclopramide	somnolence
+-4032	C0012833	mecamylamine	dizziness
+-2118	C0344315	alprazolam	depressed mood
+-2118	C0002622	alprazolam	amnesia
+-2118	C0085633	alprazolam	emotional lability
+-2118	C0522172	alprazolam	feeling drunk
+-2118	C0009676	alprazolam	confusion
+-2118	C0233414	alprazolam	disturbance in attention
+-2118	C0235146	alprazolam	feeling high
+-2118	C0006012	alprazolam	borderline personality disorder
+-2118	C0009241	alprazolam	Cognitive Disorder
+-2118	C0085628	alprazolam	stupor
+-2118	C1306341	alprazolam	Mental impairment
+-2118	C0522165	alprazolam	feeling of relaxation
+-2118	C0085632	alprazolam	apathy
+-2118	C0233794	alprazolam	memory impairment
+-2118	C0233796	alprazolam	transient amnesia
+-2118	C0018524	alprazolam	hallucinations
+-2118	C0013144	alprazolam	somnolence
+-2118	C0002957	alprazolam	anger
+-4163	C0013144	methysergide	somnolence
+-4163	C0012833	methysergide	dizziness
+-4163	C0220870	methysergide	lightheadedness
+-4163	C0015170	methysergide	euphoria
+-4160	C0003467	methyltestosterone	anxiety
+-62816	C0012833	colestipol	dizziness
+-62816	C0003467	colestipol	anxiety
+-62816	C0013144	colestipol	somnolence
+-4158	C0009676	methylphenidate	confusion
+-4158	C0344315	methylphenidate	depressed mood
+-4158	C0031212	methylphenidate	personality disorder
+-4158	C0011206	methylphenidate	delirium
+-4158	C0233632	methylphenidate	thinking abnormal
+-4158	C0011551	methylphenidate	depersonalization
+-4158	C0015170	methylphenidate	euphoria
+-4158	C0233514	methylphenidate	abnormal behavior
+-4158	C0085631	methylphenidate	agitation
+-4158	C0022107	methylphenidate	irritability
+-4158	C0012833	methylphenidate	dizziness
+-4158	C0003467	methylphenidate	anxiety
+-4158	C0233767	methylphenidate	tactile hallucinations
+-4158	C0013144	methylphenidate	somnolence
+-4158	C0085632	methylphenidate	apathy
+-4158	C0002957	methylphenidate	anger
+-4158	C0018524	methylphenidate	hallucinations
+-5526	C0012833	tranexamic acid	dizziness
+-5526	C0476207	tranexamic acid	giddiness
+-96312	C0009676	nelarabine	confusion
+-96312	C0233414	nelarabine	disturbance in attention
+-96312	C1306341	nelarabine	Mental impairment
+-96312	C0002622	nelarabine	amnesia
+-96312	C0012833	nelarabine	dizziness
+-96312	C0013144	nelarabine	somnolence
+-2099	C0003467	alosetron	anxiety
+-2099	C0009676	alosetron	confusion
+-213039	C0009676	TMC114	confusion
+-213039	C0085633	TMC114	emotional lability
+-213039	C0022107	TMC114	irritability
+-213039	C0012833	TMC114	dizziness
+-213039	C0003467	TMC114	anxiety
+-213039	C0013144	TMC114	somnolence
+-213039	C0233794	TMC114	memory impairment
+-4140	C0012833	methylergometrine	dizziness
+-4140	C0018524	methylergometrine	hallucinations
+-110635	C0012833	tadalafil	dizziness
+-110635	C0013144	tadalafil	somnolence
+-110634	C0338591	vardenafil	transient global amnesia
+-110634	C0002622	vardenafil	amnesia
+-110634	C0012833	vardenafil	dizziness
+-110634	C0003467	vardenafil	anxiety
+-110634	C0013144	vardenafil	somnolence
+-110634	C1443060	vardenafil	feeling abnormal
+-2088	C0497293	alendronate	dizziness and vertigo
+-2083	C0233571	salbutamol	excitement
+-2083	C0085631	salbutamol	agitation
+-2083	C0085633	salbutamol	emotional lability
+-2083	C0022107	salbutamol	irritability
+-2083	C0012833	salbutamol	dizziness
+-2083	C0003467	salbutamol	anxiety
+-2083	C0013144	salbutamol	somnolence
+-2083	C0220870	salbutamol	lightheadedness
+-2082	C0012833	albendazole	dizziness
+-32800	C0012833	sincalide	dizziness
+-32797	C0011253	clobetasol	delusions
+-4121	C0012833	methyclothiazide	dizziness
+-4121	C0085631	methyclothiazide	agitation
+-23897	C0013144	molindone	somnolence
+-23897	C0085631	molindone	agitation
+-23897	C0015170	molindone	euphoria
+-4114	C0012833	8-methoxypsoralen	dizziness
+-40976	C0012833	Implanon	dizziness
+-40976	C0003467	Implanon	anxiety
+-40976	C0013144	Implanon	somnolence
+-40976	C0085633	Implanon	emotional lability
+-3956	C0013144	LCBF	somnolence
+-3956	C0012833	LCBF	dizziness
+-4107	C0012833	methocarbamol	dizziness
+-4107	C0013144	methocarbamol	somnolence
+-4107	C0009676	methocarbamol	confusion
+-4107	C0220870	methocarbamol	lightheadedness
+-4107	C0002622	methocarbamol	amnesia
+-4100	C0013144	methazolamide	somnolence
+-4100	C0009676	methazolamide	confusion

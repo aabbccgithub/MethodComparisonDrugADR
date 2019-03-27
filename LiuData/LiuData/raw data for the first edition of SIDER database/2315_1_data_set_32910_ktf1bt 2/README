@@ -1,0 +1,62 @@
+FORMAT DESCRIPTION
+==================
+
+label_mapping.tsv
+-----------------
+
+first two columns: generic and brand names
+
+third column: a marker if the drug could be successfully mapped to STITCH. Possible values:
+ - [empty field]: success
+ - combination: two or more drugs were combined
+ - not found: could not find the name in the database
+ - mapping conflict: the available names point to two different compounds
+ - template: a package insert that contains information for a group of related drugs
+
+fourth column: STITCH compound id, based on PubChem. Salt forms and stereo-isomers have been merged.
+
+fifth column: URL of the downloaded PDF. This column is empty for FDA SPL labels, which are available in XML.
+
+sixth colum: label identifier
+
+
+
+*_adverse_effects.tsv.gz
+------------------------
+
+Format: STITCH compound id, UMLS concept id, drug name, side effect name
+
+
+
+*_adverse_effects_raw.tsv.gz and *_indications_raw.tsv.gz
+---------------------------------------------------------
+
+Medical concepts are extracted both from the adverse effects and the indications sections of the drug labels.
+Terms that contain in the indication section are then removed from the adverse effect section. For example,
+the indications for an anti-depressant might contain "depression", but also the adverse effect section (e.g.
+"in clinical trials to treat depression ..."). To avoid false positives, terms from the indications sections 
+are masked. 
+
+Format: label identifier, concept id, name of side effect (as found on the label)
+
+
+*_freq_parsed.tsv.gz
+--------------------
+
+This file contains the frequencies of side effects as extracted from the labels. Format:
+
+- the STITCH compound id
+- the source label, if you don't use STITCH compound ids, you can use the label mapping file to 
+  find out more about the label
+- UMLS concept id
+- concept name
+- "placebo" if the info comes from placebo administration, "" otherwise
+- a description of the frequency: either "postmarketing", "rare", "infrequent", "frequent", or an exact
+  percentage
+- a lower bound on the frequency
+- an upper bound on the frequency
+
+The bounds are ranges like 0.01 to 1 for "frequent". If the exact frequency is known, then the lower bound 
+matches the upper bound. Due to the nature of the data, there can be more than one frequency for the same label,
+e.g. from different clinical trials or for different levels of severeness.
+

@@ -1,0 +1,66 @@
+SVC(C=1, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.9011950847716262 0.0011858873651069228 0.4304256497967457 0.003929226004788309
+Train: 0.9355978635729436 0.0003287177270430621 0.559003084769285 0.0010041949703660747
+SVC(C=1, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.9012009209815839 0.001192707477404569 0.43046374425303735 0.003876308578806695
+Train: 0.935498317621227 0.0005275678446148337 0.5597590229366777 0.0010764915339035292
+SVC(C=2, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.9012521841870168 0.0012011012386609374 0.4311544093837963 0.0036154820781223113
+Train: 0.9357616498501674 0.0003844150443759835 0.5639740823435246 0.0016769430224969257
+SVC(C=3, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.901224092843289 0.0011523851130432275 0.43174856192927946 0.003678494277900004
+Train: 0.9357929987186324 0.0006296251816269844 0.5669907514979442 0.0021061353453418795
+SVC(C=4, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.9013864639622684 0.001122687072609715 0.4318289528665481 0.0036352661384551005
+Train: 0.9361331622850919 0.000489190058604718 0.5718325564964586 0.001326438496628613
+SVC(C=5, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.9012313429956654 0.0011493767623319206 0.43232650502529807 0.0034211311533251477
+Train: 0.9363520675694874 0.00028989456924676655 0.5740708355058541 0.001375642432329934
+SVC(C=6, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.9013285539408085 0.0011367905802992836 0.4331425820668823 0.003546434996755307
+Train: 0.9364476769279204 0.00035225737914308723 0.5784887010181806 0.001187467245049906
+SVC(C=7, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.9012565450380873 0.0011476597354446137 0.43332025362129123 0.003556121126460117
+Train: 0.936322884143396 0.0005676572979159827 0.5811857921475269 0.001059847823356337
+SVC(C=8, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.901202140083392 0.0011566198418637402 0.43319890056142735 0.0035933596385700475
+Train: 0.9362310285400508 0.00035325707900248353 0.5836298703755144 0.001082626293842616
+SVC(C=9, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.9013448625743031 0.0011713609459249401 0.4334747287734433 0.003549638199748598
+Train: 0.9368916077481698 0.0003131380317684364 0.5876510810254933 0.0015199276701626332
+SVC(C=10, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.9015137064721577 0.0011798669670612604 0.4334614683193713 0.003676763887135699
+Train: 0.9368608263262272 0.0007013842846852045 0.5906021004638191 0.0009898008538863465

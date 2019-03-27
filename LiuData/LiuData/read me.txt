@@ -1,0 +1,18 @@
+The description of Liu's dataset 
+
+---------In fact, we got the data from authors, and just formatted them for machine learning.
+
+
+Liu's dataset for machine learning can be obtained by loading 'Liu_dataset.mat'
+
+The drugs in the Liu's data are introduced 'Liu_data_List.xls' 
+         Format : drugBankID|drugName|CompoundID
+
+The biological components of  feature dimensions can be available in file folder 'feature description'
+--------for enzyme,target, protein GeneBank Gene IDs for proteins are provided 
+--------for side effect and Indication, the SideEffect IDs in SIDER database are provided.
+--------for pathway, the KEGG ids is provided
+
+The original Liu's dataset from authors are also provided in 'Liu's data originally from authors.zip'
+
+The raw data for the first edition of SIDER database, from which Liu complied her data, is provided in 'raw data for the first edition of SIDER database.zip'

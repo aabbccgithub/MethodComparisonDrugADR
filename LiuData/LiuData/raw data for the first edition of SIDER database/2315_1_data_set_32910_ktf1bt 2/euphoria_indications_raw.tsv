@@ -1,0 +1,3286 @@
+10926s030lbl	C0233485	apprehension
+21086lbl	C0564408	manic
+019430s044lbl	C0233485	apprehension
+21200lbl	C0022107	irritable
+07935s030lbl	C0233485	apprehension
+021200s014lbl	C0022107	irritable
+020717s020s013s018lbl	C0013144	sleepiness
+011909s036lbl	C0003467	anxiety
+011909s038lbl	C0003467	anxiety
+21299lbl	C0233477	dysphoric mood
+21299lbl	C0085631	psychomotor agitation
+21299lbl	C0233481	worry
+21299lbl	C0012833	dizzy
+21299lbl	C0220870	lightheaded
+21299lbl	C0011551	depersonalization
+021866s2s3,021729s2,021713s10,021436s16lbl	C0564408	manic
+021866s2s3,021729s2,021713s10,021436s16lbl	C0085631	Agitation
+021866s2s3,021729s2,021713s10,021436s16lbl	C0085631	agitation
+021866s2s3,021729s2,021713s10,021436s16lbl	C0085631	Psychomotor agitation
+021866s2s3,021729s2,021713s10,021436s16lbl	C0085631	agitated
+21323lbl	C0233477	dysphoric mood
+21323lbl	C0344315	depressed mood
+21323lbl	C0085631	psychomotor agitation
+021713s004,021436s007lbl	C0564408	manic
+21427lbl	C0233477	dysphoric mood
+21427lbl	C0344315	depressed mood
+21427lbl	C0085631	psychomotor agitation
+021430s000,020785s031lbl	C0013144	Drowsiness
+021430s000,020785s031lbl	C0013144	Somnolence
+021430s000,020785s031lbl	C0013144	drowsiness
+021430s000,020785s031lbl	C0013144	somnolence
+021430s000,020785s031lbl	C0012833	Dizziness
+021430s000,020785s031lbl	C0012833	dizziness
+21323se1-003,se8-007,21365se8-001,se1-004_lexapro_lbl	C0233477	dysphoric mood
+21323se1-003,se8-007,21365se8-001,se1-004_lexapro_lbl	C0344315	depressed mood
+21323se1-003,se8-007,21365se8-001,se1-004_lexapro_lbl	C0085631	psychomotor agitation
+21323se1-003,se8-007,21365se8-001,se1-004_lexapro_lbl	C0003467	Anxiety
+21323se1-003,se8-007,21365se8-001,se1-004_lexapro_lbl	C0003467	anxiety
+21323se1-003,se8-007,21365se8-001,se1-004_lexapro_lbl	C0233481	worry
+21323se1-003,se8-007,21365se8-001,se1-004_lexapro_lbl	C0085631	restlessness
+21323se1-003,se8-007,21365se8-001,se1-004_lexapro_lbl	C0022107	irritability
+20785slr022,023,024_thalomid_lbl	C0013144	Drowsiness
+20785slr022,023,024_thalomid_lbl	C0013144	Somnolence
+20785slr022,023,024_thalomid_lbl	C0013144	drowsiness
+20785slr022,023,024_thalomid_lbl	C0013144	somnolence
+20785slr022,023,024_thalomid_lbl	C0012833	Dizziness
+20785slr022,023,024_thalomid_lbl	C0012833	dizziness
+016832s022_017703s018lbl	C0085633	emotional lability
+21733lbl	C0233477	dysphoric mood
+21733lbl	C0344315	depressed mood
+21733lbl	C0085631	psychomotor agitation
+018140s028lbl	C0013144	sleepiness
+018140s028lbl	C0013144	drowsiness
+018140s028lbl	C0003467	anxiety
+018936s064lbl	C0233477	dysphoric mood
+018936s064lbl	C0344315	depressed mood
+018936s064lbl	C0085631	psychomotor agitation
+018936s064lbl	C0233481	worry
+018936s064lbl	C0012833	dizzy
+018936s064lbl	C0220870	lightheaded
+018936s076lbl	C0233477	dysphoric mood
+018936s076lbl	C0344315	depressed mood
+018936s076lbl	C0085631	psychomotor agitation
+018936s076lbl	C0233481	worry
+018936s076lbl	C0012833	dizzy
+018936s076lbl	C0220870	lightheaded
+018936s083,020101s038,021235s010lbl	C0233477	dysphoric mood
+018936s083,020101s038,021235s010lbl	C0344315	depressed mood
+018936s083,020101s038,021235s010lbl	C0085631	psychomotor agitation
+018936s083,020101s038,021235s010lbl	C0233481	worry
+018936s083,020101s038,021235s010lbl	C0012833	dizzy
+018936s083,020101s038,021235s010lbl	C0220870	lightheaded
+018936s086lbl	C0344315	depressed mood
+018936s086lbl	C0003467	anxiety
+018936s086lbl	C0002957	anger
+018936s086lbl	C0022107	irritability
+018936s086lbl	C0525045	mood disorders
+020822s034lbl	C0233477	dysphoric mood
+020822s034lbl	C0344315	depressed mood
+020822s034lbl	C0085631	psychomotor agitation
+21515_wellbutrin_lbl	C0344315	depressed mood
+21515_wellbutrin_lbl	C0085631	psychomotor agitation
+021444s008s015,020588s024s028s029,020272s036s041lbl	C0564408	manic
+021444s008s015,020588s024s028s029,020272s036s041lbl	C0022107	Irritability
+021444s008s015,020588s024s028s029,020272s036s041lbl	C0022107	irritability
+20936se1-011_paxil_lbl	C0344315	depressed mood
+20936se1-011_paxil_lbl	C0085631	psychomotor agitation
+20936se1-011_paxil_lbl	C0233481	worry
+20936se1-011_paxil_lbl	C0012833	dizzy
+20936se1-011_paxil_lbl	C0220870	lightheaded
+20936se1-011_paxil_lbl	C0011551	depersonalization
+20936se1-011_paxil_lbl	C0003467	anxiety
+20936se1-011_paxil_lbl	C0002957	anger
+20936se1-011_paxil_lbl	C0022107	irritability
+20936se1-011_paxil_lbl	C0525045	mood disorders
+020990s011lbl	C0233477	dysphoric mood
+020990s011lbl	C0085631	psychomotor agitation
+020990s011lbl	C0233481	worry
+020990s011lbl	C0012833	dizzy
+020990s011lbl	C0220870	lightheaded
+020990s011lbl	C0011551	depersonalization
+020990s011lbl	C0236720	flashbacks
+020990s011lbl	C0022107	irritability
+020990s011lbl	C0002957	anger
+020990s011lbl	C0344315	depressed mood
+020990s011lbl	C0003467	anxiety
+020990s011lbl	C0525045	mood disorders
+020990s011lbl	C0003467	Anxiety
+016792s025lbl	C0086132	symptoms of depression
+020358s043lbl	C0344315	depressed mood
+020358s043lbl	C0085631	psychomotor agitation
+021253s016,021086s016,020592s035lbl	C0564408	manic
+021253s016,021086s016,020592s035lbl	C0085631	Agitation
+021253s016,021086s016,020592s035lbl	C0085631	agitation
+021253s016,021086s016,020592s035lbl	C0085631	Psychomotor agitation
+021253s016,021086s016,020592s035lbl	C0085631	agitated
+21475_methylin_lbl	C0085633	emotional lability
+020151s043,020699s069lbl	C0344315	depressed mood
+020151s043,020699s069lbl	C0085631	psychomotor agitation
+020151s043,020699s069lbl	C0003467	Anxiety
+020151s043,020699s069lbl	C0003467	anxiety
+020151s043,020699s069lbl	C0233481	worry
+020151s043,020699s069lbl	C0085631	restlessness
+020151s043,020699s069lbl	C0022107	irritability
+020151s043,020699s069lbl	C0012833	dizzy
+020151s043,020699s069lbl	C0220870	lightheaded
+020151s043,020699s069lbl	C0011551	depersonalization
+21436s002lbl	C0564408	manic
+020592s038,021086s020,021253s021lbl	C0564408	manic
+020592s038,021086s020,021253s021lbl	C0085631	Agitation
+020592s038,021086s020,021253s021lbl	C0085631	agitation
+020592s038,021086s020,021253s021lbl	C0085631	Psychomotor agitation
+020592s038,021086s020,021253s021lbl	C0085631	agitated
+021436s010,021713s006lbl	C0564408	manic
+21436s005,008,21713s003lbl	C0564408	manic
+021515s010s018lbl	C0344315	depressed mood
+021515s010s018lbl	C0085631	psychomotor agitation
+021515s010s018lbl	C0085159	Seasonal Affective Disorder
+021515s010s018lbl	C0085159	seasonal affective disorder
+021515s010s018lbl	C0085159	Seasonal affective disorder
+11689s024lbl	C0233485	apprehension
+021323s025lbl	C0233477	dysphoric mood
+021323s025lbl	C0344315	depressed mood
+021323s025lbl	C0085631	psychomotor agitation
+021323s025lbl	C0003467	Anxiety
+021323s025lbl	C0003467	anxiety
+021323s025lbl	C0233481	worry
+021323s025lbl	C0085631	restlessness
+021323s025lbl	C0022107	irritability
+020825s026,020919s016lbl	C0564408	manic
+020825s026,020919s016lbl	C0022107	irritable mood
+020825s026,020919s016lbl	C0344315	depressed mood
+020825s026,020919s016lbl	C0085631	Agitation
+020825s026,020919s016lbl	C0085631	agitation
+020825s026,020919s016lbl	C0085631	Psychomotor agitation
+18731s39s45lbl	C0003467	anxiety
+18731s39s45lbl	C0003467	Anxiety
+18731s39s45lbl	C0086132	depressive symptoms
+18731s39s45lbl	C0022107	irritability
+18731s39s45lbl	C0919568	impatience
+007409s040,007961s026,008370s031lbl	C0022107	irritable
+20031S26lbl	C0233477	dysphoric mood
+20031S26lbl	C0085631	psychomotor agitation
+20031S26lbl	C0233481	worry
+20031S26lbl	C0012833	dizzy
+20031S26lbl	C0220870	lightheaded
+20031S26lbl	C0011551	depersonalization
+20031S26lbl	C0003467	Anxiety
+20031S26lbl	C0003467	anxiety
+20031S26lbl	C0085631	restlessness
+20031S26lbl	C0022107	irritability
+21200scp007,scf008_zelnorm_lbl	C0022107	irritable
+020592s029_021086s011_021253s006lbl	C0564408	manic
+020592s029_021086s011_021253s006lbl	C0085631	Agitation
+020592s029_021086s011_021253s006lbl	C0085631	agitation
+020592s029_021086s011_021253s006lbl	C0085631	Psychomotor agitation
+020592s029_021086s011_021253s006lbl	C0085631	agitated
+017794s034s035lbl	C0003467	anxiety
+017794s034s035lbl	C0086132	depressive symptoms
+017794s034s035lbl	C0003467	Anxiety
+20151s17s18lbl	C0344315	depressed mood
+20151s17s18lbl	C0085631	psychomotor agitation
+20151s17s18lbl	C0003467	Anxiety
+20151s17s18lbl	C0003467	anxiety
+20151s17s18lbl	C0233481	worry
+20151s17s18lbl	C0085631	restlessness
+20151s17s18lbl	C0022107	irritability
+20717se1-008_provigil_lbl	C0013144	sleepiness
+020936s029lbl	C0344315	depressed mood
+020936s029lbl	C0085631	psychomotor agitation
+020936s029lbl	C0233481	worry
+020936s029lbl	C0012833	dizzy
+020936s029lbl	C0220870	lightheaded
+020936s029lbl	C0011551	depersonalization
+020936s029lbl	C0003467	Anxiety
+020936s029lbl	C0003467	anxiety
+020936s029lbl	C0002957	anger
+020936s029lbl	C0022107	irritability
+020936s029lbl	C0525045	mood disorders
+21107s011lbl	C0022107	irritable
+021515s020lbl	C0344315	depressed mood
+021515s020lbl	C0085631	psychomotor agitation
+021515s020lbl	C0085159	Seasonal Affective Disorder
+021515s020lbl	C0085159	seasonal affective disorder
+021515s020lbl	C0085159	Seasonal affective disorder
+020151s044,020699s071lbl	C0344315	depressed mood
+020151s044,020699s071lbl	C0085631	psychomotor agitation
+020151s044,020699s071lbl	C0003467	Anxiety
+020151s044,020699s071lbl	C0003467	anxiety
+020151s044,020699s071lbl	C0233481	worry
+020151s044,020699s071lbl	C0085631	restlessness
+020151s044,020699s071lbl	C0022107	irritability
+020151s044,020699s071lbl	C0012833	dizzy
+020151s044,020699s071lbl	C0220870	lightheaded
+020151s044,020699s071lbl	C0011551	depersonalization
+20829slr026,20830slr029,21409slr007_singulair_lbl	C0012833	Dizziness
+011707s031lbl	C0003467	anxiety
+21107scf008_lotronex_lbl	C0022107	irritable
+020639s023lbl	C0564408	manic
+020639s026lbl	C0564408	manic
+021046s013lbl	C0233477	dysphoric mood
+021046s013lbl	C0344315	depressed mood
+021046s013lbl	C0085631	psychomotor agitation
+020579s020lbl	C0012833	Dizziness
+020579s020lbl	C0220870	lightheadedness
+020579s020lbl	C0220870	lightheaded
+020579s020lbl	C0012833	dizziness
+21200s005lbl	C0022107	irritable
+20272s-26,27,20588s-17,18,21444s-2,3_risperdal_lbl	C0564408	manic
+020151s033,020699s055lbl	C0344315	depressed mood
+020151s033,020699s055lbl	C0085631	psychomotor agitation
+020151s033,020699s055lbl	C0003467	Anxiety
+020151s033,020699s055lbl	C0003467	anxiety
+020151s033,020699s055lbl	C0233481	worry
+020151s033,020699s055lbl	C0085631	restlessness
+020151s033,020699s055lbl	C0022107	irritability
+020151s033,020699s055lbl	C0012833	dizzy
+020151s033,020699s055lbl	C0220870	lightheaded
+020151s033,020699s055lbl	C0011551	depersonalization
+020825s021,020919s012lbl	C0564408	manic
+020825s021,020919s012lbl	C0022107	irritable mood
+020825s021,020919s012lbl	C0344315	depressed mood
+020825s021,020919s012lbl	C0085631	Agitation
+020825s021,020919s012lbl	C0085631	agitation
+020825s021,020919s012lbl	C0085631	Psychomotor agitation
+20785s12s14lbl	C0013144	Drowsiness
+20785s12s14lbl	C0013144	somnolence
+20785s12s14lbl	C0013144	drowsiness
+20785s12s14lbl	C0012833	Dizziness
+20785s12s14lbl	C0012833	dizziness
+018644s33s34,020358s37s40,021515s14lbl	C0344315	depressed mood
+018644s33s34,020358s37s40,021515s14lbl	C0085631	psychomotor agitation
+077284lbl	C0344315	depressed mood
+077284lbl	C0085631	psychomotor agitation
+20151slr028,030,032,20699slr041,048,052_effexor_lbl	C0344315	depressed mood
+20151slr028,030,032,20699slr041,048,052_effexor_lbl	C0085631	psychomotor agitation
+20151slr028,030,032,20699slr041,048,052_effexor_lbl	C0003467	Anxiety
+20151slr028,030,032,20699slr041,048,052_effexor_lbl	C0003467	anxiety
+20151slr028,030,032,20699slr041,048,052_effexor_lbl	C0233481	worry
+20151slr028,030,032,20699slr041,048,052_effexor_lbl	C0085631	restlessness
+20151slr028,030,032,20699slr041,048,052_effexor_lbl	C0022107	irritability
+020592s027s032,021086s009s013,021253s004s012lbl	C0564408	manic
+020592s027s032,021086s009s013,021253s004s012lbl	C0085631	Agitation
+020592s027s032,021086s009s013,021253s004s012lbl	C0085631	agitation
+020592s027s032,021086s009s013,021253s004s012lbl	C0085631	Psychomotor agitation
+020592s027s032,021086s009s013,021253s004s012lbl	C0085631	agitated
+19839s047,050,20990s013,017lbl	C0233477	dysphoric mood
+19839s047,050,20990s013,017lbl	C0085631	psychomotor agitation
+19839s047,050,20990s013,017lbl	C0233481	worry
+19839s047,050,20990s013,017lbl	C0012833	dizzy
+19839s047,050,20990s013,017lbl	C0220870	lightheaded
+19839s047,050,20990s013,017lbl	C0011551	depersonalization
+19839s047,050,20990s013,017lbl	C0236720	flashbacks
+19839s047,050,20990s013,017lbl	C0022107	irritability
+19839s047,050,20990s013,017lbl	C0002957	anger
+19839s047,050,20990s013,017lbl	C0344315	depressed mood
+19839s047,050,20990s013,017lbl	C0003467	anxiety
+19839s047,050,20990s013,017lbl	C0525045	mood disorders
+19839s047,050,20990s013,017lbl	C0003467	Anxiety
+020151s045,020699s072lbl	C0344315	depressed mood
+020151s045,020699s072lbl	C0085631	psychomotor agitation
+020151s045,020699s072lbl	C0003467	Anxiety
+020151s045,020699s072lbl	C0003467	anxiety
+020151s045,020699s072lbl	C0233481	worry
+020151s045,020699s072lbl	C0085631	restlessness
+020151s045,020699s072lbl	C0022107	irritability
+020151s045,020699s072lbl	C0012833	dizzy
+020151s045,020699s072lbl	C0220870	lightheaded
+020151s045,020699s072lbl	C0011551	depersonalization
+020031s053,020710s017lbl	C0233477	dysphoric mood
+020031s053,020710s017lbl	C0085631	psychomotor agitation
+020031s053,020710s017lbl	C0233481	worry
+020031s053,020710s017lbl	C0012833	dizzy
+020031s053,020710s017lbl	C0220870	lightheaded
+020031s053,020710s017lbl	C0011551	depersonalization
+020031s053,020710s017lbl	C0003467	Anxiety
+020031s053,020710s017lbl	C0003467	anxiety
+020031s053,020710s017lbl	C0085631	Restlessness
+020031s053,020710s017lbl	C0022107	irritability
+020031s053,020710s017lbl	C0236720	flashbacks
+020031s053,020710s017lbl	C0002957	anger
+019839s063s064,020990s027lbl	C0233477	dysphoric mood
+019839s063s064,020990s027lbl	C0085631	psychomotor agitation
+019839s063s064,020990s027lbl	C0233481	worry
+019839s063s064,020990s027lbl	C0012833	dizzy
+019839s063s064,020990s027lbl	C0220870	lightheaded
+019839s063s064,020990s027lbl	C0011551	depersonalization
+019839s063s064,020990s027lbl	C0236720	flashbacks
+019839s063s064,020990s027lbl	C0022107	irritability
+019839s063s064,020990s027lbl	C0002957	anger
+019839s063s064,020990s027lbl	C0344315	depressed mood
+019839s063s064,020990s027lbl	C0003467	anxiety
+019839s063s064,020990s027lbl	C0525045	mood disorders
+019839s063s064,020990s027lbl	C0003467	Anxiety
+021299s019lbl	C0233477	dysphoric mood
+021299s019lbl	C0085631	psychomotor agitation
+021299s019lbl	C0233481	worry
+021299s019lbl	C0012833	dizzy
+021299s019lbl	C0220870	lightheaded
+021299s019lbl	C0011551	depersonalization
+021299s019lbl	C0003467	Anxiety
+021299s019lbl	C0003467	anxiety
+021299s019lbl	C0085631	restlessness
+021299s019lbl	C0022107	irritability
+021299s020lbl	C0233477	dysphoric mood
+021299s020lbl	C0085631	psychomotor agitation
+021299s020lbl	C0233481	worry
+021299s020lbl	C0012833	dizzy
+021299s020lbl	C0220870	lightheaded
+021299s020lbl	C0011551	depersonalization
+021299s020lbl	C0003467	Anxiety
+021299s020lbl	C0003467	anxiety
+021299s020lbl	C0085631	restlessness
+021299s020lbl	C0022107	irritability
+021299s021lbl	C0233477	dysphoric mood
+021299s021lbl	C0085631	psychomotor agitation
+021299s021lbl	C0233481	worry
+021299s021lbl	C0012833	dizzy
+021299s021lbl	C0220870	lightheaded
+021299s021lbl	C0011551	depersonalization
+021299s021lbl	C0003467	Anxiety
+021299s021lbl	C0003467	anxiety
+021299s021lbl	C0085631	restlessness
+021299s021lbl	C0022107	irritability
+103234s5122lbl	C0018592	happiness
+103234s5122lbl	C0012833	dizziness
+103234s5122lbl	C0003467	anxiety
+11961lbl	C0003467	anxiety
+11961lbl	C0003467	anxious mood
+11961lbl	C0233477	dysphoric mood
+11961lbl	C0344315	depressed mood
+11961lbl	C0085631	psychomotor agitation
+020699s054,057lbl	C0344315	depressed mood
+020699s054,057lbl	C0085631	psychomotor agitation
+020699s054,057lbl	C0003467	Anxiety
+020699s054,057lbl	C0003467	anxiety
+020699s054,057lbl	C0233481	worry
+020699s054,057lbl	C0085631	restlessness
+020699s054,057lbl	C0022107	irritability
+020699s054,057lbl	C0012833	dizzy
+020699s054,057lbl	C0220870	lightheaded
+020699s054,057lbl	C0011551	depersonalization
+018936s76,20101s35,20974s8,21235s7,21520s12,21427s11lbl	C0233477	dysphoric mood
+018936s76,20101s35,20974s8,21235s7,21520s12,21427s11lbl	C0344315	depressed mood
+018936s76,20101s35,20974s8,21235s7,21520s12,21427s11lbl	C0085631	psychomotor agitation
+017962s063,064lbl	C0018524	hallucinations
+017962s063,064lbl	C0009676	confusion
+21444s012lbl	C0564408	manic
+020822s35,021046s14lbl	C0233477	dysphoric mood
+020822s35,021046s14lbl	C0344315	depressed mood
+020822s35,021046s14lbl	C0085631	psychomotor agitation
+21434_xanax_lbl	C0012833	dizzy
+21434_xanax_lbl	C0220870	lightheaded
+21434_xanax_lbl	C0011551	depersonalization
+021336s002lbl	C0233477	dysphoric mood
+021336s002lbl	C0344315	depressed mood
+021336s002lbl	C0085631	psychomotor agitation
+021708s000_021336s000lbl	C0233477	dysphoric mood
+021708s000_021336s000lbl	C0344315	depressed mood
+021708s000_021336s000lbl	C0085631	psychomotor agitation
+021419s001,021475s004lbl	C0085633	emotional lability
+021299s016,s017,s018lbl	C0233477	dysphoric mood
+021299s016,s017,s018lbl	C0085631	psychomotor agitation
+021299s016,s017,s018lbl	C0233481	worry
+021299s016,s017,s018lbl	C0012833	dizzy
+021299s016,s017,s018lbl	C0220870	lightheaded
+021299s016,s017,s018lbl	C0011551	depersonalization
+021299s016,s017,s018lbl	C0003467	Anxiety
+021299s016,s017,s018lbl	C0003467	anxiety
+021299s016,s017,s018lbl	C0085631	Restlessness
+021299s016,s017,s018lbl	C0022107	irritability
+020592s042s043,021086s022s023,021253s026lbl	C0564408	manic
+020592s042s043,021086s022s023,021253s026lbl	C0085631	Agitation
+020592s042s043,021086s022s023,021253s026lbl	C0085631	agitation
+020592s042s043,021086s022s023,021253s026lbl	C0085631	Psychomotor agitation
+020592s042s043,021086s022s023,021253s026lbl	C0085631	agitated
+017078s040lbl	C0085633	emotional lability
+017078s042lbl	C0085633	emotional lability
+020151s047s049,020699s077s079lbl	C0344315	depressed mood
+020151s047s049,020699s077s079lbl	C0085631	psychomotor agitation
+020151s047s049,020699s077s079lbl	C0003467	Anxiety
+020151s047s049,020699s077s079lbl	C0003467	anxiety
+020151s047s049,020699s077s079lbl	C0233481	worry
+020151s047s049,020699s077s079lbl	C0085631	restlessness
+020151s047s049,020699s077s079lbl	C0022107	irritability
+020151s047s049,020699s077s079lbl	C0012833	dizzy
+020151s047s049,020699s077s079lbl	C0220870	lightheaded
+020151s047s049,020699s077s079lbl	C0011551	depersonalization
+020031s060,020936s037,020710s024lbl	C0344315	depressed mood
+020031s060,020936s037,020710s024lbl	C0344315	Depressed mood
+020031s060,020936s037,020710s024lbl	C0085631	psychomotor agitation
+020031s060,020936s037,020710s024lbl	C0233481	worry
+020031s060,020936s037,020710s024lbl	C0012833	dizzy
+020031s060,020936s037,020710s024lbl	C0220870	lightheaded
+020031s060,020936s037,020710s024lbl	C0011551	depersonalization
+020031s060,020936s037,020710s024lbl	C0003467	Anxiety
+020031s060,020936s037,020710s024lbl	C0003467	anxiety
+020031s060,020936s037,020710s024lbl	C0002957	anger
+020031s060,020936s037,020710s024lbl	C0022107	irritability
+020031s060,020936s037,020710s024lbl	C0525045	mood disorders
+021430lbl	C0013144	Drowsiness
+021430lbl	C0013144	Somnolence
+021430lbl	C0013144	drowsiness
+021430lbl	C0013144	somnolence
+021430lbl	C0012833	Dizziness
+021430lbl	C0012833	dizziness
+021434lbl	C0012833	dizzy
+021434lbl	C0220870	lightheaded
+021434lbl	C0011551	depersonalization
+018731s048lbl	C0003467	anxiety
+018731s048lbl	C0003467	Anxiety
+018731s048lbl	C0086132	depressive symptoms
+018731s048lbl	C0012833	dizziness
+018731s048lbl	C0220870	lightheadedness
+018731s048lbl	C0022107	irritability
+018731s048lbl	C0919568	impatience
+021710lbl	C0564408	manic
+021710lbl	C0022107	irritable mood
+021710lbl	C0344315	depressed mood
+021713lbl	C0564408	manic
+021726lbl	C0003467	Anxiety
+021726lbl	C0003467	anxiety
+021726lbl	C0233481	worry
+021726lbl	C0085631	restlessness
+021726lbl	C0012833	dizziness
+021726lbl	C0220870	lightheadedness
+021726lbl	C0022107	irritability
+021726lbl	C0012833	dizzy
+021726lbl	C0220870	lightheaded
+021726lbl	C0011551	depersonalization
+021729lbl	C0564408	manic
+021436s013,021713s008,021729s001lbl	C0564408	manic
+020151s046,020699s075lbl	C0344315	depressed mood
+020151s046,020699s075lbl	C0085631	psychomotor agitation
+020151s046,020699s075lbl	C0003467	Anxiety
+020151s046,020699s075lbl	C0003467	anxiety
+020151s046,020699s075lbl	C0233481	worry
+020151s046,020699s075lbl	C0085631	restlessness
+020151s046,020699s075lbl	C0022107	irritability
+020151s046,020699s075lbl	C0012833	dizzy
+020151s046,020699s075lbl	C0220870	lightheaded
+020151s046,020699s075lbl	C0011551	depersonalization
+21365_Lexapro_lbl	C0233477	dysphoric mood
+21365_Lexapro_lbl	C0344315	depressed mood
+21365_Lexapro_lbl	C0085631	psychomotor agitation
+021475s002,021419s003lbl	C0085633	emotional lability
+20990s1lbl	C0233477	dysphoric mood
+20990s1lbl	C0085631	psychomotor agitation
+20990s1lbl	C0233481	worry
+20990s1lbl	C0012833	dizzy
+20990s1lbl	C0220870	lightheaded
+20990s1lbl	C0011551	depersonalization
+20990s1lbl	C0236720	flashbacks
+20990s1lbl	C0022107	irritability
+20990s1lbl	C0002957	anger
+021763lbl	C0233477	dysphoric mood
+021763lbl	C0344315	depressed mood
+021763lbl	C0085631	psychomotor agitation
+011961s039lbl	C0003467	anxiety
+011961s039lbl	C0003467	anxious mood
+011961s039lbl	C0233477	dysphoric mood
+011961s039lbl	C0344315	depressed mood
+011961s039lbl	C0085631	psychomotor agitation
+21200scm006_zelnorm_lbl	C0022107	irritable
+021860lbl	C0344315	depressed mood
+021860lbl	C0003467	anxiety
+021860lbl	C0002957	anger
+021860lbl	C0022107	irritability
+021860lbl	C0525045	mood disorders
+018012s27lbl	C0086132	symptoms of depression
+018012s27lbl	C0011570	depressions
+021365s016lbl	C0233477	dysphoric mood
+021365s016lbl	C0344315	depressed mood
+021365s016lbl	C0085631	psychomotor agitation
+021365s016lbl	C0003467	Anxiety
+021365s016lbl	C0003467	anxiety
+021365s016lbl	C0233481	worry
+021365s016lbl	C0085631	restlessness
+021365s016lbl	C0022107	irritability
+021866lbl	C0564408	manic
+021866lbl	C0085631	Agitation
+021866lbl	C0085631	agitation
+021866lbl	C0085631	Psychomotor agitation
+021866lbl	C0085631	agitated
+021873lbl	C0344315	depressed mood
+021873lbl	C0003467	anxiety
+021873lbl	C0002957	anger
+021873lbl	C0022107	irritability
+021873lbl	C0525045	mood disorders
+021875lbl	C0013144	sleepiness
+21299_paroxetine_lbl	C0233477	dysphoric mood
+21299_paroxetine_lbl	C0085631	psychomotor agitation
+21299_paroxetine_lbl	C0233481	worry
+21299_paroxetine_lbl	C0012833	dizzy
+21299_paroxetine_lbl	C0220870	lightheaded
+21299_paroxetine_lbl	C0011551	depersonalization
+20031s23lbl	C0233477	dysphoric mood
+20031s23lbl	C0085631	psychomotor agitation
+20031s23lbl	C0003467	Anxiety
+20031s23lbl	C0233481	worry
+20031s23lbl	C0012833	dizzy
+20031s23lbl	C0220870	lightheaded
+20031s23lbl	C0011551	depersonalization
+20031s23lbl	C0003467	anxiety
+20031s29lbl	C0233477	dysphoric mood
+20031s29lbl	C0085631	psychomotor agitation
+20031s29lbl	C0233481	worry
+20031s29lbl	C0012833	dizzy
+20031s29lbl	C0220870	lightheaded
+20031s29lbl	C0011551	depersonalization
+20031s29lbl	C0003467	Anxiety
+20031s29lbl	C0003467	anxiety
+20031s29lbl	C0085631	restlessness
+20031s29lbl	C0022107	irritability
+20031s29lbl	C0236720	flashbacks
+20031s29lbl	C0002957	anger
+020415s019,021208s010lbl	C0233477	dysphoric mood
+020415s019,021208s010lbl	C0344315	depressed mood
+020415s019,021208s010lbl	C0085631	psychomotor agitation
+022033lbl	C0003467	Anxiety
+022033lbl	C0003467	anxiety
+018936s084,020101s039,021235s011lbl	C0233477	dysphoric mood
+018936s084,020101s039,021235s011lbl	C0344315	depressed mood
+018936s084,020101s039,021235s011lbl	C0085631	psychomotor agitation
+018936s084,020101s039,021235s011lbl	C0233481	worry
+018936s084,020101s039,021235s011lbl	C0012833	dizzy
+018936s084,020101s039,021235s011lbl	C0220870	lightheaded
+018644s036lbl	C0233477	dysphoric mood
+018644s036lbl	C0085631	psychomotor agitation
+20785scf020_Thalomid_lbl	C0013144	Drowsiness
+20785scf020_Thalomid_lbl	C0013144	Somnolence
+20785scf020_Thalomid_lbl	C0013144	somnolence
+20785scf020_Thalomid_lbl	C0013144	drowsiness
+20785scf020_Thalomid_lbl	C0012833	Dizziness
+20785scf020_Thalomid_lbl	C0012833	dizziness
+005378s024lbl	C0085633	emotional lability
+005378s026lbl	C0085633	emotional lability
+20699se1-022_Effexor_lbl	C0344315	depressed mood
+20699se1-022_Effexor_lbl	C0085631	psychomotor agitation
+20699se1-022_Effexor_lbl	C0003467	Anxiety
+20699se1-022_Effexor_lbl	C0003467	anxiety
+20699se1-022_Effexor_lbl	C0233481	worry
+20699se1-022_Effexor_lbl	C0085631	restlessness
+20699se1-022_Effexor_lbl	C0022107	irritability
+020699s022lbl	C0344315	depressed mood
+020699s022lbl	C0085631	psychomotor agitation
+020699s022lbl	C0003467	Anxiety
+020699s022lbl	C0003467	anxiety
+020699s022lbl	C0233481	worry
+020699s022lbl	C0085631	restlessness
+020699s022lbl	C0022107	irritability
+020699s047lbl	C0344315	depressed mood
+020699s047lbl	C0085631	psychomotor agitation
+020699s047lbl	C0003467	Anxiety
+020699s047lbl	C0003467	anxiety
+020699s047lbl	C0233481	worry
+020699s047lbl	C0085631	restlessness
+020699s047lbl	C0022107	irritability
+020699s047lbl	C0012833	dizzy
+020699s047lbl	C0220870	lightheaded
+020699s047lbl	C0011551	depersonalization
+20936se2-013_paxil_lbl	C0344315	depressed mood
+20936se2-013_paxil_lbl	C0344315	Depressed mood
+20936se2-013_paxil_lbl	C0085631	psychomotor agitation
+20936se2-013_paxil_lbl	C0233481	worry
+20936se2-013_paxil_lbl	C0012833	dizzy
+20936se2-013_paxil_lbl	C0220870	lightheaded
+20936se2-013_paxil_lbl	C0011551	depersonalization
+20936se2-013_paxil_lbl	C0003467	Anxiety
+20936se2-013_paxil_lbl	C0003467	anxiety
+20936se2-013_paxil_lbl	C0002957	anger
+20936se2-013_paxil_lbl	C0022107	irritability
+20936se2-013_paxil_lbl	C0525045	mood disorders
+020699s059lbl	C0344315	depressed mood
+020699s059lbl	C0085631	psychomotor agitation
+020699s059lbl	C0003467	Anxiety
+020699s059lbl	C0003467	anxiety
+020699s059lbl	C0233481	worry
+020699s059lbl	C0085631	restlessness
+020699s059lbl	C0022107	irritability
+020699s059lbl	C0012833	dizzy
+020699s059lbl	C0220870	lightheaded
+020699s059lbl	C0011551	depersonalization
+020825s015,017,020919s005,006lbl	C0564408	manic
+020825s015,017,020919s005,006lbl	C0022107	irritable mood
+020825s015,017,020919s005,006lbl	C0344315	depressed mood
+020825s015,017,020919s005,006lbl	C0085631	Agitation
+020825s015,017,020919s005,006lbl	C0085631	agitation
+020825s015,017,020919s005,006lbl	C0085631	Psychomotor agitation
+018013s58lbl	C0086132	symptoms of depression
+018013s58lbl	C0011570	depressions
+021436s014,021713s009lbl	C0564408	manic
+19839se1-045_Zoloft_lbl	C0233477	dysphoric mood
+19839se1-045_Zoloft_lbl	C0085631	psychomotor agitation
+19839se1-045_Zoloft_lbl	C0233481	worry
+19839se1-045_Zoloft_lbl	C0012833	dizzy
+19839se1-045_Zoloft_lbl	C0220870	lightheaded
+19839se1-045_Zoloft_lbl	C0011551	depersonalization
+19839se1-045_Zoloft_lbl	C0236720	flashbacks
+19839se1-045_Zoloft_lbl	C0022107	irritability
+19839se1-045_Zoloft_lbl	C0002957	anger
+19839se1-045_Zoloft_lbl	C0344315	depressed mood
+19839se1-045_Zoloft_lbl	C0003467	anxiety
+19839se1-045_Zoloft_lbl	C0525045	mood disorders
+19839se1-045_Zoloft_lbl	C0003467	Anxiety
+20699s15lbl	C0344315	depressed mood
+20699s15lbl	C0085631	psychomotor agitation
+20699s15lbl	C0003467	Anxiety
+20699s15lbl	C0003467	anxiety
+20699s15lbl	C0233481	worry
+20699s15lbl	C0085631	restlessness
+20699s15lbl	C0022107	irritability
+018936s081s082,020101s037,021235s009lbl	C0233477	dysphoric mood
+018936s081s082,020101s037,021235s009lbl	C0344315	depressed mood
+018936s081s082,020101s037,021235s009lbl	C0085631	psychomotor agitation
+018936s081s082,020101s037,021235s009lbl	C0233481	worry
+018936s081s082,020101s037,021235s009lbl	C0012833	dizzy
+018936s081s082,020101s037,021235s009lbl	C0220870	lightheaded
+021710s003lbl	C0564408	manic
+021710s003lbl	C0022107	irritable mood
+021710s003lbl	C0344315	depressed mood
+021427s012lbl	C0233477	dysphoric mood
+021427s012lbl	C0344315	depressed mood
+021427s012lbl	C0085631	psychomotor agitation
+021427s018lbl	C0233477	dysphoric mood
+021427s018lbl	C0344315	depressed mood
+021427s018lbl	C0085631	psychomotor agitation
+021427s018lbl	C0003467	Anxiety
+021427s018lbl	C0003467	anxiety
+021427s018lbl	C0233481	worry
+021427s018lbl	C0085631	restlessness
+021427s018lbl	C0022107	irritability
+020667s011s013lbl	C0085631	Restless
+13718slr022_Oxandrin_lbl	C0022107	irritability
+13718slr022_Oxandrin_lbl	C0013170	Habituation
+20936se1-012_paxil_lbl	C0344315	depressed mood
+20936se1-012_paxil_lbl	C0344315	Depressed mood
+20936se1-012_paxil_lbl	C0085631	psychomotor agitation
+20936se1-012_paxil_lbl	C0233481	worry
+20936se1-012_paxil_lbl	C0012833	dizzy
+20936se1-012_paxil_lbl	C0220870	lightheaded
+20936se1-012_paxil_lbl	C0011551	depersonalization
+20936se1-012_paxil_lbl	C0003467	Anxiety
+20936se1-012_paxil_lbl	C0003467	anxiety
+20936se1-012_paxil_lbl	C0002957	anger
+20936se1-012_paxil_lbl	C0022107	irritability
+20936se1-012_paxil_lbl	C0525045	mood disorders
+19839s39lbl	C0233477	dysphoric mood
+19839s39lbl	C0085631	psychomotor agitation
+19839s39lbl	C0233481	worry
+19839s39lbl	C0012833	dizzy
+19839s39lbl	C0220870	lightheaded
+19839s39lbl	C0011551	depersonalization
+19839s39lbl	C0236720	flashbacks
+19839s39lbl	C0022107	irritability
+19839s39lbl	C0002957	anger
+19839s39lbl	C0344315	depressed mood
+19839s39lbl	C0003467	anxiety
+19839s39lbl	C0525045	mood disorders
+20592se1-019_zyprexa_lbl	C0564408	manic
+020825s024,020919s014lbl	C0564408	manic
+020825s024,020919s014lbl	C0022107	irritable mood
+020825s024,020919s014lbl	C0344315	depressed mood
+020825s024,020919s014lbl	C0085631	Agitation
+020825s024,020919s014lbl	C0085631	agitation
+020825s024,020919s014lbl	C0085631	Psychomotor agitation
+020658s013lbl	C0085631	Restless
+020825s009lbl	C0564408	manic
+020825s009lbl	C0022107	irritable mood
+020825s009lbl	C0344315	depressed mood
+020825s009lbl	C0085631	Agitation
+020825s009lbl	C0085631	agitation
+020825s009lbl	C0085631	Psychomotor agitation
+18731s43lbl	C0003467	anxiety
+18731s43lbl	C0003467	Anxiety
+18731s43lbl	C0086132	depressive symptoms
+18731s43lbl	C0022107	irritability
+18731s43lbl	C0919568	impatience
+017090s74lbl	C0086132	symptoms of depression
+021427s009s011s013lbl	C0233477	dysphoric mood
+021427s009s011s013lbl	C0344315	depressed mood
+021427s009s011s013lbl	C0085631	psychomotor agitation
+021427s009s011s013lbl	C0003467	Anxiety
+021427s009s011s013lbl	C0003467	anxiety
+021427s009s011s013lbl	C0233481	worry
+021427s009s011s013lbl	C0085631	restlessness
+021427s009s011s013lbl	C0022107	irritability
+021860s001lbl	C0344315	depressed mood
+021860s001lbl	C0003467	anxiety
+021860s001lbl	C0002957	anger
+021860s001lbl	C0022107	irritability
+021860s001lbl	C0525045	mood disorders
+021860s002lbl	C0344315	depressed mood
+021860s002lbl	C0003467	anxiety
+021860s002lbl	C0002957	anger
+021860s002lbl	C0022107	irritability
+021860s002lbl	C0525045	mood disorders
+19839se5-se5-044,20990se5-010_zoloft_lbl	C0233477	dysphoric mood
+19839se5-se5-044,20990se5-010_zoloft_lbl	C0085631	psychomotor agitation
+19839se5-se5-044,20990se5-010_zoloft_lbl	C0233481	worry
+19839se5-se5-044,20990se5-010_zoloft_lbl	C0012833	dizzy
+19839se5-se5-044,20990se5-010_zoloft_lbl	C0220870	lightheaded
+19839se5-se5-044,20990se5-010_zoloft_lbl	C0011551	depersonalization
+19839se5-se5-044,20990se5-010_zoloft_lbl	C0236720	flashbacks
+19839se5-se5-044,20990se5-010_zoloft_lbl	C0022107	irritability
+19839se5-se5-044,20990se5-010_zoloft_lbl	C0002957	anger
+19839se5-se5-044,20990se5-010_zoloft_lbl	C0344315	depressed mood
+19839se5-se5-044,20990se5-010_zoloft_lbl	C0003467	anxiety
+19839se5-se5-044,20990se5-010_zoloft_lbl	C0525045	mood disorders
+19839se5-se5-044,20990se5-010_zoloft_lbl	C0003467	Anxiety
+021436s026,021729s012,021713s019,021866s013lbl	C0085631	Agitation
+20717lbl	C0013144	sleepiness
+11909slr033_nardil_lbl	C0003467	anxiety
+20785lbl	C0013144	Drowsiness
+20785lbl	C0013144	somnolence
+20785lbl	C0013144	drowsiness
+20785lbl	C0012833	Dizziness
+20785lbl	C0012833	dizziness
+021107s010lbl	C0022107	irritable
+021107s012lbl	C0022107	irritable
+20822lbl	C0233477	dysphoric mood
+20822lbl	C0344315	depressed mood
+20822lbl	C0085631	psychomotor agitation
+20919lbl	C0085631	agitation
+20919lbl	C0085631	Psychomotor agitation
+20829slr023,20830slr026,21409slr005_singulair_lbl	C0012833	Dizziness
+20936lbl	C0344315	depressed mood
+20936lbl	C0085631	psychomotor agitation
+21253_zyprexa_lbl	C0564408	manic
+21253_zyprexa_lbl	C0085631	Agitation
+21253_zyprexa_lbl	C0085631	agitation
+21253_zyprexa_lbl	C0085631	Psychomotor agitation
+21253_zyprexa_lbl	C0085631	agitated
+20982lbl	C0344315	depressed mood
+20982lbl	C0085631	psychomotor agitation
+20982lbl	C0233481	worry
+20982lbl	C0012833	dizzy
+20982lbl	C0220870	lightheaded
+20982lbl	C0011551	depersonalization
+20990lbl	C0233477	dysphoric mood
+20990lbl	C0085631	agitation
+20990lbl	C0233481	worry
+20990lbl	C0012833	dizzy
+20990lbl	C0220870	lightheaded
+20990lbl	C0011551	depersonalization
+021726s006lbl	C0003467	Anxiety
+021726s006lbl	C0003467	anxiety
+021726s006lbl	C0233481	worry
+021726s006lbl	C0085631	restlessness
+021726s006lbl	C0012833	dizziness
+021726s006lbl	C0220870	lightheadedness
+021726s006lbl	C0022107	irritability
+021726s006lbl	C0012833	dizzy
+021726s006lbl	C0220870	lightheaded
+021726s006lbl	C0011551	depersonalization
+021323s28s29,021365s18s19lbl	C0233477	dysphoric mood
+021323s28s29,021365s18s19lbl	C0344315	depressed mood
+021323s28s29,021365s18s19lbl	C0085631	psychomotor agitation
+021323s28s29,021365s18s19lbl	C0003467	Anxiety
+021323s28s29,021365s18s19lbl	C0003467	anxiety
+021323s28s29,021365s18s19lbl	C0233481	worry
+021323s28s29,021365s18s19lbl	C0085631	restlessness
+021323s28s29,021365s18s19lbl	C0022107	irritability
+2007_-_Aug_PI_-_Wellbutrin_PI	C0233477	dysphoric mood
+2007_-_Aug_PI_-_Wellbutrin_PI	C0085631	psychomotor agitation
+2004_-_aug_PI_-_Pexeva_PI	C0003467	anxiety
+2004_-_aug_PI_-_Pexeva_PI	C0085631	agitation
+2004_-_aug_PI_-_Pexeva_PI	C0022107	irritability
+2004_-_aug_PI_-_Pexeva_PI	C0233477	dysphoric mood
+2004_-_aug_PI_-_Pexeva_PI	C0085631	psychomotor agitation
+2004_-_aug_PI_-_Pexeva_PI	C0564408	manic
+2004_-_aug_PI_-_Pexeva_PI	C0344315	depressed mood
+2007_-_Jan_PI_-_WellbutrinSR_PI	C0344315	depressed mood
+2007_-_Jan_PI_-_WellbutrinSR_PI	C0085631	psychomotor agitation
+2005_-_Paxil_PI _9-27-05	C0233481	worry
+2005_-_Paxil_PI _9-27-05	C0012833	dizzy
+2005_-_Paxil_PI _9-27-05	C0220870	lightheaded
+2005_-_Paxil_PI _9-27-05	C0011551	depersonalization
+2005_-_Paxil_PI _9-27-05	C0003467	Anxiety
+2005_-_Paxil_PI _9-27-05	C0003467	anxiety
+2006_-_Oct_PIs_-_DepakoteER_PI	C0564408	manic
+2006_-_Oct_PIs_-_DepakoteER_PI	C0022107	irritable mood
+2006_-_Oct_PIs_-_DepakoteER_PI	C0344315	depressed mood
+2004_-_aug_PI_-_Zoloft_PI	C0233477	dysphoric mood
+2004_-_aug_PI_-_Zoloft_PI	C0085631	psychomotor agitation
+2004_-_aug_PI_-_Zoloft_PI	C0233481	worry
+2004_-_aug_PI_-_Zoloft_PI	C0012833	dizzy
+2004_-_aug_PI_-_Zoloft_PI	C0220870	lightheaded
+2004_-_aug_PI_-_Zoloft_PI	C0011551	depersonalization
+2004_-_aug_PI_-_Zoloft_PI	C0236720	flashbacks
+2004_-_aug_PI_-_Zoloft_PI	C0022107	irritability
+2004_-_aug_PI_-_Zoloft_PI	C0002957	anger
+2004_-_aug_PI_-_Zoloft_PI	C0344315	depressed mood
+2004_-_aug_PI_-_Zoloft_PI	C0003467	anxiety
+2004_-_aug_PI_-_Zoloft_PI	C0525045	mood disorders
+2004_-_aug_PI_-_Zoloft_PI	C0003467	Anxiety
+2006_-_Sep_PIs_-_Cymbalta_PI	C0233477	dysphoric mood
+2006_-_Sep_PIs_-_Cymbalta_PI	C0344315	depressed mood
+2006_-_Sep_PIs_-_Cymbalta_PI	C0085631	psychomotor agitation
+2005_-_Dec_PI_-_Sarafem_PI	C0344315	depressed mood
+2005_-_Dec_PI_-_Sarafem_PI	C0003467	anxiety
+2005_-_Dec_PI_-_Sarafem_PI	C0002957	anger
+2005_-_Dec_PI_-_Sarafem_PI	C0022107	irritability
+2005_-_Dec_PI_-_Sarafem_PI	C0525045	mood disorders
+2006_-_Jan_PI_-_Depakote_ DelayedRelease_PI	C0564408	manic
+2006_-_Jan_PI_-_Depakote_ DelayedRelease_PI	C0022107	irriTable mood
+2007_-_Jan_PI_-_Flomax_PI	C0012833	Dizziness
+2007_-_Jan_PI_-_Flomax_PI	C0220870	lightheadedness
+2007_-_Jan_PI_-_Flomax_PI	C0012833	dizziness
+2004_-_Wellbutrin XL_PI	C0344315	depressed mood
+2004_-_Wellbutrin XL_PI	C0085631	psychomotor agitation
+2003_-_03Jan_labels_-_EFFEXOR_XR _PI	C0344315	depressed mood
+2003_-_03Jan_labels_-_EFFEXOR_XR _PI	C0085631	psychomotor agitation
+2003_-_03Jan_labels_-_EFFEXOR_XR _PI	C0003467	Anxiety
+2003_-_03Jan_labels_-_EFFEXOR_XR _PI	C0003467	anxiety
+2003_-_03Jan_labels_-_EFFEXOR_XR _PI	C0233481	worry
+2003_-_03Jan_labels_-_EFFEXOR_XR _PI	C0085631	restlessness
+2003_-_03Jan_labels_-_EFFEXOR_XR _PI	C0022107	irritability
+2007_-_Aug_PI_-_Pexeva_PI	C0233477	dysphoric mood
+2007_-_Aug_PI_-_Pexeva_PI	C0085631	psychomotor agitation
+2007_-_Aug_PI_-_Pexeva_PI	C0233481	worry
+2007_-_Aug_PI_-_Pexeva_PI	C0012833	dizzy
+2007_-_Aug_PI_-_Pexeva_PI	C0220870	lightheaded
+2007_-_Aug_PI_-_Pexeva_PI	C0011551	depersonalization
+2007_-_Aug_PI_-_Pexeva_PI	C0003467	Anxiety
+2007_-_Aug_PI_-_Pexeva_PI	C0003467	anxiety
+2007_-_Aug_PI_-_Pexeva_PI	C0085631	restlessness
+2007_-_Aug_PI_-_Pexeva_PI	C0022107	irritability
+2007_-_Aug_PI_-_Provigil_PI	C0013144	sleepiness
+2007_-_Aug_PI_-_PaxilCR_PI	C0344315	depressed mood
+2007_-_Aug_PI_-_PaxilCR_PI	C0344315	Depressed mood
+2007_-_Aug_PI_-_PaxilCR_PI	C0085631	psychomotor agitation
+2007_-_Aug_PI_-_PaxilCR_PI	C0233481	worry
+2007_-_Aug_PI_-_PaxilCR_PI	C0012833	dizzy
+2007_-_Aug_PI_-_PaxilCR_PI	C0220870	lightheaded
+2007_-_Aug_PI_-_PaxilCR_PI	C0011551	depersonalization
+2007_-_Aug_PI_-_PaxilCR_PI	C0003467	Anxiety
+2007_-_Aug_PI_-_PaxilCR_PI	C0003467	anxiety
+2007_-_Aug_PI_-_PaxilCR_PI	C0002957	anger
+2007_-_Aug_PI_-_PaxilCR_PI	C0022107	irritability
+2007_-_Aug_PI_-_PaxilCR_PI	C0525045	mood disorders
+2004_-_mar_PI_-_Effexor_ER_PI	C0344315	depressed mood
+2004_-_mar_PI_-_Effexor_ER_PI	C0085631	psychomotor agitation
+2004_-_mar_PI_-_Effexor_ER_PI	C0003467	Anxiety
+2004_-_mar_PI_-_Effexor_ER_PI	C0003467	anxiety
+2004_-_mar_PI_-_Effexor_ER_PI	C0233481	worry
+2004_-_mar_PI_-_Effexor_ER_PI	C0085631	restlessness
+2004_-_mar_PI_-_Effexor_ER_PI	C0022107	irritability
+2004_-_zyprexa_PI	C0564408	manic
+2007_-_Jul_PI_-_Seroquel_PI	C0564408	manic
+2007_-_Feb_PI_-_Bentyl_PI	C0022107	irritable
+2006_-_Dec_PIs_-_Equetro_PI	C0564408	manic
+2006_-_Dec_PIs_-_Equetro_PI	C0022107	irritable mood
+2006_-_Dec_PIs_-_Equetro_PI	C0344315	depressed mood
+2007_-_Aug_PI_-_Cymbalta_PI	C0233477	dysphoric mood
+2007_-_Aug_PI_-_Cymbalta_PI	C0344315	depressed mood
+2007_-_Aug_PI_-_Cymbalta_PI	C0085631	psychomotor agitation
+2007_-_Aug_PI_-_Cymbalta_PI	C0003467	Anxiety
+2007_-_Aug_PI_-_Cymbalta_PI	C0003467	anxiety
+2007_-_Aug_PI_-_Cymbalta_PI	C0233481	worry
+2007_-_Aug_PI_-_Cymbalta_PI	C0085631	restlessness
+2007_-_Aug_PI_-_Cymbalta_PI	C0022107	irritability
+2006_-_effexor_xr_PI	C0344315	depressed mood
+2006_-_effexor_xr_PI	C0085631	psychomotor agitation
+2006_-_effexor_xr_PI	C0003467	Anxiety
+2006_-_effexor_xr_PI	C0003467	anxiety
+2006_-_effexor_xr_PI	C0233481	worry
+2006_-_effexor_xr_PI	C0085631	restlessness
+2006_-_effexor_xr_PI	C0022107	irritability
+2006_-_effexor_xr_PI	C0012833	dizzy
+2006_-_effexor_xr_PI	C0220870	lightheaded
+2006_-_effexor_xr_PI	C0011551	depersonalization
+2005_-_Jan_PI_-_Wellbutrin SR_PI	C0344315	depressed mood
+2005_-_Jan_PI_-_Wellbutrin SR_PI	C0085631	psychomotor agitation
+2006_-_Feb_PI_-_EffexorXR_PI	C0344315	depressed mood
+2006_-_Feb_PI_-_EffexorXR_PI	C0085631	psychomotor agitation
+2006_-_Feb_PI_-_EffexorXR_PI	C0003467	Anxiety
+2006_-_Feb_PI_-_EffexorXR_PI	C0003467	anxiety
+2006_-_Feb_PI_-_EffexorXR_PI	C0233481	worry
+2006_-_Feb_PI_-_EffexorXR_PI	C0085631	restlessness
+2006_-_Feb_PI_-_EffexorXR_PI	C0022107	irritability
+2005_-_Jan_PI_-_Wellbutrin XL_PI	C0344315	depressed mood
+2005_-_Jan_PI_-_Wellbutrin XL_PI	C0085631	psychomotor agitation
+2006_-_Oct_PIs_-_Seroquel_PI	C0564408	manic
+2007_-_Sep_PI_-_Abilify_PI	C0564408	manic
+2007_-_Sep_PI_-_Abilify_PI	C0085631	Agitation
+2007_-_Sep_PI_-_Abilify_PI	C0085631	agitation
+2007_-_Sep_PI_-_Abilify_PI	C0085631	Psychomotor agitation
+2007_-_Sep_PI_-_Abilify_PI	C0085631	agitated
+2006_-_Jan_PI_-_EffexorXR_PI	C0344315	depressed mood
+2006_-_Jan_PI_-_EffexorXR_PI	C0085631	psychomotor agitation
+2006_-_Jan_PI_-_EffexorXR_PI	C0003467	Anxiety
+2006_-_Jan_PI_-_EffexorXR_PI	C0003467	anxiety
+2006_-_Jan_PI_-_EffexorXR_PI	C0233481	worry
+2006_-_Jan_PI_-_EffexorXR_PI	C0085631	restlessness
+2006_-_Jan_PI_-_EffexorXR_PI	C0022107	irritability
+2004_-_may_PI_-_Wellbutrin_PI	C0233477	dysphoric mood
+2004_-_may_PI_-_Wellbutrin_PI	C0085631	agitation
+2006_-_Feb_PI_-_Paxil_PI	C0233481	worry
+2006_-_Feb_PI_-_Paxil_PI	C0012833	dizzy
+2006_-_Feb_PI_-_Paxil_PI	C0220870	lightheaded
+2006_-_Feb_PI_-_Paxil_PI	C0011551	depersonalization
+2006_-_Feb_PI_-_Paxil_PI	C0003467	Anxiety
+2006_-_Feb_PI_-_Paxil_PI	C0003467	anxiety
+2006_-_Jul_PIs_-_WellbutrinSR_PI	C0344315	depressed mood
+2006_-_Jul_PIs_-_WellbutrinSR_PI	C0085631	psychomotor agitation
+2006_-_Dec_PIs_-_Pexeva_PI	C0233477	dysphoric mood
+2006_-_Dec_PIs_-_Pexeva_PI	C0085631	psychomotor agitation
+2006_-_Dec_PIs_-_Pexeva_PI	C0233481	worry
+2006_-_Dec_PIs_-_Pexeva_PI	C0012833	dizzy
+2006_-_Dec_PIs_-_Pexeva_PI	C0220870	lightheaded
+2006_-_Dec_PIs_-_Pexeva_PI	C0011551	depersonalization
+2006_-_Dec_PIs_-_Pexeva_PI	C0003467	Anxiety
+2006_-_Dec_PIs_-_Pexeva_PI	C0003467	anxiety
+2006_-_Dec_PIs_-_Pexeva_PI	C0085631	Restlessness
+2006_-_Dec_PIs_-_Pexeva_PI	C0022107	irritability
+2005_-_Feb_PI_-_Nardil_PI	C0003467	anxiety
+2004_-_mar_PI_-_Effexor_Immediate_Release_PI	C0233477	dysphoric mood
+2004_-_mar_PI_-_Effexor_Immediate_Release_PI	C0085631	psychomotor agitation
+2006_-_Sep_PIs_-_Effexor_PI	C0233477	dysphoric mood
+2006_-_Sep_PIs_-_Effexor_PI	C0085631	psychomotor agitation
+2005_-_jul_PI_-_PaxilCR_PI	C0344315	depressed mood
+2005_-_jul_PI_-_PaxilCR_PI	C0085631	psychomotor agitation
+2005_-_jul_PI_-_PaxilCR_PI	C0233481	worry
+2006_-_Nov_PIs_-_Ativan_PI	C0013144	sleepiness
+2006_-_Nov_PIs_-_Ativan_PI	C0013144	drowsiness
+2006_-_Nov_PIs_-_Ativan_PI	C0003467	anxiety
+2005_-_Nov_PI_-_EffexorXR_WARNINGS_PI	C0344315	depressed mood
+2005_-_Nov_PI_-_EffexorXR_WARNINGS_PI	C0085631	psychomotor agitation
+2005_-_Nov_PI_-_EffexorXR_WARNINGS_PI	C0003467	Anxiety
+2005_-_Nov_PI_-_EffexorXR_WARNINGS_PI	C0003467	anxiety
+2005_-_Nov_PI_-_EffexorXR_WARNINGS_PI	C0233481	worry
+2005_-_Nov_PI_-_EffexorXR_WARNINGS_PI	C0085631	restlessness
+2005_-_Nov_PI_-_EffexorXR_WARNINGS_PI	C0022107	irritability
+2005_-_Nov_PI_-_EffexorXR_WARNINGS_PI	C0012833	dizzy
+2005_-_Nov_PI_-_EffexorXR_WARNINGS_PI	C0220870	lightheaded
+2005_-_Nov_PI_-_EffexorXR_WARNINGS_PI	C0011551	depersonalization
+2007_-_Sep_PI_-_EffexorXR_PI	C0344315	depressed mood
+2007_-_Sep_PI_-_EffexorXR_PI	C0085631	psychomotor agitation
+2007_-_Sep_PI_-_EffexorXR_PI	C0003467	Anxiety
+2007_-_Sep_PI_-_EffexorXR_PI	C0003467	anxiety
+2007_-_Sep_PI_-_EffexorXR_PI	C0233481	worry
+2007_-_Sep_PI_-_EffexorXR_PI	C0085631	restlessness
+2007_-_Sep_PI_-_EffexorXR_PI	C0022107	irritability
+2007_-_Sep_PI_-_EffexorXR_PI	C0012833	dizzy
+2007_-_Sep_PI_-_EffexorXR_PI	C0220870	lightheaded
+2007_-_Sep_PI_-_EffexorXR_PI	C0011551	depersonalization
+2004_-_sep_PI_-_Sarafem_PI	C0344315	depressed mood
+2004_-_sep_PI_-_Sarafem_PI	C0003467	anxiety
+2004_-_sep_PI_-_Sarafem_PI	C0002957	anger
+2004_-_sep_PI_-_Sarafem_PI	C0022107	irritability
+2004_-_sep_PI_-_Sarafem_PI	C0525045	mood disorders
+2007_-_May_PI_-_Geodon_PI	C0564408	manic
+2007_-_May_PI_-_Geodon_PI	C0022107	irritable mood
+2007_-_May_PI_-_Geodon_PI	C0344315	depressed mood
+2007_-_May_PI_-_Geodon_PI	C0085631	Agitation
+2007_-_May_PI_-_Geodon_PI	C0085631	agitation
+2007_-_May_PI_-_Geodon_PI	C0085631	Psychomotor agitation
+2004_-_jan_PI_-_Paxil CR_PI	C0344315	depressed mood
+2004_-_jan_PI_-_Paxil CR_PI	C0344315	Depressed mood
+2004_-_jan_PI_-_Paxil CR_PI	C0085631	psychomotor agitation
+2004_-_jan_PI_-_Paxil CR_PI	C0233481	worry
+2004_-_jan_PI_-_Paxil CR_PI	C0012833	dizzy
+2004_-_jan_PI_-_Paxil CR_PI	C0220870	lightheaded
+2004_-_jan_PI_-_Paxil CR_PI	C0011551	depersonalization
+2004_-_jan_PI_-_Paxil CR_PI	C0003467	Anxiety
+2004_-_jan_PI_-_Paxil CR_PI	C0003467	anxiety
+2004_-_jan_PI_-_Paxil CR_PI	C0002957	anger
+2004_-_jan_PI_-_Paxil CR_PI	C0022107	irritability
+2004_-_jan_PI_-_Paxil CR_PI	C0525045	mood disorders
+2003_-_03NOV_PI_-_Risperdal_PI	C0564408	manic
+2007_-_Aug_PI_-_Sertraline_PI	C0233477	dysphoric mood
+2007_-_Aug_PI_-_Sertraline_PI	C0085631	psychomotor agitation
+2007_-_Aug_PI_-_Sertraline_PI	C0233481	worry
+2007_-_Aug_PI_-_Sertraline_PI	C0012833	dizzy
+2007_-_Aug_PI_-_Sertraline_PI	C0220870	lightheaded
+2007_-_Aug_PI_-_Sertraline_PI	C0011551	depersonalization
+2007_-_Aug_PI_-_Sertraline_PI	C0236720	flashbacks
+2007_-_Aug_PI_-_Sertraline_PI	C0022107	irritability
+2007_-_Aug_PI_-_Sertraline_PI	C0002957	anger
+2007_-_Aug_PI_-_Sertraline_PI	C0344315	depressed mood
+2007_-_Aug_PI_-_Sertraline_PI	C0003467	anxiety
+2007_-_Aug_PI_-_Sertraline_PI	C0525045	mood disorders
+2007_-_Aug_PI_-_Sertraline_PI	C0003467	Anxiety
+2005_-_Jan_PI_-_Tofranil-PM_PI	C0086132	symptoms of depression
+2007_-_Aug_PI_-_Lexapro_PI	C0233477	dysphoric mood
+2007_-_Aug_PI_-_Lexapro_PI	C0344315	depressed mood
+2007_-_Aug_PI_-_Lexapro_PI	C0085631	psychomotor agitation
+2007_-_Aug_PI_-_Lexapro_PI	C0003467	Anxiety
+2004_-_PaxilCR_PI	C0344315	depressed mood
+2004_-_PaxilCR_PI	C0344315	Depressed mood
+2004_-_PaxilCR_PI	C0085631	psychomotor agitation
+2004_-_PaxilCR_PI	C0233481	worry
+2004_-_PaxilCR_PI	C0012833	dizzy
+2004_-_PaxilCR_PI	C0220870	lightheaded
+2004_-_PaxilCR_PI	C0011551	depersonalization
+2004_-_PaxilCR_PI	C0003467	Anxiety
+2004_-_PaxilCR_PI	C0003467	anxiety
+2004_-_PaxilCR_PI	C0002957	anger
+2004_-_PaxilCR_PI	C0022107	irritability
+2004_-_PaxilCR_PI	C0525045	mood disorders
+2007_-_Jan_PI_-_Wellbutrin_PI	C0233477	dysphoric mood
+2007_-_Jan_PI_-_Wellbutrin_PI	C0085631	agitation
+2007_-_Feb_PI_-_EffexorXR_PI	C0344315	depressed mood
+2007_-_Feb_PI_-_EffexorXR_PI	C0085631	psychomotor agitation
+2007_-_Feb_PI_-_EffexorXR_PI	C0003467	Anxiety
+2007_-_Feb_PI_-_EffexorXR_PI	C0003467	anxiety
+2007_-_Feb_PI_-_EffexorXR_PI	C0233481	worry
+2007_-_Feb_PI_-_EffexorXR_PI	C0085631	restlessness
+2007_-_Feb_PI_-_EffexorXR_PI	C0022107	irritability
+2007_-_Feb_PI_-_EffexorXR_PI	C0012833	dizzy
+2007_-_Feb_PI_-_EffexorXR_PI	C0220870	lightheaded
+2007_-_Feb_PI_-_EffexorXR_PI	C0011551	depersonalization
+2003_-_03DEC_PI_-_Lexapro_PI	C0233477	dysphoric mood
+2003_-_03DEC_PI_-_Lexapro_PI	C0344315	depressed mood
+2003_-_03DEC_PI_-_Lexapro_PI	C0085631	psychomotor agitation
+2003_-_03DEC_PI_-_Lexapro_PI	C0003467	Anxiety
+2003_-_03DEC_PI_-_Lexapro_PI	C0003467	anxiety
+2003_-_03DEC_PI_-_Lexapro_PI	C0233481	worry
+2003_-_03DEC_PI_-_Lexapro_PI	C0085631	restlessness
+2003_-_03DEC_PI_-_Lexapro_PI	C0022107	irritability
+2004_-_apr_PI_-_Effexor_XR_PI	C0344315	depressed mood
+2004_-_apr_PI_-_Effexor_XR_PI	C0085631	psychomotor agitation
+2004_-_apr_PI_-_Effexor_XR_PI	C0003467	Anxiety
+2004_-_apr_PI_-_Effexor_XR_PI	C0003467	anxiety
+2004_-_apr_PI_-_Effexor_XR_PI	C0233481	worry
+2004_-_apr_PI_-_Effexor_XR_PI	C0085631	restlessness
+2004_-_apr_PI_-_Effexor_XR_PI	C0022107	irritability
+2004_-_zelnorm_PI_042704_highlighted	C0022107	irritable
+2007_-_Mar_PI_-_Prozac_PI	C0233477	dysphoric mood
+2007_-_Mar_PI_-_Prozac_PI	C0344315	depressed mood
+2007_-_Mar_PI_-_Prozac_PI	C0085631	psychomotor agitation
+2005_-_Nov_PI_-_Parlodel_PI	C0018524	hallucinations
+2005_-_Nov_PI_-_Parlodel_PI	C0009676	confusion
+2006_-_Nov_PIs_-_Mirapex_PI	C0085631	Restless
+2007_-_Provigil_PI	C0013144	sleepiness
+2005_-_Jan_PI_-_Remeron_PI	C0344315	depressed mood
+2005_-_Jan_PI_-_Remeron_PI	C0085631	psychomotor agitation
+2008_-_Sep_PI_-_Celexa_PI	C0233477	dysphoric mood
+2008_-_Sep_PI_-_Celexa_PI	C0344315	depressed mood
+2008_-_Sep_PI_-_Celexa_PI	C0085631	psychomotor agitation
+2004_-_nov_PI_-_Phenergan_PI	C0233485	apprehension
+2006_-_Jun_PIs_-_WellbutrinXL_PI	C0344315	depressed mood
+2006_-_Jun_PIs_-_WellbutrinXL_PI	C0085631	psychomotor agitation
+2006_-_Jun_PIs_-_WellbutrinXL_PI	C0085159	Seasonal Affective Disorder
+2006_-_Jun_PIs_-_WellbutrinXL_PI	C0085159	seasonal affective disorder
+2006_-_Jun_PIs_-_WellbutrinXL_PI	C0085159	Seasonal affective disorder
+2004_-_may_PI_-_WellbutrinSR_PI	C0344315	depressed mood
+2004_-_may_PI_-_WellbutrinSR_PI	C0085631	psychomotor agitation
+2007_-_Aug_PI_-_Paxil_PI	C0233477	dysphoric mood
+2007_-_Aug_PI_-_Paxil_PI	C0085631	psychomotor agitation
+2007_-_Aug_PI_-_Paxil_PI	C0233481	worry
+2004_-_may_PI_-_WellbutrinXL_PI	C0344315	depressed mood
+2004_-_may_PI_-_WellbutrinXL_PI	C0085631	psychomotor agitation
+2005_-_Mar_PI_-_Fluvoxamine_PI	C0564408	manic
+2005_-_Mar_PI_-_Fluvoxamine_PI	C0086132	depressive symptoms
+2005_-_Jan_PI_-_Wellbutrin_PI	C0233477	dysphoric mood
+2005_-_Jan_PI_-_Wellbutrin_PI	C0085631	psychomotor agitation
+2008_-_Sep_PI_-_EpiPen_PI	C0233485	apprehension
+2006_-_Jun_PIs_-_Cymbalta_PI	C0233477	dysphoric mood
+2006_-_Jun_PIs_-_Cymbalta_PI	C0344315	depressed mood
+2006_-_Jun_PIs_-_Cymbalta_PI	C0085631	psychomotor agitation
+2008_-_Mar_PI_-_Prozac_mar2108_PI	C0233477	dysphoric mood
+2008_-_Mar_PI_-_Prozac_mar2108_PI	C0344315	depressed mood
+2008_-_Mar_PI_-_Prozac_mar2108_PI	C0085631	psychomotor agitation
+2008_-_Mar_PI_-_Prozac_mar2108_PI	C0233481	worry
+2008_-_Mar_PI_-_Prozac_mar2108_PI	C0012833	dizzy
+2008_-_Mar_PI_-_Prozac_mar2108_PI	C0220870	lightheaded
+2004_-_sep_PI_-_Abilify_PI	C0564408	manic
+2005_-_Mar_PI_-_Abilify_PI	C0564408	manic
+2004_-_mar_PI_-_Zyprexa_PI	C0564408	manic
+2004_-_mar_PI_-_Zyprexa_PI	C0085631	Agitation
+2004_-_mar_PI_-_Zyprexa_PI	C0085631	agitation
+2004_-_mar_PI_-_Zyprexa_PI	C0085631	Psychomotor agitation
+2004_-_mar_PI_-_Zyprexa_PI	C0085631	agitated
+2007_-_Apr_PI_-_Sarafem_PI	C0344315	depressed mood
+2007_-_Apr_PI_-_Sarafem_PI	C0003467	anxiety
+2007_-_Apr_PI_-_Sarafem_PI	C0002957	anger
+2007_-_Apr_PI_-_Sarafem_PI	C0022107	irritability
+2007_-_Apr_PI_-_Sarafem_PI	C0525045	mood disorders
+2007_-_Dec_PI_-_Equetro_PI	C0564408	manic
+2007_-_Dec_PI_-_Equetro_PI	C0022107	irritable mood
+2007_-_Dec_PI_-_Equetro_PI	C0344315	depressed mood
+2006_-_Apr_PIs_-_Desoxyn_PI	C0085633	emotional lability
+2006_-_Dexedrine_PI	C0085633	emotional lability
+2006_-_Aug_PIs_-_PaxilCR_PI	C0344315	depressed mood
+2006_-_Aug_PIs_-_PaxilCR_PI	C0344315	Depressed mood
+2006_-_Aug_PIs_-_PaxilCR_PI	C0085631	psychomotor agitation
+2006_-_Aug_PIs_-_PaxilCR_PI	C0233481	worry
+2006_-_Aug_PIs_-_PaxilCR_PI	C0012833	dizzy
+2006_-_Aug_PIs_-_PaxilCR_PI	C0220870	lightheaded
+2006_-_Aug_PIs_-_PaxilCR_PI	C0011551	depersonalization
+2006_-_Aug_PIs_-_PaxilCR_PI	C0003467	Anxiety
+2006_-_Aug_PIs_-_PaxilCR_PI	C0003467	anxiety
+2006_-_Aug_PIs_-_PaxilCR_PI	C0002957	anger
+2006_-_Aug_PIs_-_PaxilCR_PI	C0022107	irritability
+2006_-_Aug_PIs_-_PaxilCR_PI	C0525045	mood disorders
+2006_-_Aug_PIs_-_Paxil_PI	C0233481	worry
+2006_-_Aug_PIs_-_Paxil_PI	C0012833	dizzy
+2006_-_Aug_PIs_-_Paxil_PI	C0220870	lightheaded
+2006_-_Aug_PIs_-_Paxil_PI	C0011551	depersonalization
+2006_-_Aug_PIs_-_Paxil_PI	C0003467	Anxiety
+2006_-_Aug_PIs_-_Paxil_PI	C0003467	anxiety
+2006_-_Aug_PIs_-_MethylinChewable_PI	C0085633	emotional lability
+2005_-_Dec_PI_-_Prozac_PI	C0233477	dysphoric mood
+2005_-_Dec_PI_-_Prozac_PI	C0344315	depressed mood
+2005_-_Dec_PI_-_Prozac_PI	C0085631	psychomotor agitation
+2005_-_Dec_PI_-_Prozac_PI	C0233481	worry
+2005_-_Dec_PI_-_Prozac_PI	C0012833	dizzy
+2005_-_Dec_PI_-_Prozac_PI	C0220870	lightheaded
+2004_-_apr_PI_-_Paxil_PI	C0233477	dysphoric mood
+2004_-_apr_PI_-_Paxil_PI	C0085631	psychomotor agitation
+2004_-_apr_PI_-_Paxil_PI	C0233481	worry
+2004_-_apr_PI_-_Paxil_PI	C0012833	dizzy
+2004_-_apr_PI_-_Paxil_PI	C0220870	lightheaded
+2004_-_apr_PI_-_Paxil_PI	C0011551	depersonalization
+2004_-_apr_PI_-_Paxil_PI	C0003467	Anxiety
+2004_-_apr_PI_-_Paxil_PI	C0003467	anxiety
+2004_-_apr_PI_-_Paxil_PI	C0085631	Restlessness
+2004_-_apr_PI_-_Paxil_PI	C0022107	irritability
+2004_-_apr_PI_-_Paxil_PI	C0236720	flashbacks
+2004_-_apr_PI_-_Paxil_PI	C0002957	anger
+2004_-_Paxil_PI	C0233481	worry
+2004_-_Paxil_PI	C0012833	dizzy
+2004_-_Paxil_PI	C0220870	lightheaded
+2004_-_Paxil_PI	C0011551	depersonalization
+2004_-_Paxil_PI	C0003467	Anxiety
+2004_-_Paxil_PI	C0003467	anxiety
+2004_-_Paxil_PI	C0085631	Restlessness
+2004_-_Paxil_PI	C0022107	irritability
+2004_-_Paxil_PI	C0236720	flashbacks
+2004_-_Paxil_PI	C0002957	anger
+2004_-_may_PI_-_EffexorXR_PI	C0344315	depressed mood
+2004_-_may_PI_-_EffexorXR_PI	C0085631	psychomotor agitation
+2004_-_may_PI_-_EffexorXR_PI	C0003467	Anxiety
+2004_-_may_PI_-_EffexorXR_PI	C0003467	anxiety
+2004_-_may_PI_-_EffexorXR_PI	C0233481	worry
+2004_-_may_PI_-_EffexorXR_PI	C0085631	restlessness
+2004_-_may_PI_-_EffexorXR_PI	C0022107	irritability
+2003_-_03Oct_PI_-_Singulair_PI	C0012833	Dizziness
+2006_-_Aug_PIs_-_MethylinOralSol_PI	C0085633	emotional lability
+2005_-_Jan_PI_-_Pamelor_PI	C0086132	symptoms of depression
+2005_-_Jan_PI_-_Pamelor_PI	C0011570	depressions
+2005_-_Paxil CR_PI	C0344315	depressed mood
+2005_-_Paxil CR_PI	C0344315	Depressed mood
+2005_-_Paxil CR_PI	C0085631	psychomotor agitation
+2005_-_Paxil CR_PI	C0233481	worry
+2005_-_Paxil CR_PI	C0012833	dizzy
+2005_-_Paxil CR_PI	C0220870	lightheaded
+2005_-_Paxil CR_PI	C0011551	depersonalization
+2005_-_Paxil CR_PI	C0003467	Anxiety
+2005_-_Paxil CR_PI	C0003467	anxiety
+2005_-_Paxil CR_PI	C0002957	anger
+2005_-_Paxil CR_PI	C0022107	irritability
+2005_-_Paxil CR_PI	C0525045	mood disorders
+2004_-_may_PI_-_Celexa_PI	C0233477	dysphoric mood
+2004_-_may_PI_-_Celexa_PI	C0344315	depressed mood
+2004_-_may_PI_-_Celexa_PI	C0085631	psychomotor agitation
+2008_-_May_PI_-_Effexor_PI	C0233477	dysphoric mood
+2008_-_May_PI_-_Effexor_PI	C0085631	psychomotor agitation
+2006_-_Mar PIs_-_Paxil_PI	C0233477	dysphoric mood
+2006_-_Mar PIs_-_Paxil_PI	C0085631	psychomotor agitation
+2006_-_Mar PIs_-_Paxil_PI	C0233481	worry
+2006_-_Mar PIs_-_Paxil_PI	C0012833	dizzy
+2006_-_Mar PIs_-_Paxil_PI	C0220870	lightheaded
+2006_-_Mar PIs_-_Paxil_PI	C0011551	depersonalization
+2006_-_Mar PIs_-_Paxil_PI	C0003467	Anxiety
+2006_-_Mar PIs_-_Paxil_PI	C0003467	anxiety
+2006_-_Mar PIs_-_Paxil_PI	C0085631	Restlessness
+2006_-_Mar PIs_-_Paxil_PI	C0022107	irritability
+2006_-_Mar PIs_-_Paxil_PI	C0236720	flashbacks
+2006_-_Mar PIs_-_Paxil_PI	C0002957	anger
+2005_-_Feb_PI_-_Prozac_PI	C0233477	dysphoric mood
+2005_-_Feb_PI_-_Prozac_PI	C0344315	depressed mood
+2005_-_Feb_PI_-_Prozac_PI	C0085631	psychomotor agitation
+2005_-_Feb_PI_-_Prozac_PI	C0233481	worry
+2005_-_Feb_PI_-_Prozac_PI	C0012833	dizzy
+2005_-_Feb_PI_-_Prozac_PI	C0220870	lightheaded
+2004_-_apr_PI_-_Effexor_PI	C0233477	dysphoric mood
+2004_-_apr_PI_-_Effexor_PI	C0085631	psychomotor agitation
+2006_-_Aug_PIs_-_Dexedrine_PI	C0085633	emotional lability
+2007_-_Jul_PI_-_Remeron_PI	C0233477	dysphoric mood
+2007_-_Jul_PI_-_Remeron_PI	C0344315	depressed mood
+2007_-_Jul_PI_-_Remeron_PI	C0085631	psychomotor agitation
+2007_-_Sep_PI_-_BuSpar_PI	C0003467	anxiety
+2007_-_Sep_PI_-_BuSpar_PI	C0003467	Anxiety
+2007_-_Sep_PI_-_BuSpar_PI	C0086132	depressive symptoms
+2007_-_Sep_PI_-_BuSpar_PI	C0012833	dizziness
+2007_-_Sep_PI_-_BuSpar_PI	C0220870	lightheadedness
+2007_-_Sep_PI_-_BuSpar_PI	C0022107	irritability
+2007_-_Sep_PI_-_BuSpar_PI	C0919568	impatience
+2006_-_Sep_PIs_-_Abilify_PI	C0564408	manic
+2005_-_Feb_PI_-_Effexor_PI	C0233477	dysphoric mood
+2005_-_Feb_PI_-_Effexor_PI	C0085631	psychomotor agitation
+2008_-_Jun_PI_-_Sarafem_PI	C0344315	depressed mood
+2008_-_Jun_PI_-_Sarafem_PI	C0003467	anxiety
+2008_-_Jun_PI_-_Sarafem_PI	C0002957	anger
+2008_-_Jun_PI_-_Sarafem_PI	C0022107	irritability
+2008_-_Jun_PI_-_Sarafem_PI	C0525045	mood disorders
+2007_-_Feb_PI_-_Cymbalta_PI	C0233477	dysphoric mood
+2007_-_Feb_PI_-_Cymbalta_PI	C0344315	depressed mood
+2007_-_Feb_PI_-_Cymbalta_PI	C0085631	psychomotor agitation
+2007_-_Feb_PI_-_Cymbalta_PI	C0003467	Anxiety
+2007_-_Feb_PI_-_Cymbalta_PI	C0003467	anxiety
+2005_-_Feb_PI_-_Lotronex_PI	C0022107	irritable
+2005_-_Phenergan_PI	C0233485	apprehension
+2006_-_Jul_PIs_-_Wellbutrin_PI	C0233477	dysphoric mood
+2006_-_Jul_PIs_-_Wellbutrin_PI	C0085631	agitation
+2006_-_Mar PIs_-_PaxilCR_PI	C0344315	depressed mood
+2006_-_Mar PIs_-_PaxilCR_PI	C0344315	Depressed mood
+2006_-_Mar PIs_-_PaxilCR_PI	C0085631	psychomotor agitation
+2006_-_Jan_PI_-_Effexor_PI	C0233477	dysphoric mood
+2006_-_Jan_PI_-_Effexor_PI	C0085631	psychomotor agitation
+2006_-_Oct_PIs_-_AbilifyTabs_PI	C0564408	manic
+2006_-_Sep_PIs_-_LopressorHCT_PI	C0013144	drowsiness
+2006_-_Sep_PIs_-_LopressorHCT_PI	C0085631	restlessness
+2005_-_Paxil_PI	C0233481	worry
+2005_-_Paxil_PI	C0012833	dizzy
+2005_-_Paxil_PI	C0220870	lightheaded
+2005_-_Paxil_PI	C0011551	depersonalization
+2005_-_Paxil_PI	C0003467	Anxiety
+2005_-_Paxil_PI	C0003467	anxiety
+2007_-_Aug_PI_-_Nardil_PI	C0003467	anxiety
+2005_-_Nov_PI_-_EffexorXR_PRECAUTIONS_PI	C0344315	depressed mood
+2005_-_Nov_PI_-_EffexorXR_PRECAUTIONS_PI	C0085631	psychomotor agitation
+2005_-_Nov_PI_-_EffexorXR_PRECAUTIONS_PI	C0003467	Anxiety
+2005_-_Nov_PI_-_EffexorXR_PRECAUTIONS_PI	C0003467	anxiety
+2005_-_Nov_PI_-_EffexorXR_PRECAUTIONS_PI	C0233481	worry
+2005_-_Nov_PI_-_EffexorXR_PRECAUTIONS_PI	C0085631	restlessness
+2005_-_Nov_PI_-_EffexorXR_PRECAUTIONS_PI	C0022107	irritability
+2005_-_Nov_PI_-_EffexorXR_PRECAUTIONS_PI	C0012833	dizzy
+2005_-_Nov_PI_-_EffexorXR_PRECAUTIONS_PI	C0220870	lightheaded
+2005_-_Nov_PI_-_EffexorXR_PRECAUTIONS_PI	C0011551	depersonalization
+2006_-_Oct_PIs_-_RisperdalTabs_PI	C0564408	manic
+2006_-_Oct_PIs_-_RisperdalTabs_PI	C0022107	Irritability
+2006_-_Oct_PIs_-_RisperdalTabs_PI	C0022107	irritability
+2006_-_Dec_PIs_-_Twinject_PI	C0233485	apprehension
+2004_-_may_PI_-_Paxil_PI	C0233481	worry
+2004_-_may_PI_-_Paxil_PI	C0012833	dizzy
+2004_-_may_PI_-_Paxil_PI	C0220870	lightheaded
+2004_-_may_PI_-_Paxil_PI	C0011551	depersonalization
+2004_-_may_PI_-_Paxil_PI	C0003467	Anxiety
+2004_-_may_PI_-_Paxil_PI	C0003467	anxiety
+2004_-_may_PI_-_Paxil_PI	C0085631	Restlessness
+2004_-_may_PI_-_Paxil_PI	C0022107	irritability
+2004_-_may_PI_-_Paxil_PI	C0236720	flashbacks
+2004_-_may_PI_-_Paxil_PI	C0002957	anger
+2007_-_Jul_PI_-_Zyprexa_PI	C0564408	manic
+2007_-_Jul_PI_-_Zyprexa_PI	C0085631	Agitation
+2007_-_Jul_PI_-_Zyprexa_PI	C0085631	agitation
+2007_-_Jul_PI_-_Zyprexa_PI	C0085631	Psychomotor agitation
+2007_-_Jul_PI_-_Zyprexa_PI	C0085631	agitated
+2006_-_Feb_PI_-_Effexor_PI	C0233477	dysphoric mood
+2006_-_Feb_PI_-_Effexor_PI	C0085631	psychomotor agitation
+2003_-_03MAR_PI_-_Fosamax_PI	C0012833	dizziness
+2008_-_May_PI_-_Geodon_PI	C0564408	manic
+2008_-_May_PI_-_Geodon_PI	C0022107	irritable mood
+2008_-_May_PI_-_Geodon_PI	C0344315	depressed mood
+2008_-_May_PI_-_Geodon_PI	C0085631	Agitation
+2008_-_May_PI_-_Geodon_PI	C0085631	agitation
+2008_-_May_PI_-_Geodon_PI	C0085631	Psychomotor agitation
+2005_-_Nov_PI_-_Strattera_PI	C0003467	anxiety
+2005_-_Nov_PI_-_Strattera_PI	C0085631	agitation
+2005_-_Nov_PI_-_Strattera_PI	C0022107	irritability
+2005_-_Nov_PI_-_Strattera_PI	C0085631	psychomotor restlessness
+2005_-_Nov_PI_-_Strattera_PI	C0012833	Dizziness
+2005_-_Nov_PI_-_Strattera_PI	C0013144	Somnolence
+2005_-_Nov_PI_-_Strattera_PI	C0022107	Irritability
+2005_-_Nov_PI_-_Strattera_PI	C0085633	Mood swings
+2005_-_Nov_PI_-_Strattera_PI	C0424109	tearfulness
+2005_-_Nov_PI_-_Strattera_PI	C0012833	dizziness
+2006_-_Paxil CR_PI	C0344315	depressed mood
+2006_-_Paxil CR_PI	C0344315	Depressed mood
+2006_-_Paxil CR_PI	C0085631	psychomotor agitation
+2006_-_Paxil CR_PI	C0233481	worry
+2006_-_Paxil CR_PI	C0012833	dizzy
+2006_-_Paxil CR_PI	C0220870	lightheaded
+2006_-_Paxil CR_PI	C0011551	depersonalization
+2006_-_Paxil CR_PI	C0003467	Anxiety
+2006_-_Paxil CR_PI	C0003467	anxiety
+2006_-_Paxil CR_PI	C0002957	anger
+2006_-_Paxil CR_PI	C0022107	irritability
+2006_-_Paxil CR_PI	C0525045	mood disorders
+2004_-_dec_PI_-_Abilify_PI	C0564408	manic
+2005_-_MAY_PI_-_Requip_PI	C0085631	Restless
+2004_-_may_PI_-_Effexor_PI	C0233477	dysphoric mood
+2004_-_may_PI_-_Effexor_PI	C0085631	psychomotor agitation
+2004_-_apr_PI_-_Celexa_annotated_PI	C0233477	dysphoric mood
+2004_-_apr_PI_-_Celexa_annotated_PI	C0344315	depressed mood
+2004_-_apr_PI_-_Celexa_annotated_PI	C0085631	psychomotor agitation
+2007_-_Jul_PI_-_Pamelor_PI	C0086132	symptoms of depression
+2007_-_Jul_PI_-_Pamelor_PI	C0011570	depressions
+2006_-_Feb_PI_-_Wellbutrin_PI	C0233477	dysphoric mood
+2006_-_Feb_PI_-_Wellbutrin_PI	C0085631	psychomotor agitation
+2005_-_Jan_PI_-_Serzone_PI	C0233477	dysphoric mood
+2005_-_Jan_PI_-_Serzone_PI	C0344315	depressed mood
+2005_-_Jan_PI_-_Serzone_PI	C0085631	psychomotor agitation
+2005_-_Feb_PI_-_Sarafem_PI	C0344315	depressed mood
+2005_-_Feb_PI_-_Sarafem_PI	C0003467	anxiety
+2005_-_Feb_PI_-_Sarafem_PI	C0002957	anger
+2005_-_Feb_PI_-_Sarafem_PI	C0022107	irritability
+2005_-_Feb_PI_-_Sarafem_PI	C0525045	mood disorders
+2007_-_Apr_PI_-_Ativan_PI	C0003467	anxiety
+2007_-_Apr_PI_-_Ativan_PI	C0086132	depressive symptoms
+2007_-_Apr_PI_-_Ativan_PI	C0003467	Anxiety
+2004_-_aug_PI_-_Zelnorm_PI	C0022107	irritable
+2006_-_Paxil_PI	C0233481	worry
+2006_-_Paxil_PI	C0012833	dizzy
+2006_-_Paxil_PI	C0220870	lightheaded
+2006_-_Paxil_PI	C0011551	depersonalization
+2006_-_Paxil_PI	C0003467	Anxiety
+2006_-_Paxil_PI	C0003467	anxiety
+2003_-_03DEC_PI_-_Singulair_PI	C0012833	Dizziness
+2006_-_effexor_PI	C0233477	dysphoric mood
+2006_-_effexor_PI	C0085631	psychomotor agitation
+2007_-_Feb_PI_-_Effexor_PI	C0233477	dysphoric mood
+2007_-_Feb_PI_-_Effexor_PI	C0085631	psychomotor agitation
+2007_-_May_PI_-_Dexedrine_PI	C0085633	emotional lability
+2005_-_Jan_PI_-_Paxil CR_PI	C0344315	depressed mood
+2005_-_Jan_PI_-_Paxil CR_PI	C0344315	Depressed mood
+2005_-_Jan_PI_-_Paxil CR_PI	C0085631	psychomotor agitation
+2005_-_Jan_PI_-_Paxil CR_PI	C0233481	worry
+2005_-_Jan_PI_-_Paxil CR_PI	C0012833	dizzy
+2005_-_Jan_PI_-_Paxil CR_PI	C0220870	lightheaded
+2005_-_Jan_PI_-_Paxil CR_PI	C0011551	depersonalization
+2005_-_Jan_PI_-_Paxil CR_PI	C0003467	Anxiety
+2005_-_Jan_PI_-_Paxil CR_PI	C0003467	anxiety
+2005_-_Jan_PI_-_Paxil CR_PI	C0002957	anger
+2005_-_Jan_PI_-_Paxil CR_PI	C0022107	irritability
+2005_-_Jan_PI_-_Paxil CR_PI	C0525045	mood disorders
+2005_-_Feb_PI_-_Cymbalta_PI	C0233477	dysphoric mood
+2005_-_Feb_PI_-_Cymbalta_PI	C0344315	depressed mood
+2005_-_Feb_PI_-_Cymbalta_PI	C0085631	psychomotor agitation
+2004_-_oct_PI_-_Wellbutrin XL_PI	C0003467	anxiety
+2004_-_oct_PI_-_Wellbutrin XL_PI	C0085631	agitation
+2004_-_oct_PI_-_Wellbutrin XL_PI	C0022107	irritability
+2004_-_oct_PI_-_Wellbutrin XL_PI	C0085631	psychomotor restlessness
+2004_-_oct_PI_-_Wellbutrin XL_PI	C0564408	manic
+2008_-_Jan_PI_-_Seroquel_PI	C0564408	manic
+2006_-_Sep_PIs_-_Prozac_PI	C0233477	dysphoric mood
+2006_-_Sep_PIs_-_Prozac_PI	C0344315	depressed mood
+2006_-_Sep_PIs_-_Prozac_PI	C0085631	psychomotor agitation
+2006_-_Sep_PIs_-_Prozac_PI	C0233481	worry
+2006_-_Sep_PIs_-_Prozac_PI	C0012833	dizzy
+2006_-_Sep_PIs_-_Prozac_PI	C0220870	lightheaded
+2007_-_Mar_PI_-_Zelnorm_PI	C0022107	irritable
+2004_-_jan_PI_-_Provigil_PI	C0013144	sleepiness
+2007_-_Jan_PI_-_Yaz_PI	C0344315	depressed mood
+2007_-_Jan_PI_-_Yaz_PI	C0003467	anxiety
+2007_-_Jan_PI_-_Yaz_PI	C0002957	anger
+2007_-_Jan_PI_-_Yaz_PI	C0022107	irritability
+2007_-_Jan_PI_-_Yaz_PI	C0525045	mood disorders
+2007_-_Aug_PI_-_WellbutrinSR_PI	C0344315	depressed mood
+2007_-_Aug_PI_-_WellbutrinSR_PI	C0085631	psychomotor agitation
+2003_-_03Jan_labels_-_EFFEXOR_PI	C0233477	dysphoric mood
+2003_-_03Jan_labels_-_EFFEXOR_PI	C0085631	psychomotor agitation
+2007_-_Aug_PI_-_WellbutrinXL_PI	C0344315	depressed mood
+2007_-_Aug_PI_-_WellbutrinXL_PI	C0085631	psychomotor agitation
+2007_-_Aug_PI_-_WellbutrinXL_PI	C0085159	Seasonal Affective Disorder
+2007_-_Aug_PI_-_WellbutrinXL_PI	C0085159	seasonal affective disorder
+2007_-_Aug_PI_-_WellbutrinXL_PI	C0085159	Seasonal affective disorder
+2007_-_Dec_PI_-_EffexorXR_PI	C0344315	depressed mood
+2007_-_Dec_PI_-_EffexorXR_PI	C0085631	psychomotor agitation
+2007_-_Dec_PI_-_EffexorXR_PI	C0003467	Anxiety
+2007_-_Dec_PI_-_EffexorXR_PI	C0003467	anxiety
+2007_-_Dec_PI_-_EffexorXR_PI	C0233481	worry
+2007_-_Dec_PI_-_EffexorXR_PI	C0085631	restlessness
+2007_-_Dec_PI_-_EffexorXR_PI	C0022107	irritability
+2007_-_Dec_PI_-_EffexorXR_PI	C0012833	dizzy
+2007_-_Dec_PI_-_EffexorXR_PI	C0220870	lightheaded
+2007_-_Dec_PI_-_EffexorXR_PI	C0011551	depersonalization
+2007_-_Jun_PI_-_Methylin_ChewableTab_PI	C0085633	emotional lability
+2004_-_sep_PI_-_Cymbalta_PI	C0233477	dysphoric mood
+2004_-_sep_PI_-_Cymbalta_PI	C0344315	depressed mood
+2004_-_sep_PI_-_Cymbalta_PI	C0085631	psychomotor agitation
+2005_-_jul_PI_-_Paxil_PI	C0233477	dysphoric mood
+2005_-_jul_PI_-_Paxil_PI	C0085631	psychomotor agitation
+2005_-_jul_PI_-_Paxil_PI	C0233481	worry
+2007_-_Nov_PI_-_Sarafem_PI	C0344315	depressed mood
+2007_-_Nov_PI_-_Sarafem_PI	C0003467	anxiety
+2007_-_Nov_PI_-_Sarafem_PI	C0002957	anger
+2007_-_Nov_PI_-_Sarafem_PI	C0022107	irritability
+2007_-_Nov_PI_-_Sarafem_PI	C0525045	mood disorders
+2006_-_Sep_PIs_-_Seroquel_PI	C0564408	manic
+2004_-_apr_PI_-_Paxil_CR_PI	C0344315	depressed mood
+2004_-_apr_PI_-_Paxil_CR_PI	C0344315	Depressed mood
+2004_-_apr_PI_-_Paxil_CR_PI	C0085631	psychomotor agitation
+2004_-_apr_PI_-_Paxil_CR_PI	C0233481	worry
+2004_-_apr_PI_-_Paxil_CR_PI	C0012833	dizzy
+2004_-_apr_PI_-_Paxil_CR_PI	C0220870	lightheaded
+2004_-_apr_PI_-_Paxil_CR_PI	C0011551	depersonalization
+2004_-_apr_PI_-_Paxil_CR_PI	C0003467	Anxiety
+2004_-_apr_PI_-_Paxil_CR_PI	C0003467	anxiety
+2004_-_apr_PI_-_Paxil_CR_PI	C0002957	anger
+2004_-_apr_PI_-_Paxil_CR_PI	C0022107	irritability
+2004_-_apr_PI_-_Paxil_CR_PI	C0525045	mood disorders
+2006_-_Feb_PI_-_PaxilCR_PI	C0344315	depressed mood
+2006_-_Feb_PI_-_PaxilCR_PI	C0344315	Depressed mood
+2006_-_Feb_PI_-_PaxilCR_PI	C0085631	psychomotor agitation
+2006_-_Feb_PI_-_PaxilCR_PI	C0233481	worry
+2006_-_Feb_PI_-_PaxilCR_PI	C0012833	dizzy
+2006_-_Feb_PI_-_PaxilCR_PI	C0220870	lightheaded
+2006_-_Feb_PI_-_PaxilCR_PI	C0011551	depersonalization
+2006_-_Feb_PI_-_PaxilCR_PI	C0003467	Anxiety
+2006_-_Feb_PI_-_PaxilCR_PI	C0003467	anxiety
+2006_-_Feb_PI_-_PaxilCR_PI	C0002957	anger
+2006_-_Feb_PI_-_PaxilCR_PI	C0022107	irritability
+2006_-_Feb_PI_-_PaxilCR_PI	C0525045	mood disorders
+2006_-_Oct_PIs_-_YAZ_PI	C0344315	depressed mood
+2006_-_Oct_PIs_-_YAZ_PI	C0003467	anxiety
+2006_-_Oct_PIs_-_YAZ_PI	C0002957	anger
+2006_-_Oct_PIs_-_YAZ_PI	C0022107	irritability
+2006_-_Oct_PIs_-_YAZ_PI	C0525045	mood disorders
+2008_-_May_PI_-_EffexorXR_PI	C0344315	depressed mood
+2008_-_May_PI_-_EffexorXR_PI	C0085631	psychomotor agitation
+2008_-_May_PI_-_EffexorXR_PI	C0003467	Anxiety
+2008_-_May_PI_-_EffexorXR_PI	C0003467	anxiety
+2008_-_May_PI_-_EffexorXR_PI	C0233481	worry
+2008_-_May_PI_-_EffexorXR_PI	C0085631	restlessness
+2008_-_May_PI_-_EffexorXR_PI	C0022107	irritability
+2008_-_May_PI_-_EffexorXR_PI	C0012833	dizzy
+2008_-_May_PI_-_EffexorXR_PI	C0220870	lightheaded
+2008_-_May_PI_-_EffexorXR_PI	C0011551	depersonalization
+2003_-_03MAR_PI_-_TranxeneT&SD_PI	C0003467	anxiety
+2003_-_03MAR_PI_-_TranxeneT&SD_PI	C0003467	Anxiety
+2005_-_Jan_PI_-_Paxil_PI	C0233481	worry
+2005_-_Jan_PI_-_Paxil_PI	C0012833	dizzy
+2005_-_Jan_PI_-_Paxil_PI	C0220870	lightheaded
+2005_-_Jan_PI_-_Paxil_PI	C0011551	depersonalization
+2005_-_Jan_PI_-_Paxil_PI	C0003467	Anxiety
+2005_-_Jan_PI_-_Paxil_PI	C0003467	anxiety
+2005_-_Jan_PI_-_Paxil_PI	C0085631	Restlessness
+2005_-_Jan_PI_-_Paxil_PI	C0022107	irritability
+2005_-_Jan_PI_-_Paxil_PI	C0236720	flashbacks
+2005_-_Jan_PI_-_Paxil_PI	C0002957	anger
+2004_-_oct_PI_-_Geodon_PI	C0564408	manic
+2004_-_oct_PI_-_Geodon_PI	C0022107	irritable mood
+2004_-_oct_PI_-_Geodon_PI	C0344315	depressed mood
+2004_-_oct_PI_-_Geodon_PI	C0085631	Agitation
+2004_-_oct_PI_-_Geodon_PI	C0085631	agitation
+2004_-_oct_PI_-_Geodon_PI	C0085631	Psychomotor agitation
+2007_-_Jun_PI_-_Methylin_OralSol_PI	C0085633	emotional lability
+2007_-_Sep_PI_-_Effexor_PI	C0233477	dysphoric mood
+2007_-_Sep_PI_-_Effexor_PI	C0085631	psychomotor agitation
+2004_-_aug_PI_-_Prozac_PI	C0233477	dysphoric mood
+2004_-_aug_PI_-_Prozac_PI	C0344315	depressed mood
+2004_-_aug_PI_-_Prozac_PI	C0085631	psychomotor agitation
+2004_-_aug_PI_-_Prozac_PI	C0233481	worry
+2004_-_aug_PI_-_Prozac_PI	C0012833	dizzy
+2004_-_aug_PI_-_Prozac_PI	C0220870	lightheaded
+2004_-_may_PI_-_PaxilCR_PI	C0344315	depressed mood
+2004_-_may_PI_-_PaxilCR_PI	C0344315	Depressed mood
+2004_-_may_PI_-_PaxilCR_PI	C0085631	psychomotor agitation
+2004_-_may_PI_-_PaxilCR_PI	C0233481	worry
+2004_-_may_PI_-_PaxilCR_PI	C0012833	dizzy
+2004_-_may_PI_-_PaxilCR_PI	C0220870	lightheaded
+2004_-_may_PI_-_PaxilCR_PI	C0011551	depersonalization
+2004_-_may_PI_-_PaxilCR_PI	C0003467	Anxiety
+2004_-_may_PI_-_PaxilCR_PI	C0003467	anxiety
+2004_-_may_PI_-_PaxilCR_PI	C0002957	anger
+2004_-_may_PI_-_PaxilCR_PI	C0022107	irritability
+2004_-_may_PI_-_PaxilCR_PI	C0525045	mood disorders
+2005_-_Nov_PI_-_Xyrem_PI	C0694563	excessive daytime sleepiness
+2005_-_aug_PI_-_Geodon_PI	C0564408	manic
+2005_-_aug_PI_-_Geodon_PI	C0022107	irritable mood
+2005_-_aug_PI_-_Geodon_PI	C0344315	depressed mood
+2005_-_aug_PI_-_Geodon_PI	C0085631	Agitation
+2005_-_aug_PI_-_Geodon_PI	C0085631	agitation
+2005_-_aug_PI_-_Geodon_PI	C0085631	Psychomotor agitation
+2008_-_Mar_PI_-_Pexeva_PI	C0233477	dysphoric mood
+2008_-_Mar_PI_-_Pexeva_PI	C0085631	psychomotor agitation
+2008_-_Mar_PI_-_Pexeva_PI	C0233481	worry
+2008_-_Mar_PI_-_Pexeva_PI	C0012833	dizzy
+2008_-_Mar_PI_-_Pexeva_PI	C0220870	lightheaded
+2008_-_Mar_PI_-_Pexeva_PI	C0011551	depersonalization
+2008_-_Mar_PI_-_Pexeva_PI	C0003467	Anxiety
+2008_-_Mar_PI_-_Pexeva_PI	C0003467	anxiety
+2008_-_Mar_PI_-_Pexeva_PI	C0085631	restlessness
+2008_-_Mar_PI_-_Pexeva_PI	C0022107	irritability
+2007_-_Aug_PI_-_Celexa_PI	C0233477	dysphoric mood
+2007_-_Aug_PI_-_Celexa_PI	C0344315	depressed mood
+2007_-_Aug_PI_-_Celexa_PI	C0085631	psychomotor agitation
+2007_-_Oct_PI_-_Geodon_PI	C0564408	manic
+2007_-_Oct_PI_-_Geodon_PI	C0022107	irritable mood
+2007_-_Oct_PI_-_Geodon_PI	C0344315	depressed mood
+2007_-_Oct_PI_-_Geodon_PI	C0085631	Agitation
+2007_-_Oct_PI_-_Geodon_PI	C0085631	agitation
+2007_-_Oct_PI_-_Geodon_PI	C0085631	Psychomotor agitation
+2006_-_Oct_PIs_-_DepakoteDRTabs_PI	C0564408	manic
+2006_-_Oct_PIs_-_DepakoteDRTabs_PI	C0022107	irritable mood
+2004_-_may_PI_-_PrimaxinIM_PI	C0009676	confusional states
+2004_-_may_PI_-_PrimaxinIV_PI	C0012833	dizziness
+2004_-_may_PI_-_PrimaxinIV_PI	C0013144	somnolence
+2007_-_Aug_PI_-_Surmontil_PI	C0086132	symptoms of depression
+2007_-_Aug_PI_-_EffexorXR_PI	C0344315	depressed mood
+2007_-_Aug_PI_-_EffexorXR_PI	C0085631	psychomotor agitation
+2007_-_Aug_PI_-_EffexorXR_PI	C0003467	Anxiety
+2007_-_Aug_PI_-_EffexorXR_PI	C0003467	anxiety
+2007_-_Aug_PI_-_EffexorXR_PI	C0233481	worry
+2007_-_Aug_PI_-_EffexorXR_PI	C0085631	restlessness
+2007_-_Aug_PI_-_EffexorXR_PI	C0022107	irritability
+2007_-_Aug_PI_-_EffexorXR_PI	C0012833	dizzy
+2007_-_Aug_PI_-_EffexorXR_PI	C0220870	lightheaded
+2007_-_Aug_PI_-_EffexorXR_PI	C0011551	depersonalization
+2004_-_jun_PI_-_RemeronTabs_PI	C0233477	dysphoric mood
+2004_-_jun_PI_-_RemeronTabs_PI	C0344315	depressed mood
+2004_-_jun_PI_-_RemeronTabs_PI	C0085631	psychomotor agitation
+2006_-_Mar PIs_-_Lotronex_PI	C0022107	irritable
+2007_-_May_PI_-_Desoxyn_PI	C0085633	emotional lability
+2007_-_Feb_PI_-_Nardil_PI	C0003467	anxiety
+2002_-_Depakote_PI	C0564408	manic
+2002_-_Depakote_PI	C0022107	irritable mood
+2007_-_Aug_PI_-_Effexor_PI	C0233477	dysphoric mood
+2007_-_Aug_PI_-_Effexor_PI	C0085631	psychomotor agitation
+2008_-_Aug_PI_-_Zyprexa_PI	C0564408	manic
+2008_-_Aug_PI_-_Zyprexa_PI	C0085631	Agitation
+2008_-_Aug_PI_-_Zyprexa_PI	C0085631	agitation
+2008_-_Aug_PI_-_Zyprexa_PI	C0085631	Psychomotor agitation
+2008_-_Aug_PI_-_Zyprexa_PI	C0085631	agitated
+2004_-_jan_PI_-_Lamictal_PI	C0012833	dizziness
+2004_-_jan_PI_-_Lamictal_PI	C0013144	somnolence
+2005_-_Jan_PI_-_Phenergan_PI	C0233485	apprehension
+2006_-_Feb_PI_-_Abilify_PI	C0564408	manic
+2007_-_Jul_PI_-_Emsam_PI	C0233477	dysphoric mood
+2007_-_Jul_PI_-_Emsam_PI	C0344315	depressed mood
+2007_-_Jul_PI_-_Emsam_PI	C0085631	psychomotor agitation
+2004_-_Desyrel_PI	C0003467	anxiety
+2004_-_Desyrel_PI	C0233477	dysphoric mood
+2004_-_Desyrel_PI	C0085631	psychomotor agitation
+2006_-_Sep_PIs_-_EffexorXR_PI	C0344315	depressed mood
+2006_-_Sep_PIs_-_EffexorXR_PI	C0085631	psychomotor agitation
+2006_-_Sep_PIs_-_EffexorXR_PI	C0003467	Anxiety
+2006_-_Sep_PIs_-_EffexorXR_PI	C0003467	anxiety
+2006_-_Sep_PIs_-_EffexorXR_PI	C0233481	worry
+2006_-_Sep_PIs_-_EffexorXR_PI	C0085631	restlessness
+2006_-_Sep_PIs_-_EffexorXR_PI	C0022107	irritability
+2006_-_Sep_PIs_-_EffexorXR_PI	C0012833	dizzy
+2006_-_Sep_PIs_-_EffexorXR_PI	C0220870	lightheaded
+2006_-_Sep_PIs_-_EffexorXR_PI	C0011551	depersonalization
+2007_-_Mar_PI_-_Geodon_PI	C0564408	manic
+2007_-_Mar_PI_-_Geodon_PI	C0022107	irritable mood
+2007_-_Mar_PI_-_Geodon_PI	C0344315	depressed mood
+2007_-_Mar_PI_-_Geodon_PI	C0085631	Agitation
+2007_-_Mar_PI_-_Geodon_PI	C0085631	agitation
+2007_-_Mar_PI_-_Geodon_PI	C0085631	Psychomotor agitation
+2004_-_apr_PI_-_Oxandrin_PI	C0022107	irritability
+2004_-_apr_PI_-_Oxandrin_PI	C0013170	Habituation
+2006_-_Oct_PIs_-_Opana_PI	C0003467	anxiety
+2006_-_Nov_PIs_-_Zyprexa_PI	C0564408	manic
+2003_-_03APR_PI_-_Oxandrin_PI	C0022107	irritability
+2003_-_03APR_PI_-_Oxandrin_PI	C0013170	Habituation
+2007_-_Jul_PI_-_RemeronSolTab_PI	C0233477	dysphoric mood
+2007_-_Jul_PI_-_RemeronSolTab_PI	C0344315	depressed mood
+2007_-_Jul_PI_-_RemeronSolTab_PI	C0085631	psychomotor agitation
+2004_-_may_PI_-_Lexapro_PI	C0233477	dysphoric mood
+2004_-_may_PI_-_Lexapro_PI	C0344315	depressed mood
+2004_-_may_PI_-_Lexapro_PI	C0085631	psychomotor agitation
+2004_-_may_PI_-_Lexapro_PI	C0003467	Anxiety
+2004_-_may_PI_-_Lexapro_PI	C0003467	anxiety
+2004_-_may_PI_-_Lexapro_PI	C0233481	worry
+2004_-_may_PI_-_Lexapro_PI	C0085631	restlessness
+2004_-_may_PI_-_Lexapro_PI	C0022107	irritability
+2006_-_Feb_PI_-_Wellbutrin SR_PI	C0344315	depressed mood
+2006_-_Feb_PI_-_Wellbutrin SR_PI	C0085631	psychomotor agitation
+2004_-_apr_PI_-_Zelnorm_PI	C0022107	irritable
+2007_-_Jul_PI_-_TofranilPM_PI	C0086132	symptoms of depression
+20081121_9AA7B3F2-4429-4A61-AD8E-876AFB14CC45	C0233485	apprehension
+20070906_1AAF9375-AE3D-4FED-9CD1-24102E00BE1A	C0003467	anxiety
+20070906_1AAF9375-AE3D-4FED-9CD1-24102E00BE1A	C0003467	Anxiety
+20070906_1AAF9375-AE3D-4FED-9CD1-24102E00BE1A	C0085631	agitation
+20070906_1AAF9375-AE3D-4FED-9CD1-24102E00BE1A	C0011206	acute delirium
+20081114_c63d6612-3fd2-44dd-a5c7-a093766b91f2	C0085631	restlessness
+20081114_c63d6612-3fd2-44dd-a5c7-a093766b91f2	C0233485	apprehension
+20081114_c63d6612-3fd2-44dd-a5c7-a093766b91f2	C0564408	manic
+20080418_737836A8-3961-4F15-8824-514D034AB491	C0085631	psychomotor agitation
+20080507_4A0AFC61-F83D-4871-86EB-929C9428A1E3	C0233477	dysphoric mood
+20080507_4A0AFC61-F83D-4871-86EB-929C9428A1E3	C0085631	psychomotor agitation
+20080605_142F9B27-65A7-4ADD-BDCC-2468695FEDFF	C0233477	dysphoric mood
+20080605_142F9B27-65A7-4ADD-BDCC-2468695FEDFF	C0344315	depressed mood
+20080605_142F9B27-65A7-4ADD-BDCC-2468695FEDFF	C0085631	psychomotor agitation
+20080605_142F9B27-65A7-4ADD-BDCC-2468695FEDFF	C0233481	worry
+20080605_142F9B27-65A7-4ADD-BDCC-2468695FEDFF	C0012833	dizzy
+20080605_142F9B27-65A7-4ADD-BDCC-2468695FEDFF	C0220870	lightheaded
+20080612_75bf3473-2d70-4d41-93cd-afa1015e45bb	C0086132	symptoms of depression
+20081126_f04e8194-7077-42cf-99ee-b61e42a76cf0	C0085633	emotional lability
+20080208_EC2D13F3-D14F-47E4-ABE9-7763F95A8E94	C0085633	emotional lability
+20071025_0584DDA8-BC3C-48FE-1A90-79608F78E8A0	C0564408	manic
+20081114_1d584f85-4768-4ec4-a829-4996d6b30fcb	C0003467	anxiety
+20081114_1d584f85-4768-4ec4-a829-4996d6b30fcb	C0085631	agitated
+20080205_AEC4204D-8A0C-443A-AAD1-1958DB28C60D	C0233477	dysphoric mood
+20080205_AEC4204D-8A0C-443A-AAD1-1958DB28C60D	C0344315	depressed mood
+20080205_AEC4204D-8A0C-443A-AAD1-1958DB28C60D	C0085631	psychomotor agitation
+20070808_DDF980B2-0A5B-4848-B67B-8F54D1DC5AB7	C0022107	irritable
+20080208_FE9E8B7D-61EA-409D-84AA-3EBD79A046B5	C0233477	dysphoric mood
+20080208_FE9E8B7D-61EA-409D-84AA-3EBD79A046B5	C0085631	psychomotor agitation
+20080208_FE9E8B7D-61EA-409D-84AA-3EBD79A046B5	C0233481	worry
+20080208_FE9E8B7D-61EA-409D-84AA-3EBD79A046B5	C0012833	dizzy
+20080208_FE9E8B7D-61EA-409D-84AA-3EBD79A046B5	C0220870	lightheaded
+20080208_FE9E8B7D-61EA-409D-84AA-3EBD79A046B5	C0011551	depersonalization
+20080208_FE9E8B7D-61EA-409D-84AA-3EBD79A046B5	C0236720	flashbacks
+20080208_FE9E8B7D-61EA-409D-84AA-3EBD79A046B5	C0022107	irritability
+20080208_FE9E8B7D-61EA-409D-84AA-3EBD79A046B5	C0002957	anger
+20080208_FE9E8B7D-61EA-409D-84AA-3EBD79A046B5	C0344315	depressed mood
+20080208_FE9E8B7D-61EA-409D-84AA-3EBD79A046B5	C0003467	anxiety
+20080208_FE9E8B7D-61EA-409D-84AA-3EBD79A046B5	C0525045	mood disorders
+20080208_FE9E8B7D-61EA-409D-84AA-3EBD79A046B5	C0003467	Anxiety
+20071019_02D91219-7A5B-492F-B0F6-6DE0D0236542	C0233477	dysphoric mood
+20071019_02D91219-7A5B-492F-B0F6-6DE0D0236542	C0344315	depressed mood
+20071019_02D91219-7A5B-492F-B0F6-6DE0D0236542	C0085631	psychomotor agitation
+20071019_02D91219-7A5B-492F-B0F6-6DE0D0236542	C0233481	worry
+20071019_02D91219-7A5B-492F-B0F6-6DE0D0236542	C0012833	dizzy
+20071019_02D91219-7A5B-492F-B0F6-6DE0D0236542	C0220870	lightheaded
+20061005_6281ca7c-2aec-4f14-b7e4-82401a701c96	C0085633	emotional lability
+20070629_14160524-3343-450c-bab3-d8a4ae50eddc	C0003467	anxiety
+20070629_14160524-3343-450c-bab3-d8a4ae50eddc	C0233477	dysphoric mood
+20070629_14160524-3343-450c-bab3-d8a4ae50eddc	C0085631	psychomotor agitation
+20070906_1827a5aa-733a-49d9-89d9-48ea0367b230	C0086132	symptoms of depression
+20080418_03ed2008-7129-42ed-a748-93582fda403c	C0233477	dysphoric mood
+20080418_03ed2008-7129-42ed-a748-93582fda403c	C0085631	psychomotor agitation
+20080418_03ed2008-7129-42ed-a748-93582fda403c	C0233481	worry
+20080418_03ed2008-7129-42ed-a748-93582fda403c	C0012833	dizzy
+20080418_03ed2008-7129-42ed-a748-93582fda403c	C0220870	lightheaded
+20080418_03ed2008-7129-42ed-a748-93582fda403c	C0011551	depersonalization
+20080418_03ed2008-7129-42ed-a748-93582fda403c	C0003467	Anxiety
+20080418_03ed2008-7129-42ed-a748-93582fda403c	C0003467	anxiety
+20080418_03ed2008-7129-42ed-a748-93582fda403c	C0085631	Restlessness
+20080418_03ed2008-7129-42ed-a748-93582fda403c	C0022107	irritability
+20070815_415672B5-BAB8-437C-9EE4-9C729208EDA3	C0013144	sleepiness
+20070815_415672B5-BAB8-437C-9EE4-9C729208EDA3	C0013144	drowsiness
+20070815_415672B5-BAB8-437C-9EE4-9C729208EDA3	C0003467	anxiety
+20071210_34efe868-f01a-49c7-ab02-9f659b1689f8	C0233477	dysphoric mood
+20071210_34efe868-f01a-49c7-ab02-9f659b1689f8	C0344315	depressed mood
+20071210_34efe868-f01a-49c7-ab02-9f659b1689f8	C0085631	psychomotor agitation
+20071210_34efe868-f01a-49c7-ab02-9f659b1689f8	C0233481	worry
+20071210_34efe868-f01a-49c7-ab02-9f659b1689f8	C0012833	dizzy
+20071210_34efe868-f01a-49c7-ab02-9f659b1689f8	C0220870	lightheaded
+20080125_61D2DA8D-B435-4ADA-A013-401786F7CACE	C0086132	symptoms of depression
+20080505_C43C300D-8AEC-4020-984A-42C1A917C08F	C0018524	hallucinations
+20080505_C43C300D-8AEC-4020-984A-42C1A917C08F	C0009676	confusion
+20070906_accef599-6ead-4faa-8208-61e37eab908b	C0233477	dysphoric mood
+20070906_accef599-6ead-4faa-8208-61e37eab908b	C0085631	psychomotor agitation
+20060918_E3FF8641-AE8A-4016-ACB1-CB1B7890F5ED	C0003467	anxiety
+20060918_E3FF8641-AE8A-4016-ACB1-CB1B7890F5ED	C0233485	apprehension
+20060918_E3FF8641-AE8A-4016-ACB1-CB1B7890F5ED	C0003467	Anxiety
+20080911_6c47a65b-2665-4391-ad69-25c4f5a8b010	C0233477	dysphoric mood
+20080911_6c47a65b-2665-4391-ad69-25c4f5a8b010	C0085631	psychomotor agitation
+20080911_6c47a65b-2665-4391-ad69-25c4f5a8b010	C0233481	worry
+20080911_6c47a65b-2665-4391-ad69-25c4f5a8b010	C0012833	dizzy
+20080911_6c47a65b-2665-4391-ad69-25c4f5a8b010	C0220870	lightheaded
+20080911_6c47a65b-2665-4391-ad69-25c4f5a8b010	C0011551	depersonalization
+20080911_6c47a65b-2665-4391-ad69-25c4f5a8b010	C0003467	Anxiety
+20080911_6c47a65b-2665-4391-ad69-25c4f5a8b010	C0003467	anxiety
+20080911_6c47a65b-2665-4391-ad69-25c4f5a8b010	C0085631	Restlessness
+20080911_6c47a65b-2665-4391-ad69-25c4f5a8b010	C0022107	irritability
+20061201_1617e8e2-54a8-4119-b865-d20d2350df3e	C0233481	worry
+20061201_1617e8e2-54a8-4119-b865-d20d2350df3e	C0012833	dizzy
+20061201_1617e8e2-54a8-4119-b865-d20d2350df3e	C0220870	lightheaded
+20061201_1617e8e2-54a8-4119-b865-d20d2350df3e	C0011551	depersonalization
+20080306_53C3E7AC-1852-4D70-D2B6-4FCA819ACF26	C0344315	depressed mood
+20080306_53C3E7AC-1852-4D70-D2B6-4FCA819ACF26	C0085631	psychomotor agitation
+20080306_53C3E7AC-1852-4D70-D2B6-4FCA819ACF26	C0003467	Anxiety
+20080306_53C3E7AC-1852-4D70-D2B6-4FCA819ACF26	C0003467	anxiety
+20080306_53C3E7AC-1852-4D70-D2B6-4FCA819ACF26	C0233481	worry
+20080306_53C3E7AC-1852-4D70-D2B6-4FCA819ACF26	C0085631	restlessness
+20080306_53C3E7AC-1852-4D70-D2B6-4FCA819ACF26	C0022107	irritability
+20080306_53C3E7AC-1852-4D70-D2B6-4FCA819ACF26	C0012833	dizzy
+20080306_53C3E7AC-1852-4D70-D2B6-4FCA819ACF26	C0220870	lightheaded
+20080306_53C3E7AC-1852-4D70-D2B6-4FCA819ACF26	C0011551	depersonalization
+20070524_2C8BBA31-EB1E-432C-B82D-E239CE8B34DD	C0003467	anxiety
+20070524_2C8BBA31-EB1E-432C-B82D-E239CE8B34DD	C0086132	depressive symptoms
+20070524_2C8BBA31-EB1E-432C-B82D-E239CE8B34DD	C0003467	Anxiety
+20070824_54e9c0b9-6bfa-4900-a2c2-1107ecc8ca48	C0233477	dysphoric mood
+20070824_54e9c0b9-6bfa-4900-a2c2-1107ecc8ca48	C0344315	depressed mood
+20070824_54e9c0b9-6bfa-4900-a2c2-1107ecc8ca48	C0085631	psychomotor agitation
+20070216_A7713510-2A7C-4C34-9FC2-A96FCDD52891	C0085633	emotional lability
+20070928_b58d473a-b19f-4d2a-b1ae-dd398d7a29e1	C0086132	symptoms of depression
+20070928_b58d473a-b19f-4d2a-b1ae-dd398d7a29e1	C0011570	depressions
+20080208_2aae194e-fac1-4898-9032-f91cc38490a3	C0233477	dysphoric mood
+20080208_2aae194e-fac1-4898-9032-f91cc38490a3	C0344315	depressed mood
+20080208_2aae194e-fac1-4898-9032-f91cc38490a3	C0085631	psychomotor agitation
+20080208_2aae194e-fac1-4898-9032-f91cc38490a3	C0233481	worry
+20080208_2aae194e-fac1-4898-9032-f91cc38490a3	C0012833	dizzy
+20080208_2aae194e-fac1-4898-9032-f91cc38490a3	C0220870	lightheaded
+20070413_564d76e0-77e9-4c87-85d7-43cbeb473485	C0011206	delirium
+20070413_564d76e0-77e9-4c87-85d7-43cbeb473485	C0009676	confusion
+20070413_564d76e0-77e9-4c87-85d7-43cbeb473485	C0085633	emotional lability
+20070413_564d76e0-77e9-4c87-85d7-43cbeb473485	C0003467	anxiety
+20070413_564d76e0-77e9-4c87-85d7-43cbeb473485	C0012833	dizziness
+20080505_8be93c0b-2c49-4010-8502-00017f46c0d4	C0233477	dysphoric mood
+20080505_8be93c0b-2c49-4010-8502-00017f46c0d4	C0085631	psychomotor agitation
+20080505_8be93c0b-2c49-4010-8502-00017f46c0d4	C0233481	worry
+20080505_8be93c0b-2c49-4010-8502-00017f46c0d4	C0012833	dizzy
+20080505_8be93c0b-2c49-4010-8502-00017f46c0d4	C0220870	lightheaded
+20080505_8be93c0b-2c49-4010-8502-00017f46c0d4	C0011551	depersonalization
+20080505_8be93c0b-2c49-4010-8502-00017f46c0d4	C0003467	Anxiety
+20080505_8be93c0b-2c49-4010-8502-00017f46c0d4	C0003467	anxiety
+20080505_8be93c0b-2c49-4010-8502-00017f46c0d4	C0085631	Restlessness
+20080505_8be93c0b-2c49-4010-8502-00017f46c0d4	C0022107	irritability
+20070928_08DF7DDD-2529-4B74-A3F2-8D5FC54E2BA0	C0233477	dysphoric mood
+20070928_08DF7DDD-2529-4B74-A3F2-8D5FC54E2BA0	C0344315	depressed mood
+20070928_08DF7DDD-2529-4B74-A3F2-8D5FC54E2BA0	C0085631	psychomotor agitation
+20081114_4259d9b1-de34-43a4-85a8-41dd214e9177	C0233477	dysphoric mood
+20081114_4259d9b1-de34-43a4-85a8-41dd214e9177	C0344315	depressed mood
+20081114_4259d9b1-de34-43a4-85a8-41dd214e9177	C0085631	psychomotor agitation
+20061012_059E3906-CD45-4A54-8208-53D4C4F02BE5	C0022107	irritable
+20061215_8af7e5ce-d9d9-44cc-9f2f-4ddbc89e758a	C0003467	anxiety
+20061215_8af7e5ce-d9d9-44cc-9f2f-4ddbc89e758a	C0085631	psychomotor agitation
+20061215_8af7e5ce-d9d9-44cc-9f2f-4ddbc89e758a	C0677660	emotional problems
+20061215_8af7e5ce-d9d9-44cc-9f2f-4ddbc89e758a	C0011206	delirium
+20061215_8af7e5ce-d9d9-44cc-9f2f-4ddbc89e758a	C0233485	apprehension
+20080306_CF2D9BEE-F8E3-477A-E4B4-F0E82657B7D2	C0233477	dysphoric mood
+20080306_CF2D9BEE-F8E3-477A-E4B4-F0E82657B7D2	C0085631	psychomotor agitation
+20080605_065F33E4-B587-4E66-B896-CA9AB7B7C876	C0344315	depressed mood
+20080605_065F33E4-B587-4E66-B896-CA9AB7B7C876	C0003467	anxiety
+20080605_065F33E4-B587-4E66-B896-CA9AB7B7C876	C0002957	anger
+20080605_065F33E4-B587-4E66-B896-CA9AB7B7C876	C0022107	irritability
+20080605_065F33E4-B587-4E66-B896-CA9AB7B7C876	C0525045	mood disorders
+20081126_B5D2725E-6C87-4F14-BC7C-AFA24874F0A7	C0003467	anxiety
+20081126_B5D2725E-6C87-4F14-BC7C-AFA24874F0A7	C0003467	Anxiety
+20081126_B5D2725E-6C87-4F14-BC7C-AFA24874F0A7	C0233481	worry
+20081126_B5D2725E-6C87-4F14-BC7C-AFA24874F0A7	C0085631	restlessness
+20081126_B5D2725E-6C87-4F14-BC7C-AFA24874F0A7	C0012833	dizziness
+20081126_B5D2725E-6C87-4F14-BC7C-AFA24874F0A7	C0022107	irritability
+20081126_B5D2725E-6C87-4F14-BC7C-AFA24874F0A7	C0011551	depersonalization
+20071010_326e8ab0-6886-4749-9544-885b37070051	C0233477	dysphoric mood
+20071010_326e8ab0-6886-4749-9544-885b37070051	C0085631	psychomotor agitation
+20071010_326e8ab0-6886-4749-9544-885b37070051	C0233481	worry
+20071010_326e8ab0-6886-4749-9544-885b37070051	C0012833	dizzy
+20071010_326e8ab0-6886-4749-9544-885b37070051	C0220870	lightheaded
+20071010_326e8ab0-6886-4749-9544-885b37070051	C0011551	depersonalization
+20071010_326e8ab0-6886-4749-9544-885b37070051	C0003467	Anxiety
+20071010_326e8ab0-6886-4749-9544-885b37070051	C0003467	anxiety
+20071010_326e8ab0-6886-4749-9544-885b37070051	C0085631	Restlessness
+20071010_326e8ab0-6886-4749-9544-885b37070051	C0022107	irritability
+20061122_c0f1fcfd-8863-4032-bf80-185df60a4ba0	C0085631	restlessness
+20061122_c0f1fcfd-8863-4032-bf80-185df60a4ba0	C0233485	apprehension
+20061122_c0f1fcfd-8863-4032-bf80-185df60a4ba0	C0564408	manic
+20070223_3A4D74D7-2E63-4789-B50E-AF17CED92462	C0085631	agitated
+20080313_636bb9bc-0cc5-4d6a-85be-6471acf01ffc	C0233485	apprehension
+20060821_A0860402-057C-40CE-902C-6EC5D6545132	C0085633	emotional lability
+20060921_542F22E8-DAD2-47A8-93B6-30936715D73B	C0233481	worry
+20060921_542F22E8-DAD2-47A8-93B6-30936715D73B	C0012833	dizzy
+20060921_542F22E8-DAD2-47A8-93B6-30936715D73B	C0220870	lightheaded
+20060921_542F22E8-DAD2-47A8-93B6-30936715D73B	C0011551	depersonalization
+20080505_1292A04E-7220-4B2D-AE6F-334E1277000C	C0233477	dysphoric mood
+20080505_1292A04E-7220-4B2D-AE6F-334E1277000C	C0085631	psychomotor agitation
+20081030_5f0bdf9d-fa78-45e8-913a-81beff57cf34	C0564408	manic
+20081030_5f0bdf9d-fa78-45e8-913a-81beff57cf34	C0022107	Irritability
+20081030_5f0bdf9d-fa78-45e8-913a-81beff57cf34	C0022107	irritability
+20071109_AA69C63C-CED6-4676-A16B-554F1AF7D210	C0003467	anxiety
+20071109_AA69C63C-CED6-4676-A16B-554F1AF7D210	C0564408	manic
+20071109_AA69C63C-CED6-4676-A16B-554F1AF7D210	C0233485	apprehension
+20071109_AA69C63C-CED6-4676-A16B-554F1AF7D210	C0233481	worry
+20070824_CFFBBB15-D776-41AE-A8A6-687F2C07BFA4	C0085633	emotional lability
+20071101_63643535-0aa4-4cb3-870b-93933e48b9c1	C0233477	dysphoric mood
+20071101_63643535-0aa4-4cb3-870b-93933e48b9c1	C0085631	psychomotor agitation
+20060731_AB4E5D9C-64FA-4BAB-9E7F-ED02109568AF	C0003467	anxiety
+20060731_AB4E5D9C-64FA-4BAB-9E7F-ED02109568AF	C0003467	Anxiety
+20060731_AB4E5D9C-64FA-4BAB-9E7F-ED02109568AF	C0085631	agitation
+20060731_AB4E5D9C-64FA-4BAB-9E7F-ED02109568AF	C0011206	acute delirium
+20080125_AECEC663-16ED-4C34-A00A-AF6B99B3E1B6	C0233477	dysphoric mood
+20080125_AECEC663-16ED-4C34-A00A-AF6B99B3E1B6	C0344315	depressed mood
+20080125_AECEC663-16ED-4C34-A00A-AF6B99B3E1B6	C0085631	psychomotor agitation
+20070914_369dbfba-9de4-433c-8680-2ec047b8f8d9	C0233477	dysphoric mood
+20070914_369dbfba-9de4-433c-8680-2ec047b8f8d9	C0344315	depressed mood
+20070914_369dbfba-9de4-433c-8680-2ec047b8f8d9	C0085631	psychomotor agitation
+20070914_369dbfba-9de4-433c-8680-2ec047b8f8d9	C0233481	worry
+20070914_369dbfba-9de4-433c-8680-2ec047b8f8d9	C0012833	dizzy
+20070914_369dbfba-9de4-433c-8680-2ec047b8f8d9	C0220870	lightheaded
+20080319_69757C05-DA14-4FE8-A441-EB1B519DC19F	C0233477	dysphoric mood
+20080319_69757C05-DA14-4FE8-A441-EB1B519DC19F	C0085631	psychomotor agitation
+20080521_ACBCE0E8-5098-4785-943B-8BDB5FF17FAB	C0233481	worry
+20080521_ACBCE0E8-5098-4785-943B-8BDB5FF17FAB	C0012833	dizzy
+20080521_ACBCE0E8-5098-4785-943B-8BDB5FF17FAB	C0220870	lightheaded
+20080521_ACBCE0E8-5098-4785-943B-8BDB5FF17FAB	C0011551	depersonalization
+20080327_0F43610C-F290-46EA-D186-4F998ED99FCE	C0344315	depressed mood
+20080327_0F43610C-F290-46EA-D186-4F998ED99FCE	C0085631	psychomotor agitation
+20081121_6EA1B78E-ACF4-4CD6-A126-699A0567669A	C0011570	mental depression
+20071010_F63868AF-7C5B-430A-81E7-2483286936F1	C0233481	worry
+20071010_F63868AF-7C5B-430A-81E7-2483286936F1	C0012833	dizzy
+20071010_F63868AF-7C5B-430A-81E7-2483286936F1	C0220870	lightheaded
+20070426_A3673D64-500B-4541-9538-C366F67FF687	C0003467	anxiety
+20070914_A6FE8E00-A1EE-4DBB-BAC7-46AC2AF9AEE9	C0086132	symptoms of depression
+20070426_2C2339ED-D8D7-4FE3-F197-41ADB8931FC1	C0003467	anxiety
+20070426_2C2339ED-D8D7-4FE3-F197-41ADB8931FC1	C0003467	Anxiety
+20070426_2C2339ED-D8D7-4FE3-F197-41ADB8931FC1	C0085631	agitation
+20070426_2C2339ED-D8D7-4FE3-F197-41ADB8931FC1	C0011206	acute delirium
+20070426_2C2339ED-D8D7-4FE3-F197-41ADB8931FC1	C0233485	apprehension
+20080904_EB75C672-8C72-4967-B97B-4119D49A9CB1	C0233481	worry
+20080904_EB75C672-8C72-4967-B97B-4119D49A9CB1	C0012833	dizzy
+20080904_EB75C672-8C72-4967-B97B-4119D49A9CB1	C0220870	lightheaded
+20080904_EB75C672-8C72-4967-B97B-4119D49A9CB1	C0011551	depersonalization
+20071019_15A945E1-6B94-4D11-858F-604E7A2EB109	C0233477	dysphoric mood
+20071019_15A945E1-6B94-4D11-858F-604E7A2EB109	C0344315	depressed mood
+20071019_15A945E1-6B94-4D11-858F-604E7A2EB109	C0085631	psychomotor agitation
+20080418_AD535DF9-6361-460D-9648-450A0A6F61CD	C0012833	dizzy
+20080418_AD535DF9-6361-460D-9648-450A0A6F61CD	C0220870	lightheaded
+20080418_AD535DF9-6361-460D-9648-450A0A6F61CD	C0011551	depersonalization
+20081114_A16297DF-3158-48DB-85E5-5CD506885556	C0086132	symptoms of depression
+20081114_A16297DF-3158-48DB-85E5-5CD506885556	C0011570	depressions
+20081114_A16297DF-3158-48DB-85E5-5CD506885556	C0003467	anxiety
+20081114_A16297DF-3158-48DB-85E5-5CD506885556	C0085631	agitation
+20081114_e5a31f69-c237-49b7-83a2-d04eebbc30ce	C0233477	dysphoric mood
+20081114_e5a31f69-c237-49b7-83a2-d04eebbc30ce	C0085631	psychomotor agitation
+20070524_d15217da-4445-428f-9430-581bcb567c57	C0012833	dizzy
+20070524_d15217da-4445-428f-9430-581bcb567c57	C0220870	lightheaded
+20070524_d15217da-4445-428f-9430-581bcb567c57	C0011551	depersonalization
+20080507_0DC024CE-EFC8-4690-7CB5-639C728FCCAC	C0564408	manic
+20080507_0DC024CE-EFC8-4690-7CB5-639C728FCCAC	C0022107	irritable mood
+20080507_0DC024CE-EFC8-4690-7CB5-639C728FCCAC	C0344315	depressed mood
+20070517_F7736203-7DDB-4461-91DA-1924145B2F86	C0003467	Anxiety
+20070517_F7736203-7DDB-4461-91DA-1924145B2F86	C0003467	anxiety
+20070517_F7736203-7DDB-4461-91DA-1924145B2F86	C0233481	worry
+20070517_F7736203-7DDB-4461-91DA-1924145B2F86	C0085631	restlessness
+20070517_F7736203-7DDB-4461-91DA-1924145B2F86	C0012833	dizziness
+20070517_F7736203-7DDB-4461-91DA-1924145B2F86	C0220870	lightheadedness
+20070517_F7736203-7DDB-4461-91DA-1924145B2F86	C0022107	irritability
+20070517_F7736203-7DDB-4461-91DA-1924145B2F86	C0012833	dizzy
+20070517_F7736203-7DDB-4461-91DA-1924145B2F86	C0220870	lightheaded
+20070517_F7736203-7DDB-4461-91DA-1924145B2F86	C0011551	depersonalization
+20081121_608A0345-FC9C-4170-4F8D-96DBDD7E566A	C0013144	sleepiness
+20081121_608A0345-FC9C-4170-4F8D-96DBDD7E566A	C0013144	drowsiness
+20081121_608A0345-FC9C-4170-4F8D-96DBDD7E566A	C0003467	anxiety
+20060918_6ADD8355-2AD8-422E-1289-027AECBC3B62	C0002622	amnesia
+20080521_27CAD186-5F47-49A6-AD75-DF3A38C1C614	C0233477	dysphoric mood
+20080521_27CAD186-5F47-49A6-AD75-DF3A38C1C614	C0085631	psychomotor agitation
+20070808_C2575A86-19E5-44DF-8603-FF066BB9C9C5	C0003467	anxiety
+20070808_C2575A86-19E5-44DF-8603-FF066BB9C9C5	C0085631	agitated
+20080807_A0FBF748-B127-420B-8AD9-5E3E36F82568	C0003467	anxiety
+20080807_A0FBF748-B127-420B-8AD9-5E3E36F82568	C0086132	depressive symptoms
+20080807_A0FBF748-B127-420B-8AD9-5E3E36F82568	C0003467	Anxiety
+20070824_84AFE6C1-378C-4444-9D57-7444D8916ABA	C0233477	dysphoric mood
+20070824_84AFE6C1-378C-4444-9D57-7444D8916ABA	C0344315	depressed mood
+20070824_84AFE6C1-378C-4444-9D57-7444D8916ABA	C0085631	psychomotor agitation
+20070531_C0BF0835-6A2F-4067-A158-8B86C4B0668A	C0085633	emotional lability
+20070126_A72329C8-A565-42F7-9640-05E712703D42	C0003467	anxiety
+20070126_A72329C8-A565-42F7-9640-05E712703D42	C0085631	agitation
+20080125_2BD09E0D-66EC-43E7-B1FF-74AB102391CB	C0233477	dysphoric mood
+20080125_2BD09E0D-66EC-43E7-B1FF-74AB102391CB	C0344315	depressed mood
+20080125_2BD09E0D-66EC-43E7-B1FF-74AB102391CB	C0085631	psychomotor agitation
+20070517_bbf2015c-0093-4e53-b25e-33f5d2987a7a	C0003467	anxiety
+20070517_bbf2015c-0093-4e53-b25e-33f5d2987a7a	C0003467	Anxiety
+20070517_bbf2015c-0093-4e53-b25e-33f5d2987a7a	C0086132	depressive symptoms
+20070517_bbf2015c-0093-4e53-b25e-33f5d2987a7a	C0085631	restlessness
+20070517_bbf2015c-0093-4e53-b25e-33f5d2987a7a	C0012833	dizziness
+20070517_bbf2015c-0093-4e53-b25e-33f5d2987a7a	C0220870	lightheadedness
+20070517_bbf2015c-0093-4e53-b25e-33f5d2987a7a	C0233481	worry
+20070517_bbf2015c-0093-4e53-b25e-33f5d2987a7a	C0022107	irritability
+20070517_bbf2015c-0093-4e53-b25e-33f5d2987a7a	C0919568	impatience
+20080702_FA5CD572-8C5C-4097-B5E2-1FCC69AEE315	C0233485	apprehension
+20081114_8326928A-2CB6-4F7F-9712-03A425A14C37	C0564408	manic
+20081114_8326928A-2CB6-4F7F-9712-03A425A14C37	C0022107	irritable mood
+20081114_8326928A-2CB6-4F7F-9712-03A425A14C37	C0344315	depressed mood
+20081114_8326928A-2CB6-4F7F-9712-03A425A14C37	C0085631	Agitation
+20081114_8326928A-2CB6-4F7F-9712-03A425A14C37	C0085631	agitation
+20081114_8326928A-2CB6-4F7F-9712-03A425A14C37	C0085631	Psychomotor agitation
+20080418_4006D439-E2DE-4590-82E9-FC9D56E3EC1B	C0003467	anxiety
+20080418_4006D439-E2DE-4590-82E9-FC9D56E3EC1B	C0233477	dysphoric mood
+20080418_4006D439-E2DE-4590-82E9-FC9D56E3EC1B	C0085631	psychomotor agitation
+20070522_702122EB-F9E0-4FA9-5E99-EE091E8C20B1	C0003467	anxiety
+20070522_702122EB-F9E0-4FA9-5E99-EE091E8C20B1	C0085631	agitated
+20080521_B9F8BA41-3F86-4633-3E8E-FCF1CFFA9756	C0233477	dysphoric mood
+20080521_B9F8BA41-3F86-4633-3E8E-FCF1CFFA9756	C0085631	psychomotor agitation
+20080130_5a553bda-1e3d-4b80-913f-73dd54655033	C0022107	irritable
+20060918_926EB076-A4A8-45E4-91EF-411F0AA4F3CA	C0694563	excessive daytime sleepiness
+20070202_878B7E81-D904-457B-91BD-47129816CC60	C0003467	anxiety
+20080911_c040bd1d-45b7-49f2-93ea-aed7220b30ac	C0564408	manic
+20080911_c040bd1d-45b7-49f2-93ea-aed7220b30ac	C0085631	agitation
+20080911_c040bd1d-45b7-49f2-93ea-aed7220b30ac	C0085631	Agitation
+20080911_c040bd1d-45b7-49f2-93ea-aed7220b30ac	C0085631	Psychomotor agitation
+20070426_6B251145-BE84-4072-B85C-EC54B9D292FE	C0003467	anxiety
+20070426_6B251145-BE84-4072-B85C-EC54B9D292FE	C0003467	Anxiety
+20070426_6B251145-BE84-4072-B85C-EC54B9D292FE	C0085631	agitation
+20070426_6B251145-BE84-4072-B85C-EC54B9D292FE	C0011206	acute delirium
+20080208_0cfd1880-a013-4ca0-a08f-dfd45fb2729b	C0344315	depressed mood
+20080208_0cfd1880-a013-4ca0-a08f-dfd45fb2729b	C0003467	anxiety
+20080208_0cfd1880-a013-4ca0-a08f-dfd45fb2729b	C0002957	anger
+20080208_0cfd1880-a013-4ca0-a08f-dfd45fb2729b	C0022107	irritability
+20080208_0cfd1880-a013-4ca0-a08f-dfd45fb2729b	C0525045	mood disorders
+20080904_c3edb2c8-acff-47f6-aa8a-21a07287cd76	C0233477	dysphoric mood
+20080904_c3edb2c8-acff-47f6-aa8a-21a07287cd76	C0344315	depressed mood
+20080904_c3edb2c8-acff-47f6-aa8a-21a07287cd76	C0085631	psychomotor agitation
+20080904_c3edb2c8-acff-47f6-aa8a-21a07287cd76	C0233481	worry
+20080904_c3edb2c8-acff-47f6-aa8a-21a07287cd76	C0012833	dizzy
+20080904_c3edb2c8-acff-47f6-aa8a-21a07287cd76	C0220870	lightheaded
+20071010_1FFC3EA8-4A51-4827-9C39-B16CF7618ED3	C0233477	dysphoric mood
+20071010_1FFC3EA8-4A51-4827-9C39-B16CF7618ED3	C0344315	depressed mood
+20071010_1FFC3EA8-4A51-4827-9C39-B16CF7618ED3	C0085631	psychomotor agitation
+20070921_31f48378-27db-424f-a4c5-82584a553c35	C0233477	dysphoric mood
+20070921_31f48378-27db-424f-a4c5-82584a553c35	C0344315	depressed mood
+20070921_31f48378-27db-424f-a4c5-82584a553c35	C0085631	psychomotor agitation
+20070119_DE0BB94F-4FD8-4F27-5BA6-6F392DD5160F	C0085631	Restless
+20080313_ac387aa0-3f04-4865-a913-db6ed6f4fdc5	C0003467	anxiety
+20080313_ac387aa0-3f04-4865-a913-db6ed6f4fdc5	C0003467	anxious mood
+20080313_ac387aa0-3f04-4865-a913-db6ed6f4fdc5	C0233477	dysphoric mood
+20080313_ac387aa0-3f04-4865-a913-db6ed6f4fdc5	C0344315	depressed mood
+20080313_ac387aa0-3f04-4865-a913-db6ed6f4fdc5	C0085631	psychomotor agitation
+20070216_A5937C7B-CDFC-46E6-A0FA-541B24F91D47	C0022107	irritable
+20060718_13930C94-D83A-414F-BE35-B1FEF35F738D	C0003467	anxiety
+20060718_13930C94-D83A-414F-BE35-B1FEF35F738D	C0003467	Anxiety
+20060718_13930C94-D83A-414F-BE35-B1FEF35F738D	C0233481	worry
+20060718_13930C94-D83A-414F-BE35-B1FEF35F738D	C0085631	restlessness
+20060718_13930C94-D83A-414F-BE35-B1FEF35F738D	C0012833	dizziness
+20060718_13930C94-D83A-414F-BE35-B1FEF35F738D	C0022107	irritability
+20060718_13930C94-D83A-414F-BE35-B1FEF35F738D	C0011551	depersonalization
+20080717_8FBA17DA-573A-425B-B1D7-7DDEEEF3C957	C0003467	Anxiety
+20080717_8FBA17DA-573A-425B-B1D7-7DDEEEF3C957	C0344315	depressed mood
+20080717_8FBA17DA-573A-425B-B1D7-7DDEEEF3C957	C0085631	psychomotor agitation
+20080717_8FBA17DA-573A-425B-B1D7-7DDEEEF3C957	C0003467	anxiety
+20061117_1ABDA8B8-48A8-4995-AF86-39220D1AA240	C0002622	amnesia
+20081126_A9F7D22E-43FC-46C8-B2A9-A00B0D25D4AC	C0013144	sleepiness
+20081126_A9F7D22E-43FC-46C8-B2A9-A00B0D25D4AC	C0013144	drowsiness
+20081126_A9F7D22E-43FC-46C8-B2A9-A00B0D25D4AC	C0003467	anxiety
+20080710_A8B2AD71-CFDC-4A29-8194-DEEFEA138B16	C0233477	dysphoric mood
+20080710_A8B2AD71-CFDC-4A29-8194-DEEFEA138B16	C0085631	psychomotor agitation
+20080125_69c40af8-3710-46bf-bd3d-137fe5eea23e	C0085633	emotional lability
+20061201_FA31C1A5-91ED-4726-AB58-FBE98056FE5E	C0003467	anxiety
+20061201_FA31C1A5-91ED-4726-AB58-FBE98056FE5E	C0564408	manic
+20061201_FA31C1A5-91ED-4726-AB58-FBE98056FE5E	C0233485	apprehension
+20061201_FA31C1A5-91ED-4726-AB58-FBE98056FE5E	C0233481	worry
+20080602_364D2A49-2196-4B90-A0B3-3C90CD72FBE8	C0003467	anxiety
+20080602_364D2A49-2196-4B90-A0B3-3C90CD72FBE8	C0003467	Anxiety
+20080602_364D2A49-2196-4B90-A0B3-3C90CD72FBE8	C0085631	agitation
+20080602_364D2A49-2196-4B90-A0B3-3C90CD72FBE8	C0011206	acute delirium
+20080505_74d9e09f-b9aa-42ee-b1b8-293dca821dcf	C0233477	dysphoric mood
+20080505_74d9e09f-b9aa-42ee-b1b8-293dca821dcf	C0085631	psychomotor agitation
+20080313_3fcabf90-357a-4a06-b680-9572dc28bcfe	C0086132	symptoms of depression
+20080313_3fcabf90-357a-4a06-b680-9572dc28bcfe	C0011570	depressions
+20080319_991668E5-0930-CD98-D04C-8301E6DE6C7C	C0233477	dysphoric mood
+20080319_991668E5-0930-CD98-D04C-8301E6DE6C7C	C0085631	psychomotor agitation
+20080807_455CF957-7933-7D09-3F3E-E63D6E8A1150	C0233477	dysphoric mood
+20080807_455CF957-7933-7D09-3F3E-E63D6E8A1150	C0344315	depressed mood
+20080807_455CF957-7933-7D09-3F3E-E63D6E8A1150	C0085631	psychomotor agitation
+20080111_ced93eb0-e8b6-44b8-9d2c-e2afa92500f7	C0086132	symptoms of depression
+20080111_ced93eb0-e8b6-44b8-9d2c-e2afa92500f7	C0011570	depressions
+20081121_15BBBE18-9865-40F3-B8A3-05730193BF62	C0564408	manic
+20081121_15BBBE18-9865-40F3-B8A3-05730193BF62	C0022107	Irritability
+20081121_15BBBE18-9865-40F3-B8A3-05730193BF62	C0022107	irritability
+20080325_75A3992D-0D2A-498A-9B82-61EE424F3010	C0003467	anxiety
+20080325_75A3992D-0D2A-498A-9B82-61EE424F3010	C0085631	agitated
+20070906_2f7d5e7f-79aa-4f3a-b9a6-758d9f3ce74d	C0086132	symptoms of depression
+20081114_082A3791-20C6-4FFA-A113-B60128344381	C0012833	dizzy
+20081114_082A3791-20C6-4FFA-A113-B60128344381	C0220870	lightheaded
+20081114_082A3791-20C6-4FFA-A113-B60128344381	C0011551	depersonalization
+20060901_20140B19-846B-425F-B191-670E17809945	C0013144	sleepiness
+20060901_20140B19-846B-425F-B191-670E17809945	C0013144	drowsiness
+20060901_20140B19-846B-425F-B191-670E17809945	C0003467	anxiety
+20070921_705A2BAE-031D-4218-82FE-4346542C0BAA	C0086132	symptoms of depression
+20060928_E2CAB1BD-4D4B-4A5E-619F-04F8331AB6F9	C0009676	confusion
+20081030_3185D299-AB4C-4BF1-86A4-3C126144B245	C0233485	apprehension
+20070706_9e3c22d9-71d9-46a7-b315-8021c94c4bec	C0085633	emotional lability
+20080425_c25f968b-7037-4f60-9a02-2189769b0cbf	C0233477	dysphoric mood
+20080425_c25f968b-7037-4f60-9a02-2189769b0cbf	C0085631	psychomotor agitation
+20080602_d5051fbc-846b-4946-82df-341fb1216341	C0564408	manic
+20080602_d5051fbc-846b-4946-82df-341fb1216341	C0085631	Agitation
+20080602_d5051fbc-846b-4946-82df-341fb1216341	C0085631	agitation
+20080602_d5051fbc-846b-4946-82df-341fb1216341	C0085631	Psychomotor agitation
+20080602_d5051fbc-846b-4946-82df-341fb1216341	C0085631	agitated
+20080222_AEF9AFD5-057A-4DB4-BEFD-5CD73F9D93EE	C0233477	dysphoric mood
+20080222_AEF9AFD5-057A-4DB4-BEFD-5CD73F9D93EE	C0085631	psychomotor agitation
+20070921_9ACBB3F4-4BF6-40AE-89E3-303EC167912C	C0003467	anxiety
+20070921_9ACBB3F4-4BF6-40AE-89E3-303EC167912C	C0003467	Anxiety
+20080118_37e2cdf0-e4ba-4307-993e-198c7089cabc	C0013144	sleepiness
+20080118_37e2cdf0-e4ba-4307-993e-198c7089cabc	C0013144	drowsiness
+20080118_37e2cdf0-e4ba-4307-993e-198c7089cabc	C0003467	anxiety
+20080325_E944B713-C94B-460A-BCE8-267F6A757F81	C0233477	dysphoric mood
+20080325_E944B713-C94B-460A-BCE8-267F6A757F81	C0085631	psychomotor agitation
+20080325_E944B713-C94B-460A-BCE8-267F6A757F81	C0233481	worry
+20080325_E944B713-C94B-460A-BCE8-267F6A757F81	C0012833	dizzy
+20080325_E944B713-C94B-460A-BCE8-267F6A757F81	C0220870	lightheaded
+20080325_E944B713-C94B-460A-BCE8-267F6A757F81	C0011551	depersonalization
+20080325_E944B713-C94B-460A-BCE8-267F6A757F81	C0236720	flashbacks
+20080325_E944B713-C94B-460A-BCE8-267F6A757F81	C0022107	irritability
+20080325_E944B713-C94B-460A-BCE8-267F6A757F81	C0002957	anger
+20080325_E944B713-C94B-460A-BCE8-267F6A757F81	C0003467	Anxiety
+20080325_E944B713-C94B-460A-BCE8-267F6A757F81	C0003467	anxiety
+20080904_fd9baca0-5f62-4427-bccb-f5a698891af4	C0003467	anxiety
+20080904_fd9baca0-5f62-4427-bccb-f5a698891af4	C0086132	depressive symptoms
+20080904_fd9baca0-5f62-4427-bccb-f5a698891af4	C0003467	Anxiety
+20081114_713B5AC7-53D6-4139-8599-3028F789DE4B	C0564408	manic
+20081114_713B5AC7-53D6-4139-8599-3028F789DE4B	C0022107	Irritability
+20081114_713B5AC7-53D6-4139-8599-3028F789DE4B	C0022107	irritability
+20080404_Bed3c03f4-2829-423f-a595-dc09c9cc0e40	C0085633	emotional lability
+20060731_8BA15783-7EE7-4AEA-8D97-D5CAC74272FF	C0003467	anxiety
+20081121_5BD84972-C373-44AD-08B2-E3D59C7E5256	C0233485	apprehension
+20081126_09C6E0A1-85AD-4450-CB99-7A6B7B0D3AFF	C0003467	anxiety
+20081126_09C6E0A1-85AD-4450-CB99-7A6B7B0D3AFF	C0003467	Anxiety
+20081126_09C6E0A1-85AD-4450-CB99-7A6B7B0D3AFF	C0085631	agitation
+20081126_09C6E0A1-85AD-4450-CB99-7A6B7B0D3AFF	C0011206	acute delirium
+20081126_09C6E0A1-85AD-4450-CB99-7A6B7B0D3AFF	C0233485	apprehension
+20080807_0BE63F63-6A93-4782-8F9C-D13CA5AE44BD	C0002622	amnesia
+20081114_962be3cf-4ded-47bf-9b59-d689367d6eb4	C0233477	dysphoric mood
+20081114_962be3cf-4ded-47bf-9b59-d689367d6eb4	C0344315	depressed mood
+20081114_962be3cf-4ded-47bf-9b59-d689367d6eb4	C0085631	psychomotor agitation
+20060601_e061fb3e-afd7-4188-b5fb-617ac1d3e38d	C0009676	confusion
+20070824_590CD4BB-C1BD-4CF1-893A-1E418621EED4	C0233477	dysphoric mood
+20070824_590CD4BB-C1BD-4CF1-893A-1E418621EED4	C0085631	psychomotor agitation
+20070824_590CD4BB-C1BD-4CF1-893A-1E418621EED4	C0233481	worry
+20070824_590CD4BB-C1BD-4CF1-893A-1E418621EED4	C0012833	dizzy
+20070824_590CD4BB-C1BD-4CF1-893A-1E418621EED4	C0220870	lightheaded
+20070824_590CD4BB-C1BD-4CF1-893A-1E418621EED4	C0011551	depersonalization
+20070824_590CD4BB-C1BD-4CF1-893A-1E418621EED4	C0003467	Anxiety
+20070824_590CD4BB-C1BD-4CF1-893A-1E418621EED4	C0003467	anxiety
+20070824_590CD4BB-C1BD-4CF1-893A-1E418621EED4	C0085631	Restlessness
+20070824_590CD4BB-C1BD-4CF1-893A-1E418621EED4	C0022107	irritability
+20070824_590CD4BB-C1BD-4CF1-893A-1E418621EED4	C0236720	flashbacks
+20070824_590CD4BB-C1BD-4CF1-893A-1E418621EED4	C0002957	anger
+20060731_AE274B1F-27C3-483B-99F1-9A9249DC2459	C0013144	sleepiness
+20060731_AE274B1F-27C3-483B-99F1-9A9249DC2459	C0013144	drowsiness
+20060731_AE274B1F-27C3-483B-99F1-9A9249DC2459	C0003467	anxiety
+20070914_BC3507B6-F2C3-4981-B4A4-1295F90544E0	C0003467	anxiety
+20070914_BC3507B6-F2C3-4981-B4A4-1295F90544E0	C0086132	depressive symptoms
+20070914_BC3507B6-F2C3-4981-B4A4-1295F90544E0	C0003467	Anxiety
+20070906_407F57C5-0ACA-48C1-A886-2F2185805A42	C0022107	irritable
+20080725_f27ef79a-d212-4752-8300-b88b61d0464d	C0233477	dysphoric mood
+20080725_f27ef79a-d212-4752-8300-b88b61d0464d	C0344315	depressed mood
+20080725_f27ef79a-d212-4752-8300-b88b61d0464d	C0085631	psychomotor agitation
+20080725_f27ef79a-d212-4752-8300-b88b61d0464d	C0233481	worry
+20080725_f27ef79a-d212-4752-8300-b88b61d0464d	C0012833	dizzy
+20080725_f27ef79a-d212-4752-8300-b88b61d0464d	C0220870	lightheaded
+20070111_753ef4af-e31b-40f0-b757-b088e5bbf1b6	C0233477	dysphoric mood
+20070111_753ef4af-e31b-40f0-b757-b088e5bbf1b6	C0085631	psychomotor agitation
+20070830_08320EA3-8F93-6F04-5D1C-F69AF3EB5A81	C0233477	dysphoric mood
+20070830_08320EA3-8F93-6F04-5D1C-F69AF3EB5A81	C0085631	psychomotor agitation
+20070830_08320EA3-8F93-6F04-5D1C-F69AF3EB5A81	C0233481	worry
+20070830_08320EA3-8F93-6F04-5D1C-F69AF3EB5A81	C0012833	dizzy
+20070830_08320EA3-8F93-6F04-5D1C-F69AF3EB5A81	C0220870	lightheaded
+20070830_08320EA3-8F93-6F04-5D1C-F69AF3EB5A81	C0011551	depersonalization
+20070830_08320EA3-8F93-6F04-5D1C-F69AF3EB5A81	C0003467	Anxiety
+20070830_08320EA3-8F93-6F04-5D1C-F69AF3EB5A81	C0003467	anxiety
+20070830_08320EA3-8F93-6F04-5D1C-F69AF3EB5A81	C0085631	Restlessness
+20070830_08320EA3-8F93-6F04-5D1C-F69AF3EB5A81	C0022107	irritability
+20080130_A7D2052D-FBF1-4FEF-A016-87465BDA9273	C0233481	worry
+20080130_A7D2052D-FBF1-4FEF-A016-87465BDA9273	C0012833	dizzy
+20080130_A7D2052D-FBF1-4FEF-A016-87465BDA9273	C0220870	lightheaded
+20080130_A7D2052D-FBF1-4FEF-A016-87465BDA9273	C0011551	depersonalization
+20080507_08F23F6E-150D-45EA-098E-F2EDF64C21A1	C0009676	mental confusion
+20070906_513A41D0-37D4-4355-8A6D-A2C643BCE6FA	C0003467	anxiety
+20080227_AA0218FB-EA07-49DB-989D-732FBADDE87C	C0233477	dysphoric mood
+20080227_AA0218FB-EA07-49DB-989D-732FBADDE87C	C0344315	depressed mood
+20080227_AA0218FB-EA07-49DB-989D-732FBADDE87C	C0085631	psychomotor agitation
+20070426_A27D7877-38E4-4437-AFD3-3D570C0DEAD1	C0003467	anxiety
+20070426_A27D7877-38E4-4437-AFD3-3D570C0DEAD1	C0003467	Anxiety
+20070426_3A2A24ED-DA8E-4232-807D-1EBFACBC6833	C0233477	dysphoric mood
+20070426_3A2A24ED-DA8E-4232-807D-1EBFACBC6833	C0344315	depressed mood
+20070426_3A2A24ED-DA8E-4232-807D-1EBFACBC6833	C0085631	psychomotor agitation
+20080507_14EADDA0-AEA7-47FB-7789-D0B5071B19D9	C0022107	irritable
+20070824_DA4321C8-4E28-4165-998A-5E00E4461AF6	C0233477	dysphoric mood
+20070824_DA4321C8-4E28-4165-998A-5E00E4461AF6	C0344315	depressed mood
+20070824_DA4321C8-4E28-4165-998A-5E00E4461AF6	C0085631	psychomotor agitation
+20070111_6fac36b4-b223-479e-913f-f8c9cdb9e119	C0003467	anxiety
+20070111_6fac36b4-b223-479e-913f-f8c9cdb9e119	C0003467	Anxiety
+20070111_6fac36b4-b223-479e-913f-f8c9cdb9e119	C0086132	depressive symptoms
+20070111_6fac36b4-b223-479e-913f-f8c9cdb9e119	C0085631	restlessness
+20070111_6fac36b4-b223-479e-913f-f8c9cdb9e119	C0012833	dizziness
+20070111_6fac36b4-b223-479e-913f-f8c9cdb9e119	C0220870	lightheadedness
+20070111_6fac36b4-b223-479e-913f-f8c9cdb9e119	C0233481	worry
+20070111_6fac36b4-b223-479e-913f-f8c9cdb9e119	C0022107	irritability
+20070111_6fac36b4-b223-479e-913f-f8c9cdb9e119	C0919568	impatience
+20060928_AED7D120-5F3D-4276-B341-737244D4F8A5	C0003467	anxiety
+20060928_AED7D120-5F3D-4276-B341-737244D4F8A5	C0085631	psychomotor agitation
+20060928_AED7D120-5F3D-4276-B341-737244D4F8A5	C0677660	emotional problems
+20060928_AED7D120-5F3D-4276-B341-737244D4F8A5	C0011206	delirium
+20060928_AED7D120-5F3D-4276-B341-737244D4F8A5	C0233485	apprehension
+20070928_9F85491F-71EC-4772-8307-8FF2E9257546	C0086132	symptoms of depression
+20070126_9a29cc1b-df4f-489a-85ee-82eadd18b218	C0233481	worry
+20070126_9a29cc1b-df4f-489a-85ee-82eadd18b218	C0012833	dizzy
+20070126_9a29cc1b-df4f-489a-85ee-82eadd18b218	C0220870	lightheaded
+20070126_9a29cc1b-df4f-489a-85ee-82eadd18b218	C0011551	depersonalization
+20061201_D3B5CA09-9A02-45BF-A18C-1250BA9BE309	C0233485	apprehension
+20070824_C7AB46CD-B3A0-3F9E-97E6-E6125E1A52A2	C0233477	dysphoric mood
+20070824_C7AB46CD-B3A0-3F9E-97E6-E6125E1A52A2	C0085631	psychomotor agitation
+20070111_A6EDD742-30B1-4427-BCA8-A81F7EBB2BC6	C0003467	anxiety
+20060731_3919FB0C-A0B6-470B-9FF2-63600BCBFBC9	C0233485	apprehension
+20061222_64972f75-d329-4897-941b-ad7fd71c6804	C0233485	apprehension
+20080521_9ECC70DE-F89E-436C-9E7D-1B303C413E47	C0233477	dysphoric mood
+20080521_9ECC70DE-F89E-436C-9E7D-1B303C413E47	C0085631	psychomotor agitation
+20070420_6e9edbfc-1950-4893-9d38-e82b119ddb9a	C0003467	anxiety
+20070420_6e9edbfc-1950-4893-9d38-e82b119ddb9a	C0003467	Anxiety
+20070614_06F1B7DD-15F1-4385-B984-7E465966AACA	C0564408	manic
+20070614_06F1B7DD-15F1-4385-B984-7E465966AACA	C0022107	irritable mood
+20070614_06F1B7DD-15F1-4385-B984-7E465966AACA	C0344315	depressed mood
+20060713_62C666BB-262F-49FE-9B31-6AFA25A33392	C0011206	delirium
+20060713_62C666BB-262F-49FE-9B31-6AFA25A33392	C0009676	confusion
+20060713_62C666BB-262F-49FE-9B31-6AFA25A33392	C0085633	emotional lability
+20060713_62C666BB-262F-49FE-9B31-6AFA25A33392	C0003467	anxiety
+20060713_62C666BB-262F-49FE-9B31-6AFA25A33392	C0012833	dizziness
+20071221_BD2CBA10-70EC-4D1F-B46C-53D1DE2EE130	C0022107	irritable
+20080725_07CAE057-A593-4E4D-A478-2D7FC9F06857	C0003467	anxiety
+20080725_07CAE057-A593-4E4D-A478-2D7FC9F06857	C0086132	depressive symptoms
+20080725_07CAE057-A593-4E4D-A478-2D7FC9F06857	C0003467	Anxiety
+20060901_DCD5B527-3706-4173-9E86-0989B3C0785F	C0564408	manic
+20060901_DCD5B527-3706-4173-9E86-0989B3C0785F	C0003467	anxiety
+20061208_A32255F0-0077-489E-BDC6-869ACA8CD434	C0233485	apprehension
+20080918_791508A9-1463-4A2D-84BF-A5AC0C6F591B	C0344315	depressed mood
+20080918_791508A9-1463-4A2D-84BF-A5AC0C6F591B	C0085631	agitation
+20080918_791508A9-1463-4A2D-84BF-A5AC0C6F591B	C0085159	Seasonal Affective Disorder
+20080918_791508A9-1463-4A2D-84BF-A5AC0C6F591B	C0085159	seasonal affective disorder
+20080918_791508A9-1463-4A2D-84BF-A5AC0C6F591B	C0085159	Seasonal affective disorder
+20080918_791508A9-1463-4A2D-84BF-A5AC0C6F591B	C0525045	affective disorder
+20070209_d22859b9-d9ce-487d-8b99-addaffa1d9a0	C0003467	anxiety
+20070209_d22859b9-d9ce-487d-8b99-addaffa1d9a0	C0003467	Anxiety
+20070209_d22859b9-d9ce-487d-8b99-addaffa1d9a0	C0085631	agitation
+20070209_d22859b9-d9ce-487d-8b99-addaffa1d9a0	C0022107	irritability
+20070209_d22859b9-d9ce-487d-8b99-addaffa1d9a0	C0001969	inebriation
+20070928_CF720D31-AA73-446D-ADE1-0D4D1E4C0028	C0002622	amnesia
+20060713_42BED965-4B8F-4471-BCC9-091F87238653	C0564408	manic
+20060713_42BED965-4B8F-4471-BCC9-091F87238653	C0233492	elation
+20070928_3a8a4490-9243-4201-944d-cea27d3d69f5	C0233477	dysphoric mood
+20070928_3a8a4490-9243-4201-944d-cea27d3d69f5	C0344315	depressed mood
+20070928_3a8a4490-9243-4201-944d-cea27d3d69f5	C0085631	psychomotor agitation
+20080222_210BF21F-340B-4FA1-9062-C67465EE051F	C0003467	Anxiety
+20080222_210BF21F-340B-4FA1-9062-C67465EE051F	C0003467	anxiety
+20080222_210BF21F-340B-4FA1-9062-C67465EE051F	C0233481	worry
+20080222_210BF21F-340B-4FA1-9062-C67465EE051F	C0085631	restlessness
+20080222_210BF21F-340B-4FA1-9062-C67465EE051F	C0012833	dizziness
+20080222_210BF21F-340B-4FA1-9062-C67465EE051F	C0022107	irritability
+20080222_210BF21F-340B-4FA1-9062-C67465EE051F	C0012833	dizzy
+20080222_210BF21F-340B-4FA1-9062-C67465EE051F	C0220870	lightheaded
+20080222_210BF21F-340B-4FA1-9062-C67465EE051F	C0011551	depersonalization
+20070607_388E249D-B9B6-44C3-9F8F-880ECED0239F	C0003467	Anxiety
+20070607_388E249D-B9B6-44C3-9F8F-880ECED0239F	C0003467	anxiety
+20070607_388E249D-B9B6-44C3-9F8F-880ECED0239F	C0233481	worry
+20070607_388E249D-B9B6-44C3-9F8F-880ECED0239F	C0085631	restlessness
+20070607_388E249D-B9B6-44C3-9F8F-880ECED0239F	C0012833	dizziness
+20070607_388E249D-B9B6-44C3-9F8F-880ECED0239F	C0022107	irritability
+20070607_388E249D-B9B6-44C3-9F8F-880ECED0239F	C0012833	dizzy
+20070607_388E249D-B9B6-44C3-9F8F-880ECED0239F	C0220870	lightheaded
+20070607_388E249D-B9B6-44C3-9F8F-880ECED0239F	C0011551	depersonalization
+20060918_AFFECD4D-1F78-4BBE-5A8D-86849BBDC520	C0002622	amnesia
+20081030_CB06C97D-3B98-4C29-BCB2-5B04F41DB481	C0233485	apprehension
+20080828_0177D783-773C-41BF-9DB9-EB7E5C64474A	C0086132	symptoms of depression
+20060821_187e6805-d568-4fa6-8515-46e6677d9a4e	C0003467	anxiety
+20060821_187e6805-d568-4fa6-8515-46e6677d9a4e	C0003467	Anxiety
+20060821_187e6805-d568-4fa6-8515-46e6677d9a4e	C0085631	agitation
+20060821_187e6805-d568-4fa6-8515-46e6677d9a4e	C0011206	acute delirium
+20060821_187e6805-d568-4fa6-8515-46e6677d9a4e	C0233485	apprehension
+20080904_010f9162-9f7f-4b6d-a6e4-4f832f26f38e	C0233477	dysphoric mood
+20080904_010f9162-9f7f-4b6d-a6e4-4f832f26f38e	C0344315	depressed mood
+20080904_010f9162-9f7f-4b6d-a6e4-4f832f26f38e	C0085631	psychomotor agitation
+20080807_E542DE29-B400-4B2E-9D5E-0F7C53091F8C	C0344315	depressed mood
+20080807_E542DE29-B400-4B2E-9D5E-0F7C53091F8C	C0003467	anxiety
+20080807_E542DE29-B400-4B2E-9D5E-0F7C53091F8C	C0002957	anger
+20080807_E542DE29-B400-4B2E-9D5E-0F7C53091F8C	C0022107	irritability
+20080807_E542DE29-B400-4B2E-9D5E-0F7C53091F8C	C0525045	mood disorders
+20070808_75c986bd-e51f-4f8c-9590-0df4718d0b9e	C0086132	symptoms of depression
+20080716_A0D5A4C1-EC79-42E6-8E8F-AE4D144EDB43	C0003467	anxiety
+20080716_A0D5A4C1-EC79-42E6-8E8F-AE4D144EDB43	C0003467	Anxiety
+20080716_A0D5A4C1-EC79-42E6-8E8F-AE4D144EDB43	C0085631	agitation
+20080716_A0D5A4C1-EC79-42E6-8E8F-AE4D144EDB43	C0022107	irritability
+20080716_A0D5A4C1-EC79-42E6-8E8F-AE4D144EDB43	C0001969	inebriation
+20081121_0201a4eb-f127-4e45-92a7-b65a1af65b24	C0233477	dysphoric mood
+20081121_0201a4eb-f127-4e45-92a7-b65a1af65b24	C0344315	depressed mood
+20081121_0201a4eb-f127-4e45-92a7-b65a1af65b24	C0085631	psychomotor agitation
+20080505_E16C26AD-7BC2-D155-3A5D-DA83AD6492C8	C0013144	sleepiness
+20070531_4C3BF7CF-A62F-4B92-C5B8-CBFC79CC97E9	C0013144	sleepiness
+20070531_4C3BF7CF-A62F-4B92-C5B8-CBFC79CC97E9	C0013144	drowsiness
+20070531_4C3BF7CF-A62F-4B92-C5B8-CBFC79CC97E9	C0003467	anxiety
+20070323_48aa32cb-047a-414a-822e-82a5f26d8817	C0003467	anxiety
+20070323_48aa32cb-047a-414a-822e-82a5f26d8817	C0003467	Anxiety
+20070323_48aa32cb-047a-414a-822e-82a5f26d8817	C0085631	agitation
+20070323_48aa32cb-047a-414a-822e-82a5f26d8817	C0011206	acute delirium
+20071019_AC86408B-F368-42CB-930F-7AD963A50688	C0344315	depressed mood
+20071019_AC86408B-F368-42CB-930F-7AD963A50688	C0085631	psychomotor agitation
+20070824_b69bca7d-6f45-492b-9c93-5179742db37a	C0003467	anxiety
+20070824_b69bca7d-6f45-492b-9c93-5179742db37a	C0233477	dysphoric mood
+20070824_b69bca7d-6f45-492b-9c93-5179742db37a	C0085631	psychomotor agitation
+20060731_A872D662-1261-493A-BBA3-76EF6D5D4725	C0012833	dizziness
+20080111_9ba5b9bd-9a6f-4e64-a9d9-1b2b03658ea4	C0233477	dysphoric mood
+20080111_9ba5b9bd-9a6f-4e64-a9d9-1b2b03658ea4	C0085631	psychomotor agitation
+20080612_1669653f-d7bd-453b-8d56-997a637f913a	C0085631	Restless
+20080125_2632b547-2e13-447f-ac85-c774e437d6a8	C0233477	dysphoric mood
+20080125_2632b547-2e13-447f-ac85-c774e437d6a8	C0344315	depressed mood
+20080125_2632b547-2e13-447f-ac85-c774e437d6a8	C0085631	psychomotor agitation
+20080612_8551dbf4-a80b-494b-824a-177a8a438b7c	C0564408	manic
+20080612_8551dbf4-a80b-494b-824a-177a8a438b7c	C0564408	Manic
+20080612_8551dbf4-a80b-494b-824a-177a8a438b7c	C0233492	elation
+20080521_981a2ad8-33f7-4678-9162-9df9685bd4a6	C0085633	emotional lability
+20060814_29408D84-7B00-4CEE-969C-8095F8083FF5	C0233477	dysphoric mood
+20060814_29408D84-7B00-4CEE-969C-8095F8083FF5	C0344315	depressed mood
+20060814_29408D84-7B00-4CEE-969C-8095F8083FF5	C0085631	psychomotor agitation
+20071101_1533343B-F1ED-4C3A-BB36-23A748452B05	C0003467	anxiety
+20071101_1533343B-F1ED-4C3A-BB36-23A748452B05	C0564408	manic
+20071101_1533343B-F1ED-4C3A-BB36-23A748452B05	C0233485	apprehension
+20071101_1533343B-F1ED-4C3A-BB36-23A748452B05	C0233481	worry
+20080418_A3FE0CCD-565F-4D0A-A7BA-2FAD7A819358	C0003467	anxiety
+20080418_A3FE0CCD-565F-4D0A-A7BA-2FAD7A819358	C0003467	Anxiety
+20080418_A3FE0CCD-565F-4D0A-A7BA-2FAD7A819358	C0086132	depressive symptoms
+20080418_A3FE0CCD-565F-4D0A-A7BA-2FAD7A819358	C0085631	restlessness
+20080418_A3FE0CCD-565F-4D0A-A7BA-2FAD7A819358	C0012833	dizziness
+20080418_A3FE0CCD-565F-4D0A-A7BA-2FAD7A819358	C0220870	lightheadedness
+20080418_A3FE0CCD-565F-4D0A-A7BA-2FAD7A819358	C0233481	worry
+20080418_A3FE0CCD-565F-4D0A-A7BA-2FAD7A819358	C0022107	irritability
+20080418_A3FE0CCD-565F-4D0A-A7BA-2FAD7A819358	C0919568	impatience
+20080325_CF973160-D467-4192-A432-04C8C2140369	C0011206	delirium
+20080325_CF973160-D467-4192-A432-04C8C2140369	C0009676	confusion
+20080325_CF973160-D467-4192-A432-04C8C2140369	C0085633	emotional lability
+20080325_CF973160-D467-4192-A432-04C8C2140369	C0003467	anxiety
+20080325_CF973160-D467-4192-A432-04C8C2140369	C0012833	dizziness
+20080505_a7e3285b-72df-4321-894a-534b4a6819fe	C0344315	depressed mood
+20080505_a7e3285b-72df-4321-894a-534b4a6819fe	C0085631	psychomotor agitation
+20071210_71cff7cd-0410-4194-9cdd-af404a869edd	C0003467	anxiety
+20071210_71cff7cd-0410-4194-9cdd-af404a869edd	C0564408	manic
+20071210_71cff7cd-0410-4194-9cdd-af404a869edd	C0233485	apprehension
+20071210_71cff7cd-0410-4194-9cdd-af404a869edd	C0233481	worry
+20080521_7E7DD743-A87B-4AB3-B6AE-F116CD0C8B0F	C0003467	anxiety
+20080521_7E7DD743-A87B-4AB3-B6AE-F116CD0C8B0F	C0003467	Anxiety
+20080521_7E7DD743-A87B-4AB3-B6AE-F116CD0C8B0F	C0085631	agitation
+20080521_7E7DD743-A87B-4AB3-B6AE-F116CD0C8B0F	C0011206	acute delirium
+20080521_7E7DD743-A87B-4AB3-B6AE-F116CD0C8B0F	C0233485	apprehension
+20070921_B693593C-AA3A-451D-B075-96ED4EACEDB1	C0003467	anxiety
+20070921_B693593C-AA3A-451D-B075-96ED4EACEDB1	C0233477	dysphoric mood
+20070921_B693593C-AA3A-451D-B075-96ED4EACEDB1	C0085631	psychomotor agitation
+20080918_60525754-0D2B-4BA4-918A-1C9D3EFF89B2	C0233477	dysphoric mood
+20080918_60525754-0D2B-4BA4-918A-1C9D3EFF89B2	C0085631	psychomotor agitation
+20070928_378B3AED-D694-46B8-8629-FF72285ED29A	C0086132	symptoms of depression
+20070928_378B3AED-D694-46B8-8629-FF72285ED29A	C0011570	depressions
+20071101_A699724B-7412-479E-9894-4CF6EC454D8B	C0003467	anxiety
+20071101_A699724B-7412-479E-9894-4CF6EC454D8B	C0233477	dysphoric mood
+20071101_A699724B-7412-479E-9894-4CF6EC454D8B	C0085631	psychomotor agitation
+20080725_662f3e16-bf42-4127-8e56-4eb45780e059	C0233477	dysphoric mood
+20080725_662f3e16-bf42-4127-8e56-4eb45780e059	C0344315	depressed mood
+20080725_662f3e16-bf42-4127-8e56-4eb45780e059	C0085631	psychomotor agitation
+20080725_662f3e16-bf42-4127-8e56-4eb45780e059	C0233481	worry
+20080725_662f3e16-bf42-4127-8e56-4eb45780e059	C0012833	dizzy
+20080725_662f3e16-bf42-4127-8e56-4eb45780e059	C0220870	lightheaded
+20080505_E57814E3-9507-4A2F-858F-A845AD18F029	C0003467	Anxiety
+20080505_E57814E3-9507-4A2F-858F-A845AD18F029	C0003467	anxiety
+20080125_7E7E3195-BF25-438C-A81F-136D3B528CB7	C0564408	manic
+20080125_7E7E3195-BF25-438C-A81F-136D3B528CB7	C0564408	Manic
+20080125_7E7E3195-BF25-438C-A81F-136D3B528CB7	C0233492	elation
+20081114_739bbd64-d9e1-4771-967b-a2cd08f4eaf5	C0085633	emotional lability
+20061117_373fc1d0-9bd2-414b-8798-7bf04526a12e	C0002622	amnesia
+20060718_AA58FFF3-C297-49BE-838B-599C32AD9835	C0012833	dizzy
+20060718_AA58FFF3-C297-49BE-838B-599C32AD9835	C0220870	lightheaded
+20060718_AA58FFF3-C297-49BE-838B-599C32AD9835	C0011551	depersonalization
+20070921_54ad0284-c32d-4904-ae9a-5384ee53b2d8	C0003467	anxiety
+20070921_54ad0284-c32d-4904-ae9a-5384ee53b2d8	C0564408	manic
+20070921_54ad0284-c32d-4904-ae9a-5384ee53b2d8	C0233485	apprehension
+20070921_54ad0284-c32d-4904-ae9a-5384ee53b2d8	C0233481	worry
+20071019_B48C8D16-AD28-47F2-9A85-4EF97BDD4BFC	C0003467	anxiety
+20071019_B48C8D16-AD28-47F2-9A85-4EF97BDD4BFC	C0233477	dysphoric mood
+20071019_B48C8D16-AD28-47F2-9A85-4EF97BDD4BFC	C0085631	psychomotor agitation
+20060713_554BAEE5-B171-4452-A50A-41A0946F956C	C0003467	anxiety
+20060713_554BAEE5-B171-4452-A50A-41A0946F956C	C0003467	Anxiety
+20060713_554BAEE5-B171-4452-A50A-41A0946F956C	C0085631	agitation
+20060713_554BAEE5-B171-4452-A50A-41A0946F956C	C0011206	acute delirium
+20070111_7BCAB9CD-2ED9-48C1-B2F5-953EC522E4FC	C0003467	anxiety
+20061109_93B19AE0-C0A1-4400-9A56-6827939B7E7A	C0086132	symptoms of depression
+20061222_9AF9E5DE-69A6-48B3-AA53-F0A7898D51E7	C0233481	worry
+20061222_9AF9E5DE-69A6-48B3-AA53-F0A7898D51E7	C0012833	dizzy
+20061222_9AF9E5DE-69A6-48B3-AA53-F0A7898D51E7	C0220870	lightheaded
+20061222_9AF9E5DE-69A6-48B3-AA53-F0A7898D51E7	C0011551	depersonalization
+20080904_9b3fdb79-5865-4ab6-a576-a1f5cc5e9138	C0003467	Anxiety
+20080904_9b3fdb79-5865-4ab6-a576-a1f5cc5e9138	C0233477	dysphoric mood
+20080904_9b3fdb79-5865-4ab6-a576-a1f5cc5e9138	C0344315	depressed mood
+20080904_9b3fdb79-5865-4ab6-a576-a1f5cc5e9138	C0085631	psychomotor agitation
+20080904_9b3fdb79-5865-4ab6-a576-a1f5cc5e9138	C0003467	anxiety
+20080904_9b3fdb79-5865-4ab6-a576-a1f5cc5e9138	C0233481	worry
+20080904_9b3fdb79-5865-4ab6-a576-a1f5cc5e9138	C0085631	restlessness
+20080904_9b3fdb79-5865-4ab6-a576-a1f5cc5e9138	C0022107	irritability
+20070126_047B9A7C-586B-4635-A63E-2C7CE9EC34E7	C0233485	apprehension
+20070209_C56598D5-9CD1-4cce-B172-AC338775AEC7	C0022107	irritable
+20070119_D6CBCDD1-EF4E-487F-83A5-176789B449F5	C0012833	dizzy
+20070119_D6CBCDD1-EF4E-487F-83A5-176789B449F5	C0220870	lightheaded
+20070119_D6CBCDD1-EF4E-487F-83A5-176789B449F5	C0011551	depersonalization
+20070824_040D8193-0CA7-33CD-E300-44BB5B5EE0E4	C0233477	dysphoric mood
+20070824_040D8193-0CA7-33CD-E300-44BB5B5EE0E4	C0085631	psychomotor agitation
+20070824_040D8193-0CA7-33CD-E300-44BB5B5EE0E4	C0233481	worry
+20070824_040D8193-0CA7-33CD-E300-44BB5B5EE0E4	C0012833	dizzy
+20070824_040D8193-0CA7-33CD-E300-44BB5B5EE0E4	C0220870	lightheaded
+20070824_040D8193-0CA7-33CD-E300-44BB5B5EE0E4	C0011551	depersonalization
+20070824_040D8193-0CA7-33CD-E300-44BB5B5EE0E4	C0003467	Anxiety
+20070824_040D8193-0CA7-33CD-E300-44BB5B5EE0E4	C0003467	anxiety
+20070824_040D8193-0CA7-33CD-E300-44BB5B5EE0E4	C0085631	Restlessness
+20070824_040D8193-0CA7-33CD-E300-44BB5B5EE0E4	C0022107	irritability
+20070824_040D8193-0CA7-33CD-E300-44BB5B5EE0E4	C0236720	flashbacks
+20070824_040D8193-0CA7-33CD-E300-44BB5B5EE0E4	C0002957	anger
+20080325_774D9D1F-523B-4061-850A-00607DA15787	C0233477	dysphoric mood
+20080325_774D9D1F-523B-4061-850A-00607DA15787	C0344315	depressed mood
+20080325_774D9D1F-523B-4061-850A-00607DA15787	C0085631	psychomotor agitation
+20070808_74d48c40-b484-402d-8ce3-5c60f2370ed6	C0012833	dizziness
+20080208_880ECBFB-A1FA-463F-9E20-3CBA4B6DB963	C0003467	anxiety
+20080208_880ECBFB-A1FA-463F-9E20-3CBA4B6DB963	C0564408	manic
+20080208_880ECBFB-A1FA-463F-9E20-3CBA4B6DB963	C0233485	apprehension
+20080208_880ECBFB-A1FA-463F-9E20-3CBA4B6DB963	C0233481	worry
+20080515_AC385FD9-FB8C-461F-959C-322C38F4515E	C0233485	apprehension
+20071101_AFBB5DD9-E6E7-4475-8328-5751CCD61EEC	C0086132	symptoms of depression
+20071101_AFBB5DD9-E6E7-4475-8328-5751CCD61EEC	C0011570	depressions
+20070426_D9B0E228-17CF-40D7-B62E-5050311C571C	C0003467	anxiety
+20070426_D9B0E228-17CF-40D7-B62E-5050311C571C	C0003467	Anxiety
+20070426_D9B0E228-17CF-40D7-B62E-5050311C571C	C0233481	worry
+20070426_D9B0E228-17CF-40D7-B62E-5050311C571C	C0085631	restlessness
+20070426_D9B0E228-17CF-40D7-B62E-5050311C571C	C0012833	dizziness
+20070426_D9B0E228-17CF-40D7-B62E-5050311C571C	C0220870	lightheadedness
+20070426_D9B0E228-17CF-40D7-B62E-5050311C571C	C0022107	irritability
+20080521_4112FEFE-930E-4C08-9CA7-46D9D49FD7E0	C0003467	anxiety
+20080521_4112FEFE-930E-4C08-9CA7-46D9D49FD7E0	C0085631	agitated
+20070426_41044928-DD1F-40BF-1FA6-709DFF559124	C0003467	anxiety
+20070426_41044928-DD1F-40BF-1FA6-709DFF559124	C0003467	Anxiety
+20070426_41044928-DD1F-40BF-1FA6-709DFF559124	C0085631	agitation
+20070426_41044928-DD1F-40BF-1FA6-709DFF559124	C0011206	acute delirium
+20070426_41044928-DD1F-40BF-1FA6-709DFF559124	C0233485	apprehension
+20060918_06068FFF-2E79-4721-BCC7-B0938AA20E7A	C0003467	anxiety
+20070712_A54FA3EB-B400-47E3-94FF-4A39008D36EC	C0003467	anxiety
+20070712_A54FA3EB-B400-47E3-94FF-4A39008D36EC	C0003467	Anxiety
+20080325_AE5EA227-C02C-4B29-884C-1C81D3E09E93	C0003467	anxiety
+20060807_A96B7385-8EE1-4B23-AA15-AA4AFD4C40B4	C0003467	anxiety
+20060807_A96B7385-8EE1-4B23-AA15-AA4AFD4C40B4	C0233485	apprehension
+20060807_A96B7385-8EE1-4B23-AA15-AA4AFD4C40B4	C0003467	Anxiety
+20080918_CBC8C074-F080-4489-A5AE-207B5FADEBA3	C0344315	depressed mood
+20080918_CBC8C074-F080-4489-A5AE-207B5FADEBA3	C0085631	psychomotor agitation
+20071210_F5C826AD-0D16-41E1-A499-D395F0AEC2CD	C0086132	symptoms of depression
+20080505_F15E9F35-1E3E-4217-B8E2-1D6096DBEE1B	C0085631	restlessness
+20080505_F15E9F35-1E3E-4217-B8E2-1D6096DBEE1B	C0233485	apprehension
+20080505_F15E9F35-1E3E-4217-B8E2-1D6096DBEE1B	C0564408	manic
+20070914_cb8c497a-4c4e-4af7-84d0-04c8c4636630	C0233477	dysphoric mood
+20070914_cb8c497a-4c4e-4af7-84d0-04c8c4636630	C0344315	depressed mood
+20070914_cb8c497a-4c4e-4af7-84d0-04c8c4636630	C0085631	psychomotor agitation
+20070914_cb8c497a-4c4e-4af7-84d0-04c8c4636630	C0233481	worry
+20070914_cb8c497a-4c4e-4af7-84d0-04c8c4636630	C0012833	dizzy
+20070914_cb8c497a-4c4e-4af7-84d0-04c8c4636630	C0220870	lightheaded
+20061201_C397A9DA-862F-4F3F-8109-7D21691DE53A	C0003467	anxiety
+20061201_C397A9DA-862F-4F3F-8109-7D21691DE53A	C0003467	Anxiety
+20061201_C397A9DA-862F-4F3F-8109-7D21691DE53A	C0085631	agitation
+20061201_C397A9DA-862F-4F3F-8109-7D21691DE53A	C0011206	acute delirium
+20080125_941E1EC2-1F14-4153-A5EA-CF7669D5EFD1	C0003467	anxiety
+20071130_238050FD-5221-4B93-BFCD-31793C9088A7	C0012833	dizzy
+20071130_238050FD-5221-4B93-BFCD-31793C9088A7	C0220870	lightheaded
+20071130_238050FD-5221-4B93-BFCD-31793C9088A7	C0011551	depersonalization
+20071130_238050FD-5221-4B93-BFCD-31793C9088A7	C0003467	anxiety
+20070504_Lb6cc6969-daa0-4211-872a-05453cb33c70	C0233477	dysphoric mood
+20070504_Lb6cc6969-daa0-4211-872a-05453cb33c70	C0085631	psychomotor agitation
+20070413_B08F1178-38B6-469B-BF14-FA1335152C05	C0009676	Confusion
+20070413_B08F1178-38B6-469B-BF14-FA1335152C05	C0009676	confusion
+20070914_540AA35D-1E2E-4B84-4E96-C6109E373C34	C0003467	anxiety
+20070914_540AA35D-1E2E-4B84-4E96-C6109E373C34	C0003467	Anxiety
+20070914_540AA35D-1E2E-4B84-4E96-C6109E373C34	C0086132	depressive symptoms
+20070914_540AA35D-1E2E-4B84-4E96-C6109E373C34	C0085631	restlessness
+20070914_540AA35D-1E2E-4B84-4E96-C6109E373C34	C0012833	dizziness
+20070914_540AA35D-1E2E-4B84-4E96-C6109E373C34	C0220870	lightheadedness
+20070914_540AA35D-1E2E-4B84-4E96-C6109E373C34	C0233481	worry
+20070914_540AA35D-1E2E-4B84-4E96-C6109E373C34	C0022107	irritability
+20070914_540AA35D-1E2E-4B84-4E96-C6109E373C34	C0919568	impatience
+20081126_52bf0f9e-e6c3-4dd8-921d-2e74605e07d1	C0233477	dysphoric mood
+20081126_52bf0f9e-e6c3-4dd8-921d-2e74605e07d1	C0344315	depressed mood
+20081126_52bf0f9e-e6c3-4dd8-921d-2e74605e07d1	C0085631	psychomotor agitation
+20080716_A648D0AA-EFCB-4123-BF86-6A2C6FD16394	C0003467	anxiety
+20080716_A648D0AA-EFCB-4123-BF86-6A2C6FD16394	C0086132	depressive symptoms
+20080716_A648D0AA-EFCB-4123-BF86-6A2C6FD16394	C0003467	Anxiety
+20070625_754EE84C-AD16-4B06-BD1C-6791C758F908	C0233477	dysphoric mood
+20070625_754EE84C-AD16-4B06-BD1C-6791C758F908	C0344315	depressed mood
+20070625_754EE84C-AD16-4B06-BD1C-6791C758F908	C0085631	psychomotor agitation
+20060713_cb97d4a0-89ed-407c-a763-209386b6f75c	C0009676	confusion
+20080505_662F11CA-CF1E-41FD-9B2A-11A23D1F6290	C0003467	anxiety
+20080505_662F11CA-CF1E-41FD-9B2A-11A23D1F6290	C0085631	agitated
+20080602_66B8C818-1C69-4123-8AD1-88410EA13E56	C0233477	dysphoric mood
+20080602_66B8C818-1C69-4123-8AD1-88410EA13E56	C0344315	depressed mood
+20080602_66B8C818-1C69-4123-8AD1-88410EA13E56	C0085631	psychomotor agitation
+20080602_66B8C818-1C69-4123-8AD1-88410EA13E56	C0233481	worry
+20080602_66B8C818-1C69-4123-8AD1-88410EA13E56	C0012833	dizzy
+20080602_66B8C818-1C69-4123-8AD1-88410EA13E56	C0220870	lightheaded
+20080904_D878AED0-DDBF-8FA1-ABF7-D3E480260845	C0013144	sleepiness
+20081126_01800452-c353-4235-a66a-214048752e74	C0233477	dysphoric mood
+20081126_01800452-c353-4235-a66a-214048752e74	C0085631	psychomotor agitation
+20061215_4bf3912c-8339-401e-9711-dad6acf15f11	C0233485	apprehension
+20070726_6A05ACE2-3D5E-48DE-B158-870D404CC061	C0338656	cognitive impairment
+20081121_CB157743-E18D-F030-3EA3-813FBCD73851	C0564408	manic
+20081121_CB157743-E18D-F030-3EA3-813FBCD73851	C0022107	Irritability
+20081121_CB157743-E18D-F030-3EA3-813FBCD73851	C0022107	irritability
+20070928_DB1C840D-AB22-4A4C-9CED-AE82C869DD9B	C0233477	dysphoric mood
+20070928_DB1C840D-AB22-4A4C-9CED-AE82C869DD9B	C0344315	depressed mood
+20070928_DB1C840D-AB22-4A4C-9CED-AE82C869DD9B	C0085631	psychomotor agitation
+20070928_DB1C840D-AB22-4A4C-9CED-AE82C869DD9B	C0233481	worry
+20070928_DB1C840D-AB22-4A4C-9CED-AE82C869DD9B	C0012833	dizzy
+20070928_DB1C840D-AB22-4A4C-9CED-AE82C869DD9B	C0220870	lightheaded
+20070824_08A65CF4-7749-4CEB-6895-8F4805E2B01F	C0564408	manic
+20070824_08A65CF4-7749-4CEB-6895-8F4805E2B01F	C0022107	irritable mood
+20080620_65EE7EF8-CC68-41D1-CC8B-C01A056409A9	C0233477	dysphoric mood
+20080620_65EE7EF8-CC68-41D1-CC8B-C01A056409A9	C0085631	psychomotor agitation
+20080620_65EE7EF8-CC68-41D1-CC8B-C01A056409A9	C0233481	worry
+20080620_65EE7EF8-CC68-41D1-CC8B-C01A056409A9	C0012833	dizzy
+20080620_65EE7EF8-CC68-41D1-CC8B-C01A056409A9	C0220870	lightheaded
+20080620_65EE7EF8-CC68-41D1-CC8B-C01A056409A9	C0011551	depersonalization
+20080620_65EE7EF8-CC68-41D1-CC8B-C01A056409A9	C0003467	Anxiety
+20080620_65EE7EF8-CC68-41D1-CC8B-C01A056409A9	C0003467	anxiety
+20080620_65EE7EF8-CC68-41D1-CC8B-C01A056409A9	C0085631	Restlessness
+20080620_65EE7EF8-CC68-41D1-CC8B-C01A056409A9	C0022107	irritability
+20080620_65EE7EF8-CC68-41D1-CC8B-C01A056409A9	C0236720	flashbacks
+20080620_65EE7EF8-CC68-41D1-CC8B-C01A056409A9	C0002957	anger
+20061222_51ff7db5-aaf9-4c3c-86e6-958ebf16b60f	C0233477	dysphoric mood
+20061222_51ff7db5-aaf9-4c3c-86e6-958ebf16b60f	C0344315	depressed mood
+20061222_51ff7db5-aaf9-4c3c-86e6-958ebf16b60f	C0085631	psychomotor agitation
+20070629_e4ed54dc-abe1-45ec-9ea1-78f472bd24cf	C0233477	dysphoric mood
+20070629_e4ed54dc-abe1-45ec-9ea1-78f472bd24cf	C0344315	depressed mood
+20070629_e4ed54dc-abe1-45ec-9ea1-78f472bd24cf	C0085631	psychomotor agitation
+20080205_BD31F331-DBAE-4908-955C-AB817E97DD3C	C0085633	emotional lability
+20070808_AC145B81-5F26-4914-B47F-6C4958E94146	C0022107	irritable
+20080602_C509F682-D68E-490A-884D-C067E4C23A5B	C0233477	dysphoric mood
+20080602_C509F682-D68E-490A-884D-C067E4C23A5B	C0344315	depressed mood
+20080602_C509F682-D68E-490A-884D-C067E4C23A5B	C0085631	psychomotor agitation
+20080602_C509F682-D68E-490A-884D-C067E4C23A5B	C0233481	worry
+20080602_C509F682-D68E-490A-884D-C067E4C23A5B	C0012833	dizzy
+20080602_C509F682-D68E-490A-884D-C067E4C23A5B	C0220870	lightheaded
+20070119_A04DA66A-F4D8-4D52-AEDC-15DCC928D76B	C0003467	anxiety
+20080904_2dc4868a-8aff-4f7f-ad2c-42745e9d71e4	C0233477	dysphoric mood
+20080904_2dc4868a-8aff-4f7f-ad2c-42745e9d71e4	C0085631	psychomotor agitation
+20080313_239dcefe-45a9-48f5-a6f1-1ac6546e0da2	C0003467	anxiety
+20080313_239dcefe-45a9-48f5-a6f1-1ac6546e0da2	C0003467	Anxiety
+20080313_239dcefe-45a9-48f5-a6f1-1ac6546e0da2	C0086132	depressive symptoms
+20080313_239dcefe-45a9-48f5-a6f1-1ac6546e0da2	C0085631	restlessness
+20080313_239dcefe-45a9-48f5-a6f1-1ac6546e0da2	C0012833	dizziness
+20080313_239dcefe-45a9-48f5-a6f1-1ac6546e0da2	C0220870	lightheadedness
+20080313_239dcefe-45a9-48f5-a6f1-1ac6546e0da2	C0233481	worry
+20080313_239dcefe-45a9-48f5-a6f1-1ac6546e0da2	C0022107	irritability
+20080313_239dcefe-45a9-48f5-a6f1-1ac6546e0da2	C0919568	impatience
+20080505_27948FFA-7C8A-4B43-A5FB-59F868F36264	C0003467	anxiety
+20080505_27948FFA-7C8A-4B43-A5FB-59F868F36264	C0085631	agitated
+20071101_A1E768FD-C28F-4B49-822D-CCC315B4099C	C0344315	depressed mood
+20071101_A1E768FD-C28F-4B49-822D-CCC315B4099C	C0085631	psychomotor agitation
+20070824_8b3c5f72-20eb-4e07-9ddf-f4e6b6dfa795	C0233477	dysphoric mood
+20070824_8b3c5f72-20eb-4e07-9ddf-f4e6b6dfa795	C0344315	depressed mood
+20070824_8b3c5f72-20eb-4e07-9ddf-f4e6b6dfa795	C0085631	psychomotor agitation
+20070928_1A58062B-E635-431A-908D-2651C6A4A21C	C0233477	dysphoric mood
+20070928_1A58062B-E635-431A-908D-2651C6A4A21C	C0085631	psychomotor agitation
+20070928_1A58062B-E635-431A-908D-2651C6A4A21C	C0233481	worry
+20070928_1A58062B-E635-431A-908D-2651C6A4A21C	C0012833	dizzy
+20070928_1A58062B-E635-431A-908D-2651C6A4A21C	C0220870	lightheaded
+20070928_1A58062B-E635-431A-908D-2651C6A4A21C	C0011551	depersonalization
+20070928_1A58062B-E635-431A-908D-2651C6A4A21C	C0236720	flashbacks
+20070928_1A58062B-E635-431A-908D-2651C6A4A21C	C0022107	irritability
+20070928_1A58062B-E635-431A-908D-2651C6A4A21C	C0002957	anger
+20070928_1A58062B-E635-431A-908D-2651C6A4A21C	C0344315	depressed mood
+20070928_1A58062B-E635-431A-908D-2651C6A4A21C	C0003467	anxiety
+20070928_1A58062B-E635-431A-908D-2651C6A4A21C	C0525045	mood disorders
+20070928_1A58062B-E635-431A-908D-2651C6A4A21C	C0003467	Anxiety
+20080620_81f9d88f-c50b-4c6a-a25b-46fa162a503e	C0003467	anxiety
+20070706_09f13452-8f90-426e-9687-d30be75db9d7	C0085633	emotional lability
+20070406_30a7b635-3298-4d2b-b954-5b339bfff7cd	C0003467	anxiety
+20070406_30a7b635-3298-4d2b-b954-5b339bfff7cd	C0003467	Anxiety
+20070406_30a7b635-3298-4d2b-b954-5b339bfff7cd	C0086132	depressive symptoms
+20070406_30a7b635-3298-4d2b-b954-5b339bfff7cd	C0085631	restlessness
+20070406_30a7b635-3298-4d2b-b954-5b339bfff7cd	C0012833	dizziness
+20070406_30a7b635-3298-4d2b-b954-5b339bfff7cd	C0220870	lightheadedness
+20070406_30a7b635-3298-4d2b-b954-5b339bfff7cd	C0233481	worry
+20070406_30a7b635-3298-4d2b-b954-5b339bfff7cd	C0022107	irritability
+20070406_30a7b635-3298-4d2b-b954-5b339bfff7cd	C0919568	impatience
+20071004_711AA80B-8FC6-49E6-9494-3DB31D9B53A4	C0233477	dysphoric mood
+20071004_711AA80B-8FC6-49E6-9494-3DB31D9B53A4	C0344315	depressed mood
+20071004_711AA80B-8FC6-49E6-9494-3DB31D9B53A4	C0085631	psychomotor agitation
+20080725_5FEA3E0D-AEA8-436D-A094-AA9462D2CC22	C0003467	anxiety
+20070413_A243CE25-2AA0-4879-86EC-455DB3A63C5E	C0003467	anxiety
+20070413_A243CE25-2AA0-4879-86EC-455DB3A63C5E	C0233485	apprehension
+20070413_A243CE25-2AA0-4879-86EC-455DB3A63C5E	C0003467	Anxiety
+20061222_F025900E-5D16-4614-93AD-7FE08A865458	C0003467	anxiety
+20061222_F025900E-5D16-4614-93AD-7FE08A865458	C0003467	Anxiety
+20061222_F025900E-5D16-4614-93AD-7FE08A865458	C0233481	worry
+20061222_F025900E-5D16-4614-93AD-7FE08A865458	C0085631	restlessness
+20061222_F025900E-5D16-4614-93AD-7FE08A865458	C0012833	dizziness
+20061222_F025900E-5D16-4614-93AD-7FE08A865458	C0022107	irritability
+20070629_46B8AC51-F848-44A6-BE6D-16F73D37B601	C0003467	anxiety
+20070629_46B8AC51-F848-44A6-BE6D-16F73D37B601	C0086132	depressive symptoms
+20070629_46B8AC51-F848-44A6-BE6D-16F73D37B601	C0003467	Anxiety
+20080310_BDA79D58-1043-4CBF-B197-0D46CD40A2E8	C0003467	anxiety
+20060901_A226A88D-EB57-4C96-AFDA-939801BCA0A9	C0564408	manic
+20060901_A226A88D-EB57-4C96-AFDA-939801BCA0A9	C0233492	elation
+20081030_1E4FE8EF-B215-BE45-0793-C55AF24DB6BB	C0564408	manic
+20081030_1E4FE8EF-B215-BE45-0793-C55AF24DB6BB	C0022107	Irritability
+20081030_1E4FE8EF-B215-BE45-0793-C55AF24DB6BB	C0022107	irritability
+20070726_A718C645-49C7-4A9C-A348-86874019134B	C0085633	emotional lability
+20070914_66A756F2-AC77-451C-A19A-08896D73B15C	C0003467	anxiety
+20070914_66A756F2-AC77-451C-A19A-08896D73B15C	C0085631	agitation
+20071004_C3CA69E6-1EA0-4C2C-ABCB-7264B2E79A87	C0564408	manic
+20071004_C3CA69E6-1EA0-4C2C-ABCB-7264B2E79A87	C0003467	anxiety
+20080215_140D8F61-912B-449A-9C34-B52E08B3D819	C0003467	anxiety
+20080215_140D8F61-912B-449A-9C34-B52E08B3D819	C0003467	Anxiety
+20080215_140D8F61-912B-449A-9C34-B52E08B3D819	C0085631	agitation
+20080215_140D8F61-912B-449A-9C34-B52E08B3D819	C0022107	irritability
+20080215_140D8F61-912B-449A-9C34-B52E08B3D819	C0001969	inebriation
+20070921_7C9EAFB9-9CE1-4B28-900C-8FCB4B23424E	C0003467	anxiety
+20070921_7C9EAFB9-9CE1-4B28-900C-8FCB4B23424E	C0003467	Anxiety
+20070921_7C9EAFB9-9CE1-4B28-900C-8FCB4B23424E	C0086132	depressive symptoms
+20070921_7C9EAFB9-9CE1-4B28-900C-8FCB4B23424E	C0085631	restlessness
+20070921_7C9EAFB9-9CE1-4B28-900C-8FCB4B23424E	C0012833	dizziness
+20070921_7C9EAFB9-9CE1-4B28-900C-8FCB4B23424E	C0220870	lightheadedness
+20070921_7C9EAFB9-9CE1-4B28-900C-8FCB4B23424E	C0233481	worry
+20070921_7C9EAFB9-9CE1-4B28-900C-8FCB4B23424E	C0022107	irritability
+20070921_7C9EAFB9-9CE1-4B28-900C-8FCB4B23424E	C0919568	impatience
+20080125_8248A4F1-08A8-42AB-A74E-5C5A1F9223B1	C0003467	anxiety
+20080125_8248A4F1-08A8-42AB-A74E-5C5A1F9223B1	C0086132	depressive symptoms
+20080125_8248A4F1-08A8-42AB-A74E-5C5A1F9223B1	C0003467	Anxiety
+20060821_AAAF4D12-4E68-45F9-AC10-2238480A0160	C0233485	apprehension
+20080418_39a85db1-9e59-4ab0-9e18-36757f019faa	C0233477	dysphoric mood
+20080418_39a85db1-9e59-4ab0-9e18-36757f019faa	C0085631	psychomotor agitation
+20070522_93A0696B-B261-4262-9E06-F3180B419F8F	C0018524	hallucinations
+20070522_93A0696B-B261-4262-9E06-F3180B419F8F	C0009676	confusion
+20070928_d44e92e6-6fbd-4f14-8d61-ff20c5217359	C0233477	dysphoric mood
+20070928_d44e92e6-6fbd-4f14-8d61-ff20c5217359	C0344315	depressed mood
+20070928_d44e92e6-6fbd-4f14-8d61-ff20c5217359	C0085631	psychomotor agitation
+20070426_C5532ED4-727C-4FAB-AB17-5986A6076314	C0012833	dizziness
+20080125_7E117C7E-02FC-4343-92A1-230061DFC5E0	C0564408	manic
+20080125_7E117C7E-02FC-4343-92A1-230061DFC5E0	C0022107	Irritability
+20080125_7E117C7E-02FC-4343-92A1-230061DFC5E0	C0022107	irritability
+20070928_a4c012f0-50b6-42fb-9f06-a14632f23f2e	C0233477	dysphoric mood
+20070928_a4c012f0-50b6-42fb-9f06-a14632f23f2e	C0344315	depressed mood
+20070928_a4c012f0-50b6-42fb-9f06-a14632f23f2e	C0085631	psychomotor agitation
+20070126_AD2A0633-50FE-4180-B743-C1E49FC110C6	C0003467	anxiety
+20070126_AD2A0633-50FE-4180-B743-C1E49FC110C6	C0086132	depressive symptoms
+20070126_AD2A0633-50FE-4180-B743-C1E49FC110C6	C0003467	Anxiety
+20080125_f23631be-c7ae-46e9-b771-a70be17bc9f0	C0233477	dysphoric mood
+20080125_f23631be-c7ae-46e9-b771-a70be17bc9f0	C0344315	depressed mood
+20080125_f23631be-c7ae-46e9-b771-a70be17bc9f0	C0085631	psychomotor agitation
+20070607_585D516F-9B65-484A-CEBF-EC84D8DD780C	C0233485	apprehension
+20060921_7EAF5043-5C73-47AF-904B-8E1FAE02AF2E	C0003467	anxiety
+20070921_C612B6C5-EEB9-4FDD-8C85-BB3D2147CD1E	C0564408	manic
+20070921_C612B6C5-EEB9-4FDD-8C85-BB3D2147CD1E	C0233492	elation
+20080125_e7a2cbdd-1bdb-4e59-a3dd-298a189753ae	C0233477	dysphoric mood
+20080125_e7a2cbdd-1bdb-4e59-a3dd-298a189753ae	C0344315	depressed mood
+20080125_e7a2cbdd-1bdb-4e59-a3dd-298a189753ae	C0085631	psychomotor agitation
+20080521_95B54F0A-5E38-4BFA-8C5E-F9C826774DA0	C0003467	anxiety
+20080521_95B54F0A-5E38-4BFA-8C5E-F9C826774DA0	C0085631	agitated
+20071017_A274E3EA-BF67-4F81-AAA0-10475B20CD69	C0022107	irritable
+20080130_A00236D8-CEF8-44AF-A706-B69F31BEDAB1	C0003467	anxiety
+20080130_A00236D8-CEF8-44AF-A706-B69F31BEDAB1	C0003467	Anxiety
+20080130_A00236D8-CEF8-44AF-A706-B69F31BEDAB1	C0233481	worry
+20080130_A00236D8-CEF8-44AF-A706-B69F31BEDAB1	C0085631	restlessness
+20080130_A00236D8-CEF8-44AF-A706-B69F31BEDAB1	C0012833	dizziness
+20080130_A00236D8-CEF8-44AF-A706-B69F31BEDAB1	C0022107	irritability
+20080130_A00236D8-CEF8-44AF-A706-B69F31BEDAB1	C0011551	depersonalization
+20070522_9eaec71a-3641-4afd-8d92-91c89d9a6edd	C0233477	dysphoric mood
+20070522_9eaec71a-3641-4afd-8d92-91c89d9a6edd	C0085631	psychomotor agitation
+20070522_9eaec71a-3641-4afd-8d92-91c89d9a6edd	C0233481	worry
+20070522_9eaec71a-3641-4afd-8d92-91c89d9a6edd	C0012833	dizzy
+20070522_9eaec71a-3641-4afd-8d92-91c89d9a6edd	C0220870	lightheaded
+20070522_9eaec71a-3641-4afd-8d92-91c89d9a6edd	C0011551	depersonalization
+20070522_9eaec71a-3641-4afd-8d92-91c89d9a6edd	C0003467	Anxiety
+20070522_9eaec71a-3641-4afd-8d92-91c89d9a6edd	C0003467	anxiety
+20070522_9eaec71a-3641-4afd-8d92-91c89d9a6edd	C0085631	Restlessness
+20070522_9eaec71a-3641-4afd-8d92-91c89d9a6edd	C0022107	irritability
+20080612_BEB15C4C-9AD8-4FA4-D28C-CEF6ED9871B5	C0344315	depressed mood
+20080612_BEB15C4C-9AD8-4FA4-D28C-CEF6ED9871B5	C0085631	psychomotor agitation
+20080612_BEB15C4C-9AD8-4FA4-D28C-CEF6ED9871B5	C0233481	worry
+20080612_BEB15C4C-9AD8-4FA4-D28C-CEF6ED9871B5	C0012833	dizzy
+20080612_BEB15C4C-9AD8-4FA4-D28C-CEF6ED9871B5	C0220870	lightheaded
+20080612_BEB15C4C-9AD8-4FA4-D28C-CEF6ED9871B5	C0011551	depersonalization
+20080612_BEB15C4C-9AD8-4FA4-D28C-CEF6ED9871B5	C0003467	Anxiety
+20080612_BEB15C4C-9AD8-4FA4-D28C-CEF6ED9871B5	C0003467	anxiety
+20080612_BEB15C4C-9AD8-4FA4-D28C-CEF6ED9871B5	C0002957	anger
+20080612_BEB15C4C-9AD8-4FA4-D28C-CEF6ED9871B5	C0022107	irritability
+20080612_BEB15C4C-9AD8-4FA4-D28C-CEF6ED9871B5	C0525045	mood disorders
+20080117_ba5527fb-76fc-4ee5-b62e-a141c58c957d	C0013144	sleepiness
+20080117_ba5527fb-76fc-4ee5-b62e-a141c58c957d	C0013144	drowsiness
+20080117_ba5527fb-76fc-4ee5-b62e-a141c58c957d	C0003467	anxiety
+20070914_47921C65-AB98-4716-B7BF-9E1564C58C4B	C0003467	anxiety
+20070914_47921C65-AB98-4716-B7BF-9E1564C58C4B	C0085631	agitation
+20070914_47921C65-AB98-4716-B7BF-9E1564C58C4B	C0344315	depressed mood
+20070914_47921C65-AB98-4716-B7BF-9E1564C58C4B	C0011570	depressive state
+20070914_47921C65-AB98-4716-B7BF-9E1564C58C4B	C0086132	depressive symptoms
+20070420_EA350660-9BE8-40B2-98F9-AF759A8F7864	C0012833	dizzy
+20070420_EA350660-9BE8-40B2-98F9-AF759A8F7864	C0220870	lightheaded
+20070420_EA350660-9BE8-40B2-98F9-AF759A8F7864	C0011551	depersonalization
+20081114_13bb8267-1cab-43e5-acae-55a4d957630a	C0233477	dysphoric mood
+20081114_13bb8267-1cab-43e5-acae-55a4d957630a	C0344315	depressed mood
+20081114_13bb8267-1cab-43e5-acae-55a4d957630a	C0085631	psychomotor agitation
+20081114_13bb8267-1cab-43e5-acae-55a4d957630a	C0003467	Anxiety
+20081114_13bb8267-1cab-43e5-acae-55a4d957630a	C0003467	anxiety
+20081114_13bb8267-1cab-43e5-acae-55a4d957630a	C0233481	worry
+20081114_13bb8267-1cab-43e5-acae-55a4d957630a	C0085631	restlessness
+20081114_13bb8267-1cab-43e5-acae-55a4d957630a	C0022107	irritability
+20080125_AFA26CDE-E512-48D1-A9AE-3E1CEE2F7F72	C0233477	dysphoric mood
+20080125_AFA26CDE-E512-48D1-A9AE-3E1CEE2F7F72	C0344315	depressed mood
+20080125_AFA26CDE-E512-48D1-A9AE-3E1CEE2F7F72	C0085631	psychomotor agitation
+20070808_A0B58C0C-D67A-4BA6-8D84-CCDC78F24634	C0002622	amnesia
+20080521_D474AC6A-444D-4AA6-9986-24BE6FCF811D	C0022107	irritable
+20080521_D474AC6A-444D-4AA6-9986-24BE6FCF811D	C0022107	Irritable
+20080215_e05cf690-d45a-4696-a1bf-40c9350cc084	C0085633	emotional lability
+20071101_7FE78A8D-1E6A-431E-958E-F1F1B420EFA2	C0233481	worry
+20071101_7FE78A8D-1E6A-431E-958E-F1F1B420EFA2	C0012833	dizzy
+20071101_7FE78A8D-1E6A-431E-958E-F1F1B420EFA2	C0220870	lightheaded
+20071101_7FE78A8D-1E6A-431E-958E-F1F1B420EFA2	C0011551	depersonalization
+20070522_72D8EEFE-C066-41B6-8922-9586F1CF47A1	C0018524	hallucinations
+20070522_72D8EEFE-C066-41B6-8922-9586F1CF47A1	C0009676	confusion
+20070928_B8DF747E-DFCE-4411-B892-086532FFABFB	C0233477	dysphoric mood
+20070928_B8DF747E-DFCE-4411-B892-086532FFABFB	C0344315	depressed mood
+20070928_B8DF747E-DFCE-4411-B892-086532FFABFB	C0085631	psychomotor agitation
+20081126_C3736D08-3FE5-48F7-A1B9-1284514283B5	C0002622	amnesia
+20070824_e17dc299-f52d-414d-ab6e-e809bd6f8acb	C0086132	symptoms of depression
+20070824_e17dc299-f52d-414d-ab6e-e809bd6f8acb	C0011570	depressions
+20070815_0979FB90-9C22-4B74-8648-1174B905654D	C0233477	dysphoric mood
+20070815_0979FB90-9C22-4B74-8648-1174B905654D	C0344315	depressed mood
+20070815_0979FB90-9C22-4B74-8648-1174B905654D	C0085631	psychomotor agitation
+20070928_CE024ABB-C5D5-45C8-BC3C-AFE18B1BEBE9	C0233477	dysphoric mood
+20070928_CE024ABB-C5D5-45C8-BC3C-AFE18B1BEBE9	C0085631	psychomotor agitation
+20080305_7560c201-9246-487c-a13b-6295db04274a	C0233485	apprehension
+20080325_117AECCC-1A78-46D8-AD8D-4035870AD910	C0003467	anxiety
+Tp8wNBoGmaI=	C0018524	hallucination
+CRKCHOm2IZw=	C0564408	manic
+r+QB2UmFaCw=	C0086132	depressive symptoms
+7UaHREBoroQ=	C0086132	depressive symptoms
+obBcM2GeRvM=	C0564408	manic
+899%2FU7YW4Z8=	C0018524	hallucination
+pXmOeKYPICY=	C0564408	manic
+OR%2FPJl8+FBM=	C0564408	manic
+uL6tG6SNvCk=	C0564408	manic
+qM23bkOv++w=	C0086132	depressive symptoms
+WheeiTB6fsk=	C0564408	manic
+WheeiTB6fsk=	C0085631	agitation
+WheeiTB6fsk=	C0085631	agitated
+pr6yEI0db8c=	C0085633	emotional lability
+jVcaUXzUKCI=	C0564408	manic
+GZ9%2F92H3lZs=	C0564408	manic
+GZ9%2F92H3lZs=	C0085631	agitation
+GZ9%2F92H3lZs=	C0085631	agitated
+MUqq9ZisBtY=	C0003467	Anxiety
+MUqq9ZisBtY=	C0003467	anxiety
+MUqq9ZisBtY=	C0236720	flashbacks
+MUqq9ZisBtY=	C0022107	irritability
+MUqq9ZisBtY=	C0002957	anger
+S4XNoSfvDvo=	C0564408	manic
+jKYE%2FHAXyjU=	C0564408	manic
+jLHILa4zeOI=	C0022107	irritable
+jLHILa4zeOI=	C0003467	anxiety
+imQv5qSeE1A=	C0564408	manic
+inYV4L8m2o4=	C0003467	anxiety
+inYV4L8m2o4=	C0003467	Anxiety
+6VIUTUmh+DY=	C0564408	manic
+ftQQKivu1z4=	C0086132	depressive symptoms
+36v4dADWCP8=	C0564408	manic
+Diuiwu%2FUzRY=	C0564408	manic
+1Hge48HSjY0=	C0564408	manic
+XkglN8t6lm0=	C0564408	manic
+L8n6lJO2Ew4=	C0003467	anxiety
+L8n6lJO2Ew4=	C0003467	Anxiety
+1C8iQVn6X+E=	C0086132	depressive symptoms
+zEiCKRt1aIk=	C0564408	manic
++SdDGcPs6l0=	C0012833	dizzy
++SdDGcPs6l0=	C0220870	lightheaded
++SdDGcPs6l0=	C0011551	depersonalization
++SdDGcPs6l0=	C0003467	Anxiety
++SdDGcPs6l0=	C0003467	anxiety
++SdDGcPs6l0=	C0236720	flashbacks
++SdDGcPs6l0=	C0022107	irritability
++SdDGcPs6l0=	C0002957	anger
+DaIDwjOtgFQ=	C0564408	manic
+zazexIq9AIA=	C0012833	dizzy
+zazexIq9AIA=	C0220870	lightheaded
+zazexIq9AIA=	C0011551	depersonalization
+zazexIq9AIA=	C0003467	Anxiety
+zazexIq9AIA=	C0003467	anxiety
+zazexIq9AIA=	C0236720	flashbacks
+zazexIq9AIA=	C0022107	irritability
+zazexIq9AIA=	C0002957	anger
+DhrKjjhPxvQ=	C0564408	manic
+DhrKjjhPxvQ=	C0085631	agitation
+DhrKjjhPxvQ=	C0085631	agitated
+zqzzya3XUM0=	C0012833	dizzy
+zqzzya3XUM0=	C0220870	lightheaded
+zqzzya3XUM0=	C0011551	depersonalization
+zqzzya3XUM0=	C0003467	Anxiety
+zqzzya3XUM0=	C0003467	anxiety
+zqzzya3XUM0=	C0236720	flashbacks
+zqzzya3XUM0=	C0022107	irritability
+zqzzya3XUM0=	C0002957	anger
+ornF7xLRVQY=	C0564408	manic
+OShxSiZK+o8=	C0564408	Manic
+OShxSiZK+o8=	C0564408	manic
+v84D01f5R+0=	C0564408	manic
+NspuP22p%2FS8=	C0018524	hallucination
+YA1bk5m1JuY=	C0086132	depressive symptoms
+Na%2FM%2FWscq3I=	C0012833	dizzy
+Na%2FM%2FWscq3I=	C0220870	lightheaded
+Na%2FM%2FWscq3I=	C0011551	depersonalization
+Na%2FM%2FWscq3I=	C0003467	Anxiety
+Na%2FM%2FWscq3I=	C0003467	anxiety
+Na%2FM%2FWscq3I=	C0236720	flashbacks
+Na%2FM%2FWscq3I=	C0022107	irritability
+Na%2FM%2FWscq3I=	C0002957	anger
+3OSkxhb57LE=	C0564408	manic
+oy7reGBPVtE=	C0233571	excitement
+oy7reGBPVtE=	C0085631	agitation
+zKSuH%2FJ45zo=	C0564408	manic
+YcbGIzZDXUI=	C0564408	manic
+nbtIKmPlqx4=	C0003467	anxiety
+nbtIKmPlqx4=	C0003467	Anxiety
+NYN7tfiDQh8=	C0564408	manic
+yEL+9Uo%2F22E=	C0086132	depressive symptoms
+4s7gGUhd%2FI0=	C0564408	manic
+P5+4USOEGGE=	C0018524	hallucination
+IYQTG9VzpoI=	C0564408	manic
+FXtGnWOMu1Y=	C0525045	affective disorders
+bfYUTLAI0D0=	C0564408	manic
+S4pp5BYcKsk=	C0564408	manic
+AGF5rEZ1WrE=	C0564408	manic
+1DEQnoY8TO0=	C0003467	Anxiety
+1DEQnoY8TO0=	C0003467	anxiety
+1DEQnoY8TO0=	C0233481	worry
+1DEQnoY8TO0=	C0012833	dizzy
+1DEQnoY8TO0=	C0220870	lightheaded
+1DEQnoY8TO0=	C0011551	depersonalization
+m5%2FsWa0zMJ4=	C0564408	manic
+NHJUOQMOhUI=	C0564408	manic
+wcfm0RmqQ%2Fo=	C0012833	dizziness
+wcfm0RmqQ%2Fo=	C0009676	confusion
+wcfm0RmqQ%2Fo=	C0013144	Somnolence
+GDp2mZ7d6AA=	C0564408	manic
+CJ9dQqw60ZQ=	C0564408	manic
+rmBF0MmB01M=	C0041654	unconsciousness
+ZIAXfCWIOYQ=	C0564408	manic
+ZIAXfCWIOYQ=	C0525045	affective disorder
+Yyn1Py35An8=	C0564408	manic
+E4+f8s4BcRE=	C0564408	manic
+1HsIen5QraE=	C0564408	manic
+1HsIen5QraE=	C0085631	agitation
+1HsIen5QraE=	C0085631	agitated
+mEEIU0UYTI8=	C0564408	manic
+2qZ%2F%2FIZIldY=	C0564408	Manic
+2qZ%2F%2FIZIldY=	C0564408	manic
++GZelD8w9n4=	C0525045	affective disorders
+J8CjnUxNp0s=	C0086132	depressive symptoms
+DZFdVdfilMU=	C0564408	manic
+QjKnYkPZRnY=	C0564408	manic
+W+%2FiDpb36x8=	C0018524	hallucination
+lSFNGQ0Qods=	C0012833	dizzy
+lSFNGQ0Qods=	C0220870	lightheaded
+lSFNGQ0Qods=	C0011551	depersonalization
+lSFNGQ0Qods=	C0003467	Anxiety
+lSFNGQ0Qods=	C0003467	anxiety
+lSFNGQ0Qods=	C0344315	depressed mood
+lSFNGQ0Qods=	C0002957	anger
+lSFNGQ0Qods=	C0022107	irritability
+lSFNGQ0Qods=	C0525045	mood disorders
+egm2BFxCjL4=	C0525045	affective disorders
+3Jd1kDUDiOo=	C0564408	manic
+cJflHOqkcY4=	C0013144	sleepiness
+ORyBtPkrZ7w=	C0003467	Anxiety
+ORyBtPkrZ7w=	C0003467	anxiety
+ORyBtPkrZ7w=	C0233481	worry
+ORyBtPkrZ7w=	C0012833	dizzy
+ORyBtPkrZ7w=	C0220870	lightheaded
+ORyBtPkrZ7w=	C0011551	depersonalization
+yK%2FJIAiVG2s=	C0564408	manic
+H0w2JUezgJk=	C0564408	manic
+%2FTD3Rrir58E=	C0564408	manic
+9tklXWJsN6g=	C0003467	Anxiety
+9tklXWJsN6g=	C0003467	anxiety
+0loff2Y6iGc=	C0018524	hallucination
+El0CV1V7tHQ=	C0012833	dizzy
+El0CV1V7tHQ=	C0220870	lightheaded
+El0CV1V7tHQ=	C0011551	depersonalization
+El0CV1V7tHQ=	C0003467	Anxiety
+El0CV1V7tHQ=	C0003467	anxiety
+El0CV1V7tHQ=	C0236720	flashbacks
+El0CV1V7tHQ=	C0022107	irritability
+El0CV1V7tHQ=	C0002957	anger
+KWnaZ2fM0y0=	C0003467	anxiety
+3mMkJFAPk90=	C0003467	anxiety
+3mMkJFAPk90=	C0003467	Anxiety
+mF2319a8U4s=	C0086132	depressive symptoms
+IVapminaqok=	C0012833	dizzy
+IVapminaqok=	C0220870	lightheaded
+IVapminaqok=	C0011551	depersonalization
+IVapminaqok=	C0003467	Anxiety
+IVapminaqok=	C0003467	anxiety
+IVapminaqok=	C0236720	flashbacks
+IVapminaqok=	C0022107	irritability
+IVapminaqok=	C0002957	anger
+UQykhkFbMyI=	C0564408	manic
+vDKrXSowJv0=	C0564408	manic
+0r954PpFiNM=	C0013144	drowsiness
+0r954PpFiNM=	C0012833	dizziness
+0r954PpFiNM=	C0018524	hallucinations
+0r954PpFiNM=	C0085631	restlessness
+J%2FP6vlAVOUI=	C0564408	manic
+S5dqAXyQvlM=	C0003467	anxiety
+S5dqAXyQvlM=	C0003467	Anxiety
+LsEG9LbqMjg=	C0564408	manic
+8RY8yRWiPpc=	C0086132	depressive symptoms
+254B8n6C75I=	C0012833	dizzy
+254B8n6C75I=	C0220870	lightheaded
+254B8n6C75I=	C0011551	depersonalization
+254B8n6C75I=	C0003467	Anxiety
+254B8n6C75I=	C0003467	anxiety
+254B8n6C75I=	C0236720	flashbacks
+254B8n6C75I=	C0022107	irritability
+254B8n6C75I=	C0002957	anger
+XHFjT+IcN94=	C0564408	manic
+4KCsAXYZ8Fo=	C0564408	manic
+JWwB+u+iEA8=	C0564408	manic
+bulypXIA2I0=	C0041654	unconsciousness
+lYyrDFLm2L8=	C0564408	manic
+pGDcYGv5s+E=	C0564408	manic
+D4kvPil8yJg=	C0012833	dizziness
+D4kvPil8yJg=	C0009676	confusion
+D4kvPil8yJg=	C0013144	Somnolence
+612Ty5mnf0U=	C0012833	dizzy
+612Ty5mnf0U=	C0220870	lightheaded
+612Ty5mnf0U=	C0011551	depersonalization
+612Ty5mnf0U=	C0003467	Anxiety
+612Ty5mnf0U=	C0003467	anxiety
+612Ty5mnf0U=	C0236720	flashbacks
+612Ty5mnf0U=	C0022107	irritability
+612Ty5mnf0U=	C0002957	anger
++ANYos51FRU=	C0003467	ANXIETY
++ANYos51FRU=	C0003467	anxiety
++ANYos51FRU=	C0003467	Anxiety
++ANYos51FRU=	C0236720	flashbacks
++ANYos51FRU=	C0022107	irritability
++ANYos51FRU=	C0002957	anger
+K1OL%2FSEZCp4=	C0564408	manic
+7RUWUYZT1o0=	C0564408	manic
+k4vgFfkFPLc=	C0564408	manic
+q85uGjvgl2U=	C0013144	Somnolence
+FyhFHXpvljc=	C0525045	affective disorders
+Hg6YZiarU%2FA=	C0012833	dizziness
+Hg6YZiarU%2FA=	C0009676	confusion
+Hg6YZiarU%2FA=	C0013144	Somnolence
+lDg4lzFNOXA=	C0009676	mental confusion
++38OMno8EWc=	C0086132	depressive symptoms
+QfYCEiuU8AM=	C0564408	manic
+OD+2mWKW4eo=	C0013144	Somnolence
+sdJHSA0C89A=	C0564408	manic
+FkTYGWyp6X0=	C0564408	manic
+GvQFGv3Niqk=	C0003467	Anxiety
+GvQFGv3Niqk=	C0003467	anxiety
+GvQFGv3Niqk=	C0233481	worry
+GvQFGv3Niqk=	C0012833	dizzy
+GvQFGv3Niqk=	C0011551	depersonalization
+nOdrwHgF7Qw=	C0564408	manic
+4D%2FU4hZq2vc=	C0564408	manic
+gaFTIy0Ut2w=	C0564408	manic
+X8k5p4tEJcg=	C0086132	depressive symptoms
+OWGMBY%2FDj0M=	C0085633	emotional lability
+WC9bGFytkOM=	C0012833	dizzy
+WC9bGFytkOM=	C0220870	lightheaded
+WC9bGFytkOM=	C0011551	depersonalization
+WC9bGFytkOM=	C0003467	Anxiety
+WC9bGFytkOM=	C0003467	anxiety
+WC9bGFytkOM=	C0236720	flashbacks
+WC9bGFytkOM=	C0022107	irritability
+WC9bGFytkOM=	C0002957	anger
+jAWs9iosVu4=	C0003467	Anxiety
+jAWs9iosVu4=	C0003467	anxiety
+jAWs9iosVu4=	C0233481	worry
+jAWs9iosVu4=	C0012833	dizzy
+jAWs9iosVu4=	C0220870	lightheaded
+jAWs9iosVu4=	C0011551	depersonalization
+N8183HLFKv0=	C0003467	Anxiety
+N8183HLFKv0=	C0003467	anxiety
+N8183HLFKv0=	C0233481	worry
+N8183HLFKv0=	C0012833	dizzy
+N8183HLFKv0=	C0220870	lightheaded
+N8183HLFKv0=	C0011551	depersonalization
+qEGoHgLECig=	C0564408	manic
+Hitst3H3Dv0=	C0564408	manic
+TN7KeWNp96w=	C0525045	affective disorders
+gtmq0DMOnX8=	C0002622	amnesia
+r10niM6sz54=	C0564408	manic
+ueXLVSoG828=	C0012833	dizzy
+ueXLVSoG828=	C0220870	lightheaded
+ueXLVSoG828=	C0011551	depersonalization
+ueXLVSoG828=	C0003467	Anxiety
+ueXLVSoG828=	C0003467	anxiety
+ueXLVSoG828=	C0236720	flashbacks
+ueXLVSoG828=	C0022107	irritability
+ueXLVSoG828=	C0002957	anger
+MB+KYx65noY=	C0564408	manic
+6MeCfgLrEC8=	C0003467	anxiety
+6MeCfgLrEC8=	C0003467	Anxiety
+d00UeacNQPE=	C0525045	affective disorders
+BBdhkJ0QvTA=	C0012833	dizziness
+BBdhkJ0QvTA=	C0009676	confusion
+BBdhkJ0QvTA=	C0013144	Somnolence
+fxvk+9T7uZE=	C0564408	Manic
+fxvk+9T7uZE=	C0564408	manic
+doRmpy6zY1c=	C0086132	depressive symptoms
+h1gpyIVMMpQ=	C0564408	manic
+AAoiayeABSI=	C0564408	manic
+1Hx6xRYnVhI=	C0013144	Somnolence
+8k29tfkA+3U=	C0012833	dizzy
+8k29tfkA+3U=	C0220870	lightheaded
+8k29tfkA+3U=	C0011551	depersonalization
+8k29tfkA+3U=	C0003467	Anxiety
+8k29tfkA+3U=	C0003467	anxiety
+8k29tfkA+3U=	C0236720	flashbacks
+8k29tfkA+3U=	C0022107	irritability
+8k29tfkA+3U=	C0002957	anger
+3pIWQQqkjdc=	C0525045	affective disorders
+bOqpmTFXQck=	C0085633	emotional lability
+b3DgVfbRlOY=	C0564408	manic
+VyRAO51nnyk=	C0564408	manic
+hm9S9qU%2FI5Q=	C0564408	manic
+mGiZwEEra%2FM=	C0564408	manic
+%2Fw7LFfULhSg=	C0564408	Manic
+%2Fw7LFfULhSg=	C0564408	manic
+bO9SZLmuBc8=	C0018524	hallucination
+all5JEoXc7s=	C0564408	manic
+GBqbTo2IjG4=	C0564408	manic
+fyhIX7usMpA=	C0003467	ANXIETY
+fyhIX7usMpA=	C0003467	anxiety
+fyhIX7usMpA=	C0003467	Anxiety
+fyhIX7usMpA=	C0236720	flashbacks
+fyhIX7usMpA=	C0022107	irritability
+fyhIX7usMpA=	C0002957	anger
+Rr5e3Lrarl8=	C0013144	sleepiness
+Ih9aDEbGAMg=	C0564408	manic
+m7X%2FZyizfOc=	C0564408	manic
+JJDQZnYX19M=	C0564408	manic
+f7TC8Ep5m8o=	C0564408	manic
+HqOmz%2F14rbU=	C0564408	manic
+I7tbF9MDWoo=	C0003467	Anxiety
+I7tbF9MDWoo=	C0003467	anxiety
+I7tbF9MDWoo=	C0233481	worry
+I7tbF9MDWoo=	C0012833	dizzy
+I7tbF9MDWoo=	C0220870	lightheaded
+I7tbF9MDWoo=	C0011551	depersonalization
+ZGPEjXuOpR0=	C0564408	manic
+QIuSHN1Q8AE=	C0003467	anxiety
+QIuSHN1Q8AE=	C0003467	Anxiety
+IrU7mRqgCk4=	C0564408	manic
+d8CLx+azN8w=	C0003467	Anxiety
+d8CLx+azN8w=	C0003467	anxiety
+d8CLx+azN8w=	C0236720	flashbacks
+d8CLx+azN8w=	C0022107	irritability
+d8CLx+azN8w=	C0002957	anger
+qX3p98v7cwY=	C0564408	manic
+%2FZ6j3ZobUjg=	C0564408	manic
+FmOX2f1YzB0=	C0003467	Anxiety
+FmOX2f1YzB0=	C0003467	anxiety
+FmOX2f1YzB0=	C0233481	worry
+FmOX2f1YzB0=	C0085631	restlessness
+FmOX2f1YzB0=	C0012833	dizziness
+FmOX2f1YzB0=	C0220870	lightheadedness
+FmOX2f1YzB0=	C0022107	irritability
+FmOX2f1YzB0=	C0011551	depersonalization
+Z+ubSvfWAlI=	C0041654	unconsciousness
+bF3OMDQQ0hQ=	C0564408	manic
+gpLC1JgxncY=	C0564408	manic
+jA%2FQaqmhxl0=	C0564408	manic
+OMl%2FXlauBCA=	C0003467	Anxiety
+OMl%2FXlauBCA=	C0003467	anxiety
+OMl%2FXlauBCA=	C0236720	flashbacks
+OMl%2FXlauBCA=	C0022107	irritability
+OMl%2FXlauBCA=	C0002957	anger
+SJpJtIcNiN8=	C0564408	manic
+o14UyQ8FBB8=	C0525045	affective disorders
+rjyjNrJQ9mA=	C0564408	manic
+KhOJPBKIG38=	C0003467	Anxiety
+KhOJPBKIG38=	C0003467	anxiety
+KhOJPBKIG38=	C0233481	worry
+KhOJPBKIG38=	C0012833	dizzy
+KhOJPBKIG38=	C0011551	depersonalization
+ByFMvF2b+GE=	C0564408	manic
+fxuWWBMSA5k=	C0018524	hallucination
+TRnQ47ZP5po=	C0086132	depressive symptoms
+s4CisoufKd0=	C0564408	manic
+%2FKIFj9HS5+Q=	C0564408	Manic
+%2FKIFj9HS5+Q=	C0564408	manic
+rIZfs9UL1Fg=	C0564408	manic
+41ofyWZy0JE=	C0012833	dizzy
+41ofyWZy0JE=	C0220870	lightheaded
+41ofyWZy0JE=	C0011551	depersonalization
+41ofyWZy0JE=	C0003467	Anxiety
+41ofyWZy0JE=	C0003467	anxiety
+41ofyWZy0JE=	C0236720	flashbacks
+41ofyWZy0JE=	C0022107	irritability
+41ofyWZy0JE=	C0002957	anger
+gD7FF4xtrqE=	C0564408	manic
+hNCVebpNITo=	C0564408	manic
++R2wVfe%2FZI8=	C0003467	Anxiety
++R2wVfe%2FZI8=	C0003467	anxiety
+AtevlCvAjAU=	C0525045	affective disorders
+bbg5oVe8tsU=	C0022107	irritable
+BBtceWNC1%2FM=	C0022107	irritable
+mW7cPCYIxtc=	C0012833	dizzy
+mW7cPCYIxtc=	C0220870	lightheaded
+mW7cPCYIxtc=	C0011551	depersonalization
+mW7cPCYIxtc=	C0003467	Anxiety
+mW7cPCYIxtc=	C0003467	anxiety
+mW7cPCYIxtc=	C0236720	flashbacks
+mW7cPCYIxtc=	C0022107	irritability
+mW7cPCYIxtc=	C0002957	anger
+EIBzKsDRFZM=	C0564408	manic
+EIBzKsDRFZM=	C0085631	agitation
+EIBzKsDRFZM=	C0085631	agitated
+WGAy%2FKPftYE=	C0564408	manic
+0xbfJV2NKpY=	C0564408	manic
+4bQV+95lm9E=	C0012833	dizzy
+4bQV+95lm9E=	C0220870	lightheaded
+4bQV+95lm9E=	C0011551	depersonalization
+4bQV+95lm9E=	C0003467	Anxiety
+4bQV+95lm9E=	C0003467	anxiety
+4bQV+95lm9E=	C0236720	flashbacks
+4bQV+95lm9E=	C0022107	irritability
+4bQV+95lm9E=	C0002957	anger
+Tawo4GsRGbE=	C0564408	manic
+fdCBQcVbOeg=	C0564408	manic
++JtD9RFvuyQ=	C0003467	Anxiety
++JtD9RFvuyQ=	C0003467	anxiety
++JtD9RFvuyQ=	C0233481	worry
++JtD9RFvuyQ=	C0085631	restlessness
++JtD9RFvuyQ=	C0012833	dizziness
++JtD9RFvuyQ=	C0220870	lightheadedness
++JtD9RFvuyQ=	C0022107	irritability
++JtD9RFvuyQ=	C0011551	depersonalization
+nJLiXxdZTiQ=	C0012833	dizzy
+nJLiXxdZTiQ=	C0220870	lightheaded
+nJLiXxdZTiQ=	C0011551	depersonalization
+nJLiXxdZTiQ=	C0003467	Anxiety
+nJLiXxdZTiQ=	C0003467	anxiety
+nJLiXxdZTiQ=	C0236720	flashbacks
+nJLiXxdZTiQ=	C0022107	irritability
+nJLiXxdZTiQ=	C0002957	anger
+UVhwxF3psqw=	C0564408	manic
+YUHRa52Hc5g=	C0018524	hallucination
+eMR2Gi+KtDE=	C0041654	unconsciousness
+TU%2FCDiuWGT4=	C0564408	manic
+ji015w20VFk=	C0564408	manic
+VlSA1zOAeRc=	C0564408	manic
+Gkb+s%2F4ZPl0=	C0564408	manic
+HZOaK1Cq0Kk=	C0564408	manic
+zHenvmcWEC0=	C0009676	mental confusion
+2zpL5lCBLzc=	C0564408	manic
+uUgxwbVi4aY=	C0564408	manic
+08vG6g4c1dU=	C0018524	hallucination
+OrrIig0Oq3w=	C0018524	hallucination
+2NC561u87vg=	C0012833	dizzy
+2NC561u87vg=	C0220870	lightheaded
+2NC561u87vg=	C0011551	depersonalization
+2NC561u87vg=	C0003467	Anxiety
+2NC561u87vg=	C0003467	anxiety
+2NC561u87vg=	C0344315	depressed mood
+2NC561u87vg=	C0002957	anger
+2NC561u87vg=	C0022107	irritability
+2NC561u87vg=	C0525045	mood disorders
+oxCcN6VBNM4=	C0564408	manic
+oxCcN6VBNM4=	C0085631	agitation
+oxCcN6VBNM4=	C0085631	agitated
+vT%2FM%2FMSZ8+A=	C0564408	manic
+SGjjZB11hpY=	C0564408	manic
+I+27TCmNRt4=	C0086132	depressive symptoms
+357N0JlFkc0=	C0564408	manic
+bVf8iE8XD9U=	C0002622	amnesia
+xFI7EJfjczw=	C0525045	affective disorders
+WhmZVBDrnXA=	C0564408	manic
+Z9Jw00rwIcY=	C0564408	manic
+TZpU7qh6dww=	C0564408	manic
+prkgbCxX3Qc=	C0564408	manic
+08O11ZVdUig=	C0003467	ANXIETY
+08O11ZVdUig=	C0003467	anxiety
+08O11ZVdUig=	C0003467	Anxiety
+08O11ZVdUig=	C0236720	flashbacks
+08O11ZVdUig=	C0022107	irritability
+08O11ZVdUig=	C0002957	anger
+FSLvQam5kbU=	C0041654	unconsciousness
++rsjypmxmnA=	C0564408	Manic
++rsjypmxmnA=	C0564408	manic
+zDfBV1amnMg=	C0012833	dizzy
+zDfBV1amnMg=	C0220870	lightheaded
+zDfBV1amnMg=	C0011551	depersonalization
+zDfBV1amnMg=	C0003467	Anxiety
+zDfBV1amnMg=	C0003467	anxiety
+zDfBV1amnMg=	C0236720	flashbacks
+zDfBV1amnMg=	C0022107	irritability
+zDfBV1amnMg=	C0002957	anger
+bjR3nJfX8PA=	C0564408	manic
+bjR3nJfX8PA=	C0085631	agitation
+bjR3nJfX8PA=	C0085631	agitated
+8RL74U0ZBxU=	C0564408	manic
+5e2jMyTXrvc=	C0003467	Anxiety
+5e2jMyTXrvc=	C0003467	anxiety
+5e2jMyTXrvc=	C0233481	worry
+5e2jMyTXrvc=	C0012833	dizzy
+5e2jMyTXrvc=	C0220870	lightheaded
+5e2jMyTXrvc=	C0011551	depersonalization
+Z+uPgUzmfbg=	C0233571	excitement
+Z+uPgUzmfbg=	C0085631	agitation
+RHJkCVsCR+E=	C0086132	depressive symptoms
+iS4gqBkmSzI=	C0564408	manic
+iS4gqBkmSzI=	C0085631	agitation
+iS4gqBkmSzI=	C0085631	agitated
+DIe9yD3kY5Q=	C0041654	unconsciousness
+63gq%2FlT6NR4=	C0525045	affective disorders
+ihysadkJlLc=	C0012833	dizzy
+ihysadkJlLc=	C0220870	lightheaded
+ihysadkJlLc=	C0011551	depersonalization
+ihysadkJlLc=	C0003467	Anxiety
+ihysadkJlLc=	C0003467	anxiety
+ihysadkJlLc=	C0236720	flashbacks
+ihysadkJlLc=	C0022107	irritability
+ihysadkJlLc=	C0002957	anger
+Qmd8E1lj90o=	C0012833	dizzy
+Qmd8E1lj90o=	C0220870	lightheaded
+Qmd8E1lj90o=	C0011551	depersonalization
+Qmd8E1lj90o=	C0003467	Anxiety
+Qmd8E1lj90o=	C0003467	anxiety
+Qmd8E1lj90o=	C0236720	flashbacks
+Qmd8E1lj90o=	C0022107	irritability
+Qmd8E1lj90o=	C0002957	anger
+S2WgXMX1QKw=	C0525045	affective disorders
+5UW4QLr8lIc=	C0012833	dizziness
+5UW4QLr8lIc=	C0009676	confusion
+CHXMkTrsmSE=	C0564408	manic
+hQ2HvAu6pW4=	C0564408	manic
+YCCxTS%2FgRRQ=	C0564408	manic
+puVr%2F2FkcNY=	C0525045	affective disorders
+hh4QgONEJpo=	C0564408	manic
+6lfKiSSfVKI=	C0564408	manic
+IqD5cMzogw0=	C0086132	depressive symptoms
+t2V1J3FraUg=	C0564408	manic
+XvqNtG3uKII=	C0564408	manic
+jiuHPVwhKr4=	C0564408	manic
+rvf9ChoX2ys=	C0018524	hallucination
+9GgrY9+PiVw=	C0003467	Anxiety
+9GgrY9+PiVw=	C0003467	anxiety
+9GgrY9+PiVw=	C0233481	worry
+9GgrY9+PiVw=	C0012833	dizzy
+9GgrY9+PiVw=	C0011551	depersonalization
+zsT0QI%2FxUeI=	C0525045	affective disorders
+5RgHy%2FFgKes=	C0564408	manic
+OilxlIlBTpU=	C0003467	Anxiety
+OilxlIlBTpU=	C0003467	anxiety
+OilxlIlBTpU=	C0236720	flashbacks
+OilxlIlBTpU=	C0022107	irritability
+OilxlIlBTpU=	C0002957	anger
+wR2iZ5lA99E=	C0564408	manic
+Dw9sf9YCHyg=	C0564408	manic
+2PtSpbkxJ9Q=	C0564408	manic
+tcW9XQ%2FjFSU=	C0564408	manic
+KSEv3pvroEs=	C0564408	manic
+1KoKKUfjlyY=	C0012833	dizziness
+1KoKKUfjlyY=	C0009676	confusion
+1KoKKUfjlyY=	C0013144	Somnolence
+6HQJ74IjXyo=	C0564408	manic
+IxkDkl8pHHs=	C0564408	manic
+na+IpD1UEmw=	C0086132	depressive symptoms
+7Okh78j3CFI=	C0564408	manic
+ouYg8axiEYU=	C0525045	affective disorders
+W5rGA96i%2FuU=	C0564408	manic
+IgvmWZvE31s=	C0564408	manic
+ttyWporqAWI=	C0564408	manic
+rWKvTu9sUyg=	C0003467	ANXIETY
+rWKvTu9sUyg=	C0003467	anxiety
+rWKvTu9sUyg=	C0003467	Anxiety
+rWKvTu9sUyg=	C0236720	flashbacks
+rWKvTu9sUyg=	C0022107	irritability
+rWKvTu9sUyg=	C0002957	anger
+u19XaJm0u8U=	C0564408	manic
+sxExvHR2eeE=	C0086132	depressive symptoms
+VNDyUo77RTc=	C0012833	dizzy
+VNDyUo77RTc=	C0220870	lightheaded
+VNDyUo77RTc=	C0011551	depersonalization
+VNDyUo77RTc=	C0003467	Anxiety
+VNDyUo77RTc=	C0003467	anxiety
+VNDyUo77RTc=	C0236720	flashbacks
+VNDyUo77RTc=	C0022107	irritability
+VNDyUo77RTc=	C0002957	anger
+t85saWJ+bVs=	C0564408	manic
+zYmaaZChQPE=	C0564408	manic
+JcB8uVoIXPI=	C0564408	manic
+sYzGUGhmYPE=	C0564408	manic
+XRfq25XFl6I=	C0564408	manic
+fcvYVC7iJ38=	C0564408	manic
+jUcwFxJWXsY=	C0086132	depressive symptoms
+d5wxA2y+TJU=	C0424109	weeping
+GF5+hefrt8M=	C0564408	manic
+GF5+hefrt8M=	C0085631	agitation
+GF5+hefrt8M=	C0085631	agitated
+3%2FNSSgLeblk=	C0564408	manic
+zGcqHlE9PDM=	C0003467	Anxiety
+zGcqHlE9PDM=	C0003467	anxiety
+YQ8BXRgDa84=	C0564408	manic
+7KPkkwCwWj4=	C0564408	manic
+LZ5K5La0lpQ=	C0086132	symptoms of depression
+LZ5K5La0lpQ=	C0011570	depressions
+VN461G9a8U0=	C0086132	depressive symptoms
+zPD4fT1zBD4=	C0564408	manic
++PPE5v0pjLI=	C0525045	affective disorders
+7BwRad7vW0M=	C0564408	manic
+ZMZ4FNHJ5TA=	C0564408	manic
+OiicSreYIaU=	C0086132	symptoms of depression
+OiicSreYIaU=	C0011570	depressions
+VBZCp+yZxKA=	C0564408	manic
+VBZCp+yZxKA=	C0085631	agitation
+VBZCp+yZxKA=	C0085631	agitated
+UXzmRjl6qTc=	C0003467	Anxiety
+UXzmRjl6qTc=	C0003467	anxiety
+UXzmRjl6qTc=	C0233481	worry
+UXzmRjl6qTc=	C0085631	restlessness
+UXzmRjl6qTc=	C0012833	dizziness
+UXzmRjl6qTc=	C0220870	lightheadedness
+UXzmRjl6qTc=	C0022107	irritability
+UXzmRjl6qTc=	C0011551	depersonalization
+czeb8P0PQic=	C0564408	manic
+fXaTdwF3LAk=	C0012833	dizzy
+fXaTdwF3LAk=	C0220870	lightheaded
+fXaTdwF3LAk=	C0011551	depersonalization
+fXaTdwF3LAk=	C0003467	Anxiety
+fXaTdwF3LAk=	C0003467	anxiety
+fXaTdwF3LAk=	C0236720	flashbacks
+fXaTdwF3LAk=	C0022107	irritability
+fXaTdwF3LAk=	C0002957	anger
+UUBu5nPsMlk=	C0003467	Anxiety
+UUBu5nPsMlk=	C0003467	anxiety
+UUBu5nPsMlk=	C0233481	worry
+UUBu5nPsMlk=	C0085631	restlessness
+UUBu5nPsMlk=	C0012833	dizziness
+UUBu5nPsMlk=	C0220870	lightheadedness
+UUBu5nPsMlk=	C0022107	irritability
+UUBu5nPsMlk=	C0011551	depersonalization
+TDfQ4AaUp+k=	C0003467	ANXIETY
+TDfQ4AaUp+k=	C0003467	anxiety
+TDfQ4AaUp+k=	C0003467	Anxiety
+TDfQ4AaUp+k=	C0236720	flashbacks
+TDfQ4AaUp+k=	C0022107	irritability
+TDfQ4AaUp+k=	C0002957	anger
+NKfhD6OT7BI=	C0233571	excitement
+NKfhD6OT7BI=	C0085631	agitation
+yrUrKIOh8KU=	C0233571	excitement
+yrUrKIOh8KU=	C0085631	agitation
+Z%2FGI5Itstvc=	C0086132	depressive symptoms
+hmtS1STDFGo=	C0564408	manic
+hmtS1STDFGo=	C0085631	agitation
+hmtS1STDFGo=	C0085631	agitated
+pZmk1zP68wg=	C0003467	Anxiety
+pZmk1zP68wg=	C0003467	anxiety
+pZmk1zP68wg=	C0236720	flashbacks
+pZmk1zP68wg=	C0022107	irritability
+pZmk1zP68wg=	C0002957	anger
+jwImmwg6eGA=	C0012833	dizzy
+jwImmwg6eGA=	C0220870	lightheaded
+jwImmwg6eGA=	C0011551	depersonalization
+jwImmwg6eGA=	C0003467	Anxiety
+jwImmwg6eGA=	C0003467	anxiety
+jwImmwg6eGA=	C0236720	flashbacks
+jwImmwg6eGA=	C0022107	irritability
+jwImmwg6eGA=	C0002957	anger
+23aFu5uls4c=	C0086132	depressive symptoms
+%2FO5QBOM9piY=	C0009676	mental confusion
+WzDDc80E6dk=	C0564408	manic
+sPjVAdiW6D0=	C0564408	manic
+KCGPMqHAyMs=	C0564408	manic
+c+nOB67GqZ0=	C0086132	depressive symptoms
+evJSWzU+DQc=	C0564408	manic
+MBUrbSP+dXs=	C0003467	ANXIETY
+MBUrbSP+dXs=	C0003467	anxiety
+MBUrbSP+dXs=	C0003467	Anxiety
+MBUrbSP+dXs=	C0236720	flashbacks
+MBUrbSP+dXs=	C0022107	irritability
+MBUrbSP+dXs=	C0002957	anger
+PZVWgSL74D8=	C0564408	manic
+JTVHXpFuntw=	C0013144	Somnolence
+9Wk8eEmGA2A=	C0525045	affective disorders
+086RNAMEaMk=	C0564408	manic
+klV8DlvrIlM=	C0012833	dizzy
+klV8DlvrIlM=	C0220870	lightheaded
+klV8DlvrIlM=	C0011551	depersonalization
+klV8DlvrIlM=	C0003467	Anxiety
+klV8DlvrIlM=	C0003467	anxiety
+klV8DlvrIlM=	C0236720	flashbacks
+klV8DlvrIlM=	C0022107	irritability
+klV8DlvrIlM=	C0002957	anger
+ScCNtmsIo8E=	C0564408	manic
+ZzOKcY9l9jM=	C0564408	manic
+wIV1vAikZKU=	C0012833	dizziness
+wIV1vAikZKU=	C0009676	confusion
+wIV1vAikZKU=	C0013144	Somnolence

@@ -1,0 +1,24 @@
+Unless otherwise noted, all files accessible in the folder SIDER
+are under a Creative Commons Attribution-Noncommercial 3.0 License
+(CC-BY-NC)
+
+http://creativecommons.org/licenses/by-nc/3.0/
+
+In this folder, the following files are under a CC-BY-NC license:
+
+costart_adverse_effects.tsv.gz 
+costart_adverse_effects_raw.tsv.gz
+costart_freq_parsed.tsv.gz
+costart_indications_raw.tsv.gz
+
+
+
+In this folder, the following files are under a CC-ZERO license
+http://creativecommons.org/publicdomain/zero/1.0/ :
+
+README
+label_mapping.tsv.gz
+euphoria_adverse_effects.tsv.gz
+euphoria_adverse_effects_raw.tsv.gz
+euphoria_freq_parsed.tsv.gz
+euphoria_indications_raw.tsv.gz
