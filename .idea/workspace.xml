@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="960e3cd2-6dee-4f83-8f0e-e8b14579f699" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/logs_MF.dat" beforeDir="false" afterPath="$PROJECT_DIR$/results/logs_MF.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/runner.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,47 +14,53 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MethodsComparison$plotResult.coverage" NAME="plotResult Coverage Results" MODIFIED="1555467619220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MethodsComparison$data.coverage" NAME="data Coverage Results" MODIFIED="1552983590693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MethodsComparison$runner.coverage" NAME="runner Coverage Results" MODIFIED="1553669783930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MethodsComparison$runner.coverage" NAME="runner Coverage Results" MODIFIED="1554454131885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1601484934">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="R" value="1" />
           <entry key="README" value="1" />
-          <entry key="dat" value="14" />
+          <entry key="Result" value="2" />
+          <entry key="dat" value="27" />
+          <entry key="eps" value="3" />
           <entry key="gitignore" value="1" />
-          <entry key="py" value="24" />
+          <entry key="py" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="17" />
-          <entry key="Python" value="24" />
+          <entry key="PLAIN_TEXT" value="35" />
+          <entry key="Python" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="Result" value="53" />
           <entry key="dat" value="3" />
           <entry key="dummy" value="7" />
           <entry key="gitignore" value="7" />
-          <entry key="py" value="9485" />
+          <entry key="py" value="10307" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="17" />
-          <entry key="Python" value="9485" />
+          <entry key="PLAIN_TEXT" value="70" />
+          <entry key="Python" value="10307" />
         </counts>
       </usages-collector>
     </session>
@@ -59,32 +68,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/predictorWrapper.py">
+        <entry file="file://$PROJECT_DIR$/results/logs_MF.dat">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-                <marker date="1553490762323" expanded="true" signature="165:171" ph="..." />
-                <marker date="1553490762323" expanded="true" signature="201:241" ph="..." />
-                <marker date="1553490762323" expanded="true" signature="240:241" ph="..." />
-                <marker date="1553490762323" expanded="true" signature="271:371" ph="..." />
-              </folding>
+            <state relative-caret-position="627">
+              <caret line="49" column="12" selection-start-line="49" selection-end-line="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runner.py">
+        <entry file="file://$PROJECT_DIR$/data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="64" column="4" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#45#0" expanded="true" />
-                <marker date="1553654514883" expanded="true" signature="171:176" ph="..." />
-                <marker date="1553654514883" expanded="true" signature="1021:1997" ph="..." />
-                <marker date="1553654514883" expanded="true" signature="1570:1777" ph="..." />
-              </folding>
+            <state relative-caret-position="615">
+              <caret line="83" column="40" selection-start-line="83" selection-start-column="40" selection-end-line="83" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/const.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -92,75 +97,74 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="614">
-              <caret line="293" column="32" selection-start-line="293" selection-start-column="32" selection-end-line="293" selection-end-column="32" />
+            <state relative-caret-position="1695">
+              <caret line="118" column="35" selection-start-line="118" selection-start-column="35" selection-end-line="118" selection-end-column="35" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
-                <marker date="1553654714342" expanded="true" signature="175:176" ph="..." />
-                <marker date="1553654714342" expanded="true" signature="199:296" ph="..." />
-                <marker date="1553654714342" expanded="true" signature="390:395" ph="..." />
-                <marker date="1553654714342" expanded="true" signature="531:1014" ph="..." />
-                <marker date="1553654714342" expanded="true" signature="7504:7509" ph="..." />
-                <marker date="1553654714342" expanded="true" signature="10965:11608" ph="..." />
-                <marker date="1553654714342" expanded="true" signature="11364:11377" ph="..." />
+                <marker date="1554454086444" expanded="true" signature="175:176" ph="..." />
+                <marker date="1554454086444" expanded="true" signature="199:296" ph="..." />
+                <marker date="1554454086444" expanded="true" signature="390:395" ph="..." />
+                <marker date="1554454086444" expanded="true" signature="531:1014" ph="..." />
+                <marker date="1554454086444" expanded="true" signature="9208:9213" ph="..." />
+                <marker date="1554454086444" expanded="true" signature="12669:13312" ph="..." />
+                <marker date="1554454086444" expanded="true" signature="13068:13081" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/results/logs_MF.dat">
+        <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/sklearn/svm/base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="73" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="73" />
+            <state relative-caret-position="12975">
+              <caret line="885" selection-start-line="885" selection-end-line="885" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/results/logs_NeuN.dat">
+        <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/sklearn/linear_model/logistic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="89" column="72" selection-start-line="89" selection-start-column="67" selection-end-line="89" selection-end-column="72" />
+            <state relative-caret-position="16965">
+              <caret line="1155" column="8" selection-start-line="1155" selection-start-column="8" selection-end-line="1155" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/results/logs_KNN.dat">
+        <entry file="file://$PROJECT_DIR$/results/logs_LR.dat">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-878">
-              <caret line="76" column="74" selection-start-line="76" selection-start-column="68" selection-end-line="76" selection-end-column="74" />
+            <state relative-caret-position="60">
+              <caret line="4" column="84" selection-start-line="4" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/const.py">
+        <entry file="file://$PROJECT_DIR$/results/Result">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SCCA.R">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/results/logs_RF.dat">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="1050">
+              <caret line="70" column="26" selection-start-line="70" selection-end-line="71" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LiuData/README">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/results/logs_GB.dat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1170">
+              <caret line="78" column="17" selection-start-line="78" selection-end-line="79" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -190,10 +194,12 @@
         <option value="$PROJECT_DIR$/results/logs_KNN.dat" />
         <option value="$PROJECT_DIR$/utils.py" />
         <option value="$PROJECT_DIR$/predictorWrapper.py" />
-        <option value="$PROJECT_DIR$/runner.py" />
-        <option value="$PROJECT_DIR$/models.py" />
         <option value="$PROJECT_DIR$/const.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/runner.py" />
+        <option value="$PROJECT_DIR$/models.py" />
+        <option value="$PROJECT_DIR$/results/Result" />
+        <option value="$PROJECT_DIR$/plotResult.py" />
       </list>
     </option>
   </component>
@@ -203,7 +209,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="525" />
     <option name="y" value="489" />
     <option name="width" value="1520" />
@@ -215,13 +221,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="MethodsComparison" type="b2602c69:ProjectViewProjectNode" />
               <item name="MethodsComparison" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MethodsComparison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MethodsComparison" type="462c0819:PsiDirectoryNode" />
+              <item name="figs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MethodsComparison" type="b2602c69:ProjectViewProjectNode" />
@@ -237,10 +247,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/poisson_nn_rec" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -261,7 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.runner">
+  <component name="RunManager" selected="Python.plotResult">
     <configuration name="data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MethodsComparison" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,6 +288,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plotResult" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MethodsComparison" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plotResult.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,9 +343,11 @@
     <list>
       <item itemvalue="Python.data" />
       <item itemvalue="Python.runner" />
+      <item itemvalue="Python.plotResult" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.plotResult" />
         <item itemvalue="Python.runner" />
         <item itemvalue="Python.data" />
       </list>
@@ -331,16 +367,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1175" extended-state="6" />
+    <frame x="67" y="25" width="1853" height="1175" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2562258" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2750415" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295129" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2340019" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5539281" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23349282" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.55311006" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -348,12 +384,12 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33014354" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33014354" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.20531267" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.28334257" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -368,7 +404,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/models.py</url>
-          <line>354</line>
+          <line>412</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -376,17 +412,15 @@
           <line>40</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/plotResult.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/sklearn/svm/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="253" selection-start-line="253" selection-end-line="253" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logger/logger.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -394,9 +428,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="15" column="32" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -467,69 +498,50 @@
     <entry file="file://$PROJECT_DIR$/results/logs_RSCCA.dat">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs_RF.dat">
+    <entry file="file://$PROJECT_DIR$/SCCA.R">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="70" column="73" selection-start-line="70" selection-start-column="67" selection-end-line="70" selection-end-column="73" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs_GB.dat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="78" column="74" selection-start-line="78" selection-start-column="68" selection-end-line="78" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="64" column="24" lean-forward="true" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-            <marker date="1552983590680" expanded="true" signature="86:91" ph="..." />
-            <marker date="1552983590680" expanded="true" signature="235:399" ph="..." />
-            <marker date="1552983590680" expanded="true" signature="1293:1482" ph="..." />
-            <marker date="1552983590680" expanded="true" signature="2459:2569" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs_SVM.dat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/LiuData/README">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/results/logs_CCA.dat">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="64" column="25" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="25" />
+        <state relative-caret-position="465">
+          <caret line="64" column="11" selection-start-line="64" selection-end-line="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models.py">
+    <entry file="file://$PROJECT_DIR$/results/logs_KNN.dat">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="614">
-          <caret line="293" column="32" selection-start-line="293" selection-start-column="32" selection-end-line="293" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <marker date="1553654714342" expanded="true" signature="175:176" ph="..." />
-            <marker date="1553654714342" expanded="true" signature="199:296" ph="..." />
-            <marker date="1553654714342" expanded="true" signature="390:395" ph="..." />
-            <marker date="1553654714342" expanded="true" signature="531:1014" ph="..." />
-            <marker date="1553654714342" expanded="true" signature="7504:7509" ph="..." />
-            <marker date="1553654714342" expanded="true" signature="10965:11608" ph="..." />
-            <marker date="1553654714342" expanded="true" signature="11364:11377" ph="..." />
-          </folding>
+        <state relative-caret-position="370">
+          <caret line="166" column="15" lean-forward="true" selection-start-line="166" selection-end-line="167" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/logs_NeuN.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="89" column="39" selection-start-line="89" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/figs/AUPR.eps">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/figs/AUC.eps">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/predictorWrapper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        <state relative-caret-position="165">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
             <marker date="1553490762323" expanded="true" signature="165:171" ph="..." />
@@ -540,57 +552,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs_KNN.dat">
+    <entry file="file://$PROJECT_DIR$/runner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-878">
-          <caret line="76" column="74" selection-start-line="76" selection-start-column="68" selection-end-line="76" selection-end-column="74" />
+        <state relative-caret-position="1380">
+          <caret line="94" column="14" selection-start-line="94" selection-start-column="14" selection-end-line="94" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs_NeuN.dat">
+    <entry file="file://$PROJECT_DIR$/plotResult.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="89" column="72" selection-start-line="89" selection-start-column="67" selection-end-line="89" selection-end-column="72" />
+        <state relative-caret-position="630">
+          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+          <folding>
+            <marker date="1555467619213" expanded="true" signature="26:567" ph="..." />
+            <marker date="1555467619213" expanded="true" signature="1596:1601" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/logs_SVM.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1695">
+          <caret line="118" column="35" selection-start-line="118" selection-start-column="35" selection-end-line="118" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1554454086444" expanded="true" signature="175:176" ph="..." />
+            <marker date="1554454086444" expanded="true" signature="199:296" ph="..." />
+            <marker date="1554454086444" expanded="true" signature="390:395" ph="..." />
+            <marker date="1554454086444" expanded="true" signature="531:1014" ph="..." />
+            <marker date="1554454086444" expanded="true" signature="9208:9213" ph="..." />
+            <marker date="1554454086444" expanded="true" signature="12669:13312" ph="..." />
+            <marker date="1554454086444" expanded="true" signature="13068:13081" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/sklearn/svm/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12975">
+          <caret line="885" selection-start-line="885" selection-end-line="885" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/sklearn/linear_model/logistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16965">
+          <caret line="1155" column="8" selection-start-line="1155" selection-start-column="8" selection-end-line="1155" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/logs_LR.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="84" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/Result">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/logs_RF.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="26" selection-start-line="70" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/logs_GB.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="17" selection-start-line="78" selection-end-line="79" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/results/logs_MF.dat">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="73" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="73" />
+        <state relative-caret-position="627">
+          <caret line="49" column="12" selection-start-line="49" selection-end-line="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LiuData/README">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runner.py">
+    <entry file="file://$PROJECT_DIR$/data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="64" column="4" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-            <marker date="1553654514883" expanded="true" signature="171:176" ph="..." />
-            <marker date="1553654514883" expanded="true" signature="1021:1997" ph="..." />
-            <marker date="1553654514883" expanded="true" signature="1570:1777" ph="..." />
-          </folding>
+        <state relative-caret-position="615">
+          <caret line="83" column="40" selection-start-line="83" selection-start-column="40" selection-end-line="83" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/const.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SCCA.R">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>

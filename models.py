@@ -90,6 +90,64 @@ class MultiSVM(Model):
     def getInfo(self):
         return self.clf
 
+
+class LogisticModel(Model):
+
+    def __init__(self):
+        self.isFitAndPredict = True
+        self.name = "LR"
+
+
+    def fitAndPredict(self, intpuTrain, outputTrain, inputTest):
+        from sklearn.linear_model import LogisticRegression
+
+        print intpuTrain.shape, outputTrain.shape, inputTest.shape
+        def checkOneClass(inp,nSize):
+            s = sum(inp)
+            if s == 0:
+                ar = np.zeros(nSize)
+            elif s == len(inp):
+                ar = np.ones(nSize)
+            else:
+                ar = -1
+            return ar
+        nClass = outputTrain.shape[1]
+        outputs = []
+        reps  = []
+        nTest = inputTest.shape[0]
+        print "LR for %s classes"%nClass
+        clf = LogisticRegression(C=const.SVM_C)
+        self.clf = clf
+        for i in xrange(nClass):
+            if i%10 == 0:
+                print "\r%s"%i,
+            output = outputTrain[:,i]
+            ar = checkOneClass(output,nTest)
+            ar2 = checkOneClass(output, intpuTrain.shape[0])
+
+            #print clf
+            if type(ar) == int:
+
+                clf.fit(intpuTrain, output)
+                output = clf.predict_proba(inputTest)[:,1]
+                rep = clf.predict_proba(intpuTrain)[:,1]
+            else:
+                output = ar
+                rep = ar2
+            outputs.append(output)
+            reps.append(rep)
+
+        outputs = np.vstack(outputs).transpose()
+        reps = np.vstack(reps).transpose()
+        print "In Train: ",roc_auc_score(outputTrain.reshape(-1),reps.reshape(-1))
+        self.repred = reps
+
+        print outputs.shape
+        print "\nDone"
+        return outputs
+    def getInfo(self):
+        return self.clf
+
 class RFModel(Model):
 
     def __init__(self):

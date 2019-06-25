@@ -1,5 +1,5 @@
 from predictorWrapper import PredictorWrapper
-from  models import MultiSVM, KNN, CCAModel,RFModel,RandomModel,NeuNModel,GBModel,RSCCAModel,MFModel
+from  models import MultiSVM, KNN, CCAModel,RFModel,RandomModel,NeuNModel,GBModel,RSCCAModel,MFModel,LogisticModel
 import sys
 def runSVM():
     wrapper = PredictorWrapper()
@@ -80,8 +80,18 @@ def runNeu():
         model = NeuNModel()
         print wrapper.evalAModel(model)
 
+def runLR():
+
+    wrapper = PredictorWrapper()
+    import const
+    PLIST = [1 * i for i in xrange(1, 11)]
+    for p in PLIST:
+        const.SVM_C = p
+        model = LogisticModel()
+        print wrapper.evalAModel(model)
+
 if __name__ == "__main__":
-    methodName = "MF"
+    methodName = "LR"
     import sys
     try:
         inp = sys.argv[1]
@@ -107,6 +117,8 @@ if __name__ == "__main__":
         runSCCA()
     elif methodName == "MF":
         runMF()
+    elif methodName == "LR":
+        runLR()
     else:
         print "Method named %s is unimplemented."%methodName
     #runSVM()
