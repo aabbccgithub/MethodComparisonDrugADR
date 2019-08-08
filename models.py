@@ -58,7 +58,7 @@ class MultiSVM(Model):
         reps  = []
         nTest = inputTest.shape[0]
         print "SVM for %s classes"%nClass
-        clf = svm.SVC(C=const.SVM_C, gamma='auto', kernel='rbf', probability=True)
+        clf = svm.SVC(C=const.SVM_C, gamma='auto', kernel='linear', probability=True)
         self.clf = clf
         for i in xrange(nClass):
             if i%10 == 0:

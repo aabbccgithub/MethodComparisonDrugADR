@@ -64,3 +64,69 @@ SVC(C=10, cache_size=200, class_weight=None, coef0=0.0,
   tol=0.001, verbose=False)
 Test : 0.9015137064721577 0.0011798669670612604 0.4334614683193713 0.003676763887135699
 Train: 0.9368608263262272 0.0007013842846852045 0.5906021004638191 0.0009898008538863465
+SVC(C=1, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='rbf',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.9012029060740291 0.0011394730863239684 0.42993219512949415 0.003597144400721582
+Train: 0.9356328919859227 0.000578808843374541 0.5597251935229414 0.0010138397622051455
+SVC(C=1, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.8992077400865208 0.0010427000454568097 0.4177238470997697 0.0029740579293662892
+Train: 0.9397310332967563 0.0004981290201440512 0.5664114247555598 0.0005839244011335866
+SVC(C=2, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.8989335484967548 0.0010962867025682895 0.41530499663373466 0.0033180778742583975
+Train: 0.9394174218531907 0.00033319338502421777 0.5563879765648319 0.0010265024567676583
+SVC(C=3, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.8986310356259256 0.001047368267865837 0.4144189521242442 0.00346674007106603
+Train: 0.9394181567213445 0.0004967644433575345 0.5504311304409102 0.0008537641893366047
+SVC(C=4, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.8985175733967223 0.0009844802216129982 0.4136076550952403 0.0033074515304927963
+Train: 0.9391066788958075 0.0005558341027118637 0.5474426484875471 0.00036454644973218887
+SVC(C=5, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.8985572652077767 0.0010379246761417493 0.4136276777413911 0.0035690101709611507
+Train: 0.9389114958293219 0.0005619569004309378 0.5465402108424275 0.0005521318135788819
+SVC(C=6, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.8984620659294006 0.0010250916936017911 0.41281634018505037 0.003383444632764044
+Train: 0.939057191130004 0.0005763770169965382 0.5462555818989736 0.0006894729114574859
+SVC(C=7, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.898296118969846 0.0010403534736178487 0.4128049904549651 0.0034805835962812806
+Train: 0.9394201309051032 0.00044324087548006184 0.54722212933591 0.00027308566105079554
+SVC(C=8, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.8983253097952189 0.0010408090679515625 0.41213984296904804 0.003331045206449357
+Train: 0.9389956922118043 0.000541414263560978 0.5470525437244654 0.001144228973978113
+SVC(C=9, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.8981718612696336 0.0009616998942181369 0.4122687650958716 0.0033494433232374348
+Train: 0.9390257325787139 0.0005045026956883094 0.5452217714712831 0.0011142399341256331
+SVC(C=10, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape='ovr', degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=True, random_state=None, shrinking=True,
+  tol=0.001, verbose=False)
+Test : 0.8981427888104287 0.0010094663232071263 0.41179621358426016 0.0032768601179359613
+Train: 0.9395142853757422 0.00037565941073114785 0.5480943226744721 0.0007409767207224433

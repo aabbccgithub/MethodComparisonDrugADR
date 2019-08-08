@@ -91,7 +91,7 @@ def runLR():
         print wrapper.evalAModel(model)
 
 if __name__ == "__main__":
-    methodName = "LR"
+    methodName = "SVM"
     import sys
     try:
         inp = sys.argv[1]
