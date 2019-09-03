@@ -1,0 +1,90 @@
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=10, n_jobs=1,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+Test : 0.8267227076659829 0.0034737992011845452 0.33819803559667855 0.002505632714653469
+Train: 0.999664571653561 1.661619359921791e-05 0.9920958676945515 0.0002815805516957396
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=20, n_jobs=1,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+Test : 0.8545115133871096 0.0024435365992844563 0.3781511807129502 0.0029351756691741024
+Train: 0.9999342908457644 8.650733767521292e-06 0.9985963621827804 0.00015885600700798582
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=30, n_jobs=1,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+Test : 0.8656124556765027 0.003109625824662916 0.39284537470046343 0.0023024726277167686
+Train: 0.9999682078460171 6.114285394279658e-06 0.9993680619802958 0.0001171032825418548
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=40, n_jobs=1,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+Test : 0.8717212472212388 0.0031098613009875944 0.40192726538037815 0.0035324700845543637
+Train: 0.9999767994024878 5.437958912099348e-06 0.9995401435347032 0.00010700558287195866
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=50, n_jobs=1,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+Test : 0.8754627802067402 0.002822412858299984 0.406837541042273 0.003264070794289466
+Train: 0.9999814907417056 4.702671308815157e-06 0.9996347541124768 9.373454695574385e-05
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=60, n_jobs=1,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+Test : 0.8783467689930597 0.0025595274462284156 0.411116511379139 0.0030788451999195486
+Train: 0.9999842992247586 4.251506274219184e-06 0.9996933017373548 8.346695645236569e-05
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=70, n_jobs=1,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+Test : 0.880812035445766 0.002525467760056415 0.4129885336394851 0.0031698084253383926
+Train: 0.9999855316712619 4.0543369907105006e-06 0.9997159644544018 8.010857202315517e-05
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=80, n_jobs=1,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+Test : 0.8821548507452558 0.002818969230470658 0.41508892141381726 0.003592799976836384
+Train: 0.9999864646398067 3.974782238775804e-06 0.999732177577199 7.926912571660254e-05
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=90, n_jobs=1,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+Test : 0.8830221352329778 0.0025931328216355415 0.41634038542853646 0.0037615947974883523
+Train: 0.9999874730194238 3.7628713697193713e-06 0.9997548255863983 7.423984955404284e-05
+RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
+            max_depth=None, max_features='auto', max_leaf_nodes=None,
+            min_impurity_decrease=0.0, min_impurity_split=None,
+            min_samples_leaf=1, min_samples_split=2,
+            min_weight_fraction_leaf=0.0, n_estimators=100, n_jobs=1,
+            oob_score=False, random_state=None, verbose=0,
+            warm_start=False)
+Test : 0.8844197302312848 0.002773067268745936 0.4179501354675518 0.003326945607241498
+Train: 0.99998788383784 3.634034273342962e-06 0.999760640375208 7.255003353521311e-05

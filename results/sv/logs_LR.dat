@@ -1,0 +1,66 @@
+LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+Test : 0.8690710252008556 0.0013786215895636744 0.35871645506856237 0.0009395132697238876
+Train: 0.9964821612350692 3.356976829788778e-05 0.9407433037907825 0.00024293884295235562
+LogisticRegression(C=1, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+Test : 0.8690710252008556 0.0013786215895636744 0.35871645506856237 0.0009395132697238876
+Train: 0.9964821612350692 3.356976829788778e-05 0.9407433037907825 0.00024293884295235562
+LogisticRegression(C=2, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+Test : 0.8606685765788755 0.0016234206583550447 0.34206724178291387 0.0010312960106184015
+Train: 0.9983929964118708 2.211178617561982e-05 0.9716948139702298 0.00023609535894317103
+LogisticRegression(C=3, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+Test : 0.8548137923410323 0.001760864280328865 0.33297733297064147 0.0010224522961367432
+Train: 0.9990167840855839 1.709091432767497e-05 0.9824159115890293 0.0002175310210133668
+LogisticRegression(C=4, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+Test : 0.8502031079573728 0.001853140933058595 0.32689469991229575 0.0009996520305036098
+Train: 0.9993176287030489 1.4362988849923706e-05 0.9877005591447569 0.00019744092994505727
+LogisticRegression(C=5, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+Test : 0.846358804375458 0.001922082543757775 0.32241416134543066 0.0009743518299772486
+Train: 0.999491170856173 1.2527089413685217e-05 0.9907854441985202 0.00018020665487932544
+LogisticRegression(C=6, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+Test : 0.8430440132485961 0.001977078769637972 0.31890996619310974 0.00095311049691611
+Train: 0.9996021985522612 1.1196788433294498e-05 0.9927755771048034 0.00016634107812555184
+LogisticRegression(C=7, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+Test : 0.8401162348149708 0.0020221868806840574 0.3160268982266392 0.0009455706169614836
+Train: 0.9996784985992772 1.0163695993693685e-05 0.9941498119795332 0.000154377210532034
+LogisticRegression(C=8, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+Test : 0.8374868903278125 0.0020615981114881924 0.3136327698164379 0.0009418254793128289
+Train: 0.9997336518086456 9.318116838712736e-06 0.995146842758553 0.0001437237245939212
+LogisticRegression(C=9, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+Test : 0.8351046816655412 0.0020950856969874053 0.3115614614134613 0.0009462453397747597
+Train: 0.9997750370944912 8.616519429009523e-06 0.9958971185301102 0.00013441889372893363
+LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
+          intercept_scaling=1, max_iter=100, multi_class='ovr', n_jobs=1,
+          penalty='l2', random_state=None, solver='liblinear', tol=0.0001,
+          verbose=0, warm_start=False)
+Test : 0.8329159053579305 0.0021258430182424727 0.3097599180124614 0.0009453452851304291
+Train: 0.9998070075509992 8.033413079901931e-06 0.9964781475143116 0.00012655879822349243

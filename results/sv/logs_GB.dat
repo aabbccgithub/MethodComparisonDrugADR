@@ -1,0 +1,100 @@
+GradientBoostingClassifier(criterion='friedman_mse', init=None,
+              learning_rate=0.1, loss='deviance', max_depth=3,
+              max_features=None, max_leaf_nodes=None,
+              min_impurity_decrease=0.0, min_impurity_split=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=10,
+              presort='auto', random_state=None, subsample=1.0, verbose=0,
+              warm_start=False)
+Test : 0.8988600506039051 0.0012737508130200297 0.34606929152264804 0.0031870865535915684
+Train: 0.9645980370945797 0.00020588229466316852 0.6551737229522762 0.001457014538272574
+GradientBoostingClassifier(criterion='friedman_mse', init=None,
+              learning_rate=0.1, loss='deviance', max_depth=3,
+              max_features=None, max_leaf_nodes=None,
+              min_impurity_decrease=0.0, min_impurity_split=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=20,
+              presort='auto', random_state=None, subsample=1.0, verbose=0,
+              warm_start=False)
+Test : 0.8993761792295404 0.0013488317315879376 0.3464517117253086 0.003260779233593165
+Train: 0.9759007500102517 0.00013417907406913963 0.7393649955474707 0.0012049916969753196
+GradientBoostingClassifier(criterion='friedman_mse', init=None,
+              learning_rate=0.1, loss='deviance', max_depth=3,
+              max_features=None, max_leaf_nodes=None,
+              min_impurity_decrease=0.0, min_impurity_split=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=30,
+              presort='auto', random_state=None, subsample=1.0, verbose=0,
+              warm_start=False)
+Test : 0.8994989491461329 0.0014063000032438005 0.34559828376601176 0.004097825356565504
+Train: 0.9818880161823007 0.00012806539499729923 0.7901622722555477 0.0010041604171998695
+GradientBoostingClassifier(criterion='friedman_mse', init=None,
+              learning_rate=0.1, loss='deviance', max_depth=3,
+              max_features=None, max_leaf_nodes=None,
+              min_impurity_decrease=0.0, min_impurity_split=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=40,
+              presort='auto', random_state=None, subsample=1.0, verbose=0,
+              warm_start=False)
+Test : 0.8995990813978963 0.0014238880607512472 0.3459360038400029 0.0038433139477497794
+Train: 0.985707732461141 0.00011933651316428244 0.826403505722013 0.000988712220808093
+GradientBoostingClassifier(criterion='friedman_mse', init=None,
+              learning_rate=0.1, loss='deviance', max_depth=3,
+              max_features=None, max_leaf_nodes=None,
+              min_impurity_decrease=0.0, min_impurity_split=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=50,
+              presort='auto', random_state=None, subsample=1.0, verbose=0,
+              warm_start=False)
+Test : 0.8995453022300298 0.0014041368146736762 0.34461414876267804 0.003879549247717431
+Train: 0.9884408045803437 0.00011247162511758632 0.853802054708886 0.0010636143050363558
+GradientBoostingClassifier(criterion='friedman_mse', init=None,
+              learning_rate=0.1, loss='deviance', max_depth=3,
+              max_features=None, max_leaf_nodes=None,
+              min_impurity_decrease=0.0, min_impurity_split=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=60,
+              presort='auto', random_state=None, subsample=1.0, verbose=0,
+              warm_start=False)
+Test : 0.8995633556195297 0.001448579816897719 0.344074214358092 0.004057136696831347
+Train: 0.9904618307241277 9.928891053491612e-05 0.8755474525501847 0.0009405190155323733
+GradientBoostingClassifier(criterion='friedman_mse', init=None,
+              learning_rate=0.1, loss='deviance', max_depth=3,
+              max_features=None, max_leaf_nodes=None,
+              min_impurity_decrease=0.0, min_impurity_split=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=70,
+              presort='auto', random_state=None, subsample=1.0, verbose=0,
+              warm_start=False)
+Test : 0.8997113466132193 0.0013869911599229017 0.34499625976812537 0.0038486773272044536
+Train: 0.9920189349047372 7.989740500877024e-05 0.8933346880151838 0.0008497521696952965
+GradientBoostingClassifier(criterion='friedman_mse', init=None,
+              learning_rate=0.1, loss='deviance', max_depth=3,
+              max_features=None, max_leaf_nodes=None,
+              min_impurity_decrease=0.0, min_impurity_split=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=80,
+              presort='auto', random_state=None, subsample=1.0, verbose=0,
+              warm_start=False)
+Test : 0.8994214986905092 0.0014080284075653343 0.34293310712352537 0.0040111151265406104
+Train: 0.9933044008155149 9.097553673542343e-05 0.9082887618480747 0.0009432951591336788
+GradientBoostingClassifier(criterion='friedman_mse', init=None,
+              learning_rate=0.1, loss='deviance', max_depth=3,
+              max_features=None, max_leaf_nodes=None,
+              min_impurity_decrease=0.0, min_impurity_split=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=90,
+              presort='auto', random_state=None, subsample=1.0, verbose=0,
+              warm_start=False)
+Test : 0.8993602527911877 0.0013966856225175745 0.343403168796588 0.004086693885971547
+Train: 0.9942801695947091 6.88538594327466e-05 0.9205053615246397 0.0008800695179869437
+GradientBoostingClassifier(criterion='friedman_mse', init=None,
+              learning_rate=0.1, loss='deviance', max_depth=3,
+              max_features=None, max_leaf_nodes=None,
+              min_impurity_decrease=0.0, min_impurity_split=None,
+              min_samples_leaf=1, min_samples_split=2,
+              min_weight_fraction_leaf=0.0, n_estimators=100,
+              presort='auto', random_state=None, subsample=1.0, verbose=0,
+              warm_start=False)
+Test : 0.8993342945102034 0.001386768629013871 0.34246948903954566 0.003925442531455242
+Train: 0.995118526589913 6.10495942918723e-05 0.9309471176573455 0.0008170631287098157

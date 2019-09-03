@@ -4,7 +4,7 @@ import sys
 def runSVM():
     wrapper = PredictorWrapper()
     import const
-    PLIST = [i for i in xrange(1,11)]
+    PLIST = [i for i in xrange(1,2)]
     for p in PLIST:
         const.SVM_C = p
         model = MultiSVM()
@@ -12,7 +12,7 @@ def runSVM():
 
 def runRF():
     wrapper = PredictorWrapper()
-    PLIST = [10*i for i in xrange(1,11)]
+    PLIST = [10*i for i in xrange(1,2)]
     import const
 
     for p in PLIST:
@@ -22,7 +22,7 @@ def runRF():
 
 def runGB():
     wrapper = PredictorWrapper()
-    PLIST = [10*i for i in xrange(1,11)]
+    PLIST = [10*i for i in xrange(1,2)]
     import const
 
     for p in PLIST:
@@ -32,7 +32,7 @@ def runGB():
 
 def runKNN():
     wrapper = PredictorWrapper()
-    KLIST = [10*i for i in xrange(1,11)]
+    KLIST = [10*i for i in xrange(1,2)]
     import const
     for k in KLIST:
         const.KNN = k
@@ -41,7 +41,7 @@ def runKNN():
 
 def runCCA():
     wrapper = PredictorWrapper()
-    NCLIST = [10*i for i in xrange(1,11)]
+    NCLIST = [10*i for i in xrange(1,2)]
     import const
     for c in NCLIST:
         const.CCA = c
@@ -50,7 +50,7 @@ def runCCA():
 
 def runSCCA():
     wrapper = PredictorWrapper()
-    NCLIST = [10*i for i in xrange(1,11)]
+    NCLIST = [10*i for i in xrange(1,2)]
     import const
     for c in NCLIST:
         const.CCA = c
@@ -64,7 +64,7 @@ def runRandom():
 
 def runMF():
     wrapper = PredictorWrapper()
-    KLIST = [10*i for i in xrange(1,11)]
+    KLIST = [10*i for i in xrange(1,2)]
     import const
     for k in KLIST:
         const.N_FEATURE = k
@@ -74,7 +74,7 @@ def runMF():
 def runNeu():
     wrapper = PredictorWrapper()
     import const
-    PLIST = [10*i for i in xrange(1,11)]
+    PLIST = [10*i for i in xrange(1,2)]
     for p in PLIST:
         const.NeuN_H1 = p
         model = NeuNModel()
@@ -84,7 +84,7 @@ def runLR():
 
     wrapper = PredictorWrapper()
     import const
-    PLIST = [1 * i for i in xrange(1, 11)]
+    PLIST = [1 * i for i in xrange(1, 2)]
     for p in PLIST:
         const.SVM_C = p
         model = LogisticModel()
@@ -101,8 +101,8 @@ if __name__ == "__main__":
         pass
     if methodName == "KNN":
         runKNN()
-    elif methodName == "CCA":
-        runCCA()
+    # elif methodName == "CCA":
+    #     runCCA()
     elif methodName == "RF":
         runRF()
     elif methodName == "SVM":
@@ -113,10 +113,10 @@ if __name__ == "__main__":
         runNeu()
     elif methodName == "GB":
         runGB()
-    elif methodName == "SCCA":
-        runSCCA()
-    elif methodName == "MF":
-        runMF()
+    # elif methodName == "SCCA":
+    #     runSCCA()
+    # elif methodName == "MF":
+    #     runMF()
     elif methodName == "LR":
         runLR()
     else:

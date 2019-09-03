@@ -1,11 +1,12 @@
-from data import DataLoader
+from data import DataLoader,DataLoader2
 import const
 from sklearn.metrics import roc_auc_score,auc,roc_curve,average_precision_score
 import numpy as np
 class PredictorWrapper():
 
     def __init__(self,model=None):
-        self.dataLoader = DataLoader()
+        #self.dataLoader = DataLoader()
+        self.loader2 = DataLoader2()
 
     def __getMeanSE(self,ar):
         mean = np.mean(ar)
@@ -19,9 +20,8 @@ class PredictorWrapper():
         trainAucs = []
         trainAuprs = []
         for i in xrange(const.KFOLD):
-            matTrain, matTest = self.dataLoader.loadFold(i)
-            trainInp,trainOut = self.dataLoader.splitMergeMatrix(matTrain)
-            testInp, testOut = self.dataLoader.splitMergeMatrix(matTest)
+
+            trainInp,trainOut,testInp,testOut = self.loader2.loadFold(i)
             if model.isFitAndPredict:
                 if model.name == "NeuN":
                     predictedValues = model.fitAndPredict(trainInp, trainOut, testInp,testOut)
@@ -62,6 +62,7 @@ class PredictorWrapper():
         logger = MyLogger("results/logs_%s.dat"%model.name)
         #logger.infoAll(model.name)
         logger.infoAll(model.getInfo())
+        logger.infoAll((trainInp.shape,testOut.shape))
         logger.infoAll("Test : %s %s %s %s"%(meanAuc,seAuc,meanAupr,seAupr))
         logger.infoAll("Train: %s %s %s %s"%(meanTrainAUC,seTranAUC,meanTranAUPR,seTrainAUPR))
 

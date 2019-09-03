@@ -2,10 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="960e3cd2-6dee-4f83-8f0e-e8b14579f699" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cnnModel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_sk.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/logs_KNN.dat" beforeDir="false" afterPath="$PROJECT_DIR$/results/logs_KNN.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/results/logs_SVM.dat" beforeDir="false" afterPath="$PROJECT_DIR$/results/logs_SVM.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/const.py" beforeDir="false" afterPath="$PROJECT_DIR$/const.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictorWrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/predictorWrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/Result" beforeDir="false" afterPath="$PROJECT_DIR$/results/sv/Result" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/logs_CCA.dat" beforeDir="false" afterPath="$PROJECT_DIR$/results/sv/logs_CCA.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/logs_GB.dat" beforeDir="false" afterPath="$PROJECT_DIR$/results/sv/logs_GB.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/logs_KNN.dat" beforeDir="false" afterPath="$PROJECT_DIR$/results/sv/logs_KNN.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/logs_LR.dat" beforeDir="false" afterPath="$PROJECT_DIR$/results/sv/logs_LR.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/logs_MF.dat" beforeDir="false" afterPath="$PROJECT_DIR$/results/sv/logs_MF.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/logs_NeuN.dat" beforeDir="false" afterPath="$PROJECT_DIR$/results/sv/logs_NeuN.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/logs_RF.dat" beforeDir="false" afterPath="$PROJECT_DIR$/results/sv/logs_RF.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/logs_RSCCA.dat" beforeDir="false" afterPath="$PROJECT_DIR$/results/sv/logs_RSCCA.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/logs_SVM.dat" beforeDir="false" afterPath="$PROJECT_DIR$/results/sv/logs_SVM.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/runner.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,22 +27,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MethodsComparison$fc.coverage" NAME="fc Coverage Results" MODIFIED="1567481366781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MethodsComparison$cnnModel.coverage" NAME="cnnModel Coverage Results" MODIFIED="1567494390501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MethodsComparison$plotResult.coverage" NAME="plotResult Coverage Results" MODIFIED="1555467619220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/MethodsComparison$data.coverage" NAME="data Coverage Results" MODIFIED="1552983590693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MethodsComparison$runner.coverage" NAME="runner Coverage Results" MODIFIED="1563526951763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MethodsComparison$data.coverage" NAME="data Coverage Results" MODIFIED="1567496548451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="68" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1601484934">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -38,33 +56,36 @@
           <entry key="R" value="2" />
           <entry key="README" value="1" />
           <entry key="Result" value="3" />
-          <entry key="dat" value="32" />
+          <entry key="dat" value="38" />
           <entry key="eps" value="3" />
           <entry key="gitignore" value="1" />
-          <entry key="py" value="42" />
+          <entry key="info" value="1" />
+          <entry key="py" value="56" />
           <entry key="pyi" value="1" />
+          <entry key="sh" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="42" />
-          <entry key="Python" value="42" />
+          <entry key="PLAIN_TEXT" value="51" />
+          <entry key="Python" value="56" />
           <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Result" value="55" />
-          <entry key="dat" value="3" />
-          <entry key="dummy" value="7" />
+          <entry key="dat" value="4" />
+          <entry key="dummy" value="35" />
           <entry key="gitignore" value="7" />
-          <entry key="py" value="10317" />
+          <entry key="py" value="14266" />
+          <entry key="sh" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="72" />
-          <entry key="Python" value="10317" />
+          <entry key="PLAIN_TEXT" value="135" />
+          <entry key="Python" value="14266" />
         </counts>
       </usages-collector>
     </session>
@@ -72,111 +93,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/models.py">
+        <entry file="file://$PROJECT_DIR$/predictorWrapper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+            <state relative-caret-position="75">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="20" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
-                <marker date="1563526942580" expanded="true" signature="175:176" ph="..." />
-                <marker date="1563526942580" expanded="true" signature="199:296" ph="..." />
-                <marker date="1563526942580" expanded="true" signature="390:395" ph="..." />
-                <marker date="1563526942580" expanded="true" signature="531:1014" ph="..." />
-                <marker date="1563526942580" expanded="true" signature="9211:9216" ph="..." />
-                <marker date="1563526942580" expanded="true" signature="12672:13315" ph="..." />
-                <marker date="1563526942580" expanded="true" signature="13071:13084" ph="..." />
+                <element signature="e#0#39#0" expanded="true" />
+                <marker date="1565246103151" expanded="true" signature="177:183" ph="..." />
+                <marker date="1565246103151" expanded="true" signature="213:222" ph="..." />
+                <marker date="1565246103151" expanded="true" signature="213:291" ph="..." />
+                <marker date="1565246103151" expanded="true" signature="290:291" ph="..." />
+                <marker date="1565246103151" expanded="true" signature="321:421" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/results/logs_SVM.dat">
+        <entry file="file://$PROJECT_DIR$/cnnModel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="681">
-              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/results/logs_RSCCA.dat">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/results/Result">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/results/logs_LR.dat">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="84" selection-start-line="4" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/results/logs_NeuN.dat">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plotResult.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+            <state relative-caret-position="200">
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
               <folding>
-                <marker date="1555467619213" expanded="true" signature="26:567" ph="..." />
-                <marker date="1555467619213" expanded="true" signature="1596:1601" ph="..." />
+                <element signature="e#0#12#0" expanded="true" />
+                <marker date="1567494399574" expanded="true" signature="74:79" ph="..." />
+                <marker date="1567494399574" expanded="true" signature="2890:3233" ph="..." />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SCCA.R">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/predictorWrapper.py">
+        <entry file="file://$PROJECT_DIR$/data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="320">
+              <caret line="204" selection-start-line="204" selection-end-line="204" />
               <folding>
-                <element signature="e#0#27#0" expanded="true" />
-                <marker date="1553490762323" expanded="true" signature="165:171" ph="..." />
-                <marker date="1553490762323" expanded="true" signature="201:241" ph="..." />
-                <marker date="1553490762323" expanded="true" signature="240:241" ph="..." />
-                <marker date="1553490762323" expanded="true" signature="271:371" ph="..." />
+                <element signature="e#0#20#0" expanded="true" />
+                <marker date="1567496548445" expanded="true" signature="104:526" ph="..." />
+                <marker date="1567496548445" expanded="true" signature="6394:6398" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runner.py">
+        <entry file="file://$PROJECT_DIR$/const.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#45#0" expanded="true" />
-                <marker date="1562289091719" expanded="true" signature="185:190" ph="..." />
-                <marker date="1562289091719" expanded="true" signature="1035:2235" ph="..." />
-                <marker date="1562289091719" expanded="true" signature="1584:1791" ph="..." />
-                <marker date="1562289091719" expanded="true" signature="2023:2235" ph="..." />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -194,6 +159,9 @@
     <findStrings>
       <find>matmul</find>
       <find>ciso8601</find>
+      <find>RandomFo</find>
+      <find>Neu</find>
+      <find>DataLoader2</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -204,17 +172,22 @@
       <list>
         <option value="$PROJECT_DIR$/logger/logger2.py" />
         <option value="$PROJECT_DIR$/model.py" />
-        <option value="$PROJECT_DIR$/data.py" />
         <option value="$PROJECT_DIR$/logs.dat" />
-        <option value="$PROJECT_DIR$/results/logs_KNN.dat" />
         <option value="$PROJECT_DIR$/utils.py" />
-        <option value="$PROJECT_DIR$/predictorWrapper.py" />
-        <option value="$PROJECT_DIR$/const.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/plotResult.py" />
-        <option value="$PROJECT_DIR$/runner.py" />
         <option value="$PROJECT_DIR$/results/Result" />
         <option value="$PROJECT_DIR$/models.py" />
+        <option value="$PROJECT_DIR$/predictorWrapper.py" />
+        <option value="$PROJECT_DIR$/runner.py" />
+        <option value="$PROJECT_DIR$/run_sk.sh" />
+        <option value="$PROJECT_DIR$/results/logs_KNN.dat" />
+        <option value="$PROJECT_DIR$/results/logs_RF.dat" />
+        <option value="$PROJECT_DIR$/results/logs_LR.dat" />
+        <option value="$PROJECT_DIR$/fc.py" />
+        <option value="$PROJECT_DIR$/cnnModel.py" />
+        <option value="$PROJECT_DIR$/const.py" />
+        <option value="$PROJECT_DIR$/data.py" />
       </list>
     </option>
   </component>
@@ -225,10 +198,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="525" />
-    <option name="y" value="489" />
-    <option name="width" value="1520" />
-    <option name="height" value="879" />
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1853" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -236,6 +209,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -246,22 +220,51 @@
             <path>
               <item name="MethodsComparison" type="b2602c69:ProjectViewProjectNode" />
               <item name="MethodsComparison" type="462c0819:PsiDirectoryNode" />
+              <item name="LiuData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MethodsComparison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MethodsComparison" type="462c0819:PsiDirectoryNode" />
+              <item name="LiuData" type="462c0819:PsiDirectoryNode" />
+              <item name="LiuData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MethodsComparison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MethodsComparison" type="462c0819:PsiDirectoryNode" />
+              <item name="LiuData" type="462c0819:PsiDirectoryNode" />
+              <item name="LiuData" type="462c0819:PsiDirectoryNode" />
+              <item name="Liu's data orignally from authors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MethodsComparison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MethodsComparison" type="462c0819:PsiDirectoryNode" />
+              <item name="LiuData" type="462c0819:PsiDirectoryNode" />
+              <item name="LiuData" type="462c0819:PsiDirectoryNode" />
+              <item name="Liu's data orignally from authors" type="462c0819:PsiDirectoryNode" />
+              <item name="merged_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MethodsComparison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MethodsComparison" type="462c0819:PsiDirectoryNode" />
               <item name="results" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/poisson_nn_rec" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BioDataLoader2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/results/sv" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -278,7 +281,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.runner">
+  <component name="RunManager" selected="Python.data">
+    <configuration name="cnnModel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MethodsComparison" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cnnModel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MethodsComparison" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -293,6 +318,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MethodsComparison" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -349,12 +396,16 @@
       <item itemvalue="Python.data" />
       <item itemvalue="Python.runner" />
       <item itemvalue="Python.plotResult" />
+      <item itemvalue="Python.fc" />
+      <item itemvalue="Python.cnnModel" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.data" />
+        <item itemvalue="Python.cnnModel" />
+        <item itemvalue="Python.fc" />
         <item itemvalue="Python.runner" />
         <item itemvalue="Python.plotResult" />
-        <item itemvalue="Python.data" />
       </list>
     </recent_temporary>
   </component>
@@ -372,15 +423,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1175" extended-state="6" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2883232" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30879912" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295129" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23349282" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.55311006" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28648648" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5210811" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -388,12 +440,13 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33014354" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33081082" />
       <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Coverage" sideWeight="0.50076103" side_tool="true" weight="0.09764543" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.28334257" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49923897" visible="true" weight="0.078029886" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -412,14 +465,19 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/predictorWrapper.py</url>
-          <line>40</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/plotResult.py</url>
           <line>56</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fc.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cnnModel.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -463,13 +521,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/torch/nn/modules/module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="476" selection-start-line="476" selection-end-line="476" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/sklearn/metrics/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="257">
@@ -502,14 +553,14 @@
     <entry file="file://$PROJECT_DIR$/LiuData/README">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs_CCA.dat">
+    <entry file="file://$PROJECT_DIR$/results/sv/logs_CCA.dat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="64" column="11" selection-start-line="64" selection-end-line="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs_KNN.dat">
+    <entry file="file://$PROJECT_DIR$/results/sv/logs_KNN.dat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
           <caret line="166" column="15" lean-forward="true" selection-start-line="166" selection-end-line="167" />
@@ -536,14 +587,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs_RF.dat">
+    <entry file="file://$PROJECT_DIR$/results/sv/logs_RF.dat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
           <caret line="70" column="26" selection-start-line="70" selection-end-line="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs_GB.dat">
+    <entry file="file://$PROJECT_DIR$/results/sv/logs_GB.dat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1170">
           <caret line="78" column="17" selection-start-line="78" selection-end-line="79" />
@@ -560,40 +611,40 @@
     <entry file="file:///usr/local/lib/python2.7/dist-packages/ciso8601/__init__.pyi">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs_MF.dat">
+    <entry file="file://$PROJECT_DIR$/results/sv/logs_MF.dat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
           <caret line="49" column="12" selection-start-line="49" selection-end-line="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data.py">
+    <entry file="file://$PROJECT_DIR$/results/sv/logs_SVM.dat">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="83" column="40" selection-start-line="83" selection-start-column="40" selection-end-line="83" selection-end-column="40" />
+        <state relative-caret-position="1080">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/const.py">
+    <entry file="file://$PROJECT_DIR$/results/sv/logs_RSCCA.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/sv/Result">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="45">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs_LR.dat">
+    <entry file="file://$PROJECT_DIR$/results/sv/logs_LR.dat">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="84" selection-start-line="4" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SCCA.R">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs_NeuN.dat">
+    <entry file="file://$PROJECT_DIR$/results/sv/logs_NeuN.dat">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="195">
           <caret line="13" column="25" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="25" />
         </state>
       </provider>
@@ -609,20 +660,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/Result">
+    <entry file="file://$PROJECT_DIR$/SCCA.R">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="450">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs_RSCCA.dat">
+    <entry file="file://$PROJECT_DIR$/run_sk.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_svm.sh">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/logs_SVM.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="74" selection-start-line="40" selection-start-column="66" selection-end-line="40" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/logs_RF.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="74" selection-start-line="59" selection-start-column="65" selection-end-line="59" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/logs_LR.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="74" selection-start-line="40" selection-start-column="67" selection-end-line="40" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/logs_KNN.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="75" selection-start-line="22" selection-start-column="67" selection-end-line="22" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="74" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="12" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
+        <state relative-caret-position="-61">
+          <caret line="442" column="9" selection-start-line="442" selection-start-column="6" selection-end-line="442" selection-end-column="9" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
             <marker date="1563526942580" expanded="true" signature="175:176" ph="..." />
@@ -636,37 +735,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/results/logs_SVM.dat">
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/torch/nn/modules/module.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="681">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        <state relative-caret-position="204">
+          <caret line="476" selection-start-line="476" selection-end-line="476" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/runner.py">
+    <entry file="file://$PROJECT_DIR$/LiuData/LiuData/Liu's data orignally from authors/merged_data/ECFPFeature.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiuData/LiuData/Liu's data orignally from authors/merged_data/ECFPLiuData.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiuData/LiuData/Liu's data orignally from authors/merged_data/ECFP.info">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/const.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-            <marker date="1562289091719" expanded="true" signature="185:190" ph="..." />
-            <marker date="1562289091719" expanded="true" signature="1035:2235" ph="..." />
-            <marker date="1562289091719" expanded="true" signature="1584:1791" ph="..." />
-            <marker date="1562289091719" expanded="true" signature="2023:2235" ph="..." />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/predictorWrapper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="75">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="20" />
           <folding>
-            <element signature="e#0#27#0" expanded="true" />
-            <marker date="1553490762323" expanded="true" signature="165:171" ph="..." />
-            <marker date="1553490762323" expanded="true" signature="201:241" ph="..." />
-            <marker date="1553490762323" expanded="true" signature="240:241" ph="..." />
-            <marker date="1553490762323" expanded="true" signature="271:371" ph="..." />
+            <element signature="e#0#39#0" expanded="true" />
+            <marker date="1565246103151" expanded="true" signature="177:183" ph="..." />
+            <marker date="1565246103151" expanded="true" signature="213:222" ph="..." />
+            <marker date="1565246103151" expanded="true" signature="213:291" ph="..." />
+            <marker date="1565246103151" expanded="true" signature="290:291" ph="..." />
+            <marker date="1565246103151" expanded="true" signature="321:421" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnnModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <marker date="1567494399574" expanded="true" signature="74:79" ph="..." />
+            <marker date="1567494399574" expanded="true" signature="2890:3233" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="204" selection-start-line="204" selection-end-line="204" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+            <marker date="1567496548445" expanded="true" signature="104:526" ph="..." />
+            <marker date="1567496548445" expanded="true" signature="6394:6398" ph="..." />
           </folding>
         </state>
       </provider>
